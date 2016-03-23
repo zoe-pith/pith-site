@@ -28,7 +28,12 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+//// Background Canvas
+.background-canvas {
+  position: absolute;
+  left: 0; top: 0; width: 100%; height: 100%;
+  z-index: -1;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
