@@ -20,26 +20,20 @@
       canvas.lineWidth = 1;
       canvas.strokeStyle = '#000000';
 
-      var horizontalLineCount = 15;
-      var verticalLineCount = 20;
-      var distanceBetweenVerticalLines = canvas.width / verticalLineCount;
-      var distanceBetweenHorizontalLines = canvas.height / horizontalLineCount;
+      var distanceBetweenVerticalLines = 60;
+      var distanceBetweenHorizontalLines = 60;
 
-      for (var y = 0; y < horizontalLineCount; y++) {
-        var yd = y * distanceBetweenHorizontalLines;
-
+      for (var y = 0; y < window.innerHeight; y += distanceBetweenHorizontalLines) {
         context.beginPath();
-        context.moveTo(0, yd);
-        context.lineTo(canvas.width, yd);
+        context.moveTo(0, y);
+        context.lineTo(canvas.width, y);
         context.stroke();
       }
 
-      for (var x = 0; x < verticalLineCount; x++) {
-        var xd = x * distanceBetweenVerticalLines;
-
+      for (var x = 0; x < window.innerWidth; x += distanceBetweenVerticalLines) {
         context.beginPath();
-        context.moveTo(xd, 0);
-        context.lineTo(xd, canvas.height);
+        context.moveTo(x, 0);
+        context.lineTo(x, canvas.height);
         context.stroke();
       }
 
