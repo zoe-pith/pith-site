@@ -5,18 +5,14 @@ permalink: /events/
 weight: 2
 ---
 
-<div class="home">
+<div class="events">
 
-  <h1 class="page-heading">Events</h1>
-
-  <ul class="post-list">
-    {% for post in site.categories.event %}
+  <ul class="event-list">
+    {% for event in site.categories.event %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <div class="event-title">{{ event.title }}</div>
+        <span class="event-date">{{ event.date | date: "%b %-d, %Y" }}</span>
+        <div class="event-content">{{ event.content }}</div>
       </li>
     {% endfor %}
   </ul>
