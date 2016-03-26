@@ -5,7 +5,7 @@ email: kevin.e.roark@gmail.com
 description: >
   Pith restaurant NYC
 permalink: none
-baseurl: ""
+baseurl: "/pith-site"
 url: "http://www.pith.space"
 twitter_username: limp__biscuit
 github_username: kevin-roark
