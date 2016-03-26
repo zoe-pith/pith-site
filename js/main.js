@@ -53,7 +53,7 @@
 
   function addBackgroundImages() {
     var images = [
-      '/media/turnips.jpg', '/media/onions.jpg', '/media/dill.jpg',
+      'media/turnips.jpg', 'media/onions.jpg', 'media/dill.jpg',
       'https://i.giphy.com/Ff2LmUUzZQAeY.gif', 'https://media.giphy.com/media/xTiTnvq121tWJMN8gE/giphy.gif'
     ];
     var maxHeight = document.body.scrollHeight - 500;
