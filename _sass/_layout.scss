@@ -185,9 +185,25 @@
 /**
  * Home
  */
+ @keyframes rainbow-shadow {
+   0%     { text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.95); }
+   12%    { text-shadow: 4px 4px 0px rgba(255, 0, 0, 0.95); }
+   25%    { text-shadow: 4px 4px 0px rgba(255, 0, 255, 0.95); }
+   37%    { text-shadow: 4px 4px 0px rgba(0, 0, 255, 0.95); }
+   50%    { text-shadow: 4px 4px 0px rgba(0, 255, 255, 0.95); }
+   62%    { text-shadow: 4px 4px 0px rgba(0, 255, 0, 0.95); }
+   75%    { text-shadow: 4px 4px 0px rgba(255, 255, 0, 0.95); }
+   87%    { text-shadow: 4px 4px 0px rgba(255, 255, 255, 0.95); }
+   100%   { text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.95); }
+ }
+
 .home-site-title {
-  margin-top: -60px;
-  font-size: 164px;
+  margin-top: -80px;
+  font-size: 200px;
+
+  animation-duration: 4s;
+  animation-name: rainbow-shadow;
+  animation-iteration-count: infinite;
 }
 
 
