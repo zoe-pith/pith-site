@@ -52,15 +52,15 @@
   }
 
   function addBackgroundImages() {
-    var images = ['/media/turnips.jpg'];
+    var images = ['/media/turnips.jpg', '/media/onions.jpg', '/media/dill.jpg', 'https://i.giphy.com/Ff2LmUUzZQAeY.gif'];
     var maxHeight = document.body.scrollHeight - 500;
 
-    for (var i = 0; i < 4; i++) {
+    for (var i = 0; i < 7; i++) {
       var img = document.createElement('img');
       img.className = 'background-image';
       img.src = images[Math.floor(images.length * Math.random())];
 
-      var width = Math.random() * 200 + 150;
+      var width = Math.random() * 200 + 100;
       img.style.width = width + 'px';
       img.style.left = (Math.random() * (window.innerWidth - width - 40) + 20) + 'px';
 
