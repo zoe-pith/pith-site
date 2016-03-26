@@ -20,7 +20,6 @@
     function drawGrid() {
       context.lineWidth = 2;
       context.strokeStyle = 'black';
-      context.fillStyle = 'black';
 
       var distanceBetweenVerticalLines = 40;
       var distanceBetweenHorizontalLines = 40;
@@ -41,8 +40,11 @@
         context.stroke();
       }
 
-      var numberToFill = Math.floor(Math.random() * 15) + 8;
+      var numberToFill = Math.floor(Math.random() * 20) + 15;
+      var fillChoices = ['black', 'rgb(255, 0, 0)', 'rgb(0, 255, 0)', 'rgb(0, 0, 255)'];
       for (var i = 0; i < numberToFill; i++) {
+        context.fillStyle = fillChoices[Math.floor(fillChoices.length * Math.random())];
+
         var rx = Math.floor(Math.random() * Math.floor(maxX / distanceBetweenVerticalLines)) * distanceBetweenVerticalLines;
         var ry = Math.floor(Math.random() * Math.floor(maxY / distanceBetweenHorizontalLines)) * distanceBetweenHorizontalLines;
         var length = distanceBetweenVerticalLines * Math.floor(Math.random() * 3);
