@@ -9,7 +9,7 @@
       <a href="#" class="menu-icon"></a>
 
       <div class="trigger">
-        <a class="page-link{% if '/' == page.url %} active-page-link{% endif %}" href="/{{ site.baseurl }}">Home</a>
+        <a class="page-link{% if '/' == page.url %} active-page-link{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
         {% assign pages = site.pages | sort:"weight" %}
         {% for my_page in pages %}
