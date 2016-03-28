@@ -5,27 +5,10 @@ permalink: /contact/
 weight: 10
 ---
 
-Email: asdfasdf
-Facebook: asdfasdf
-asdfasdf
-asdfasdf
+**Television, art, media, modeling**: [StubblefieldM@unitedtalent.com](mailto:StubblefieldM@unitedtalent.com), [BoloukiN@unitedtalent.com](mailto:BoloukiN@unitedtalent.com)
 
-Email: asdfasdf
-Facebook: asdfasdf
-asdfasdf
-asdfasdf
+**Brand partnerships**: [EarlyS@unitedtalent.com](mailto:EarlyS@unitedtalent.com), [GayosoK@unitedtalent.com](mailto:GayosoK@unitedtalent.com)
 
-Email: asdfasdf
-Facebook: asdfasdf
-asdfasdf
-asdfasdf
+**Speaking, consulting**: [enquiries@londonspeakersbureau.com](mailto:enquiries@londonspeakersbureau.com), [harrie@londonspeakerbureau.my](mailto:harrie@londonspeakerbureau.my)
 
-Email: asdfasdf
-Facebook: asdfasdf
-asdfasdf
-asdfasdf
-
-Email: asdfasdf
-Facebook: asdfasdf
-asdfasdf
-asdfasdf
+**Legal representation**: Frankfurt Kurnit Klein + Selz, [psarker@fkks.com](mailto:psarker@fkks.com)
