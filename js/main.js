@@ -15,6 +15,9 @@
     var splash = document.querySelector('.home-splash');
     setTimeout(function() {
       splash.style.opacity = 0;
+      setTimeout(function() {
+        splash.parentNode.removeChild(splash);
+      }, 1000);
     }, 1250);
   }
 
