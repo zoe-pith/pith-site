@@ -8,7 +8,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 * pretty vertical movement of three vertical turnip bars
 * refreshed contact page with email links and instagram
 * most recent menu link on about page
-* logo on white background centered as splash page for a second or two that fades to menu
 * horizontal menu on computer, vertical menu on phone
 * on computer, menu only appears when you have recently moused
 
