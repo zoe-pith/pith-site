@@ -218,6 +218,34 @@
   max-width: 100%;
 }
 
+/**
+ * Turnip
+ */
+.turnip-container {
+  position: fixed;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+
+  width: 1994px;
+  @media screen and (max-width: 1994px) {
+    width: 100%;
+  }
+}
+.turnip-image {
+  display: inline-block;
+  float: left;
+}
+.left-turnip-image {
+  width: 30%;
+}
+.center-turnip-image {
+  width: 30%;
+}
+.right-turnip-image {
+  width: 40%;
+}
+
 
 /**
  * Page content
