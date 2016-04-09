@@ -29,11 +29,16 @@
 
     .home-page-link {
       text-decoration: none;
+
+      :hover {
+        transform: scale(1.2);
+      }
     }
     .home-page-link img {
       width: 200px;
       margin-right: 5px;
       margin-bottom: 5px;
+      transition: transform 500ms;
     }
 
     .page-link {
