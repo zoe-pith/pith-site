@@ -22,7 +22,6 @@
 }
 
 .site-nav {
-    float: left;
     min-height: 56px;
     line-height: 56px;
     margin: 5px;
@@ -78,77 +77,6 @@
       }
     }
 }
-
-
-
-/**
- * Site footer
- */
-.site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
 
 /**
  * Home
@@ -207,12 +135,27 @@
   width: 40%;
 }
 
+/**
+ * Content
+ */
+.content-wrapper {
+  float: right;
+  margin: 20px;
+  max-width: 600px;
+  min-width: 300px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  background-color: rgba(255, 255, 255, 0.05);
+
+  @include media-query($on-palm) {
+    max-width: 300px;
+  }
+}
 
 /**
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+  padding: $spacing-unit 0;
 }
 
 .page-heading {
@@ -279,10 +222,9 @@
  * Posts
  */
 .post {
-  background-color: white;
-  padding: 8px;
-  border-radius: 2px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  a {
+    color: inherit;
+  }
 }
 
 .post-header {
@@ -304,7 +246,8 @@
     font-size: 22px;
 
     h2 {
-        font-size: 32px;
+        font-size: 36px;
+        margin-bottom: 8px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
