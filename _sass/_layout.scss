@@ -127,16 +127,21 @@
   }
 }
 .turnip-image {
-  display: inline-block;
-  float: left;
+  position: absolute;
+  top: 0;
+
+  transition: all 8s;
 }
 .left-turnip-image {
+  left: 0;
   width: 30%;
 }
 .center-turnip-image {
+  left: 30%;
   width: 30%;
 }
 .right-turnip-image {
+  left: 60%;
   width: 40%;
 }
 

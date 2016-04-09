@@ -5,7 +5,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 ## Todo
 
 * sizzle on link hover
-* pretty vertical movement of three vertical turnip bars
 * figure out event page
 * most recent menu link on about page
 * set up google analytics
