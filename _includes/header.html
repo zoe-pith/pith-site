@@ -7,7 +7,7 @@
   {% assign pages = site.pages | sort:"weight" %}
   {% for my_page in pages %}
     {% if my_page.title %}
-      <a class="page-link{% if my_page.url == page.url %} active-page-link {% endif %} page-link-{{ forloop.index }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <a class="page-link{% if my_page.url == page.url %} active-page-link {% endif %} page-link-{{ forloop.index }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title | upcase }}</a>
     {% endif %}
   {% endfor %}
 </nav>
