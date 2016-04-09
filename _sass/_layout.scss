@@ -143,8 +143,12 @@
 /**
  * Content
  */
+.content-container {
+  text-align: center;
+  width: 100%;
+}
 .content-wrapper {
-  float: right;
+  display: inline-block;
   margin: 20px;
   max-width: 600px;
   min-width: 300px;
@@ -152,7 +156,8 @@
   background-color: rgba(255, 255, 255, 0.05);
 
   @include media-query($on-palm) {
-    max-width: 300px;
+    margin: 20px 0px;
+    max-width: 100%;
   }
 }
 
