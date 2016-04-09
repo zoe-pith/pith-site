@@ -9,8 +9,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 * refreshed contact page with email links and instagram
 * figure out event page
 * most recent menu link on about page
-* horizontal menu on computer, vertical menu on phone
-* on computer, menu only appears when you have recently moused
 * set up google analytics
 
 
