@@ -4,7 +4,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
 ## Todo
 
-* sizzle on link hover
 * figure out event page
 * most recent menu link on about page
 * set up google analytics
