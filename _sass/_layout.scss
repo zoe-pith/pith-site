@@ -118,6 +118,7 @@
   z-index: -1;
 
   width: 1994px;
+  height: 100%;
   @media screen and (max-width: 1994px) {
     width: 100%;
   }
@@ -125,6 +126,8 @@
 .turnip-image {
   position: absolute;
   top: 0;
+  height: 100%;
+  object-fit: cover;
 
   transition: all 8s;
 }
