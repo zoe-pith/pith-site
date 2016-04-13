@@ -5,10 +5,10 @@ permalink: /contact/
 weight: 10
 ---
 
-## Instagram
-@pithnyc
+<h2 class="pith-orange">Instagram</h2>
+[@pithnyc](http://www.instagram.com/pithnyc)
 
-## Email
+<h2 class="pith-orange">Email</h2>
 [Personal](mailto:jonahreider@gmail.com)  
 [Entertainment](mailto:StubblefieldM@unitedtalent.com)  
 [Brand Partnerships](mailto:EarlyS@unitedtalent.com)  
