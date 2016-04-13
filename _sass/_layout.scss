@@ -61,19 +61,22 @@
 
     @include media-query($on-palm) {
       text-align: left;
+      margin-bottom: 5px;
 
+      .home-page-link {
+        display: block;
+      }
       .home-page-link img {
         width: 150px;
+        margin-bottom: 0;
       }
 
       .page-link {
-        display: block;
         line-height: 1;
         margin-left: 15px;
 
         &:not(:last-child) {
           margin-right: 0;
-          margin-bottom: 12px;
         }
       }
     }
@@ -161,7 +164,7 @@
   background-color: rgb(255, 255, 255);
 
   @include media-query($on-palm) {
-    margin: 20px 0px;
+    margin: 5px 10px;
     max-width: 100%;
   }
 }
