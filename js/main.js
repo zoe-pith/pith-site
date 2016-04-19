@@ -81,9 +81,9 @@
 
   function turnips() {
     var transitionTime = 8000;
-    var leftTurnip = document.querySelector('.left-turnip-image');
-    var centerTurnip = document.querySelector('.center-turnip-image');
-    var rightTurnip = document.querySelector('.right-turnip-image');
+    var leftTurnip = document.querySelector('.left-turnip-image-zone');
+    var centerTurnip = document.querySelector('.center-turnip-image-zone');
+    var rightTurnip = document.querySelector('.right-turnip-image-zone');
 
     setTimeout(function() {
       moveTurnip(leftTurnip);
@@ -100,7 +100,7 @@
         turnip._currentTop = 0;
       }
       if (!turnip._height) {
-        turnip._height = turnip.getBoundingClientRect().height;
+        turnip._height = turnip.getBoundingClientRect().height / 3;
       }
 
       var nextTop = -turnip._height * 0.25 + Math.random() * turnip._height * 0.3;
