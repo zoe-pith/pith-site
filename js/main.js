@@ -115,7 +115,7 @@
       setTimeout(function() {
         splash.parentNode.removeChild(splash);
       }, 1000);
-    }, 1250);
+    }, 2500);
   }
 
 })();
