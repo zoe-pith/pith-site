@@ -96,6 +96,8 @@
     }, 6000);
 
     function moveTurnip(turnip) {
+      if (!turnip) return;
+
       if (!turnip._currentTop) {
         turnip._currentTop = 0;
       }

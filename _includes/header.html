@@ -18,14 +18,24 @@
     <img class="turnip-image left-turnip-image" src="{{ site.baseurl }}/media/turnip_left.jpg" alt="Left Turnip" />
     <img class="turnip-image left-turnip-image" src="{{ site.baseurl }}/media/turnip_left.jpg" alt="Left Turnip" />
   </div>
-  <div class="turnip-image-zone center-turnip-image-zone">
-    <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
-    <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
-    <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
-  </div>
-  <div class="turnip-image-zone right-turnip-image-zone">
-    <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
-    <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
-    <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
-  </div>
+
+  {% if page.url == "/" %}
+    <div class="turnip-image-zone center-turnip-image-zone">
+      <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
+      <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
+      <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
+    </div>
+    <div class="turnip-image-zone right-turnip-image-zone">
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+    </div>
+  {% else %}
+    <div class="turnip-image-zone big-right-turnip-image-zone">
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
+    </div>
+  {% endif %}
+
 </div>
