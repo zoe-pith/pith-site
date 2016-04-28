@@ -7,19 +7,20 @@ weight: 1
 
 ## About
 
-Jonah Reider is a cook, event curator, and entrepreneur based in New York. While in his dormitory at Columbia University, Jonah opened the acclaimed Pith supper club. Since then, Jonah has sought to integrate his vision for improvisational, intimate, and social dining into a variety of stimulating artistic, musical, and gustatory experiences.
+Creating and consuming food is profoundly cathartic and connecting. Pith is a supper club, a brand of events, and most basically an attempt to integrate dining into the realms of art, music, and design.
 
-Jonah is additionally developing a web series, a line of cannabis-infused cooking products, and is currently in innovator-in-residence at M Booth and in residence as the curator of Front Art Space in Manhattan.
+Jonah Reider is a cook, event curator, and entrepreneur based in New York. He started Pith while in his dorm at Columbia University. Beyond Pith events and supper club, Jonah is developing various video content, a line of cannabis-infused cooking products, and is currently in residence as the curator and performance artist at [Front Art Space](http://www.frontartspace.com/).
+
+## Menu
+
+The menu at Pith changes depending on seasonal availability of ingredients and the specific needs of the meal or event.
+[View example menus and dishes here](http://www.google.com/?q=pith+menu).
 
 ## Accolades
 
-"_Impossible to stop eating…_" - Ruth Reichl  
-"_Fantastic, delicious, unexpected_" - Stephen Colbert  
-"_A coveted reservation_" – Wall Street Journal  
-"_Gaunt, with long lashes... perfectly seared steak_" - The New Yorker  
-"_Reider is a dead ringer for Linguini from Ratatouille_" – Gothamist  
-"_The hottest table in town_" - New York Post  
-
-## Links
-
-[View Pith's latest menu](http://www.google.com/?q=pith+menu)
+"_Impossible to stop eating…_" - [Ruth Reichl](http://ruthreichl.com/2016/04/a-pithy-meal.html/)  
+"_Fantastic, delicious, unexpected_" - [Stephen Colbert](https://www.youtube.com/watch?v=61fjFhCBnRc)  
+"_A coveted reservation_" – [Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
+"_Gaunt, with long lashes... perfectly seared steak_" - [The New Yorker](http://www.newyorker.com/magazine/2015/10/26/supper-club)  
+"_Reider is a dead ringer for Linguini from Ratatouille_" – [Gothamist](http://gothamist.com/2016/01/30/there_is_a_900-person_waiting_list.php)  
+"_The hottest table in town_" - [New York Post](http://nypost.com/2015/10/07/the-hottest-table-in-town-is-in-a-columbia-university-dorm/)  
