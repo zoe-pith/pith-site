@@ -16,7 +16,7 @@ weight: 2
     {% for event in site.categories.event %}
       <li>
         <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
-        <span class="event-date">{{ event.date | date: "%b %-d, %Y" }}</span>
+        <div class="event-date">{{ event.date | date: "%b %-d, %Y" }}</div>
         <div class="event-content">{{ event.excerpt }}</div>
       </li>
     {% endfor %}

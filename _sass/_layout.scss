@@ -126,19 +126,23 @@
  */
 .turnip-container {
   position: fixed;
-  left: 50%; top: 0;
-  transform: translate(-50%, 0px);
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
 
-  width: 1994px;
-  min-height: 100%;
-  @media screen and (max-width: 1994px) {
+  @media screen and (max-width: 1439px) {
     width: 100%;
+    height: 100%;
+  }
+  @media screen and (min-width: 1440px) {
+    width: 1440px; height: 1440px;
+    max-width: 100%; max-height: 100%;
   }
 }
 .turnip-image-zone {
   position: absolute;
-  top: 0; min-height: 100%;
-  margin-top: -600px;
+  top: 0; min-height: 1440px;
+  margin-top: -400px;
   z-index: -1;
 
   transition: all 8s;
@@ -158,11 +162,9 @@
 .big-right-turnip-image-zone {
   left: 29.9%;
   width: 70.1%;
-  top: -27%;
 }
 .turnip-image {
-  display: block;
-  width: 100%; height: 100%;
+  width: 100%; min-height: 1440px;
   object-fit: cover;
 
   transition: all 8s;
@@ -175,8 +177,12 @@
   z-index: 1;
   position: absolute;
   left: 30%; top: 80px;
-  width: 70%; max-height: 100%;
+  width: 70%; height: 100%;
   overflow-y: scroll;
+
+  @media screen and (min-height: 1440px) {
+    height: 1320px;
+  }
 
   @include media-query($on-palm) {
     left: 0;
@@ -247,9 +253,8 @@
 }
 
 .event-date {
-  position: absolute;
-  top: 18px; right: 5px;
-  font-size: 14px;
+  margin-top: -5px;
+  font-size: 12px;
   color: $grey-color;
 }
 
@@ -261,7 +266,7 @@
 }
 
 .event-content {
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 18px;
 }
 
