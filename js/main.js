@@ -9,7 +9,6 @@
     menuIsVisible: false
   };
 
-  menuMouseEvents();
   turnips();
 
   // no audio for now :)
@@ -17,7 +16,13 @@
 
   switch (window.location.pathname) {
     case '/pith-site/':
-      home();
+      home(function() {
+        menuMouseEvents();
+      });
+      break;
+
+    default:
+      menuMouseEvents();
       break;
   }
 
@@ -120,12 +125,13 @@
     return window.location.origin + '/pith-site' + path;
   }
 
-  function home() {
+  function home(callback) {
     var splash = document.querySelector('.home-splash');
     setTimeout(function() {
       splash.style.opacity = 0;
       setTimeout(function() {
         splash.parentNode.removeChild(splash);
+        if (callback) callback();
       }, 1000);
     }, 2500);
   }

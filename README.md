@@ -7,8 +7,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 * set up google analytics
 * Add a section in about called Menu or Food that says "The menu at Pith changes depending on seasonal availability of ingredients and the specific needs of the meal or event. For example menus and dishes, click here." something like that
 which could open a photo gallery of sorts, of past menus as well as photos of dishes
-* not having the images tile? and instead be stretched vertically
-but we dont' ever see the whole image top to bottom since it slides up and down, hidden by either the border of the web browser or by a blue border when the window becomes too large
 * mobile looks weird
 * fix menu when content slides up on you
 * add pictures to events from zoe's dropbox email
