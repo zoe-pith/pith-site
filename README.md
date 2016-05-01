@@ -9,7 +9,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 which could open a photo gallery of sorts, of past menus as well as photos of dishes
 * not having the images tile? and instead be stretched vertically
 but we dont' ever see the whole image top to bottom since it slides up and down, hidden by either the border of the web browser or by a blue border when the window becomes too large
-* more fluid navigation by faking pre-caching stuff???
 * mobile looks weird
 * fill out events and add pictures from zoe's dropbox email
 
