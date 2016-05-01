@@ -10,7 +10,8 @@ which could open a photo gallery of sorts, of past menus as well as photos of di
 * not having the images tile? and instead be stretched vertically
 but we dont' ever see the whole image top to bottom since it slides up and down, hidden by either the border of the web browser or by a blue border when the window becomes too large
 * mobile looks weird
-* fill out events and add pictures from zoe's dropbox email
+* fix menu when content slides up on you
+* add pictures to events from zoe's dropbox email
 
 ## Raw notes from Jonah
 
