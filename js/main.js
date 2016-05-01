@@ -12,7 +12,8 @@
   menuMouseEvents();
   turnips();
 
-  setTimeout(audio, 500); // delay so that initial load of page doesn't result in sound, ya?
+  // no audio for now :)
+  //setTimeout(audio, 500); // delay so that initial load of page doesn't result in sound, ya?
 
   switch (window.location.pathname) {
     case '/pith-site/':

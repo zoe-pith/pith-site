@@ -5,10 +5,14 @@ permalink: /contact/
 weight: 10
 ---
 
-<h2 class="pith-orange">Instagram</h2>
+## Bio
+
+Jonah Reider is a cook, event curator, and entrepreneur based in New York. He started Pith while in his dorm at Columbia University. Beyond Pith events and supper club, Jonah is developing various video content, a line of cannabis-infused cooking products, and is currently in residence as the curator and performance artist at [Front Art Space](http://www.frontartspace.com/).
+
+## Instagram
 [@pithnyc](http://www.instagram.com/pithnyc)
 
-<h2 class="pith-orange">Email</h2>
+## Email
 [Management](mailto:zoe@pith.space)  
 [Entertainment Inquiries](mailto:StubblefieldM@unitedtalent.com)  
 [Brand Partnerships](mailto:EarlyS@unitedtalent.com)  
