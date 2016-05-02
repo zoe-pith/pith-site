@@ -112,7 +112,7 @@
         turnip._height = turnip.getBoundingClientRect().height / 3;
       }
 
-      var nextTop = -turnip._height * 0.25 + Math.random() * turnip._height * 0.3;
+      var nextTop = -300 + Math.random() * 500;
 
       turnip.style.transform = 'translateY(' + nextTop + 'px)';
 
