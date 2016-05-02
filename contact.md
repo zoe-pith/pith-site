@@ -17,3 +17,7 @@ Jonah Reider is a cook, event curator, and entrepreneur based in New York. He st
 [Entertainment Inquiries](mailto:StubblefieldM@unitedtalent.com)  
 [Brand Partnerships](mailto:EarlyS@unitedtalent.com)  
 [Speaking Engagements](mailto:enquiries@londonspeakersbureau.com)  
+
+## Newsletter
+
+[Sign up to receive Pith updates](http://eepurl.com/bZ8dIf)
