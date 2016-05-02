@@ -12,7 +12,7 @@ Creating and consuming food is profoundly cathartic and connecting. Pith is a su
 ## Menu
 
 The menu at Pith changes depending on seasonal availability of ingredients and the specific needs of the meal or event.
-[Click here to see sample menus, dishes, and more](http://www.google.com/?q=pith+menu).
+[Click here to see sample menus, dishes, and more]({{ site.baseurl }}/samples/).
 
 ## Accolades
 

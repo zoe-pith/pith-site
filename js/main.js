@@ -10,6 +10,7 @@
   };
 
   turnips();
+  imageGallery();
 
   // no audio for now :)
   //setTimeout(audio, 500); // delay so that initial load of page doesn't result in sound, ya?
@@ -118,6 +119,119 @@
       setTimeout(function() {
         moveTurnip(turnip);
       }, transitionTime + Math.random() * 3000 + 3000);
+    }
+  }
+
+  function imageGallery() {
+    var i, activeGalleryState;
+    var images = document.querySelectorAll('.content-wrapper img');
+
+    var rects = [];
+    for (i = 0; i < images.length; i++) {
+      rects.push(images[i].getBoundingClientRect());
+    }
+
+    for (i = 0; i < images.length; i++) {
+      styleImage(i);
+      setupClickHandler(i);
+    }
+
+    window.addEventListener('keyup', function(ev) {
+      switch (ev.which) {
+        case 39: // right
+          moveGallery('right');
+          break;
+
+        case 37: // left
+          moveGallery('left');
+          break;
+
+        case 27: // escape
+          hideGallery();
+          break;
+      }
+    });
+
+    function styleImage(i) {
+      var img = images[i];
+      img.style.cursor = 'pointer';
+
+      var spaceToSpare = window.innerWidth > 600 ? (window.innerWidth * 0.65 - rects[i].width) - 20 : 10;
+      var maxMargin = Math.max(10, Math.min(225, spaceToSpare));
+      img.style.marginLeft = (Math.random() * maxMargin - Math.min(maxMargin, 20)) + 'px';
+
+      img.style.marginTop = (Math.random() * 30 + 25) + 'px';
+    }
+
+    function setupClickHandler(i) {
+      images[i].onclick = function() {
+        showGalleryWithIndex(i);
+      };
+    }
+
+    function showGalleryWithIndex(i) {
+      if (activeGalleryState) return;
+
+      var gallery = createGallery();
+      document.body.appendChild(gallery);
+
+      var img = document.createElement('img');
+      img.src = images[i].src;
+      gallery.appendChild(img);
+
+      activeGalleryState = {container: gallery, img: img, idx: i};
+    }
+
+    function createGallery() {
+      var gallery = document.createElement('div');
+      gallery.className = 'image-gallery-container';
+
+      var closeButton = document.createElement('div');
+      closeButton.className = 'image-gallery-close-button';
+      closeButton.textContent = 'CLOSE';
+      closeButton.onclick = function() {
+        hideGallery();
+      };
+      gallery.appendChild(closeButton);
+
+      var nextButton = document.createElement('div');
+      nextButton.className = 'image-gallery-next-button';
+      nextButton.textContent = 'NEXT';
+      nextButton.onclick = function() {
+        moveGallery('right');
+      };
+      gallery.appendChild(nextButton);
+
+      var prevButton = document.createElement('div');
+      prevButton.className = 'image-gallery-prev-button';
+      prevButton.textContent = 'LEFT';
+      prevButton.onclick = function() {
+        moveGallery('PREV');
+      };
+      gallery.appendChild(prevButton);
+
+      return gallery;
+    }
+
+    function moveGallery(direction) {
+      if (!activeGalleryState) return;
+
+      if (direction === 'left') {
+        activeGalleryState.idx = activeGalleryState.idx === 0 ? images.length - 1 : activeGalleryState.idx - 1;
+      }
+      else {
+        activeGalleryState.idx = activeGalleryState.idx === images.length - 1 ? 0 : activeGalleryState.idx + 1;
+      }
+
+      activeGalleryState.img.src = images[activeGalleryState.idx].src;
+    }
+
+    function hideGallery() {
+      if (!activeGalleryState) return;
+
+      activeGalleryState.container.parentNode.removeChild(activeGalleryState.container);
+
+      activeGalleryState = null;
     }
   }
 
