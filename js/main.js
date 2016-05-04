@@ -189,6 +189,14 @@
       img.src = images[i].src;
       gallery.appendChild(img);
 
+      var hammertime = new window.Hammer(img, {});
+      hammertime.on('swipe', function(ev) {
+        if (Math.abs(ev.deltaX) < 25) return;
+
+        var direction = ev.deltaX > 0 ? 'left' : 'right';
+        moveGallery(direction);
+      });
+
       activeGalleryState = {container: gallery, img: img, idx: i};
     }
 
