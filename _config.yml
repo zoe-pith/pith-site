@@ -3,9 +3,10 @@
 title: Pith
 email: kevin.e.roark@gmail.com
 description: >
-  Pith restaurant NYC
+  Pith Supper Club NYC
 permalink: none
 baseurl: "/pith-site"
+future: true
 url: "http://www.pith.space"
 twitter_username: limp__biscuit
 github_username: kevin-roark
