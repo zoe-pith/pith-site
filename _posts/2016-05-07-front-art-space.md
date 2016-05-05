@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upcoming: Artist Series with Front Art Space"
-categories: event
+categories: events
 ---
 
 Pith pops up at Front Art Space for the entire month of May. Jonah will intimately and interactively cook and

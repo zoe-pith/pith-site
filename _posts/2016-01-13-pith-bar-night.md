@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pith Bar Night"
-categories: event
+categories: events
 ---
 
 Pith runs a bimonthly bar night with live jazz and DJs at a literary society in upper Manhattan.
