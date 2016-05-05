@@ -5,6 +5,19 @@
 
   <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="Pith, Jonah Reider, supper club">
+
+  <meta property="og:title" content="Second Round Square Solo" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="http://pith.space/media/pith_logo_transparent.png" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:url" content="http://www.pith.space{{ page.url }}" />
+
+  <meta property="fb:admins" content="100000919641751" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@LIMP__BISCUIT" />
+  <meta name="twitter:creator" content="@LIMP__BISCUIT" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/media/favicon.png?v=1.0">

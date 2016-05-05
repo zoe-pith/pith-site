@@ -3,7 +3,7 @@
 title: Pith
 email: kevin.e.roark@gmail.com
 description: >
-  Pith Supper Club NYC
+  Pith is Jonah Reider's NYC supper club and brand of events
 permalink: /:categories/:title
 baseurl: ""
 future: true
