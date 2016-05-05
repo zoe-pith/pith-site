@@ -362,6 +362,10 @@ body {
 .event-content {
   margin-top: 5px;
   font-size: 18px;
+
+  a {
+    text-decoration: underline;
+  }
 }
 
 /**
@@ -370,6 +374,12 @@ body {
 .post {
   a {
     color: inherit;
+  }
+}
+
+.post-body {
+  a {
+    text-decoration: underline;
   }
 }
 

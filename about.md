@@ -27,3 +27,5 @@ The menu at Pith depends highly on seasonal availability of ingredients, and on 
 "_Gaunt, with long lashes... perfectly seared steak_" - [The New Yorker](http://www.newyorker.com/magazine/2015/10/26/supper-club)
 
 "_Reider is a dead ringer for Linguini from Ratatouille_" – [Gothamist](http://gothamist.com/2016/01/30/there_is_a_900-person_waiting_list.php)
+
+"_Reider is mesmerizing to watch at work_" - [Food and Wine](http://www.foodandwine.com/fwx/food/how-smoke-marijuana)

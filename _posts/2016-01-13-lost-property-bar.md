@@ -4,7 +4,7 @@ title:  "Lost Property Bar"
 categories: event
 ---
 
-In mid January, I curated and executed a two-day Pith popup at Lost Property Bar in L.A. The event featured
-innovative seasonal snacks as well as a special cocktail menu created by Lost Property’s Jeremy Lake. Guests
-enjoyed live music (excellent jazz musicians I selected) while ordering off a menu including snacks like crisped
-spätzle with maitake, smoked roe, cured yolk, shallot, and date.
+Pith popped for two days at Lost Property Bar in Los Angeles. Curated live jazz and soul music.
+<em>Cocktails created alongside celebrated mixologist Jeremy Lake. Crisped spätzle with maitake, bottarga, cured
+yolk, shallot, and date. Uni toast with carrot and sichuan peppercorn. Braised short rib sliders with caraway and
+smoked paprika french fries</em>.
