@@ -16,7 +16,7 @@
   //setTimeout(audio, 500); // delay so that initial load of page doesn't result in sound, ya?
 
   switch (window.location.pathname) {
-    case '/pith-site/':
+    case '/':
       home(function() {
         menuMouseEvents();
       });
@@ -254,7 +254,7 @@
   }
 
   function originify(path) {
-    return window.location.origin + '/pith-site' + path;
+    return window.location.origin + path;
   }
 
   function home(callback) {
