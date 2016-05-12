@@ -7,7 +7,7 @@ weight: 10
 
 ## Bio
 
-Jonah Reider is a cook, event curator, and entrepreneur based in New York. He started Pith while in his dorm at Columbia University. Beyond Pith events and supper club, Jonah is developing various video content, a line of cannabis-infused cooking products, and is currently in residence as the curator and performance artist at [Front Art Space](http://www.frontartspace.com/).
+Jonah Reider is a cook, event curator, and entrepreneur based in New York. He started Pith while in his dorm at Columbia University. Beyond Pith events and supper club, Jonah is developing various video content, a line of cannabis-infused cooking products, and is currently in residence as the curator and performance artist at [Front Art Space](http://www.frontartspace.com/). Most recently, Jonah was featured in The New York Times 30 Under 30, a series of profiles of young people who are experimenting in new forms of work, play, community and creation.
 
 ## Instagram
 [@pithnyc](http://www.instagram.com/pithnyc)
