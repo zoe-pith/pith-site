@@ -4,7 +4,6 @@ liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
 ## Todo
 
-* set up google analytics
 * add pictures to events once they are available
 
 ## Turnip Math
