@@ -8,7 +8,7 @@ published: true
 
 ## About
 
-Creating and consuming food is profoundly cathartic and connecting. Pith is a supper club, a brand of events, and most basically an attempt to integrate dining into the realms of art, music, design, and entertainment.
+Creating and consuming food is profoundly cathartic and connecting. Pith is an eclectic attempt to integrate dining into the realms of art, music, design, and entertainment.
 
 ## Menu
 
