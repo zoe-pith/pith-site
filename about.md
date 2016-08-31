@@ -10,10 +10,6 @@ published: true
 
 Creating and consuming food is profoundly cathartic and connecting. Pith is a supper club, a brand of events, and most basically an attempt to integrate dining into the realms of art, music, design, and entertainment.
 
-## Jonah
-
-Jonah Reider is a cook, event curator, and entrepreneur based in New York. While at Columbia University, Jonah created Pith, a renowned supper club in his dorm room. Pith is now an eclectic undertaking to integrate dining into the realms of art, music, design, and entertainment. Jonah was recently featured in The New York Times 30 Under 30, a series of profiles of young people who are experimenting in new forms of work, play, community and creation. He is the creator and host of Nice Food For Not Much, a web series on Elite Daily. He is also currently chef in residence at Intro Restaurant Chicago.
-
 ## Menu
 
 The menu at Pith depends highly on seasonal availability of ingredients, and on each meal's unique social and artistic constraints.
