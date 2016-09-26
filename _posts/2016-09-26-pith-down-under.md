@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title:  "Pith, Down Under (_upcoming_)"
 categories: events
