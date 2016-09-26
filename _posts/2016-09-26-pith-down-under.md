@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pith, Down Under (_upcoming_)"
+title:  "Pith, Down Under (<i>upcoming<i>)"
 categories: events
 ---
 
