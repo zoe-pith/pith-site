@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title:  "Nice Food for Not Much"
 categories: events
