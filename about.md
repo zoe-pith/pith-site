@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 1
-published: true
+published: false
 ---
 
 ## About
@@ -11,6 +11,8 @@ published: true
 The food at Pith is seasonal, social, artistic, and collaborative. Follow on [Instagram](http://www.instagram.com/pithnyc) to see sample menus, dishes, and more. 
 
 ## Accolades
+
+“_★★★_” — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)
 
 "_A coveted reservation_" – [Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)
 
@@ -20,7 +22,7 @@ The food at Pith is seasonal, social, artistic, and collaborative. Follow on [In
 
 "_Impossible to stop eating…_" - [Ruth Reichl](http://ruthreichl.com/2016/04/a-pithy-meal.html/)
 
-"_Gaunt, with long lashes... perfectly seared steak_" - [The New Yorker](http://www.newyorker.com/magazine/2015/10/26/supper-club)
+"_... perfectly seared steak_" - [The New Yorker](http://www.newyorker.com/magazine/2015/10/26/supper-club)
 
 "_Reider is a dead ringer for Linguini from Ratatouille_" – [Gothamist](http://gothamist.com/2016/01/30/there_is_a_900-person_waiting_list.php)
 
