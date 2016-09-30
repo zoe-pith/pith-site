@@ -3,17 +3,12 @@ layout: page
 title: About
 permalink: /about/
 weight: 1
-published: false
+published: true
 ---
 
 ## About
 
 The food at Pith is seasonal, social, artistic, and collaborative. Follow on [Instagram](http://www.instagram.com/pithnyc) to see sample menus, dishes, and more. 
-
-## Menu
-
-The menu at Pith depends highly on seasonal availability of ingredients, and on each meal's unique social and artistic constraints.
-[Click here to see sample menus, dishes, and more]({{ site.baseurl }}/samples/).
 
 ## Accolades
 
