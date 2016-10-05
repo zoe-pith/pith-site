@@ -8,7 +8,7 @@ published: true
 
 ## About
 
-The food at Pith is seasonal, social, artistic, and collaborative. Follow on [Instagram](http://www.instagram.com/pithnyc) to see sample menus, dishes, and more. 
+Creating and consuming food is profoundly cathartic and connecting. Pith is an eclectic attempt to integrate dining into the realms of art, music, design, and entertainment. The food at Pith is seasonal, social, artistic, and collaborative. Follow on [Instagram](http://www.instagram.com/pithnyc) to see sample menus, dishes, and more. 
 
 ## Accolades
 
