@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pith at Bronx Brewery"
-categories: events
+categories: projects
 ---
 
 Pith curated an evening of food, light and sound installations, and custom casked beer.
