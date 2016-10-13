@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Front Art Space
-categories: events
+categories: projects
 published: true
 ---
 
