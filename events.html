@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Events
-permalink: /events/
+title: Projects
+permalink: /projects/
 weight: 2
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
   </div>
 
   <ul class="event-list">
-    {% for event in site.categories.events %}
+    {% for event in site.categories.projects %}
       <li>
         <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
         <!--div class="event-date">{{ event.date | date: "%b %-d, %Y" }}</div-->
