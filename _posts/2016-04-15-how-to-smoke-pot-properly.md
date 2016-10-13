@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Smoke Pot Properly"
-categories: events
+categories: projects
 ---
 
 Pith curated and executed an evening of extravagant cannabis-infused snacking.
