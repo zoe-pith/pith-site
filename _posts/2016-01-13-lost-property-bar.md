@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lost Property Bar"
-categories: events
+categories: projects
 ---
 
 Pith popped for two days at Lost Property Bar in Los Angeles. Curated live jazz and soul music.
