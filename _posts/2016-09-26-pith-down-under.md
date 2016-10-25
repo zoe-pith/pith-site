@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pith, Down Under (<em>upcoming</em>)'
+title: 'Pith, Down Under'
 categories: projects
 ---
 
