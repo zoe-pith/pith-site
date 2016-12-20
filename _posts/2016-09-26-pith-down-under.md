@@ -2,6 +2,7 @@
 layout: post
 title: 'Pith, Down Under'
 categories: projects
+published: true
 ---
 
-Pith comes to Sydney, Melbourne, and Auckland for a special series of pop-ups. Stay tuned as Pith prepares a menu featuring pomelo stone pine gin, lemon myrtle merengue, and a decadent cherry and lemon myrtle cake and cream.
+A series of pop-ups in Sydney, Melbourne, and Auckland. Pomelo, stone pine gin, lemon myrtle merengue. Oyster, red currant, black peppercorn, finger lime. Lamb, quandong, eucalyptus. Mulberry caramel cake.
