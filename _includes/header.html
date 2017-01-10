@@ -1,10 +1,17 @@
 
-<div class="turnip-container">
-  <nav class="site-nav">
-    <a class="home-page-link" href="{{ site.baseurl }}/">
-      <img src="{{ site.baseurl }}/media/pith_logo_transparent_small_black.png" alt="Home" />
-    </a>
+<div class="page-wrapper">
 
+  <div class="header-images">
+    <div class="header-image-wrapper header-image-wrapper-first"><div class="header-image"></div></div>
+    <div class="header-image-wrapper"><div class="header-image"></div></div>
+    <div class="header-image-wrapper"><div class="header-image"></div></div>
+  </div>
+
+  <a class="header-logo" href="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/media/images/logo.png" alt="Pith" />
+  </a>
+
+  <nav class="site-nav">
     {% assign pages = site.pages | sort:"weight" %}
     {% for my_page in pages %}
       {% if my_page.title %}
@@ -12,20 +19,3 @@
       {% endif %}
     {% endfor %}
   </nav>
-
-  <div class="turnip-image-zone left-turnip-image-zone">
-    <img class="turnip-image left-turnip-image" src="{{ site.baseurl }}/media/turnip_left.jpg" alt="Left Turnip" />
-  </div>
-
-  {% if page.url == "/" %}
-    <div class="turnip-image-zone center-turnip-image-zone">
-      <img class="turnip-image center-turnip-image" src="{{ site.baseurl }}/media/turnip_center.jpg" alt="Center Turnip" />
-    </div>
-    <div class="turnip-image-zone right-turnip-image-zone">
-      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right.jpg" alt="Right Turnip" />
-    </div>
-  {% else %}
-    <div class="turnip-image-zone big-right-turnip-image-zone">
-      <img class="turnip-image right-turnip-image" src="{{ site.baseurl }}/media/turnip_right_trimmed.jpg" alt="Right Turnip" />
-    </div>
-  {% endif %}

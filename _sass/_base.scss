@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $serif-font-family;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;

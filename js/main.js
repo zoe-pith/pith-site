@@ -9,21 +9,18 @@
     menuIsVisible: false
   };
 
-  turnips();
+  navImages();
   imageGallery();
 
-  // no audio for now :)
+  // menuMouseEvents();
   //setTimeout(audio, 500); // delay so that initial load of page doesn't result in sound, ya?
 
   switch (window.location.pathname) {
     case '/':
-      home(function() {
-        menuMouseEvents();
-      });
+      // could change behavior on various pages...
       break;
 
     default:
-      menuMouseEvents();
       break;
   }
 
@@ -86,40 +83,8 @@
     }
   }
 
-  function turnips() {
-    var transitionTime = 8000;
-    var leftTurnip = document.querySelector('.left-turnip-image-zone');
-    var centerTurnip = document.querySelector('.center-turnip-image-zone');
-    var rightTurnip = document.querySelector('.right-turnip-image-zone');
+  function navImages() {
 
-    setTimeout(function() {
-      moveTurnip(leftTurnip);
-      setTimeout(function() {
-        moveTurnip(rightTurnip);
-        setTimeout(function() {
-          moveTurnip(centerTurnip);
-        }, 8000);
-      }, 5000);
-    }, 6000);
-
-    function moveTurnip(turnip) {
-      if (!turnip) return;
-
-      if (!turnip._currentTop) {
-        turnip._currentTop = 0;
-      }
-      if (!turnip._height) {
-        turnip._height = turnip.getBoundingClientRect().height / 3;
-      }
-
-      var nextTop = -300 + Math.random() * 500;
-
-      turnip.style.transform = 'translateY(' + nextTop + 'px)';
-
-      setTimeout(function() {
-        moveTurnip(turnip);
-      }, transitionTime + Math.random() * 3000 + 3000);
-    }
   }
 
   function imageGallery() {
@@ -255,17 +220,6 @@
 
   function originify(path) {
     return window.location.origin + path;
-  }
-
-  function home(callback) {
-    var splash = document.querySelector('.home-splash');
-    setTimeout(function() {
-      splash.style.opacity = 0;
-      setTimeout(function() {
-        splash.parentNode.removeChild(splash);
-        if (callback) callback();
-      }, 1000);
-    }, 2500);
   }
 
 })();

@@ -1,14 +1,5 @@
 # pith-site
 
+This is the homepage for Jonah Reider's Pith brand.
+
 liquid helper: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-
-## Todo
-
-* add pictures to events once they are available
-
-## Turnip Math
-
-Total width: 1994px
-Left turnip: 583px = 30%
-Center turnip: 581px = 30%
-Right turnip: 825px = 40%

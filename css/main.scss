@@ -9,7 +9,8 @@
 }
 
 // Our variables
-$base-font-family: eureka_sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$sans-font-family: eureka_sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif-font-family: eureka_serif, Georgia, "Times New Roman", serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -18,9 +19,8 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: rgb(111, 164, 200);
-$brand-color:      rgb(110, 155, 184);
-$alt-brand-color:  rgb(157, 78, 40);
+$background-color: rgb(249, 243, 229);
+$brand-color:      rgb(61, 95, 30);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -31,6 +31,7 @@ $content-width:    1024px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+$on-bigscreen:     1320px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -44,8 +45,60 @@ $on-laptop:        800px;
         @content;
     }
 }
+@mixin media-query-lt($device) {
+  @media screen and (min-width: $device) {
+      @content;
+  }
+}
 
+/**** START FONT STUFF from https://gist.github.com/jonathantneal/d0460e5c2d5d7f9bc5e6 ****/
 
+// =============================================================================
+// String Replace
+// =============================================================================
+
+@function str-replace($string, $search, $replace: "") {
+	$index: str-index($string, $search);
+
+	@if $index {
+		@return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+	}
+
+	@return $string;
+}
+
+// =============================================================================
+// Font Face
+// =============================================================================
+
+@mixin font-face($name, $path, $weight: null, $style: null, $exts: eot woff2 woff ttf svg) {
+	$src: null;
+
+	$extmods: (
+		eot: "?",
+		svg: "#" + str-replace($name, " ", "_")
+	);
+
+	$formats: (
+		otf: "opentype",
+		ttf: "truetype"
+	);
+
+	@each $ext in $exts {
+		$extmod: if(map-has-key($extmods, $ext), $ext + map-get($extmods, $ext), $ext);
+		$format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
+		$src: append($src, url(quote($path + "." + $extmod)) format(quote($format)), comma);
+	}
+
+	@font-face {
+		font-family: quote($name);
+		font-style: $style;
+		font-weight: $weight;
+		src: $src;
+	}
+}
+
+/***** end FONT STUFF ****/
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
