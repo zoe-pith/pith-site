@@ -4,13 +4,69 @@
 @charset "utf-8";
 
 @font-face {
-	font-family: eureka_sans;
-	src: url('../media/eureka_sans.ttf');
+  font-family: eureka_sans;
+  src: url('../media/fonts/eureka-sans/eureka-sans.eot');
+  src: url('../media/fonts/eureka-sans/eureka-sans.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka-sans/eureka-sans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: eureka_sans;
+  src: url('../media/fonts/eureka-sans/eureka-sans-italic.eot');
+  src: url('../media/fonts/eureka-sans/eureka-sans-italic.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka-sans/eureka-sans-italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: eureka_sans_sc;
+  src: url('../media/fonts/eureka-sans/eureka-sans-sc.eot');
+  src: url('../media/fonts/eureka-sans/eureka-sans-sc.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka-sans/eureka-sans-sc.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: eureka_sans_sc;
+  src: url('../media/fonts/eureka-sans/eureka-sans-medium-sc.eot');
+  src: url('../media/fonts/eureka-sans/eureka-sans-medium-sc.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka-sans/eureka-sans-medium-sc.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: eureka;
+  src: url('../media/fonts/eureka/eureka.eot');
+  src: url('../media/fonts/eureka/eureka.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka/eureka.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: eureka;
+  src: url('../media/fonts/eureka/eureka-bold.eot');
+  src: url('../media/fonts/eureka/eureka-bold.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka/eureka-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: eureka;
+  src: url('../media/fonts/eureka/eureka-italic.eot');
+  src: url('../media/fonts/eureka/eureka-italic.eot?#iefix') format('embedded-opentype'),
+       url('../media/fonts/eureka/eureka-italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
 
 // Our variables
 $sans-font-family: eureka_sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$serif-font-family: eureka_serif, Georgia, "Times New Roman", serif;
+$serif-font-family: eureka, Georgia, "Times New Roman", serif;
+$smallcaps-font-family: eureka_sans_sc, $sans-font-family;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -50,55 +106,6 @@ $on-bigscreen:     1320px;
       @content;
   }
 }
-
-/**** START FONT STUFF from https://gist.github.com/jonathantneal/d0460e5c2d5d7f9bc5e6 ****/
-
-// =============================================================================
-// String Replace
-// =============================================================================
-
-@function str-replace($string, $search, $replace: "") {
-	$index: str-index($string, $search);
-
-	@if $index {
-		@return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
-	}
-
-	@return $string;
-}
-
-// =============================================================================
-// Font Face
-// =============================================================================
-
-@mixin font-face($name, $path, $weight: null, $style: null, $exts: eot woff2 woff ttf svg) {
-	$src: null;
-
-	$extmods: (
-		eot: "?",
-		svg: "#" + str-replace($name, " ", "_")
-	);
-
-	$formats: (
-		otf: "opentype",
-		ttf: "truetype"
-	);
-
-	@each $ext in $exts {
-		$extmod: if(map-has-key($extmods, $ext), $ext + map-get($extmods, $ext), $ext);
-		$format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
-		$src: append($src, url(quote($path + "." + $extmod)) format(quote($format)), comma);
-	}
-
-	@font-face {
-		font-family: quote($name);
-		font-style: $style;
-		font-weight: $weight;
-		src: $src;
-	}
-}
-
-/***** end FONT STUFF ****/
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

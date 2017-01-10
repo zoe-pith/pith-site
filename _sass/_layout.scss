@@ -42,7 +42,7 @@ body {
 
 .header-logo {
   position: absolute;
-  left: 120px;
+  left: 120px; top: 130px;
   width: 18%;
 
   img {
@@ -71,7 +71,7 @@ body {
         display: inline-block;
         color: $brand-color;
         line-height: $base-line-height;
-        font-family: $sans-font-family;
+        font-family: $smallcaps-font-family;
         font-size: 22px;
         font-weight: bold;
         text-decoration: none;
@@ -126,8 +126,8 @@ body {
 .content-container {
   position: fixed;
   z-index: 1;
-  left: 33%; top: 160px;
-  width: 67%; max-height: 100%;
+  left: 33%; top: 180px;
+  width: 67%; max-height: calc(100% - 180px);
   overflow: auto;
   -webkit-overflow-scrolling: touch;
 
@@ -145,7 +145,7 @@ body {
   min-width: 300px;
   padding-bottom: 60px;
 
-  margin: 20px;
+  margin: 0 20px 20px 20px;
   max-width: 600px;
 
   @include media-query($on-palm) {
