@@ -7,6 +7,10 @@ body {
   position: relative;
   padding: 30px 80px;
   max-width: 1200px;
+
+  @include media-query($on-palm) {
+    padding: 20px;
+  }
 }
 
 /**
@@ -21,29 +25,52 @@ body {
     position: relative;
     width: calc(33% - 20px);
 
-    &:not(:last-child) {
-      margin-right: 20px;
+    @include media-query-lt($on-palm) {
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+    }
+
+    @include media-query($on-palm) {
+      width: 100%;
+      margin-right: 0;
+
+      &:not(:first-child) {
+        display: none;
+      }
     }
   }
   .header-image-wrapper:after {
-    padding-top: 25%;
+    padding-top: 28%;
     display: block;
     content: '';
+    background: darken($background-color, 5%);
+
+    @include media-query($on-palm) {
+      padding-top: 15%;
+    }
   }
 
   .header-image {
     position: absolute;
     top: 0; bottom: 0; right: 0; left: 0;
-    background: lighten($background-color, 5%);
     border: 0.5px solid #000;
-    transition: background 0.4s;
+    opacity: 0;
+    transition: opacity 0.5s;
   }
 }
 
 .header-logo {
   position: absolute;
+  display: block;
   left: 120px; top: 130px;
   width: 18%;
+  transition: transform 0.2s;
+  z-index: 1001;
+
+  :hover {
+    transform: scale(1.25);
+  }
 
   img {
     width: 100%;
@@ -53,6 +80,19 @@ body {
     width: 250px;
     img {
       width: 250px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: relative;
+    left: auto; top: auto;
+    width: 160px;
+    image {
+      width: 160px;
+    }
+
+    :hover {
+      transform: scale(1.05);
     }
   }
 }
@@ -75,40 +115,28 @@ body {
         font-size: 22px;
         font-weight: bold;
         text-decoration: none;
+        letter-spacing: 2px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
           margin-right: 20px;
         }
     }
-    .page-link-4 { animation-delay: 0.25s; }
-    .page-link-5 { animation-delay: 0.5s; }
-    .page-link-6 { animation-delay: 0.75s; }
     .active-page-link {
       text-decoration: underline;
     }
 
     @include media-query($on-palm) {
-      text-align: left;
+      left: auto; right: 20px; top: 80px;
+      text-align: right;
       margin-bottom: 5px;
       line-height: 24px;
 
-      .home-page-link {
-        display: block;
-
-        :hover {
-          transform: scale(1.05);
-        }
-      }
-      .home-page-link img {
-        width: 150px;
-        margin-bottom: 0;
-      }
-
       .page-link {
-        line-height: 1;
+        display: block;
+        line-height: 1.5;
         margin-left: 7px;
-        font-size: 18px;
+        font-size: 14px;
 
         &:not(:last-child) {
           margin-right: 0;
@@ -126,13 +154,14 @@ body {
 .content-container {
   position: fixed;
   z-index: 1;
-  left: 33%; top: 180px;
+  left: 0; padding-left: 33%;
+  top: 180px;
   width: 67%; max-height: calc(100% - 180px);
   overflow: auto;
   -webkit-overflow-scrolling: touch;
 
   @include media-query-lt($on-bigscreen) {
-    left: 440px;
+    padding-left: 440px;
   }
 
   @include media-query($on-palm) {
@@ -143,7 +172,7 @@ body {
 .content-wrapper {
   text-align: left;
   min-width: 300px;
-  padding-bottom: 60px;
+  padding-bottom: 20px;
 
   margin: 0 20px 20px 20px;
   max-width: 600px;
@@ -288,8 +317,9 @@ body {
 
 .event-title {
   display: block;
-  color: $brand-color;
-  font-size: 28px;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -343,11 +373,11 @@ body {
 
 .post-content {
     margin: $spacing-unit;
-    font-size: 22px;
+    font-size: 18px;
 
     @include media-query($on-palm) {
       margin: 10px;
-      font-size: 20px;
+      font-size: 16px;
     }
 
     h2 {

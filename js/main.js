@@ -84,7 +84,23 @@
   }
 
   function navImages() {
+    var imageIndex = Math.floor(Math.random() * 6) + 1;
+    var imageUrl = '/media/images/nav/' + imageIndex + '.jpg';
 
+    var headerImages = document.querySelectorAll('.header-image');
+    for (var i = 0; i < headerImages.length; i++) {
+      imagify(headerImages[i]);
+    }
+
+    function imagify (headerImage) {
+      headerImage.style.background = 'url(' + imageUrl + ')';
+
+      var x = Math.floor(Math.random() * 60) + '%';
+      var y = Math.floor(Math.random() * 80) + '%';
+      headerImage.style.backgroundPosition = x + ' ' + y;
+
+      headerImage.style.opacity = '1';
+    }
   }
 
   function imageGallery() {

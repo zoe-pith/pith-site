@@ -9,7 +9,6 @@ published: true
 Creating and consuming food is cathartic and connecting. Pith is an eclectic attempt to integrate dining into the realms of art, music, design, and entertainment. The food at Pith is seasonal, social, and artistic.
 
 <br/>
-
 _★★★_ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)
 
 _A coveted reservation_ – [Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)
