@@ -33,7 +33,7 @@ body {
 
     @include media-query($on-palm) {
       width: 100%;
-      max-width: 450px;
+      max-height: 67px;
       margin-right: 0;
 
       &:not(:first-child) {
@@ -49,6 +49,7 @@ body {
 
     @include media-query($on-palm) {
       padding-top: 15%;
+      background: transparent;
     }
   }
 
@@ -58,6 +59,7 @@ body {
     border: 0.5px solid #000;
     opacity: 0;
     transition: opacity 0.5s;
+    cursor: pointer;
   }
 }
 
@@ -81,6 +83,11 @@ body {
     width: 250px;
   }
 
+  @include media-query($on-laptop) {
+    left: 100px;
+    top: 90px;
+  }
+
   @include media-query($on-palm) {
     position: relative;
     left: auto; top: -5px;
@@ -94,31 +101,37 @@ body {
 
 .site-nav {
     position: absolute;
-    left: calc(33% + 40px); top: 120px;
+    left: calc(33% + 40px); top: 140px;
     z-index: 1000;
 
     min-height: 56px;
-    line-height: 56px;
     margin: 5px;
-    padding: 5px;
 
     .page-link {
         display: inline-block;
         color: $brand-color;
         line-height: $base-line-height;
         font-family: $smallcaps-font-family;
-        font-size: 22px;
+        font-size: 20px;
         font-weight: bold;
         text-decoration: none;
         letter-spacing: 2px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-          margin-right: 20px;
+          margin-right: 8px;
         }
     }
     .active-page-link {
       text-decoration: underline;
+    }
+
+    @include media-query($on-laptop) {
+      top: 100px;
+      max-width: 200px;
+      .page-link {
+        font-size: 18px;
+      }
     }
 
     @include media-query($on-palm) {
@@ -378,9 +391,11 @@ body {
     }
 
     h2 {
+        font-family: $smallcaps-font-family;
         font-size: 36px;
         margin-bottom: 8px;
         color: $brand-color;
+        margin-bottom: 10px;
 
         @include media-query($on-laptop) {
           font-size: 28px;
@@ -392,18 +407,24 @@ body {
     }
 
     h3 {
-        font-size: 26px;
+        font-family: $smallcaps-font-family;
+        font-size: 22px;
+        color: $brand-color;
+        margin-bottom: 5px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 18px;
         }
     }
 
     h4 {
+        font-family: $smallcaps-font-family;
         font-size: 20px;
+        color: $brand-color;
+        margin-bottom: 0;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
         }
     }
 }
