@@ -84,19 +84,16 @@
   }
 
   function navImages() {
-    var imageUrl = randomImageUrl();
+    var navImageIndex = Math.floor(Math.random() * 6) + 1;
 
     var headerImages = document.querySelectorAll('.header-image');
     for (var i = 0; i < headerImages.length; i++) {
-      imagify(headerImages[i]);
+      imagify(headerImages[i], i + 1);
     }
 
-    function imagify (headerImage) {
-      headerImage.style.background = 'url(' + imageUrl + ')';
-
-      var x = Math.floor(Math.random() * 60) + '%';
-      var y = Math.floor(Math.random() * 80) + '%';
-      headerImage.style.backgroundPosition = x + ' ' + y;
+    function imagify (headerImage, index) {
+      var imageUrl = navImageUrl(navImageIndex, index);
+      headerImage.style.backgroundImage = 'url(' + imageUrl + ')';
 
       headerImage.style.opacity = 1;
 
@@ -114,8 +111,13 @@
     }
 
     function randomImageUrl () {
-      var imageIndex = Math.floor(Math.random() * 6) + 1;
-      return '/media/images/nav/' + imageIndex + '.jpg';
+      var navIndex = Math.floor(Math.random() * 6) + 1;
+      var imageIndex = Math.floor(Math.random() * 3) + 1;
+      return navImageUrl(navIndex, imageIndex);
+    }
+
+    function navImageUrl (navIndex, imageIndex) {
+      return '/media/images/nav/' + navIndex + '-' + imageIndex + '.jpg';
     }
   }
 
