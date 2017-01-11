@@ -33,6 +33,7 @@ body {
 
     @include media-query($on-palm) {
       width: 100%;
+      max-width: 450px;
       margin-right: 0;
 
       &:not(:first-child) {
@@ -78,18 +79,12 @@ body {
 
   @include media-query-lt($on-bigscreen) {
     width: 250px;
-    img {
-      width: 250px;
-    }
   }
 
   @include media-query($on-palm) {
     position: relative;
-    left: auto; top: auto;
-    width: 160px;
-    image {
-      width: 160px;
-    }
+    left: auto; top: -5px;
+    width: 100px;
 
     :hover {
       transform: scale(1.05);
@@ -165,8 +160,10 @@ body {
   }
 
   @include media-query($on-palm) {
-    margin-left: 0; margin-top: 105px;
+    padding-left: 0;
+    top: 185px;
     width: 100%;
+    max-height: calc(100% - 185px);
   }
 }
 .content-wrapper {
@@ -178,7 +175,7 @@ body {
   max-width: 600px;
 
   @include media-query($on-palm) {
-    margin: 5px 10px;
+    margin: 0 10px 5px 10px;
     max-width: 100%;
   }
 
@@ -256,7 +253,7 @@ body {
   margin: 20px;
 
   @include media-query($on-palm) {
-    margin: 10px;
+    margin: 0 10px 10px 10px;
   }
 }
 
@@ -376,7 +373,7 @@ body {
     font-size: 18px;
 
     @include media-query($on-palm) {
-      margin: 10px;
+      margin: 0 10px 10px 10px;
       font-size: 16px;
     }
 
