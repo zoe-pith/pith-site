@@ -83,6 +83,11 @@ body {
 
   @include media-query-lt($on-bigscreen) {
     width: 250px;
+    left: 150px; top: 150px;
+  }
+
+  @include media-query($on-desktop) {
+    top: 110px;
   }
 
   @include media-query($on-laptop) {
@@ -103,7 +108,7 @@ body {
 
 .site-nav {
     position: absolute;
-    left: calc(33% + 40px); top: 140px;
+    left: calc(33% + 40px); top: 115px;
     z-index: 1000;
 
     min-height: 56px;
@@ -126,6 +131,14 @@ body {
     }
     .active-page-link {
       text-decoration: underline;
+    }
+
+    @include media-query-lt($on-bigscreen) {
+      top: 150px;
+    }
+
+    @include media-query-lt($on-desktop) {
+      top: 140px;
     }
 
     @include media-query($on-laptop) {
@@ -171,10 +184,10 @@ body {
   -webkit-overflow-scrolling: touch;
 
   @include media-query-lt($on-bigscreen) {
-    padding-left: 440px;
+    padding-left: 450px;
   }
 
-  @include media-query($on-laptop) {
+  @include media-query($on-desktop) {
     top: 165px;
     max-height: calc(100% - 165px);
   }
