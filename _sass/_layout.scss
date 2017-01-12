@@ -3,13 +3,23 @@ body {
   text-rendering: geometricPrecision;
 }
 
+.top-wrapper {
+
+}
+
 .page-wrapper {
   position: relative;
-  padding: 30px 80px;
-  max-width: 1200px;
+  width: 800px;
+  margin: 0 auto;
+  padding: 30px 0;
+
+  @include media-query($on-laptop) {
+    width: auto;
+  }
 
   @include media-query($on-palm) {
     padding: 20px;
+    width: auto;
   }
 }
 
@@ -42,7 +52,7 @@ body {
     }
   }
   .header-image-wrapper:after {
-    padding-top: 28%;
+    padding-top: 26%;
     display: block;
     content: '';
     background: darken($background-color, 5%);
@@ -56,7 +66,7 @@ body {
   .header-image {
     position: absolute;
     top: 0; bottom: 0; right: 0; left: 0;
-    border: 0.5px solid #000;
+    border: 1px solid #000;
     opacity: 0;
     transition: opacity 0.5s;
     cursor: pointer;
@@ -68,47 +78,28 @@ body {
 .header-logo {
   position: absolute;
   display: block;
-  left: 120px; top: 130px;
-  width: 18%;
+  left: 35px; top: 112px;
+  width: 190px;
   transition: transform 0.2s;
   z-index: 1001;
-
-  :hover {
-    transform: scale(1.25);
-  }
 
   img {
     width: 100%;
   }
 
-  @include media-query-lt($on-bigscreen) {
-    width: 250px;
-    left: 150px; top: 150px;
-  }
-
-  @include media-query($on-desktop) {
-    top: 110px;
-  }
-
   @include media-query($on-laptop) {
-    left: 100px;
-    top: 90px;
+    left: 20px;
+    top: 95px;
   }
 
   @include media-query($on-palm) {
-    position: relative;
-    left: auto; top: -2px;
-    width: 100px;
-
-    :hover {
-      transform: scale(1.05);
-    }
+    display: none;
   }
 }
 
 .site-nav {
     position: absolute;
-    left: calc(33% + 40px); top: 115px;
+    left: calc(33% + 10px); top: 115px;
     z-index: 1000;
 
     min-height: 56px;
@@ -119,54 +110,59 @@ body {
         color: $brand-color;
         line-height: $base-line-height;
         font-family: $smallcaps-font-family;
-        font-size: 20px;
+        font-size: 21px;
         font-weight: bold;
         text-decoration: none;
-        letter-spacing: 2px;
+        letter-spacing: 3px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-          margin-right: 8px;
+          margin-right: 30px;
+        }
+
+        &:hover {
+          text-decoration: underline;
         }
     }
     .active-page-link {
       text-decoration: underline;
     }
 
-    @include media-query-lt($on-bigscreen) {
-      top: 150px;
-    }
-
-    @include media-query-lt($on-desktop) {
-      top: 140px;
-    }
-
     @include media-query($on-laptop) {
       top: 100px;
-      max-width: 200px;
       .page-link {
         font-size: 18px;
+
+        &:not(:last-child) {
+          margin-right: 20px;
+        }
       }
     }
 
     @include media-query($on-palm) {
-      left: auto; right: 20px; top: 80px;
-      text-align: right;
+      position: static;
+      max-width: 100%;
+      text-align: center;
+      margin-top: -2px;
       margin-bottom: 5px;
-      line-height: 24px;
 
       .page-link {
-        display: block;
-        line-height: 1.5;
-        margin-left: 7px;
-        font-size: 14px;
+        font-size: 15px;
+        letter-spacing: 2px;
 
         &:not(:last-child) {
-          margin-right: 0;
+          margin-right: 8px;
         }
       }
-      .page-link-4 {
-        margin-left: 15px;
+    }
+
+    @include media-query($on-small-palm) {
+      .page-link {
+        font-size: 12px;
+
+        &:not(:last-child) {
+          margin-right: 5px;
+        }
       }
     }
 }
@@ -175,28 +171,24 @@ body {
  * Content
  */
 .content-container {
-  position: fixed;
+  position: absolute;
   z-index: 1;
-  left: 0; padding-left: 33%;
-  top: 180px;
-  width: 67%; max-height: calc(100% - 180px);
+  left: 0; padding-left: calc(33% + 10px);
+  top: 165px;
+  width: calc(67% - 20px); max-height: calc(100vh - 165px);
   overflow: auto;
   -webkit-overflow-scrolling: touch;
 
-  @include media-query-lt($on-bigscreen) {
-    padding-left: 450px;
-  }
-
-  @include media-query($on-desktop) {
-    top: 165px;
-    max-height: calc(100% - 165px);
+  @include media-query($on-laptop) {
+    top: 145px;
+    max-height: calc(100vh - 145px);
   }
 
   @include media-query($on-palm) {
     padding-left: 0;
-    top: 185px;
+    top: 120px;
     width: 100%;
-    max-height: calc(100% - 185px);
+    max-height: calc(100vh - 120px);
   }
 }
 .content-wrapper {
@@ -204,8 +196,7 @@ body {
   min-width: 300px;
   padding-bottom: 20px;
 
-  margin: 0 20px 20px 20px;
-  max-width: 600px;
+  margin-bottom: 20px;
 
   @include media-query($on-palm) {
     margin: 0 10px 5px 10px;
@@ -283,7 +274,7 @@ body {
  * Events
  */
 .events {
-  margin: 20px;
+  margin: 0;
 
   @include media-query($on-palm) {
     margin: 0 10px 10px 10px;
@@ -320,7 +311,7 @@ body {
       position: relative;
       display: inline-block;
       min-width: 50%;
-      padding: 8px 8px 8px 5px;
+      padding: 8px 0 8px 0;
 
       @include media-query($on-palm) {
         padding: 4px 0 4px 0;
@@ -348,13 +339,9 @@ body {
 .event-title {
   display: block;
   color: #000;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   text-decoration: none;
-
-  @include media-query($on-palm) {
-    font-size: 17px;
-  }
 }
 
 .event-content {
@@ -385,7 +372,7 @@ body {
 }
 
 .post-header {
-  margin: $spacing-unit;
+  margin: $spacing-unit 0;
 
   @include media-query($on-palm) {
     margin: 10px;
@@ -409,7 +396,7 @@ body {
 }
 
 .post-content {
-    margin: $spacing-unit 0 $spacing-unit 20px;
+    margin: 0 0 $spacing-unit 0;
     font-size: 18px;
 
     @include media-query($on-palm) {
@@ -441,7 +428,7 @@ body {
         font-family: $smallcaps-font-family;
         font-size: 22px;
         color: $brand-color;
-        margin-bottom: 5px;
+        margin-bottom: 0;
 
         @include media-query($on-laptop) {
             font-size: 18px;

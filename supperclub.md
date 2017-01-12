@@ -14,7 +14,7 @@ At the moment the Pith supper club is fully booked.
 Please [join our mailing list](http://eepurl.com/bZ8dIf)
 or check back soon for an announcement regarding new dates.
 
-### Menu
+### menu
 pumpkin with lardo and sesame leaf  
 clam with cranberry and black peppercorn  
 oyster with apple cider vinegar and granita  
@@ -30,25 +30,25 @@ mustard greens with fennel, persimmon, and wild rice
 apple cake with buckwheat ice cream  
 earl grey merengue with date  
 
-**Tea**  
+### tea
 barley  
 puehr  
 genmaicha  
 chrysanthemum  
 
-**Kefir**  
+### kefir
 grapefruit and coriander  
 turmeric and ginger  
 rosehip and chile  
 cardamom and buckwheat  
 
-**Cider**  
+### cider
 aaron burr homestead cider, ginger apple 2013  
 cidrerie du vulcain, perry 2009  
 isastegi, sagardo 2014  
 redbyrd orchard, cloudsplitter 2015  
 
-**Wine**  
+### wine
 jo landron ‘atmospheres brut’ nv  
 croci ermano ‘campedello frizzante’ 2012  
 bellwether wine cellars ‘a&d wild ferment’ 2013  
@@ -59,7 +59,7 @@ la stoppa macchiona’ 2007
 silver wing, nada 2014  
 channing daughters, muscat de boom 2015  
 
-**Amari**  
+### amari
 nonino  
 cardamaro  
 fernet francisco  

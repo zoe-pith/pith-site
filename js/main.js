@@ -84,7 +84,15 @@
   }
 
   function navImages() {
-    var navImageIndex = Math.floor(Math.random() * 6) + 1;
+    var navImageIndex = 5;
+    var path = window.location.pathname;
+    if (path.indexOf('supperclub') >= 0) {
+      navImageIndex = 6;
+    } else if (path.indexOf('projects') >= 0) {
+      navImageIndex = 3;
+    } else if (path.indexOf('contact') >= 0) {
+      navImageIndex = 4;
+    }
 
     var headerImages = document.querySelectorAll('.header-image');
     for (var i = 0; i < headerImages.length; i++) {
