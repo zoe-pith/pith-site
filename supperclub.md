@@ -8,7 +8,7 @@ published: true
 
 Pith’s supper club is a weekly convivial dinner in a Brooklyn townhouse. Jonah and his small team serve an extensive and improvisational meal focusing on seasonal and local ingredients.
 
-Please expect the meal to last roughly two hours. The price of dinner is non-refundable $85 per person, with an optional beverage pairing. This price is all inclusive and gratuities are politely declined. Because of the small and infrequent nature of the supper club, substitutions can not be accommodated and we pre-sell transferable but non- refundable tickets. The Pith supper club is a worker-owned cooperative, with profits shared equitably between all those involved.
+Please expect the meal to last roughly two hours. The price of dinner is $85 per person, with an optional beverage pairing. This price is all inclusive and gratuities are politely declined. Because of the small and infrequent nature of the supper club, substitutions can not be accommodated and we pre-sell transferable but non-refundable tickets. The Pith supper club is a worker-owned cooperative, with profits shared equitably between all those involved.
 
 At the moment the Pith supper club is fully booked.
 Please [join our mailing list](http://eepurl.com/bZ8dIf)
@@ -63,4 +63,4 @@ channing daughters, 'muscat de boom' 2015
 nonino  
 cardamaro  
 fernet francisco  
-st. agrestis  
+st. agrestis
