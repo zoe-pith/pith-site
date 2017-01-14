@@ -16,5 +16,5 @@ _The hottest table in town_ - [New York Post](http://nypost.com/2015/10/07/the-h
 _Impossible to stop eating…_ - [Ruth Reichl](http://ruthreichl.com/2016/04/a-pithy-meal.html/)  
 _Perfectly seared steak_ - [The New Yorker](http://www.newyorker.com/magazine/2015/10/26/supper-club)
 _Reider is mesmerizing to watch at work_ - [Food and Wine](http://www.foodandwine.com/fwx/food/how-smoke-marijuana)
-A dead ringer for Ratatouille's Linguini_ – [Gothamist](http://gothamist.com/2016/01/30/there_is_a_900-person_waiting_list.php)  
+_A dead ringer for Ratatouille's Linguini_ – [Gothamist](http://gothamist.com/2016/01/30/there_is_a_900-person_waiting_list.php)  
 
