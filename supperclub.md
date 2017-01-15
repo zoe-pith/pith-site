@@ -25,7 +25,7 @@ chard with goat’s cheese and white peppercorn
 cauliflower with chorizo and maple syrup  
 rapini with garlic, orange, and sour feta  
 duck with potato, pistachio, and balinese peppercorn  
-mustard greens with fennel, persimmon, and wild rice  
+mustard with fennel, persimmon, and wild rice  
 
 apple cake with buckwheat ice cream  
 earl grey merengue with date  
@@ -43,10 +43,10 @@ rosehip and chile
 cardamom and buckwheat  
 
 ### cider
-aaron burr homestead cider, 'ginger apple' 2013  
-cidrerie du vulcain, 'perry' 2009  
-isastegi, 'sagardo' 2014  
-redbyrd orchard, 'cloudsplitter' 2015  
+aaron burr homestead cider 'ginger apple' 2013  
+cidrerie du vulcain 'perry' 2009  
+isastegi 'sagardo' 2014  
+redbyrd orchard 'cloudsplitter' 2015  
 
 ### wine
 jo landron ‘atmospheres brut’ nv  
@@ -56,8 +56,8 @@ monastero suore cistercensi ‘coenobium’ 2013
 
 jauma ‘tikka the cosmic cat’ 2015   
 la stoppa 'macchiona’ 2007  
-silver wing, 'nada' 2014  
-channing daughters, 'muscat de boom' 2015  
+silver wing 'nada' 2014  
+channing daughters 'muscat de boom' 2015  
 
 ### amari
 nonino  
