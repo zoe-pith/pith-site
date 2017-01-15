@@ -6,7 +6,7 @@ weight: 1
 published: true
 ---
 
-Creating and consuming food is cathartic and connecting. Pith is an eclectic attempt to integrate dining into the realms of art, music, entertainment, and design. Food at Pith is seasonal, social, and artistic.
+Creating and consuming food is cathartic and connecting. Pith is an eclectic effort to integrate dining into the realms of art, music, design, and entertainment. Our food is seasonal, social, and artful.
 
 _★★★_ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
 _A coveted reservation_ – [Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
