@@ -12,6 +12,7 @@ Please expect the meal to last roughly two hours. The price of dinner is $85 per
 Unfortunately, Pith is unable to take new reservations at the moment.
 
 <script src='https://js.tito.io/v1' async></script>
+<script>TitoDevelopmentMode = true</script>
 <tito-button event="pith/supper-club"></tito-button>
 
 Please [join our mailing list](http://eepurl.com/bZ8dIf) or check back soon for an announcement regarding new dates. We welcome inquiries regarding buyouts, events, or offsite parties.
