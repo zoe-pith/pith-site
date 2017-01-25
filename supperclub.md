@@ -11,11 +11,9 @@ Pith’s supper club is a weekly convivial dinner in a Brooklyn townhouse. Jonah
 
 Please expect the meal to last roughly two hours. The price of dinner is $85 per person, with an optional beverage pairing. This price is all inclusive and gratuities are politely declined. Because of the small and infrequent nature of the supper club, substitutions can not be accommodated and we pre-sell transferable but non-refundable tickets. The Pith supper club is a worker-owned cooperative, with profits shared equitably between all those involved.
 
-Please [click here](<tito-button event="pith/supper-club"></tito-button>) is unable to take new reservations at the moment.
+Please click on <tito-button event="pith/supper-club"></tito-button>) to see available reservations. If there are few open seats, check again soon as new dates are added frequently.
 
-
-
-Please [join our mailing list](http://eepurl.com/bZ8dIf) or check back soon for an announcement regarding new dates. We welcome inquiries regarding buyouts, events, or offsite parties.
+And, [join our mailing list](http://eepurl.com/bZ8dIf) or follow on [Instagram](http://instagram.com/pithnyc) to hear about new supper club dates or other Pith events. We welcome [inquiries](mailto:antonio@pith.space) regarding buyouts, events, or offsite parties.
 
 ### menu
 pumpkin with lardo and sesame leaf  
