@@ -7,25 +7,22 @@ published: true
 ---
 Pith’s supper club is a weekly convivial dinner in a Brooklyn townhouse. Jonah and his small team serve an extensive and improvisational meal focusing on seasonal and local ingredients.
 
-Please expect the meal to last roughly two hours. The price of dinner is $85 per person, with an optional beverage pairing. This price is all inclusive and gratuities are politely declined. Because of the small and infrequent nature of the supper club, substitutions can not be accommodated and we pre-sell transferable but non-refundable tickets. The Pith supper club is a worker-owned cooperative, with profits shared equitably between all those involved.
+Please expect the meal to last roughly two hours. The price of dinner is $90 per person, with an optional beverage pairing. This price is all inclusive and gratuities are politely declined. Because of the small and infrequent nature of the supper club, substitutions can not be accommodated and we pre-sell transferable but non-refundable tickets. The Pith supper club is a worker-owned cooperative, with profits shared equitably between all those involved.
 
 Unfortunately, at the moment we are unable to accept new reservations. [Join our mailing list](http://eepurl.com/bZ8dIf) or follow on [Instagram](http://instagram.com/pithnyc) to hear about new supper club dates or other Pith events. We always welcome [inquiries](mailto:antonio@pith.space) regarding buyouts, events, or offsite parties.
 
 ### menu
 pumpkin with lardo and sesame leaf  
-clam with cranberry and black peppercorn  
-oyster with apple cider vinegar and granita  
-rye with anchovy, onion, and sheep’s cheese  
-
+rye with onion, chestnut, and sheep’s cheese  
 snapper with green peppercorn and green pepper  
-chard with goat’s cheese and white peppercorn  
-cauliflower with chorizo and maple syrup  
-rapini with garlic, orange, and sour feta  
-duck with potato, pistachio, and balinese peppercorn  
-mustard with fennel, persimmon, and wild rice  
 
-apple cake with buckwheat ice cream  
-earl grey merengue with date  
+cauliflower with harissa and maple syrup  
+porcini with juniper, bone marrow, and pasta
+duck with potato, pistachio, and balinese peppercorn  
+mustard frill with fennel, persimmon, and earl grey  
+
+apple cider cake with buckwheat ice cream
+cookies and tea  
 
 ### tea
 barley  
@@ -33,7 +30,7 @@ puehr
 genmaicha  
 chrysanthemum  
 
-### kefir
+### ferments
 grapefruit and coriander  
 turmeric and ginger  
 rosehip and chile  
