@@ -17,11 +17,11 @@ rye with onion, chestnut, and sheep’s cheese
 snapper with green peppercorn and green pepper  
 
 cauliflower with harissa and maple syrup  
-porcini with juniper, bone marrow, and pasta
+porcini with juniper, bone marrow, and pasta   
 duck with potato, pistachio, and balinese peppercorn  
 mustard frill with fennel, persimmon, and earl grey  
 
-apple cider cake with buckwheat ice cream
+apple cider cake with buckwheat ice cream   
 cookies and tea  
 
 ### tea
