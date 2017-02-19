@@ -17,11 +17,11 @@ rye with onion, chestnut, and sheep’s cheese
 snapper with green peppercorn and green pepper  
 
 cauliflower with harissa and maple syrup  
-morel with juniper and bone marrow
+morel with juniper and bone marrow  
 duck with potato, pistachio, and balinese peppercorn  
 mustard frill with fennel, persimmon, and puffed rice  
 
-red currant cake with buckwheat ice cream
+red currant cake with buckwheat ice cream  
 molasses and yogurt 
 
 ### tea
