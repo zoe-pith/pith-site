@@ -11,4 +11,4 @@ Jonah Reider is a cook, event curator, and entrepreneur based in New York. While
 <br/>
 [Sign up for Jonah's monthly newsletter](http://eepurl.com/bZ8dIf)  
 [Follow Jonah's dank Instagram @pithnyc](http://www.instagram.com/pithnyc)  
-[Contact Pith management for general inquiries](mailto:antonio@pith.space)
+[Email us for general inquiries](mailto:inquiries@pith.space)
