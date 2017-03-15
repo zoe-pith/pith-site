@@ -12,14 +12,14 @@ Please expect the meal to last roughly two hours. Because of the small and infre
 Unfortunately, at the moment we are unable to accept new reservations. [Join our mailing list](http://eepurl.com/bZ8dIf) or follow on [Instagram](http://instagram.com/pithnyc) to hear about new supper club dates or other Pith events. We always welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts, events, or offsite parties.  
 
 ### menu
-pumpkin with lardo and perilla  
+butternut with lardo and spring onion  
 rye with onion, chestnut, and sheep’s cheese  
 snapper with green peppercorn and green pepper  
 
-cauliflower with harissa and maple syrup  
+burrata with white asparagus and watercress  
 morel with juniper and bone marrow  
 duck with potato, pistachio, and balinese peppercorn  
 mustard frill with fennel, persimmon, and puffed rice  
 
 red currant cake with buckwheat ice cream  
-molasses and yogurt
+molasses and yogurt  
