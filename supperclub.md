@@ -13,7 +13,7 @@ Unfortunately, at the moment we are unable to accept new reservations. [Join our
 
 ### menu
 butternut with lardo and perilla   
-snapper with green peppercorn and green pepper  
+prawn with green peppercorn and green pepper  
 burrata with white asparagus and watercress  
 
 morel with juniper and bone marrow  
