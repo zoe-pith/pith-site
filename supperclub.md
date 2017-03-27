@@ -17,11 +17,11 @@ Please <tito-button event="pith/supper-club"></tito-button> to see available res
 fava with spring onion and ramp  
 butternut squash with lardo and perilla   
 spot prawn with green peppercorn and green pepper  
-burrata with white asparagus, watercress, and trout roe  
+burrata with white asparagus, watercress, and roe  
 
 morel with bone marrow and juniper  
 duck with rhubarb, potato, and pistachio  
 lettuce with hazelnut and bergamot  
 
 huckleberry and buckwheat  
-yogurt and molasses  
+yogurt and molasses
