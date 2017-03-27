@@ -11,7 +11,7 @@ Pith’s supper club is a weekly convivial dinner in a beautiful Brooklyn townho
 
 Please expect the meal to last roughly two hours. Because of the small and infrequent nature of the supper club, the menu is subject to change, **substitutions can not be accommodated**, and we pre-sell transferable but **non-refundable** tickets which cost $95 per person or $140 with a beverage pairing. This price is all inclusive and gratuities are politely declined. The Pith supper club is a proud cooperative with creative input and revenue shared between all those involved.  
 
-Please <tito-button event="pith/supper-club"></tito-button> to see available reservations. If there are few open seats, add yourself to the [waitlist](http://eepurl.com/bZ8dIf) or check again soon as new dates are added frequently. We always welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts, events, or offsite parties.  
+Please click <tito-button event="pith/supper-club"></tito-button> to see available reservations. If there are few open seats, add yourself to the [waitlist](http://eepurl.com/bZ8dIf) or check again soon as new dates are added frequently. We always welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts, events, or offsite parties.  
 
 ### menu
 fava with spring onion and ramp  
