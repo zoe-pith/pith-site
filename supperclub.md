@@ -18,9 +18,9 @@ chickweed with spring onion and caviar
 butternut squash with lemon balm and nasturtium   
 snapper with green peppercorn and green pepper    
 
-morel with bone marrow and juniper  
-beef with rhubarb, potato, and pistachio  
-lettuce with hazelnut and kumquat  
+morel with juniper and pea shoots  
+beef with potato and pistachio  
+endive with hazelnut and kumquat  
 
 huckleberry and buckwheat  
-pain d'amande and bergamot
+pain d'amande and fig
