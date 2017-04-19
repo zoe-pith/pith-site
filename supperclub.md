@@ -15,10 +15,10 @@ Please click <tito-button event="pith/supper-club"></tito-button> to see availab
 
 ### menu
 grilled fiddleheads and nasturtium on challah  
-beef tartare with muscat vinegar and horseradish leaf  
+beef tartare with vinegar and horseradish leaf  
   
 purslane with spring onion and caviar  
-razor clam crudo with green tomato and green peppercorn  
+razor clam crudo with green tomato and peppercorn  
 butternut squash with fava, honey, and lemon balm  
   
 black morels with juniper and pea shoots  
@@ -26,4 +26,4 @@ wagyu with rhubarb, potato, and pistachio
 endive with hazelnut and kumquat  
   
 molasses tart with green almond ice cream  
-black current sorbet with fennel meringue and pollen  
+black current sorbet with fennel pollen  
