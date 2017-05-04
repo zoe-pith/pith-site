@@ -9,7 +9,7 @@ published: true
 Creating and consuming food is cathartic and connecting. Pith is an eclectic effort to integrate dining into the realms of art, music, entertainment, and design. Our food is seasonal, social, and artful.
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
-Yes, chef!— [New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  
+Yes, chef! — [New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  
 A coveted reservation — [Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
 Fantastic, delicious, unexpected — [Stephen Colbert](https://www.youtube.com/watch?v=61fjFhCBnRc)  
 A new way for diners to engage around food — [Forbes](http://www.forbes.com/sites/eveturowpaul/2016/09/09/what-happens-when-the-dorm-room-chef-graduates/)  
