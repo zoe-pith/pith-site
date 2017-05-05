@@ -17,7 +17,7 @@ Please click <tito-button event="pith/supper-club"></tito-button> to see availab
 jonah's grandma's awesome challah   
 radishes and mayonnaise   
 fiddleheads and white miso  
-beef tartare with green strawberry and horseradish leaf  
+beef tartare with green strawberry  
 crab with asparagus and purple basil  
 
 spring onion with purslane and caviar  
