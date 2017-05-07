@@ -6,7 +6,9 @@ weight: 1
 published: true
 ---
 
-Creating and consuming food is cathartic and connecting. Pith is an eclectic effort to integrate dining into the realms of art, music, entertainment, and design. Our food is seasonal, social, and artful.
+Creating and consuming food is cathartic and connecting. Pith is an eclectic effort to integrate dining into the realms of art, music, entertainment, and design. Our food is seasonal, social, and artful.   
+
+[Join the mailing list for new ticket availability and updates!](http://eepurl.com/bZ8dIf)      
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
 Yes, chef! — [New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  
