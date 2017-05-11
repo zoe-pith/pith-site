@@ -14,9 +14,7 @@ Dinners begin promptly at 8:00pm, and our address is given after successfully ma
 Please click <tito-button event="pith/supper-club"></tito-button> to see available reservations. If there are few open seats, add yourself to the [waitlist](http://eepurl.com/bZ8dIf) or check again soon as new dates are added frequently. We always welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts, events, or offsite parties.  
 
 ### menu
-jonah's grandma's awesome challah   
-radishes and mayonnaise   
-fiddleheads and white miso  
+swordfish with ramp and tomatillo      
 beef tartare with green strawberry  
 crab with asparagus and purple basil  
 
@@ -29,4 +27,4 @@ beef with smoked tea and potato
 red oak lettuce with kumquat  
   
 huckleberry with cream and fennel  
-cacao and green almond  
+cacao and green almond
