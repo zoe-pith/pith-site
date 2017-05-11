@@ -24,7 +24,7 @@ butternut squash with fava, hazelnut, and honey
   
 black morels with juniper and pea tendrils  
 beef with smoked tea and potato  
-red oak lettuce with kumquat  
+sorrel with cherry and puffed rice
   
-huckleberry with cream and fennel  
-cacao and green almond
+huckleberry with cream and chamomile  
+cacao and green almond 
