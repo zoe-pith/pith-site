@@ -38,28 +38,39 @@
 }
 
 @font-face {
-  font-family: eureka;
-  src: url('../media/fonts/eureka/eureka.eot');
-  src: url('../media/fonts/eureka/eureka.eot?#iefix') format('embedded-opentype'),
-       url('../media/fonts/eureka/eureka.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+	font-family: 'eureka';
+	src: url('../media/fonts/eureka/Eureka-Medium.eot');
+	src: local('Eureka Medium'), local('Eureka-Medium'),
+		url('../media/fonts/eureka/Eureka-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../media/fonts/eureka/Eureka-Medium.woff2') format('woff2'),
+		url('../media/fonts/eureka/Eureka-Medium.woff') format('woff'),
+		url('../media/fonts/eureka/Eureka-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
 }
+
 @font-face {
-  font-family: eureka;
-  src: url('../media/fonts/eureka/eureka-medium.eot');
-  src: url('../media/fonts/eureka/eureka-medium.eot?#iefix') format('embedded-opentype'),
-       url('../media/fonts/eureka/eureka-medium.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
+	font-family: 'eureka';
+	src: url('../media/fonts/eureka/Eureka-RegularItalic.eot');
+	src: local('Eureka Regular Italic'), local('Eureka-RegularItalic'),
+		url('../media/fonts/eureka/Eureka-RegularItalic.eot?#iefix') format('embedded-opentype'),
+		url('../media/fonts/eureka/Eureka-RegularItalic.woff2') format('woff2'),
+		url('../media/fonts/eureka/Eureka-RegularItalic.woff') format('woff'),
+		url('../media/fonts/eureka/Eureka-RegularItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
 }
+
 @font-face {
-  font-family: eureka;
-  src: url('../media/fonts/eureka/eureka-regular-italic.eot');
-  src: url('../media/fonts/eureka/eureka-regular-italic.eot?#iefix') format('embedded-opentype'),
-       url('../media/fonts/eureka/eureka-regular-italic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
+	font-family: 'eureka';
+	src: url('../media/fonts/eureka/Eureka-Regular.eot');
+	src: local('Eureka Regular'), local('Eureka-Regular'),
+		url('../media/fonts/eureka/Eureka-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../media/fonts/eureka/Eureka-Regular.woff2') format('woff2'),
+		url('../media/fonts/eureka/Eureka-Regular.woff') format('woff'),
+		url('../media/fonts/eureka/Eureka-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 
