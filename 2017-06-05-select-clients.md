@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
 _Google     
 KitchenAid      
 Penguin Random House    
-Yves Saint Laurent_   
+Yves Saint Laurent_
