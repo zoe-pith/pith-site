@@ -23,7 +23,7 @@ mackerel with carrot and coriander
 asparagus with goat's milk and hazelnut  
 
 chanterelle with garlic scape and pecorino 
-duck with smoked tea and blueberry  
+sea bass with raddichio and turnip  
 mustard with plum and nasturtium  
   
 cherry with madeira and almond  
