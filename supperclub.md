@@ -22,8 +22,8 @@ onion with sunflower and caviar
 mackerel with carrot and coriander  
 asparagus with goat's milk and hazelnut  
 
-chanterelle with garlic scape and pecorino 
-sea bass with raddichio and turnip  
+chanterelle with garlic scape and pecorino  
+beef with beet and raddichio    
 mustard with plum and nasturtium  
   
 cherry with madeira and almond  
