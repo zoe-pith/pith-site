@@ -15,16 +15,16 @@ Please click <tito-button event="pith/supper-club"></tito-button> to see availab
 
 ### menu
 challah with saffron and radish  
-oyster with rhubarb and apple  
-fava with almond and lemon  
+oyster with with rhubarb and apple  
+fava with almond and mint  
 
 onion with sunflower and caviar  
-mackerel with carrot and coriander  
+fluke with cucumber and gooseberry  
 asparagus with goat's milk and hazelnut  
 
 chanterelle with garlic scape and pecorino  
-beef with beet and raddichio    
-mustard with plum and nasturtium  
+duck with eggplant, shishito and red currant    
+mustard with nectarine and fennel  
   
-cherry with madeira and almond  
+cherry with wine and cardamom  
 honey with melon and mint
