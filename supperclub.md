@@ -16,7 +16,7 @@ Please click <tito-button event="pith/supper-club"></tito-button> to see availab
 ### menu
 miche with mayonnaise and herbs   
 mackerel with charred tomato  
-purple string bean with almond and mint  
+summer beans with almond and mint  
   
 tomato with chive and trout roe  
 fluke with cucumber and gooseberry  
