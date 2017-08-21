@@ -14,17 +14,17 @@ Dinners begin promptly at 8:00pm, and our address is given after successfully ma
 Please click <tito-button event="pith/supper-club"></tito-button> to see available reservations. If there are few open seats, add yourself to the [waitlist](http://eepurl.com/bZ8dIf) or check again soon as new dates are added frequently. We always welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts, events, or offsite parties.  
 
 ### menu
-challah with saffron and radish  
-oyster with with rhubarb and apple  
-fava with almond and mint  
-
-onion with sunflower and caviar  
-fluke with cucumber and gooseberry  
-asparagus with goat's milk and hazelnut  
-
-chanterelle with garlic scape and pecorino  
-duck with eggplant, shishito and red currant    
-mustard with nectarine and fennel  
+miche with mayonnaise and herbs   
+mackerel with charred tomato  
+purple string bean with almond and mint  
   
-cherry with wine and cardamom  
-honey with melon and mint
+tomato with chive and trout roe  
+fluke with cucumber and gooseberry  
+carrot with goat's milk and hazelnut  
+  
+chanterelle with garlic scape and pecorino  
+beef with eggplant and tomatillo    
+mizuna with peach and pistachio  
+  
+cherry with hojicha and almond  
+blueberry with honey and mint
