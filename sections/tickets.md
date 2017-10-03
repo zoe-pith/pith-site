@@ -11,6 +11,6 @@ Fresh beans with anchovy and mint
 Celery root soup with hops and maple syrup   
 Cured fluke with cucumber and gooseberry  
 Herbaceous chanterelles and fresh pasta  
-Venison with chestnut and squash
+Venison with chestnut and squash  
 Crepe brûlée with fig and cardamom  
 Panna cotta with caramelized apple cider
