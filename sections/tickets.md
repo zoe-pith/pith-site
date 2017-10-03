@@ -5,7 +5,7 @@ Join our [mailing list](http://eepurl.com/bZ8dIf) to be notified about new Pith 
 # menu
 
 Charred sunchoke with caviar   
-Red chard and white peppercorn pastry
+Red chard and white peppercorn pastry     
 Raw mackerel with tomato and chile  
 Fresh beans with anchovy and mint  
 Celery root soup with hops and maple syrup   
