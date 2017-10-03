@@ -9,3 +9,5 @@
 # friends
 
 [Lily Fein](http://www.lilyfein.com/) \| [Jordan Walters](http://jordanwalters.com/) \| [Lauren Field](http://laurenfield.studio/) \| [Electric Objects](https://www.electricobjects.com/) \| [Cerise Zalganot](https://www.cerisezelenetz.com/) \| [Addis Goldman](https://www.addisgoldman.com/) \| [Max Simon](http://www.maxsimon.space/) \| [Dexter Callander III](http://dextercallender.com/info.html) \| [As It Stands](http://asitstands.la/) \| [Amos Jackson](https://amos.im/)
+
+&nbsp;

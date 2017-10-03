@@ -1,5 +1,5 @@
 # projects
-*Select Clients* Google | Yves Saint Laurent | Penguin Random House | KitchenAid | The Macallan | Stella Artois | Kellogg’s | Government of Ipoh, Malaysia | HEAPS Magazine | The New York Times | Gotham Bar and Grill
+*Select Clients* Google | Yves Saint Laurent | Penguin Random House | KitchenAid | The Macallan | Stella Artois | Kellogg’s | Government of Ipoh, Malaysia | HEAPS Magazine | Gotham Bar and Grill
 
 *Pith Aferschool* A weekly free after-school program, organized in collaboration with City Growers, for middle-schoolers in the Pith neighborhood. Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being!
 
