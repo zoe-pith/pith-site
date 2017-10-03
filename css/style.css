@@ -20,7 +20,6 @@ a {
 
 #content_wrapper {
 	height:650px;
-	overflow:hidden;
 	position:relative;
 	width:850px;
 }
@@ -49,13 +48,6 @@ header{
 	height:208px;
 	position:relative;
 	width:1010px;
-}
-
-#cut_off_bottle {
-	position:relative;
-	width:60px;
-	left:815px;
-	top:40px;
 }
 
 #main {
@@ -214,12 +206,11 @@ li span {
 #arrow {
 	border-top: 15px solid transparent;
 	border-bottom: 15px solid transparent;
-	border-left: 15px solid black;
-	content: "";
+	border-left: 15px solid white;
 	cursor: pointer;
 	height: 0;
 	position: absolute;
-	right: 10px;
+	right: -25px;
 	top: 325px;
 	width: 0;
 	z-index:1;
