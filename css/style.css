@@ -141,7 +141,6 @@ header{
 }
 
 .tito-ticket-name {
-	display: block;
 	width:100%;
 }
 
@@ -155,7 +154,7 @@ header{
 }
 
 .tito-ticket-description {
-	display: inline;
+	display: block;
 	font-style: italic;
 	line-height: 1.6em;
 }
