@@ -9,4 +9,4 @@ A coveted reservation — <a href="http://www.wsj.com/articles/for-columbia-stud
 A new way for diners to engage with food — <a href="http://www.forbes.com/sites/eveturowpaul/2016/09/09/what-happens-when-the-dorm-room-chef-graduates/">Forbes</a>    
 Impossible to stop eating — <a href="http://ruthreichl.com/2016/04/a-pithy-meal.html/">Ruth Reichl</a>    
 An artful experience – <a>[Food and Wine](http://www.foodandwine.com/chefs/why-these-chefs-are-creating-alternative-restaurant)</a>    
-Best New Chef: East (nominee) — <a>Tasty Awards 2017</a>
+Best New Chef: East (nominee) — <a>Tasty Awards</a>
