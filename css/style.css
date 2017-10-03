@@ -154,13 +154,14 @@ header{
 }
 
 .tito-ticket-description {
-	display: block;
+	display: inline;
 	font-style: italic;
 	line-height: 1.6em;
 }
 
 .tito-ticket-price-quantity-wrapper {
 	float: right;
+	display:inline;
 }
 
 input {
