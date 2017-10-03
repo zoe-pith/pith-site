@@ -8,4 +8,4 @@
 ![oysters](media/images/sea_food.jpg)
 # friends
 
-Lily Fein \| Jordan Walters \| Lauren Field \| Electric Objects \| Cerise Zalganot \| Addis Goldman \| Max Simon \| Jerry Lighting \| Dexter Callander III \| As It Stands \| Amos Jackson
+[Lily Fein](http://www.lilyfein.com/) \| [Jordan Walters](http://jordanwalters.com/) \| [Lauren Field](http://laurenfield.studio/) \| [Electric Objects](https://www.electricobjects.com/) \| [Cerise Zalganot](https://www.cerisezelenetz.com/) \| [Addis Goldman](https://www.addisgoldman.com/) \| [Max Simon](http://www.maxsimon.space/) \| [Dexter Callander III](http://dextercallender.com/info.html) \| [As It Stands](http://asitstands.la/) \| [Amos Jackson](https://amos.im/)
