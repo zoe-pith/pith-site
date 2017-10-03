@@ -141,6 +141,7 @@ header{
 }
 
 .tito-ticket-name {
+	display: block;
 	width:100%;
 }
 
