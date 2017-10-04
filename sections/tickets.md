@@ -1,5 +1,5 @@
 # reservations
-Pith meals are communal and intimate. Tickets are non-refundable but fully transferable, the menu is entirely subject to change, and we unfortunately cannot accommodate any dietary restrictions. We welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts or special events. 
+Tickets are non-refundable but fully transferable, the menu is entirely subject to change, and we unfortunately cannot accommodate any dietary restrictions. We welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts or special events. 
 
 <tito-widget event="pith/supper-club"></tito-widget>
 Join our [mailing list](http://eepurl.com/bZ8dIf) to be notified about new Pith dates and events. 
