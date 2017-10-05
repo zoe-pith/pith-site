@@ -188,6 +188,7 @@ button, input {
 #ms-sub-form input {
   		display:block;
   		width: 80%;
+  		margin-bottom: 10px;
 }
 #ms-sub-form button {
   		width: 50%;
