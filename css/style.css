@@ -168,7 +168,7 @@ button, input {
   font-size: 11pt;
 }
 
-.tito-wrapper button {
+button {
 		background:white;
 		padding:5px 8px 5px 8px;
 }
@@ -179,9 +179,15 @@ button, input {
 }
 
 #ms-sub-form label {
-		font-size: 13.5pt;
+  		display:block;
+		font-size: 13.5px;
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
+}
+
+#ms-sub-form input {
+  		display:block;
+  		width: 80%;
 }
 
 li span {
