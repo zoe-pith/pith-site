@@ -1,31 +1,35 @@
-var border_val;
-var scroll_offset;
+var arrow_colour;
+var scroll_amount;
 var arrow_fade_speed = 300;
 // 0 - left arrow visible, 1 - right arrow visible. Necessary to avoid swaps being called by momentum scrolling.
-var visible_arrow = true;
+var which_arrow_is_visible = 1;
 var scroll_length;
-var shrunk = 1;
+var current_responsive_state = 1;
+
 $(document).ready(function () {
 	if($(window).width() > 590) {
 
+		// Set up for initial window size.
 		adjust_responsive_arrows(true);
+
 		$(window).resize(function() {
+			// Checks if styling needs to be changed depending on window width.
 			adjust_responsive_arrows();
 		});
-		$("#content").scroll(function() {
 
+		$("#content").scroll(function() {
 			// Swaps arrow if scroll reaches the end and right arrow showing.
-			if($("#content").scrollLeft() == $("#content").prop("scrollWidth") - scroll_offset && visible_arrow) {
-				move_arrow_to_left();
+			if($("#content").scrollLeft() == $("#content").prop("scrollWidth") - scroll_amount && which_arrow_is_visible) {
+				swap_arrows("left");
 			// Swaps arrow if scroll returns to start and left arrow is showing.
-			} else if($("#content").scrollLeft() == 0 && !visible_arrow) {
-				move_arrow_to_right();
+			} else if($("#content").scrollLeft() == 0 && !which_arrow_is_visible) {
+				swap_arrows("right");
 			}
 		});
 
 		// Scrolls when clicked.
 		$("#arrow-right").click(function() {
-			right_handler();
+			arrow_click_handler("right");
 		});
 	}
 });
@@ -34,66 +38,58 @@ function adjust_responsive_arrows(first_try) {
 	if(first_try) {
 		$("#arrow-right").css({"opacity":"1"});
 	}
+	// If window is thin enough to switch to inner arrows but still has letterboxing.
+	if($(window).width() < 960 && $(window).width() >= 850 && current_responsive_state != 960) {
 
-	if($(window).width() < 960 && $(window).width() >= 850 && shrunk != 960) {
-		scroll_offset = $(window).width();
-		border_val = "15px solid black";
+		scroll_amount = $(window).width();
+		arrow_colour = "black";
 		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
-		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": border_val});
-		$("#arrow-left").css({"left": "calc(10px + ((100% - 850px) / 2 ))", "border-left": "none", "border-right": border_val});
-		shrunk = 960;
-	} else if($(window).width() < 850 && shrunk != 850) {
-		scroll_offset = $(window).width();
-		border_val = "15px solid black";
+		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": "15px solid "+ arrow_colour});
+		$("#arrow-left").css({"left": "calc(10px + ((100% - 850px) / 2 ))", "border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		current_responsive_state = 960;
+
+	// Window thin enough to not have black sidebars.
+	} else if($(window).width() < 850 && current_responsive_state != 850) {
+
+		scroll_amount = $(window).width();
+		arrow_colour = "black";
 		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
-		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": border_val});
-		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": border_val});
-		shrunk = 850;
-	} else if($(window).width() >= 960 && shrunk != 0){
-		border_val = "15px solid white";
-		scroll_offset = 850;
+		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": "15px solid "+ arrow_colour});
+		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		current_responsive_state = 850;
+
+	// Window wide enough for white arrows.
+	} else if($(window).width() >= 960 && current_responsive_state != 0){
+
+		arrow_colour = "white";
+		scroll_amount = 850;
 		$(".arrow").css({"position":"inherit", "top": "325px", "left": "auto", "right": "auto"});
-		$("#arrow-right").css({"border-right": "none", "border-left": border_val});
-		$("#arrow-left").css({"border-left": "none", "border-right": border_val});
-		shrunk = 0;
+		$("#arrow-right").css({"border-right": "none", "border-left": "15px solid "+ arrow_colour});
+		$("#arrow-left").css({"border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		current_responsive_state = 0;
 	}
-	scroll_length = $("#content").prop("scrollWidth") - scroll_offset;
+	// Sets proper scroll length, depending on window size.
+	scroll_length = $("#content").prop("scrollWidth") - scroll_amount;
 }
 
-function left_handler() {
+// Scrolls when arrow is clicked
+function arrow_click_handler(visible) {
 	$("#content").animate({
-			scrollLeft: 0
+			scrollLeft: visible == "right" ? scroll_length : 0
 	}, 1600, "easeOutCubic", function() {
 	});
 }
 
-function right_handler() {
-	$("#content").animate({
-			scrollLeft: scroll_length
-	}, 1600, "easeOutCubic", function() {
-	});
-}
-
-function move_arrow_to_left() {
-	$("#arrow-right").css({"cursor":"auto"});
-	$("#arrow-left").css({"cursor":"pointer"});
-	$("#arrow-right").animate({opacity: 0}, arrow_fade_speed, function() {
-		$("#arrow-left").animate({opacity: 1}, arrow_fade_speed, function() {
-			$("#arrow-right").off();
-			$("#arrow-left").click(left_handler);
+// Visually and logically swaps arrows.
+function swap_arrows(visible) {
+	hidden = visible == "right" ? "left" : "right";
+	$("#arrow-" + hidden).css({"cursor":"auto"});
+	$("#arrow-" + visible).css({"cursor":"pointer"});
+	$("#arrow-" + hidden).animate({opacity: 0}, arrow_fade_speed, function() {
+		$("#arrow-" + visible).animate({opacity: 1}, arrow_fade_speed, function() {
+			$("#arrow-" + hidden).off();
+			$("#arrow-" + visible).click(function(){arrow_click_handler(visible)});
 		});
 	});
-	visible_arrow = false;
-}
-
-function move_arrow_to_right() {
-	$("#arrow-right").css({"cursor":"pointer"});
-	$("#arrow-left").css({"cursor":"auto"});
-	$("#arrow-left").animate({opacity: 0}, arrow_fade_speed, function() {
-		$("#arrow-right").animate({opacity: 1}, arrow_fade_speed, function() {
-			$("#arrow-left").off();
-			$("#arrow-right").click(right_handler);
-		});
-	});
-	visible_arrow = true;
+	which_arrow_is_visible = visible == "right" ? 1 : 0;
 }
