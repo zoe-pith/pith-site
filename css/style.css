@@ -177,6 +177,7 @@ header{
 
 .tito-submit-wrapper {
 	height: 30px;
+	text-align: right;
 }
 
 button, input {
@@ -221,6 +222,10 @@ button, input {
 
 #ms-sub-form input[name="ms-email"] {
 	float: right;
+}
+
+.bottom_space {
+	clear: both;
 }
 
 li span {

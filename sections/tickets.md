@@ -11,4 +11,4 @@ Join our mailing list to receive updates and notifications about future ticket a
 <input type="submit" value="Subscribe" />
 </form>
 
-&nbsp;
+<p class="bottom_space">&nbsp;</p>
