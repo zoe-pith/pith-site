@@ -59,6 +59,8 @@ function right_handler() {
 }
 
 function move_arrow_to_left() {
+	$("#arrow-right").css({"cursor":"auto"});
+	$("#arrow-left").css({"cursor":"pointer"});
 	$("#arrow-right").animate({opacity: 0}, arrow_fade_speed, function() {
 		$("#arrow-left").animate({opacity: 1}, arrow_fade_speed, function() {
 			$("#arrow-right").off();
@@ -69,6 +71,8 @@ function move_arrow_to_left() {
 }
 
 function move_arrow_to_right() {
+	$("#arrow-right").css({"cursor":"pointer"});
+	$("#arrow-left").css({"cursor":"auto"});
 	$("#arrow-left").animate({opacity: 0}, arrow_fade_speed, function() {
 		$("#arrow-right").animate({opacity: 1}, arrow_fade_speed, function() {
 			$("#arrow-left").off();
