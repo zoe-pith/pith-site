@@ -53,6 +53,7 @@ header{
 
 #main {
 	display:grid;
+	display:-ms-grid;
 	grid-gap: 40px;
 	height:calc(650px - 208px);
 	width:100%;
@@ -62,6 +63,7 @@ header{
 	position:relative;
 	-ms-overflow-style: none; /*IE hide scrollbar*/
 	grid-row:1;
+	-ms-grid-row:1;
 	height:calc(650px - 208px);
 	min-width:295px;
 	overflow:auto;
