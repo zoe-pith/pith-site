@@ -156,6 +156,11 @@ header{
 	display:inline;
 }
 
+button {
+		background:white;
+		padding:5px 8px 5px 8px;
+}
+
 button, input {
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
@@ -166,11 +171,6 @@ button, input {
 
 .tito-wrapper button, .tito-wrapper input {
   font-size: 11pt;
-}
-
-button {
-		background:white;
-		padding:5px 8px 5px 8px;
 }
 
 .tito-wrapper input {
@@ -188,6 +188,9 @@ button {
 #ms-sub-form input {
   		display:block;
   		width: 80%;
+}
+#ms-sub-form button {
+  		width: 50%;
 }
 
 li span {
