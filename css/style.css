@@ -156,23 +156,32 @@ header{
 	display:inline;
 }
 
-.tito-wrapper input {
-	width:25px;
-	height:18px;
-}
-
-.tito-wrapper button, .tito-wrapper input {
+button, input {
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
-		font-size: 11pt;
 		border: 1px black solid;
 		-webkit-appearance: none;
 		font-family: 'Hoefler Text';
 }
 
+.tito-wrapper button, .tito-wrapper input {
+  font-size: 11pt;
+}
+
 .tito-wrapper button {
 		background:white;
 		padding:5px 8px 5px 8px;
+}
+
+.tito-wrapper input {
+	width:25px;
+	height:18px;
+}
+
+#ms-sub-form label {
+		font-size: 13.5pt;
+		-webkit-font-smoothing: antialiased;
+		text-rendering: optimizeLegibility;
 }
 
 li span {
