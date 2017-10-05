@@ -93,11 +93,11 @@ header{
 		text-decoration: none;
 	}
 
-#tickets-section {
+#tickets_section {
 	-ms-grid-column: 2;
 }
 
-#projects-section {
+#projects_section {
 	-ms-grid-column: 3;
 }
 
