@@ -232,6 +232,7 @@ li span {
 	border-bottom: 15px solid transparent;
 	cursor: pointer;
 	height: 0;
+	top: 325px;
 	width: 0;
 	z-index:1;
 }
@@ -239,7 +240,6 @@ li span {
 	border-right: 15px solid white;
 	border-left: none;
 	margin-right: 25px;
-	top: 325px;
 	opacity: 0;
 }
 
@@ -247,7 +247,6 @@ li span {
 	border-left: 15px solid white;
 	border-right: none;
 	margin-left: 25px;
-	top: 325px;
 	opacity: 0;
 }
 

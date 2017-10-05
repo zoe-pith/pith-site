@@ -4,12 +4,14 @@ var arrow_fade_speed = 300;
 // 0 - left arrow visible, 1 - right arrow visible. Necessary to avoid swaps being called by momentum scrolling.
 var visible_arrow = true;
 var scroll_length;
-
+var shrunk = 1;
 $(document).ready(function () {
 	if($(window).width() > 590) {
 
-		set_up_vars();
-
+		adjust_responsive_arrows(true);
+		$(window).resize(function() {
+			adjust_responsive_arrows();
+		});
 		$("#content").scroll(function() {
 
 			// Swaps arrow if scroll reaches the end and right arrow showing.
@@ -28,18 +30,32 @@ $(document).ready(function () {
 	}
 });
 
-function set_up_vars() {
-	if($(window).width() < 960) {
-		border_val = "15px solid black";
+function adjust_responsive_arrows(first_try) {
+	if(first_try) {
+		$("#arrow-right").css({"opacity":"1"});
+	}
+
+	if($(window).width() < 960 && $(window).width() >= 850 && shrunk != 960) {
 		scroll_offset = $(window).width();
-		$(".arrow").css({"position":"absolute", "top": "calc(50% - 7px)"});
-		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": border_val, "opacity": "1"});
+		border_val = "15px solid black";
+		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
+		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": border_val});
+		$("#arrow-left").css({"left": "calc(10px + ((100% - 850px) / 2 ))", "border-left": "none", "border-right": border_val});
+		shrunk = 960;
+	} else if($(window).width() < 850 && shrunk != 850) {
+		scroll_offset = $(window).width();
+		border_val = "15px solid black";
+		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
+		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": border_val});
 		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": border_val});
-	} else {
+		shrunk = 850;
+	} else if($(window).width() >= 960 && shrunk != 0){
 		border_val = "15px solid white";
 		scroll_offset = 850;
-		$("#arrow-right").css({"border-right": "none", "border-left": border_val, "opacity": "1"});
+		$(".arrow").css({"position":"inherit", "top": "325px", "left": "auto", "right": "auto"});
+		$("#arrow-right").css({"border-right": "none", "border-left": border_val});
 		$("#arrow-left").css({"border-left": "none", "border-right": border_val});
+		shrunk = 0;
 	}
 	scroll_length = $("#content").prop("scrollWidth") - scroll_offset;
 }
