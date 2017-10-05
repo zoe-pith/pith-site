@@ -1,7 +1,7 @@
 </section>
 </div>
 <div id="bottom_gradient"></div>
-<div id="arrow"></div>
 </div>
+<div class="arrow" id="arrow-right"></div>
 </body>
 </html>

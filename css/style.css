@@ -109,7 +109,7 @@ header{
 }
 
 .tito-wrapper {
-		margin-bottom:-20px;
+		margin-bottom:-27px;
 }
 
 .tito-ticket-list {
@@ -227,17 +227,28 @@ li span {
 	width: 52px;
 }*/
 
-#arrow {
+.arrow {
 	border-top: 15px solid transparent;
 	border-bottom: 15px solid transparent;
-	border-left: 15px solid white;
 	cursor: pointer;
 	height: 0;
-	position: absolute;
-	right: -25px;
-	top: 325px;
 	width: 0;
 	z-index:1;
+}
+#arrow-left {
+	border-right: 15px solid white;
+	border-left: none;
+	margin-right: 25px;
+	top: 325px;
+	opacity: 0;
+}
+
+#arrow-right {
+	border-left: 15px solid white;
+	border-right: none;
+	margin-left: 25px;
+	top: 325px;
+	opacity: 0;
 }
 
 @font-face {
@@ -366,7 +377,7 @@ li span {
 			margin:0;
 		}
 
-		#arrow {
+		.arrow {
 			display:none;
 		}
 	}

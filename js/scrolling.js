@@ -1,5 +1,4 @@
 var border_val;
-var arrow_offset;
 var scroll_offset;
 var arrow_fade_speed = 300;
 // 0 - left arrow visible, 1 - right arrow visible. Necessary to avoid swaps being called by momentum scrolling.
@@ -23,23 +22,24 @@ $(document).ready(function () {
 		});
 
 		// Scrolls when clicked.
-		$("#arrow").click(function() {
+		$("#arrow-right").click(function() {
 			right_handler();
 		});
 	}
 });
 
 function set_up_vars() {
-	if($(window).width() < 900) {
+	if($(window).width() < 960) {
 		border_val = "15px solid black";
-		arrow_offset = "10px";
 		scroll_offset = $(window).width();
-		$("#arrow").css({"left": "auto", "right": arrow_offset, "border-right": "none", "border-left": border_val});
+		$(".arrow").css({"position":"absolute", "top": "calc(50% - 7px)"});
+		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": border_val, "opacity": "1"});
+		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": border_val});
 	} else {
 		border_val = "15px solid white";
-		arrow_offset = "-25px";
 		scroll_offset = 850;
-		$("#arrow").css({"left": "auto", "right": arrow_offset, "border-right": "none", "border-left": border_val});
+		$("#arrow-right").css({"border-right": "none", "border-left": border_val, "opacity": "1"});
+		$("#arrow-left").css({"border-left": "none", "border-right": border_val});
 	}
 	scroll_length = $("#content").prop("scrollWidth") - scroll_offset;
 }
@@ -59,22 +59,20 @@ function right_handler() {
 }
 
 function move_arrow_to_left() {
-	$("#arrow").animate({opacity: 0}, arrow_fade_speed, function() {
-		$("#arrow").css({"right": "auto", "left": arrow_offset, "border-left": "none", "border-right": border_val});
-		$("#arrow").animate({opacity: 1}, arrow_fade_speed, function() {
-			$("#arrow").off();
-			$("#arrow").click(left_handler);
+	$("#arrow-right").animate({opacity: 0}, arrow_fade_speed, function() {
+		$("#arrow-left").animate({opacity: 1}, arrow_fade_speed, function() {
+			$("#arrow-right").off();
+			$("#arrow-left").click(left_handler);
 		});
 	});
 	visible_arrow = false;
 }
 
 function move_arrow_to_right() {
-	$("#arrow").animate({opacity: 0}, arrow_fade_speed, function() {
-		$("#arrow").css({"left": "auto", "right": arrow_offset, "border-right": "none", "border-left": border_val});
-		$("#arrow").animate({opacity: 1}, arrow_fade_speed, function() {
-			$("#arrow").off();
-			$("#arrow").click(right_handler);
+	$("#arrow-left").animate({opacity: 0}, arrow_fade_speed, function() {
+		$("#arrow-right").animate({opacity: 1}, arrow_fade_speed, function() {
+			$("#arrow-left").off();
+			$("#arrow-right").click(right_handler);
 		});
 	});
 	visible_arrow = true;

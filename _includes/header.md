@@ -15,6 +15,7 @@
 	</head>
 
 	<body>
+		<div class="arrow" id="arrow-left"></div>
 		<div id="content_wrapper">
 			<div id="content">
 				<header>
