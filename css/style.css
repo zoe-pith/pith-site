@@ -108,7 +108,7 @@ header{
 }
 
 .tito-wrapper {
-		margin-bottom:30px;
+		margin-bottom:-20px;
 }
 
 .tito-ticket-list {
@@ -156,12 +156,12 @@ header{
 	display:inline;
 }
 
-input {
+.tito-wrapper input {
 	width:25px;
 	height:18px;
 }
 
-button, input {
+.tito-wrapper button, .tito-wrapper input {
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
 		font-size: 11pt;
@@ -170,7 +170,7 @@ button, input {
 		font-family: 'Hoefler Text';
 }
 
-button {
+.tito-wrapper button {
 		background:white;
 		padding:5px 8px 5px 8px;
 }
