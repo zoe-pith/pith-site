@@ -189,13 +189,14 @@ button, input {
 #ms-sub-form input {
   		display:block;
   		font-size: 13.5px;
-  		width: 80%;
+  		width: 60%;
   		margin-bottom: 10px;
+  		padding: 4px;
 }
 #ms-sub-form input[type="submit"] {
   		background:white;
 		padding:5px 8px 5px 8px;
-  		width: 50%;
+  		width: 30%;
 }
 
 li span {
