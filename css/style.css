@@ -344,6 +344,7 @@ li span {
 			left:0;
 			overflow-y:scroll;
 			overflow-x:hidden;
+			-webkit-overflow-scrolling: touch;
 			position:absolute;
 			top:0;
 			width:100%;
