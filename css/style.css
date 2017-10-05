@@ -191,7 +191,7 @@ button, input {
   		width: 80%;
   		margin-bottom: 10px;
 }
-#ms-sub-form button {
+#ms-sub-form input[type="submit"] {
   		background:white;
 		padding:5px 8px 5px 8px;
   		width: 50%;
