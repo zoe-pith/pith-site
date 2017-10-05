@@ -20,6 +20,7 @@ a {
 
 #content_wrapper {
 	height:650px;
+  	overflow: hidden;
 	position:relative;
 	width:850px;
 }
