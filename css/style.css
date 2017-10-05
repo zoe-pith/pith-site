@@ -157,7 +157,7 @@ header{
 	display:inline;
 }
 
-button {
+.tito-wrapper button {
 		background:white;
 		padding:5px 8px 5px 8px;
 }
@@ -192,6 +192,8 @@ button, input {
   		margin-bottom: 10px;
 }
 #ms-sub-form button {
+  		background:white;
+		padding:5px 8px 5px 8px;
   		width: 50%;
 }
 
