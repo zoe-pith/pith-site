@@ -171,7 +171,12 @@ header{
 
 .tito-wrapper button {
 		background:white;
+		float: right;
 		padding:5px 8px 5px 8px;
+}
+
+.tito-submit-wrapper {
+	height: 30px;
 }
 
 button, input {
@@ -181,10 +186,11 @@ button, input {
 		border-radius: 3px;
 		-webkit-appearance: none;
 		font-family: 'Hoefler Text';
+		width: 90px;
 }
 
 .tito-wrapper button, .tito-wrapper input {
-  font-size: 11pt;
+  font-size: 13.5px;
 }
 
 .tito-wrapper input {
@@ -200,16 +206,17 @@ button, input {
 }*/
 
 #ms-sub-form input {
-  		display:inline;
-  		font-size: 13.5px;
-  		width: 45%;
-  		margin-bottom: 10px;
-  		padding: 4px;
+	display:inline;
+	font-size: 13.5px;
+	width: 45%;
+	margin-bottom: 10px;
+	padding: 4px;
 }
 #ms-sub-form input[type="submit"] {
-  		background:white;
-		padding:5px 8px 5px 8px;
-  		width: 30%;
+	background:white;
+	float: right;
+	padding:5px 8px 5px 8px;
+	width: 90px;
 }
 
 #ms-sub-form input[name="ms-email"] {
@@ -341,7 +348,7 @@ li span {
 		.tito-ticket {
 			margin-bottom: 15px;
 		}
-		
+
 		body, html {
 			-webkit-overflow-scrolling: auto;
 		}
