@@ -179,12 +179,12 @@ button, input {
 	height:18px;
 }
 
-#ms-sub-form label {
+/*#ms-sub-form label {
   		display:block;
 		font-size: 13.5px;
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
-}
+}*/
 
 #ms-sub-form input {
   		display:block;
