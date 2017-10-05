@@ -41,7 +41,7 @@ function adjust_responsive_arrows(first_try) {
 	// If window is thin enough to switch to inner arrows but still has letterboxing.
 	if($(window).width() < 960 && $(window).width() >= 850 && current_responsive_state != 960) {
 
-		scroll_amount = $(window).width();
+		scroll_amount = 850;
 		arrow_colour = "black";
 		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
 		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": "15px solid "+ arrow_colour});
