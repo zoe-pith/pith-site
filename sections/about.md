@@ -3,14 +3,14 @@
 Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club is held in a beautiful townhouse in Brooklyn. Ten guests get to know one another during an elegant meal.
 # menu
 Charred sunchoke with caviar      
-Red chard and bone marrow pastry     
-Celeriac soup with black trumpet mushrooms   
+Bone marrow and olive pastry     
+Celeriac soup with crispy black trumpets   
 Bay scallop crudo with tomatillo and ground cherry   
-Cauliflower with ricotta and lemon   
-Buttery crab with squash and kohlrabi   
+Cauliflower with ricotta and oregano   
+Buttery crab with lemon and kohlrabi   
 Pork chop with polenta and parsley   
-Radicchio with orange and smoked olive oil   
-Charred pear tart with white chocolate ice cream   
+Radicchio with orange and pistachio
+Pear tart with white chocolate ice cream   
 Panna cotta with caramelized apple cider    
 # select press
 
