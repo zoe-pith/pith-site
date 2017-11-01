@@ -9,7 +9,7 @@ Bay scallop crudo with tomatillo and ground cherry
 Cauliflower with ricotta and oregano   
 Buttery crab with lemon and kohlrabi   
 Pork chop with polenta and parsley   
-Radicchio with orange and pistachio
+Radicchio with orange and pistachio    
 Pear tart with white chocolate ice cream   
 Panna cotta with caramelized apple cider    
 # select press
