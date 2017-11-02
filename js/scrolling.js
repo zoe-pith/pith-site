@@ -67,6 +67,8 @@ function adjust_responsive_arrows(first_try) {
 		$("#arrow-right").css({"border-right": "none", "border-left": "20px solid "+ arrow_colour});
 		$("#arrow-left").css({"border-left": "none", "border-right": "20px solid "+ arrow_colour});
 		current_responsive_state = 0;
+	} else if($(window).width() < 850) {
+		scroll_amount = $(window).width();
 	}
 	// Sets proper scroll length, depending on window size.
 	scroll_length = $("#content").prop("scrollWidth") - scroll_amount;
