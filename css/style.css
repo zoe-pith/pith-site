@@ -260,23 +260,23 @@ li span {
 }*/
 
 .arrow {
-	border-top: 15px solid transparent;
-	border-bottom: 15px solid transparent;
+	border-top: 20px solid transparent;
+	border-bottom: 20px solid transparent;
 	cursor: pointer;
 	height: 0;
-	top: 325px;
+	top: 330px;
 	width: 0;
 	z-index:1;
 }
 #arrow-left {
-	border-right: 15px solid white;
+	border-right: 20px solid white;
 	border-left: none;
 	margin-right: 25px;
 	opacity: 0;
 }
 
 #arrow-right {
-	border-left: 15px solid white;
+	border-left: 20px solid white;
 	border-right: none;
 	margin-left: 25px;
 	opacity: 0;
