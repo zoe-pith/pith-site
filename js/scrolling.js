@@ -43,9 +43,9 @@ function adjust_responsive_arrows(first_try) {
 
 		scroll_amount = 850;
 		arrow_colour = "black";
-		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
-		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": "15px solid "+ arrow_colour});
-		$("#arrow-left").css({"left": "calc(10px + ((100% - 850px) / 2 ))", "border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		$(".arrow").css({"position":"absolute", "top": "calc(50% - 20px)"});
+		$("#arrow-right").css({"left": "calc(100% - 50px - ((100% - 850px) / 2 ))","border-right": "none", "border-left": "20px solid "+ arrow_colour});
+		$("#arrow-left").css({"left": "calc(10px + ((100% - 850px) / 2 ))", "border-left": "none", "border-right": "20px solid "+ arrow_colour});
 		current_responsive_state = 960;
 
 	// Window thin enough to not have black sidebars.
@@ -53,19 +53,19 @@ function adjust_responsive_arrows(first_try) {
 
 		scroll_amount = $(window).width();
 		arrow_colour = "black";
-		$(".arrow").css({"position":"absolute", "top": "calc(50% - 15px)"});
-		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": "15px solid "+ arrow_colour});
-		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		$(".arrow").css({"position":"absolute", "top": "calc(50% - 20px)"});
+		$("#arrow-right").css({"left": "calc(100% - 50px)","border-right": "none", "border-left": "20px solid "+ arrow_colour});
+		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": "20px solid "+ arrow_colour});
 		current_responsive_state = 850;
 
-	// Window wide enough for orange arrows.
+	// Window wide enough for white arrows.
 	} else if($(window).width() >= 960 && current_responsive_state != 0){
 
 		arrow_colour = "white";
 		scroll_amount = 850;
-		$(".arrow").css({"position":"inherit", "top": "325px", "left": "auto", "right": "auto"});
-		$("#arrow-right").css({"border-right": "none", "border-left": "15px solid "+ arrow_colour});
-		$("#arrow-left").css({"border-left": "none", "border-right": "15px solid "+ arrow_colour});
+		$(".arrow").css({"position":"inherit", "top": "330px", "left": "auto", "right": "auto"});
+		$("#arrow-right").css({"border-right": "none", "border-left": "20px solid "+ arrow_colour});
+		$("#arrow-left").css({"border-left": "none", "border-right": "20px solid "+ arrow_colour});
 		current_responsive_state = 0;
 	}
 	// Sets proper scroll length, depending on window size.
