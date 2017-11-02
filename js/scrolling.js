@@ -58,10 +58,10 @@ function adjust_responsive_arrows(first_try) {
 		$("#arrow-left").css({"left": "10px", "border-left": "none", "border-right": "15px solid "+ arrow_colour});
 		current_responsive_state = 850;
 
-	// Window wide enough for white arrows.
+	// Window wide enough for orange arrows.
 	} else if($(window).width() >= 960 && current_responsive_state != 0){
 
-		arrow_colour = "white";
+		arrow_colour = "#BB6D07";
 		scroll_amount = 850;
 		$(".arrow").css({"position":"inherit", "top": "325px", "left": "auto", "right": "auto"});
 		$("#arrow-right").css({"border-right": "none", "border-left": "15px solid "+ arrow_colour});
