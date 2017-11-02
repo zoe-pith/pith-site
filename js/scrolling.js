@@ -61,7 +61,7 @@ function adjust_responsive_arrows(first_try) {
 	// Window wide enough for orange arrows.
 	} else if($(window).width() >= 960 && current_responsive_state != 0){
 
-		arrow_colour = "#BB6D07";
+		arrow_colour = "white";
 		scroll_amount = 850;
 		$(".arrow").css({"position":"inherit", "top": "325px", "left": "auto", "right": "auto"});
 		$("#arrow-right").css({"border-right": "none", "border-left": "15px solid "+ arrow_colour});

@@ -5,7 +5,7 @@
 body {
 	align-items: center;
 	background-color: black;
-	background-image: url('../media/images/tile.jpg');
+	background-image: url('../media/images/tile.png');
 	background-size: 200px;
 	background-position: 0 250px;
 	display:flex;
@@ -269,14 +269,14 @@ li span {
 	z-index:1;
 }
 #arrow-left {
-	border-right: 15px solid #BB6D07;
+	border-right: 15px solid white;
 	border-left: none;
 	margin-right: 25px;
 	opacity: 0;
 }
 
 #arrow-right {
-	border-left: 15px solid #BB6D07;
+	border-left: 15px solid white;
 	border-right: none;
 	margin-left: 25px;
 	opacity: 0;
