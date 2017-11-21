@@ -3,6 +3,8 @@
 
 *Pith Aferschool* A weekly free after-school program, organized in collaboration with City Growers, for middle-schoolers in the Pith neighborhood. Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being!
 
+*Speaking Engagements* Georgetown University | TEDx | Pangkor International Development Dialogue | Food Loves Tech | Brainfood | Spoon University | L'Oréal | Meet Heaps
+
 *Tokyo* A partnership with HEAPS Magazine. Collaboration with local ceramic artists, designers, farmers, and chefs. Beef tartare with fish sauce and hijiki. Summer deer with squash and chestnut. Eggplant with pistachio and wasabi leaves. Hojicha ice cream.
 
 *Down Under* A series of pop-ups in Sydney, Melbourne, and Auckland, in partnership with KitchenAid. Pomelo, stone pine gin, lemon myrtle merengue. Oyster, red currant, black peppercorn, finger lime. Lamb, quandong, eucalyptus. Mulberry caramel cake.
