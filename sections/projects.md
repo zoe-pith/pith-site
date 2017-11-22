@@ -1,11 +1,9 @@
 # projects
-*Select Clients* Google | LG Signature | Yves Saint Laurent | Penguin Random House | KitchenAid | The Macallan | Stella Artois | Kellogg’s | Government of Ipoh, Malaysia | HEAPS Magazine | Gotham Bar and Grill
+*Select Clients* Google &#124; LG Signature &#124; Yves Saint Laurent &#124; Penguin Random House &#124; KitchenAid &#124; The Macallan &#124; Stella Artois &#124; Kellogg’s &#124; Government of Ipoh, Malaysia &#124; HEAPS Magazine &#124; Gotham Bar and Grill
 
 *Pith Aferschool* A weekly free after-school program, organized in collaboration with City Growers, for middle-schoolers in the Pith neighborhood. Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being!
 
-*Select Clients* Google | LG Signature | Yves Saint Laurent | Penguin Random House | KitchenAid | The Macallan | Stella Artois | Kellogg’s | Government of Ipoh, Malaysia | HEAPS Magazine | Gotham Bar and Grill
-
-*Speaking Engagements* Georgetown University | TEDx | Pangkor International Development Dialogue | Food Loves Tech | Brainfood | Spoon University | L'Oréal | Meet Heaps    
+*Speaking Engagements* Georgetown University &#124; TEDx &#124; Pangkor International Development Dialogue &#124; Food Loves Tech &#124; Brainfood &#124; Spoon University &#124; L'Oréal &#124; Meet Heaps    
 
 *Tokyo* A partnership with HEAPS Magazine. Collaboration with local ceramic artists, designers, farmers, and chefs. Beef tartare with fish sauce and hijiki. Summer deer with squash and chestnut. Eggplant with pistachio and wasabi leaves. Hojicha ice cream.
 
