@@ -4,15 +4,15 @@ Pith is an eclectic pursuit of social and artful dining experiences. Our communa
 # menu
 Sunchoke charred with caviar      
 Chesnut and leek pastry     
-Scallops seared with greens      
-Celeriac soup with black trumpet mushrooms     
-Fluke raw with cucumber and ground cherry   
-Cauliflower with goat's milk and oregano   
-Buttery crab with kohlrabi and clovers   
-Beef with black garlic and parsley   
-Radicchio with orange and pistachio    
-Pear tart with white chocolate ice cream   
-Panna cotta with caramelized apple cider    
+Bay scallops with dried tomatos and chiles      
+Celeriac soup with sunflower sprouts     
+Fluke raw with cucumber and concord grape      
+Beets with feta and bay laurel      
+Buttery crab with kohlrabi and shiso    
+Beef with black garlic and black trumpet     
+Endive with fennel and orange     
+Pear with cocoa and cardamom   
+Panna cotta with berries and granita    
 # select press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)   
