@@ -1,6 +1,6 @@
 # about
 
-Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club is held in a beautiful townhouse in Brooklyn for just ten guests each evening.  
+Pith is an eclectic pursuit of social and artful dining. Our communal supper club is held in a beautiful townhouse in Brooklyn for just ten guests each evening.  
 # menu
 Sunchoke charred with caviar      
 Chesnut and leek pastry     
