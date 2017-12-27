@@ -3,8 +3,9 @@
 Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club is held in a beautiful townhouse in Brooklyn for just ten guests each evening.  
 # menu
 Sunchoke charred with caviar      
-Chesnut and leek pastry     
-Bay scallops with dried tomatos and chiles      
+Polenta toast with miso mayonnaise   
+Chesnut and squash pastry     
+Mackerel with marjoram and dried tomatos      
 Celeriac soup with sunflower sprouts     
 Fluke raw with cucumber and concord grape      
 Beets with feta and bay laurel      
