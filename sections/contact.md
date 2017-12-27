@@ -8,6 +8,6 @@
 ![oysters](media/images/sea_food.jpg)
 # friends
 
-[Lily Fein](http://www.lilyfein.com/) \| [Cerise Zelenetz](https://www.cerisezelenetz.com/) \| [Amos Jackson](https://amos.im/) \| [Addis Goldman](https://www.addisgoldman.com/) \| [Max Simon](http://www.maxsimon.space/) \| [Jordan Walters](http://jordanwalters.com/) \| [Electric Objects](https://www.electricobjects.com/) \| [Lauren Field](http://laurenfield.studio/) \| [Dexter Callander III](http://vimeo.com/dextercallender) \| [As It Stands](http://asitstands.la/) 
+[Lily Fein](http://www.lilyfein.com/) \| [Cerise Zelenetz](https://www.cerisezelenetz.com/) \| [Amos Jackson](https://amos.im/) \| [Addis Goldman](https://www.addisgoldman.com/) \| [Max Simon](http://www.maxsimon.space/) \| [Jordan Walters](http://jordanwalters.com/) \| [Electric Objects](https://www.electricobjects.com/) \| [Lauren Field](http://laurenfield.studio/) \| [Dexter Callander III](http://vimeo.com/dextercallender) \| [As It Stands](http://asitstands.la/)  \| [Max Manufactory](http://maxmanufactory.com/)  
 
 &nbsp;
