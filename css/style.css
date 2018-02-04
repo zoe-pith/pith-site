@@ -133,6 +133,7 @@ header{
 	font-weight:normal;
 	list-style-type: none;
 	padding:0;
+	margin: 0;
 	text-rendering: optimizeLegibility;
 }
 
@@ -140,7 +141,7 @@ header{
 		display:none;
 }
 
-.tito-ticket-price-quantity-wrapper, .tito-ticket-price-quantity, .tito-ticket-price {
+.tito-ticket-price-quantity-wrapper, .tito-ticket-quantity, .tito-ticket-price-quantity, .tito-ticket-price {
 	display:inline;
 }
 
@@ -150,15 +151,12 @@ header{
 
 .tito-ticket-name {
 	width:100%;
-}
-
-.tito-ticket-quantity  {
-	display: inline;
+	display: block;
 }
 
 .tito-ticket {
-	margin-bottom:5px;
-	line-height:1.5em;
+	margin-bottom:14px;
+	line-height:1.6em;
 }
 
 .tito-ticket-description {
