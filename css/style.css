@@ -150,11 +150,13 @@ header{
 }
 
 .tito-ticket-name {
-	width:100%;
+	/*width:100%;*/
 	display: block;
 }
 
 .tito-ticket {
+	display: flex;
+	justify-content: space-between;
 	margin-bottom:14px;
 	line-height:1.6em;
 }
@@ -166,7 +168,6 @@ header{
 }
 
 .tito-ticket-price-quantity-wrapper {
-	float: right;
 	display:inline;
 }
 
