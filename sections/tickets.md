@@ -3,10 +3,11 @@ Tickets are non-refundable but fully transferable, the menu is entirely subject 
 
 <tito-widget event="pith/supper-club"></tito-widget>
 Join our mailing list to receive updates and notifications about future ticket availability:
-<form action="https://app.moosend.com/subscribe/9eaa3fab-31d9-4be1-9e41-daccac6ccf29" method="post" id="ms-sub-form" target="_blank">
-<input type="text" placeholder="Name" name="ms-name" id="name" required />
-<input type="text" placeholder="Email" name="ms-email" id="email" />
-<input type="submit" value="Subscribe" />
+<form accept-charset="UTF-8" action="http://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
+	<input name="utf8" type="hidden" value="✓">
+	<input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
+	<input placeholder="Name" id="name" name="interested_user[name]" type="text">
+    <input placeholder="Email" id="email" name="interested_user[email]" type="email">
+    <input type="submit" name="commit" value="Subscribe" />
 </form>
-
 <p class="bottom_space">&nbsp;</p>
