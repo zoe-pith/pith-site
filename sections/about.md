@@ -7,8 +7,8 @@ Coriander berries with diver scallops
 Squash charred with squash seed oil    
 Beef tartare with crispy black trumpets      
 Spring onion custard with chickweed and trout roe    
-Mackerel with fermented green peppers     
-Beets with feta and bay laurel      
+Mackerel with apple and peppers     
+Peas with lardo and bay laurel      
 Halibut with morels and pink vinegar          
 Duck with parsnip and plum     
 Millet with cacao and chestnut     
