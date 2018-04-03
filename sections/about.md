@@ -3,7 +3,7 @@
 Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club is held in a beautiful townhouse in Brooklyn for just ten guests each evening.  
 # menu      
 Foie gras with maple syrup   
-Scallops with mint and pine nut   
+Scallop with mint and pine nut   
 Beef tartare with celery        
 Peas with chamomile and sheep's milk     
 Snapper cured in sake kasu with kohlrabi   
