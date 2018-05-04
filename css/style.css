@@ -143,10 +143,12 @@ header{
 
 .tito-ticket-price-quantity-wrapper, .tito-ticket-quantity, .tito-ticket-price-quantity, .tito-ticket-price {
 	display:inline;
+	white-space:nowrap;
 }
 
 .tito-ticket-name-wrapper {
 	display:inline;
+	width: 100%;
 }
 
 .tito-ticket-name {
@@ -165,10 +167,6 @@ header{
 	display: inline;
 	font-style: italic;
 	line-height: 1.6em;
-}
-
-.tito-ticket-price-quantity-wrapper {
-	display:inline;
 }
 
 .tito-wrapper button {
