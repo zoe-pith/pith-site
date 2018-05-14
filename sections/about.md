@@ -4,14 +4,14 @@ Pith is an eclectic pursuit of social and artful dining experiences. Our communa
 # menu      
 Foie gras with maple syrup   
 Scallop with mint and pine nut   
-Beef tartare with celery        
-Peas with chamomile and sheep's milk     
-Snapper cured in sake kasu with kohlrabi   
-Asparagus with bearnaise and wood sorrel     
-Halibut with hen-of-the-woods and sunchoke          
-Beef with ramps and lapsang souchong        
-Blood orange pavlova     
-Chocolate ganache with milk granita      
+Lamb, green garlic
+Bread, butter, ramps
+Peas, sheep's yogurt, pistachio     
+Mackerel, miso, burnt onion   
+Halibut with asparagus and carraway          
+Duck, dandelion, black currant     
+Rhubarb, fennel pollen      
+Chocolate, milk    
 # select press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)   
