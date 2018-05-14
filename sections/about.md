@@ -4,8 +4,8 @@ Pith is an eclectic pursuit of social and artful dining experiences. Our communa
 # menu      
 Foie gras with maple syrup   
 Scallop with mint and pine nut   
-Lamb, green garlic
-Bread, butter, ramps
+Lamb, green garlic     
+Bread, butter, ramps     
 Peas, sheep's yogurt, pistachio     
 Mackerel, miso, burnt onion   
 Halibut with asparagus and carraway          
