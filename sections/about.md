@@ -1,17 +1,17 @@
 # about
 
-Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club is held in a beautiful townhouse in Brooklyn for just ten guests each evening.  
+Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club pops up in venues around the world, serving a seasonal tasting menu for just ten guests each evening.   
 # menu      
-Foie gras with maple syrup   
-Scallop with mint and pine nut   
-Lamb, green garlic     
-Bread, butter, ramps     
-Peas, sheep's yogurt, pistachio     
-Mackerel, miso, burnt onion   
-Halibut with asparagus and carraway          
-Duck, dandelion, black currant     
-Rhubarb, fennel pollen      
-Chocolate, milk    
+Sourdough spelt bread with butter and ramps     
+Foie gras ganache with woody maple syrup     
+Scallops, raw, with mint and rhubarb    
+Lamb tartare with green garlic and harissa         
+Peas, pistachio, and tart sheep's yogurt       
+Mackerel cured in miso, with brutally burnt onion    
+Halibut with fresh almond milk and asparagus          
+Duck with grilled dandelion and black currant     
+Rhubarb and fennel pollen pavlova      
+Chocolate ganache with ethereal milk granita    
 # select press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)   
