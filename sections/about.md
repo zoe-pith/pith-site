@@ -2,16 +2,15 @@
 
 Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club pops up in venues around the world, serving a seasonal tasting menu for just ten guests each evening.   
 # menu      
-Sourdough spelt bread with butter and ramps     
-Foie gras ganache with woody maple syrup     
-Scallops, raw, with mint and rhubarb    
-Lamb tartare with green garlic and harissa         
-Peas, pistachio, and tart sheep's yogurt       
-Mackerel cured in miso, with brutally burnt onion    
-Halibut with fresh almond milk and asparagus          
-Duck with grilled dandelion and black currant     
-Rhubarb and fennel pollen pavlova      
-Chocolate ganache with ethereal milk granita    
+Raw beef with juniper and pickled pear     
+Spelt bread with butter and preserved beets     
+Duck mousse with blackberry and rye      
+Celeriac soup with chives and maple syrup     
+Raw fluke with squash and sage      
+Halibut with wild mushrooms and smoked olives        
+Beef with fresh and fermented kale    
+Concord grape pavlova      
+Apple tart with toasted almond ice cream    
 # select press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)   
