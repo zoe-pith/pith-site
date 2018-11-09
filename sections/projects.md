@@ -5,6 +5,8 @@
 
 *Speaking Engagements* Stanford University: "Values and Aesthetics in Home Cooking" &#124; TEDx Georgetown University: "Economic and Creative Enfranchisement Through Food" &#124; Government of United Arab Emirates: "Sustainability and Youth Entrepreneurship" &#124; Pangkor International Dialogue: "Reimagining Fine Dining" &#124; Food Loves Tech &#124; Brainfood &#124; Spoon University &#124; L'Oréal &#124; Meet Heaps    
 
+*Pop Pop* Popcorn with ever-changing colorful flavors, created in collaboration with KidSuper Studios. Currently at 310 Canal Street, New York City, in partnership with Wallplay ON CANAL. Green mango and smoked chile. Pecorino and peppercorn. Late summer strawberry. Coconut sugar. Flaming hot cheetos.
+
 *Tokyo* A partnership with HEAPS Magazine. Collaboration with local ceramic artists, designers, farmers, and chefs. Beef tartare with fish sauce and hijiki. Summer deer with squash and chestnut. Eggplant with pistachio and wasabi leaves. Hojicha ice cream.
 
 *Down Under* A series of pop-ups in Sydney, Melbourne, and Auckland, in partnership with KitchenAid. Pomelo, stone pine gin, lemon myrtle merengue. Oyster, red currant, black peppercorn, finger lime. Lamb, quandong, eucalyptus. Mulberry caramel cake.
