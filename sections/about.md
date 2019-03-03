@@ -1,16 +1,14 @@
 # about
 
-Pith is an eclectic pursuit of social and artful dining experiences. Our communal supper club pops up in venues around the world, serving a seasonal tasting menu for just ten guests each evening.   
+Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serves a seasonal menu for only six guests out of his home on the forty-sixth floor of a Manhattan skyscraper.
+
 # menu      
-Raw beef with juniper and pickled pear     
-Spelt bread with butter and preserved beets     
-Duck mousse with blackberry and rye      
-Celeriac soup with chives and maple syrup     
-Raw fluke with squash and sage      
-Halibut with wild mushrooms and smoked olives        
-Beef with fresh and fermented kale    
-Concord grape pavlova      
-Apple tart with toasted almond ice cream    
+Radishes with their greens    
+Black bass, raw with squash and sage    
+Lamb leg with polenta, chanterelles, and chiles    
+Carrot and parsley salad    
+Almond cookies, ice creams, and buckwheat tea   
+ 
 # select press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)   
