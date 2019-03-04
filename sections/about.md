@@ -6,7 +6,7 @@ Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serve
 Radishes with their greens    
 Black bass, raw with squash and sage    
 Lamb leg with polenta, chanterelles, and chiles    
-Carrot and parsley salad    
+Carrot and parsley salad, pickled chanterelles    
 Almond cookies, ice creams, and buckwheat tea   
  
 # select press
