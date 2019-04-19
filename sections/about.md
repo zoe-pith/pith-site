@@ -1,13 +1,14 @@
 # about
 
-Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serves a seasonal menu for only six guests out of his home on the forty-sixth floor of a Manhattan skyscraper.
+Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serves a seasonal menu for only six guests out of his apartment in New York City. 
 
 # menu      
-Radishes with their greens    
-Black bass, raw with squash and sage    
-Lamb leg with polenta, chanterelles, and chiles    
-Carrot and parsley salad, pickled chanterelles    
-Almond cookies, ice creams, and buckwheat tea   
+Radishes with butter and seaweed    
+Beef tartare toast with pickled green tomatoes     
+Crispy (but barely cooked) salmon with ramps and morels   
+Baby gem lettuces with breadcrumbs and anchovy   
+Tiny potatos with windowsill herbs         
+Almond cookies and buckwheat tea   
  
 # select press
 
