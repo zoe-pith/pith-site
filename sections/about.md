@@ -5,9 +5,10 @@ Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serve
 # menu      
 Radishes with butter and seaweed    
 Beef tartare toast with pickled green tomatoes     
-Crispy but barely cooked salmon with ramps and morels   
-Baby gem lettuces with breadcrumbs and anchovy   
-Tiny potatos with windowsill herbs         
+Crispy (but barely cooked) salmon with salt and pepper   
+Baby lettuce heads with cucumber and anchovy   
+Ramps and morels crisped in miso butter    
+Tiny potatos with windowsill herbs            
 Almond cookies and buckwheat tea   
  
 # select press
