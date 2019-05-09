@@ -1,7 +1,7 @@
 # reservations
-Tickets are all inclusive of food, wine, and hospitality. BYOB encouraged if shared communally. Tickets are non-refundable but fully transferable, and limited to a maximum of two per person. Menu is entirely subject to change and no dietary restrictions can be accommodated. We welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts or special events.
+Tickets are all inclusive of food, wine, and hospitality. BYOB encouraged if shared communally. Tickets are non-refundable but fully transferable, and limited to a maximum of two per order. Menu is entirely subject to change and no dietary restrictions can be accommodated. We welcome [inquiries](mailto:inquiries@pith.space) regarding buyouts or special events.
 
-*CURRENTLY SOLD OUT*      
+     
 <tito-widget event="pith/supper-club"></tito-widget>
 Join our mailing list to receive updates and notifications about future ticket availability:
 <form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
