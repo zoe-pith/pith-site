@@ -4,7 +4,7 @@ Anyone can host, and everyone should. Restaurants are in the business of making 
 
 Sign up to for my mailing list to receive notifications about future supper club availibility, but more importantly, the essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen. 
 
-_Jonah Reider_
+— _Jonah Reider_
 
 # current menu      
 Cold cucumber soup with sheep's yogurt   
