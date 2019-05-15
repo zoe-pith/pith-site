@@ -2,9 +2,7 @@
 
 Restaurants are in the business of making great hospitality feel unattainable, but the best meals are always had at home. Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
-<tito-widget event="pith/supper-club"></tito-widget>
 Join the mailing list to receive notifications about future supper club availibility, but more importantly, the essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen. 
-
 — _Jonah Reider_
 <form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
 	<input name="utf8" type="hidden" value="✓">
@@ -14,6 +12,8 @@ Join the mailing list to receive notifications about future supper club availibi
     <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space">&nbsp;</p>
+
+
 
  
 # select press
