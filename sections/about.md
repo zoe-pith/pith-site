@@ -1,15 +1,19 @@
 # about
 
-Pith is a pursuit of intimate and social dining. Jonah Reider sporadically serves a seasonal menu for only six guests out of his apartment in New York City. 
+Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve a seasonal menu for six guests out of the apartment in New York City I share with my sweet partner Sarah.
 
-# menu      
-Radishes with butter and seaweed    
+Sign up to receive weekly dispatches from my culinary adventures, notifications about future supper club availibility, and essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
+
+-Jonah Reider
+
+# current menu      
+Cold cucumber soup with sheep's yogurt   
 Beef tartare toast with pickled green tomatoes     
 Crispy (but barely cooked) salmon with nice salt  
-Chickpeas stewed with windowsill herbs            
-Baby lettuce heads with cucumber and anchovy   
+Baby potatoes stewed with windowsill herbs            
+Butter lettuce with radishes and anchovy   
 Ramps and morels crisped in miso butter    
-Almond cookies and buckwheat tea   
+Rhubarb tart with toasted almond ice cream  
  
 # select press
 
