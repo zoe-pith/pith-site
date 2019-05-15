@@ -1,10 +1,10 @@
 # about
 
-Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve a seasonal menu for six guests out of the apartment in New York City I share with my sweet partner Sarah.
+Anyone can host, and everyone should. Restaurants are in the business of making great hospitality feel unattainable, but the best meals are always had at homes. Pith is an exercise in do-it-yourself hospitality: I sporadically host a dinner party for six guests out of my apartment in New York City.
 
-Sign up to receive weekly dispatches from my culinary adventures, notifications about future supper club availibility, and essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
+Sign up to for my mailing list to receive notifications about future supper club availibility, but more importantly, the essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen. 
 
--Jonah Reider
+_Jonah Reider_
 
 # current menu      
 Cold cucumber soup with sheep's yogurt   
