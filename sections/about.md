@@ -2,18 +2,19 @@
 
 Restaurants are in the business of making great hospitality feel unattainable, but the best meals are always had at home. Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
-Sign up for my mailing list to receive notifications about future supper club availibility, but more importantly, the essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen. 
+<tito-widget event="pith/supper-club"></tito-widget>
+Join the mailing list to receive notifications about future supper club availibility, but more importantly, the essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen. 
 
 — _Jonah Reider_
+<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
+	<input name="utf8" type="hidden" value="✓">
+	<input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
+	<input placeholder="Name" id="name" name="interested_user[name]" type="text">
+    <input placeholder="Email" id="email" name="interested_user[email]" type="email">
+    <input type="submit" name="commit" value="Subscribe" />
+</form>
+<p class="bottom_space">&nbsp;</p>
 
-# current menu      
-Cold cucumber soup with sheep's yogurt   
-Beef tartare toast with pickled green tomatoes     
-Crispy (but barely cooked) salmon with nice salt  
-Baby potatoes stewed with windowsill herbs            
-Butter lettuce with radishes and anchovy   
-Ramps and morels crisped in miso butter    
-Rhubarb tart with toasted almond ice cream  
  
 # select press
 
