@@ -3,7 +3,7 @@ Tickets are all inclusive of food, wine, and hospitality. BYOB encouraged if sha
 
      
 <tito-widget event="pith/supper-club"></tito-widget>
-Join our mailing list to receive updates and notifications about future ticket availability:
+Join the mailing list to receive dispatches from daily culinary adventures: notifications about future supper club availibility as well as Jonah's essential tools and tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 <form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
 	<input name="utf8" type="hidden" value="✓">
 	<input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
