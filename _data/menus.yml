@@ -1,0 +1,30 @@
+- title: About
+  url: "/about"
+
+- title: Dispatches
+  url: "/dispatches"
+  children:
+    - title: Recipes
+      url: "/dispatches?recipes"
+    - title: Techniques
+      url: "/dispatches?techniques"
+    - title: Tools
+      url: "/dispatches?tools"
+    - title: Travel
+      url: "/dispatches?travel"
+    - title: Vibes
+      url: "/dispatches?vibes"
+- title: Select Press
+  url: "/press"
+
+- title: Current Menu
+  url: "/menu"
+
+- title: Reservations
+  url: "/reserve"
+
+- title: Other Projects
+  url: "/projects"
+
+- title: Contact
+  url: "/contact"

@@ -1,3 +1,4 @@
 {% include header.md %}
-{{ content }}
+<div>{% include datamenu menu=site.data.menus all=false %}<div id="line"></div></div>
+<div><div id="page-content">{{ content }}</div></div>
 {% include footer.md %}

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Other Projects
+permalink: /projects
+weight: 6
+---
+
 # projects
 *Select Clients* Jaguar Land Rover &#124; Google &#124; LG Signature &#124; Penguin Random House &#124; KitchenAid &#124; The Macallan &#124; Stella Artois &#124; Kellogg’s &#124; Government of Ipoh, Malaysia &#124; HEAPS Magazine &#124; Yves Saint Laurent &#124; Gotham Bar and Grill
 

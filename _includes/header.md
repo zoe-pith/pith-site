@@ -6,12 +6,12 @@
 		<meta name="keywords" content="Pith, Jonah Reider, supper club">
   	<meta name="author" content="Jonah Reider">
 		<title>Pith – Jonah Reider</title>
-		<link rel="shortcut icon" type="image/png" href="media/images/favicon.png"/>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<script src="js/jquery-2.1.1.js" type="text/javascript"></script>
-		<script src="js/jquery-easing.js" type="text/javascript"></script>
-		<script src="js/scrolling.js" type="text/javascript"></script>
-		<script src='https://js.tito.io/v1' async></script>
+		<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"/>
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<script src="/js/jquery-2.1.1.js" type="text/javascript"></script>
+		<script src="/js/jquery-easing.js" type="text/javascript"></script>
+		<script src="/js/scrolling.js" type="text/javascript"></script>
+		<script src="https://js.tito.io/v1" async></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77472601-1"></script>
 		<script>
@@ -23,7 +23,6 @@
 	</head>
 
 	<body>
-		<div class="arrow" id="arrow-left"></div>
 		<div id="content_wrapper">
 			<div id="content">
 				<header>
