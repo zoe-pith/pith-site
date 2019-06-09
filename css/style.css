@@ -48,7 +48,7 @@ header{
 #main {
 	display:grid;
 	display:-ms-grid;
-	grid-template-columns: 1fr 2fr;
+	grid-template-columns: 1fr 2.3fr;
 	height:calc(650px - 208px);
 	line-height: 14pt;
 	width:100%;
@@ -59,6 +59,7 @@ header{
 }
 
 .menu {
+	font-size: 1.05em;
 	list-style: none;
 }
 
@@ -90,6 +91,7 @@ header{
 }
 
 #page-content img {
+	margin: 15px 0 15px 0;
 	width: 100%;
 }
 
@@ -120,6 +122,10 @@ h2 {
 
 #posts a {
 	text-decoration: none;
+}
+
+#posts a > img {
+	margin: 0;
 }
 
 .tito-wrapper {
@@ -182,11 +188,11 @@ h2 {
 button, input {
 		-webkit-font-smoothing: antialiased;
 		text-rendering: optimizeLegibility;
-		border: 1px black solid;
+		border: 0.5px #999999 solid;
 		border-radius: 3px;
 		-webkit-appearance: none;
 		font-family: 'Hoefler Text';
-		width: 90px;
+		width: 80px;
 }
 
 .tito-wrapper button, .tito-wrapper input {
@@ -203,16 +209,18 @@ button, input {
 	font-size: 13.5px;
 	width: 45%;
 	margin-bottom: 10px;
-	padding: 4px;
+	padding: 5px;
 }
 #ms-sub-form input[type="submit"] {
 	background:white;
+	display: inline;
 	float: right;
+	margin: 0;
 	padding:5px 8px 5px 8px;
-	width: 90px;
+	width: auto;
 }
 
-#ms-sub-form input[name="ms-email"] {
+#ms-sub-form input#email {
 	float: right;
 }
 
@@ -238,15 +246,27 @@ button, input {
 
 @font-face {
 	font-family: 'Hoefler Text';
-	src:url("../media/fonts/hoefler_text.ttc")
+	font-weight: normal;
+	src:url("../media/fonts/hoefler_text.ttf");
 }
 
-@-moz-document url-prefix() {
-	header {
-		position:relative;
-		width: 900px;
-		transform: translateX(100px) translateZ(-5px) scale(6) translateY(-186px);
-	}
+@font-face {
+	font-family: 'Hoefler Text';
+	font-style: italic;
+	src:url("../media/fonts/hoefler_text_italic.ttf");
+}
+
+@font-face {
+	font-family: 'Hoefler Text';
+	font-weight: bold;
+	src:url("../media/fonts/hoefler_text_black.ttf");
+}
+
+@font-face {
+	font-family: 'Hoefler Text';
+	font-style: italic;
+	font-weight: bold;
+	src:url("../media/fonts/hoefler_text_black_italic.ttf");
 }
 
 /*@media (max-width: 850px) {
