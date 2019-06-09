@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: post
 tags: [salmon, crispy, recipes]
-icon: media/orange.jpg
+icon: /media/orange.jpg
 ---
 
-# Salmon
 Content goes here
 ## Subtitle
 More content goes here

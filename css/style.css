@@ -5,6 +5,7 @@ body {
 	background-size: 200px;
 	background-position: 0 250px;
 	display:flex;
+	font-family: 'Hoefler Text';
 	height:100vh;
 	justify-content: center;
 	margin:0;
@@ -27,7 +28,6 @@ a {
 
 #content {
 	background:white;
-	font-family: 'Hoefler Text';
 	overflow-x: hidden;
 }
 
@@ -50,7 +50,7 @@ header{
 	display:-ms-grid;
 	grid-template-columns: 1fr 2.3fr;
 	height:calc(650px - 208px);
-	line-height: 14pt;
+	line-height: 1.19em;
 	width:100%;
 }
 
@@ -103,8 +103,34 @@ h1 {
 }
 
 h2 {
-	font-size:1.1em;
-	font-weight: bold;
+	font-size:1.2em;
+}
+
+h3 {
+	font-size:1em;
+}
+
+h4 {
+	font-size:0.9em;
+}
+
+h5 {
+	font-size:0.8em;
+}
+
+h6 {
+	font-size:0.7em;
+}
+
+#tags, #tags a {
+	color: #999999;
+	font-size: 0.9em;
+	margin-top: -10px;
+	text-decoration: none;
+}
+
+#tags a:hover {
+	color: #666666;
 }
 
 #posts {
@@ -117,7 +143,7 @@ h2 {
 }
 
 #posts li {
-	display: block;
+	display: none;
 	width: 130px;
 }
 
@@ -194,7 +220,7 @@ button, input {
 		border-radius: 3px;
 		-webkit-appearance: none;
 		font-family: 'Hoefler Text';
-		width: 80px;
+		width: 85px;
 }
 
 .tito-wrapper button, .tito-wrapper input {
@@ -209,10 +235,11 @@ button, input {
 #ms-sub-form input {
 	display:inline;
 	font-size: 13.5px;
-	width: 45%;
+	width: 46.5%;
 	margin-bottom: 10px;
 	padding: 5px;
 }
+
 #ms-sub-form input[type="submit"] {
 	background:white;
 	display: inline;

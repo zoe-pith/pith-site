@@ -20,6 +20,9 @@
 		  gtag('js', new Date());
 		  gtag('config', 'UA-77472601-1');
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/css/nojs.css">
+		</noscript>
 	</head>
 
 	<body>
