@@ -1,6 +1,5 @@
 ---
 layout: default
-title: You need a mortar and pestle
 tags: [mortar, food, techniques]
 icon: media/orange.jpg
 ---

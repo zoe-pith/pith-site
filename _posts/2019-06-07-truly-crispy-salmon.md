@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Nice Ice
-tags: [ice, nice]
+tags: [salmon, crispy, recipes]
 icon: media/orange.jpg
 ---
 
-# Ice
+# Salmon
 Content goes here
 ## Subtitle
 More content goes here

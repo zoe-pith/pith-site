@@ -82,6 +82,7 @@ header{
 }
 
 #page-content {
+	padding-bottom: 52px;
 	width:80%;
 }
 
@@ -125,6 +126,7 @@ h2 {
 }
 
 #posts a > img {
+	border: 0.5px solid #cccccc;
 	margin: 0;
 }
 
