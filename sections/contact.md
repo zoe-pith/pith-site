@@ -5,7 +5,6 @@ permalink: /contact
 weight: 7
 ---
 
-# contact
 [inquiries@pith.space](mailto:inquiries@pith.space)  
 	instagram [@jonahreider](https://instagram.com/jonahreider)
 

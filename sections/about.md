@@ -5,8 +5,6 @@ permalink: /
 weight: 1
 ---
 
-# about
-
 Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
 Join the mailing list to receive notifications about dinner openings as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.

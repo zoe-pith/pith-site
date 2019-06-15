@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [mushrooms, food, recipes]
 icon: /media/orange.jpg
 ---

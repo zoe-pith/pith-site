@@ -4,7 +4,7 @@ title: Current Menu
 permalink: /menu
 weight: 4
 ---
-# current menu      
+
 Cold cucumber soup with sheep's yogurt   
 Beef tartare toast with pickled green tomatoes     
 Crispy (but barely cooked) salmon with nice salt  

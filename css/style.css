@@ -17,7 +17,6 @@ body {
 
 a {
 	color: black;
-	text-decoration: none;
 }
 
 #content_wrapper {
@@ -28,7 +27,7 @@ a {
 
 #content {
 	background:white;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 header{
@@ -48,9 +47,9 @@ header{
 #main {
 	display:grid;
 	display:-ms-grid;
-	grid-template-columns: 1fr 2.3fr;
+	grid-template-columns: 1fr 2.7fr;
 	height:calc(650px - 208px);
-	line-height: 1.19em;
+	line-height: 1.4em;
 	width:100%;
 }
 
@@ -61,6 +60,10 @@ header{
 .menu {
 	font-size: 1.05em;
 	list-style: none;
+}
+
+.menu a {
+	text-decoration: none;
 }
 
 .menu li {
@@ -76,24 +79,27 @@ header{
 	background-color: black;
 	height: 90%;
 	position: absolute;
-	right: 30px;
+	right: 40px;
 	top: 0;
 	width: 1px;
 }
 
 #page-content {
-	padding-bottom: 52px;
-	width:80%;
+	box-sizing: border-box;
+	overflow-y: auto;
+	/* Bottom padding to handle footer fade gradient */
+	padding: 0 15% 52px 0;
+	width:100%;
 }
 
 #page-content a {
 	color:black;
-	text-decoration: underline;
 }
 
 #page-content img {
 	margin: 15px 0 15px 0;
-	width: 100%;
+	max-height: 420px;
+	max-width: 100%;
 }
 
 h1 {
@@ -135,25 +141,47 @@ h6 {
 
 #posts {
 	display: grid;
-	grid-template-columns: repeat(3, minmax(130px, 1fr));
-	grid-gap: 10px;
+	grid-template-columns: repeat(3, minmax(120px, 1fr));
+	grid-gap: 20px;
 	grid-auto-rows: auto;
 	list-style: none;
 	width: 100%;
 }
 
-#posts li {
+#back-button {
+	border-top: 1px solid rgba(0, 0, 0, 0.5);
 	display: none;
-	width: 130px;
-}
-
-#posts a {
+	font-weight: bold;
+	margin-top: 10px;
 	text-decoration: none;
 }
 
-#posts a > img {
-	border: 0.5px solid #cccccc;
+#back-button:hover {
+	color: #666;
+}
+
+.post {
+	display: none;
+	width: 120px;
+}
+
+#posts .post a {
+	text-decoration: none;
+}
+
+.post a > img {
+	border: 1px solid rgba(200, 200, 200, 0.5);
+	filter: grayscale(100%);
 	margin: 0;
+	transition: 0.2s filter linear;
+}
+
+#posts a > img:hover {
+	filter: grayscale(0%);
+}
+
+.post div {
+	display: none;
 }
 
 .tito-wrapper {
@@ -214,13 +242,14 @@ h6 {
 }
 
 button, input {
-		-webkit-font-smoothing: antialiased;
-		text-rendering: optimizeLegibility;
-		border: 0.5px #999999 solid;
-		border-radius: 3px;
-		-webkit-appearance: none;
-		font-family: 'Hoefler Text';
-		width: 85px;
+	-webkit-appearance: none;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	border: 1px rgba(150, 150, 150, 0.5) solid;
+	border-radius: 3px;
+	color: black;
+	font-family: 'Hoefler Text';
+	width: 85px;
 }
 
 .tito-wrapper button, .tito-wrapper input {
@@ -241,12 +270,16 @@ button, input {
 }
 
 #ms-sub-form input[type="submit"] {
-	background:white;
+	background: white;
 	display: inline;
 	float: right;
 	margin: 0;
 	padding:5px 8px 5px 8px;
 	width: auto;
+}
+
+#ms-sub-form input[type="submit"]:active {
+	background-color: #eeeeee;
 }
 
 #ms-sub-form input#email {
@@ -288,14 +321,14 @@ button, input {
 @font-face {
 	font-family: 'Hoefler Text';
 	font-weight: bold;
-	src:url("../media/fonts/hoefler_text_black.ttf");
+	src:url("../media/fonts/hoefler_text_bold.otf");
 }
 
 @font-face {
 	font-family: 'Hoefler Text';
 	font-style: italic;
 	font-weight: bold;
-	src:url("../media/fonts/hoefler_text_black_italic.ttf");
+	src:url("../media/fonts/hofler_text_swash_bold_italic.otf");
 }
 
 /*@media (max-width: 850px) {

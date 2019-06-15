@@ -5,7 +5,6 @@ permalink: /projects
 weight: 6
 ---
 
-# projects
 *Select Clients* Jaguar Land Rover &#124; Google &#124; LG Signature &#124; Penguin Random House &#124; KitchenAid &#124; The Macallan &#124; Stella Artois &#124; Kellogg’s &#124; Government of Ipoh, Malaysia &#124; HEAPS Magazine &#124; Yves Saint Laurent &#124; Gotham Bar and Grill
 
 *Pith Afterschool* A weekly free after-school program, organized in collaboration with City Growers, for middle-schoolers in the Pith neighborhood. Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being!

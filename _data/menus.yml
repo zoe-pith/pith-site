@@ -1,19 +1,19 @@
 - title: About
   url: "/"
 
-- title: Dispatches
-  url: "/dispatches"
+- title: Do It Yourself
+  url: "/diy"
   children:
     - title: Recipes
-      url: "/dispatches?recipes"
+      url: "#recipes"
     - title: Techniques
-      url: "/dispatches?techniques"
+      url: "#techniques"
     - title: Tools
-      url: "/dispatches?tools"
+      url: "#tools"
     - title: Travel
-      url: "/dispatches?travel"
+      url: "#travel"
     - title: Vibes
-      url: "/dispatches?vibes"
+      url: "#vibes"
 - title: Select Press
   url: "/press"
 

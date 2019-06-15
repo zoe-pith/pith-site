@@ -1,5 +1,4 @@
 ---
-layout: post
 tags: [salmon, crispy, recipes]
 icon: /media/orange.jpg
 ---
