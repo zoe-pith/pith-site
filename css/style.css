@@ -102,6 +102,38 @@ header{
 	max-width: 100%;
 }
 
+#page-content img.small {
+	max-height: initial;
+	width: 25%;
+}
+
+#page-content img.medium {
+	max-height: initial;
+	width: 50%;
+}
+
+#page-content img.large {
+	max-height: initial;
+	width: 75%;
+}
+
+#page-content img.full {
+	max-height: initial;
+	width: 100%;
+}
+
+#page-content img.left {
+	float: left;
+	margin: 0;
+	padding: 0 15px 15px 0;
+}
+
+#page-content img.right {
+	float: right;
+	margin: 0;
+	padding: 0 0 15px 15px;
+}
+
 h1 {
 	font-variant: small-caps;
 	font-weight:normal;
@@ -128,6 +160,15 @@ h6 {
 	font-size:0.7em;
 }
 
+#posts {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(120px, 1fr));
+	grid-gap: 20px;
+	grid-auto-rows: auto;
+	list-style: none;
+	width: 100%;
+}
+
 #tags, #tags a {
 	color: #999999;
 	font-size: 0.9em;
@@ -139,24 +180,20 @@ h6 {
 	color: #666666;
 }
 
-#posts {
-	display: grid;
-	grid-template-columns: repeat(3, minmax(120px, 1fr));
-	grid-gap: 20px;
-	grid-auto-rows: auto;
-	list-style: none;
-	width: 100%;
+#back-button {
+	clear: both;
+	display: none;
+	float: left;
 }
 
-#back-button {
+#back-button a {
 	border-top: 1px solid rgba(0, 0, 0, 0.5);
-	display: none;
 	font-weight: bold;
 	margin-top: 10px;
 	text-decoration: none;
 }
 
-#back-button:hover {
+#back-button a:hover {
 	color: #666;
 }
 

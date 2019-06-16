@@ -12,5 +12,8 @@ Mortar and pestle are implements used since ancient times to prepare ingredients
 ~~Mistake~~
 #### Fourth heading
 ##### Fifth heading
-![Illustrated orange slice](/media/images/greenery.jpg)
+![Greenery](/media/images/greenery.jpg){:.medium .left}
+Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image!
+
+![Illustrated orange slice](/media/orange.jpg){:.small .right}
 ###### Sixth heading

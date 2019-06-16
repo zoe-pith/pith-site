@@ -34,4 +34,4 @@ weight: 2
   {% endfor %}
 </ul>
 <div id="post"></div>
-<div><a id="back-button" href="#" onclick="goBack()">&larr; Back</a></div>
+<div id="back-button"><a href="#" onclick="goBack()">&larr; Back</a></div>
