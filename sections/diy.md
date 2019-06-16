@@ -9,6 +9,7 @@ weight: 2
 {% if site.tags != "" %}
   {% include tag.html %}
 {% endif %}
+<div id="loading">Loading posts&hellip;</div>
 <ul id="posts">
   {% for post in site.posts %}
     <li class="post {{ post.tags | join: '-tag ' | append: '-tag' }}">
@@ -33,5 +34,5 @@ weight: 2
     </li>
   {% endfor %}
 </ul>
-<div id="post"></div>
+<article id="post"></article>
 <div id="back-button"><a href="#" onclick="goBack()">&larr; Back</a></div>

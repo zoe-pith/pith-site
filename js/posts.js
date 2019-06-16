@@ -8,7 +8,7 @@ window.onload = function() {
   var posts;
 
   selectedMenuItem = document.querySelector(".menu .selected");
-
+  document.getElementById("loading").style.display = "none";
   filterPosts(tag);
 
   var tag_links = document.querySelectorAll(".menu .menu a");
