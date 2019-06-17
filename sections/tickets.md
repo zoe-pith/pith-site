@@ -2,10 +2,12 @@
 Cold cucumber soup with sheep's yogurt   
 Beef tartare toast with pickled green tomatoes     
 Crispy (but barely cooked) salmon with nice salt  
-Baby potatoes stewed with windowsill herbs            
-Butter lettuce with radishes and anchovy   
-Ramps and morels crisped in miso butter    
-Rhubarb tart with toasted almond ice cream  
+Porcini and asparagus crisped in miso butter  
+Summer corn with habanero and lemon verbena  
+Small potatoes stewed with windowsill herbs           
+Butter lettuce with radishes and anchovy    
+Watermelon, feta, and mint salad  
+Rhubarb tart with hazelnut and rhubarb ice creams  
 
 
 # reservations
