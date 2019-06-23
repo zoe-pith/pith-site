@@ -1,7 +1,7 @@
 body {
 	align-items: center;
 	background-color: black;
-	background-image: url('../media/images/tile.png');
+	background-image: url('../images/tile.png');
 	background-size: 200px;
 	background-position: 0 250px;
 	display:flex;
@@ -31,14 +31,14 @@ a {
 }
 
 header{
-	background: url("../media/images/Pith_PITH.jpg") 30px 30px/210px no-repeat,
-							url("../media/images/Pith_ByJonahReider.jpg") 30px 125px/210px no-repeat,
-							url("../media/images/Pith_Rosemary.jpg") 300px -10px/50px no-repeat,
-							url("../media/images/Pith_Fish.jpg") 420px -5px/170px no-repeat,
-							url("../media/images/Pith_Mint.jpg") 670px 10px/90px no-repeat,
-							url("../media/images/Pith_Glass.jpg") 390px 90px/55px no-repeat,
-							url("../media/images/Pith_Cherry.jpg") 580px 90px/80px no-repeat,
-							url("../media/images/Pith_Wine.jpg") 810px 30px/65px no-repeat;
+	background: url("../images/Pith_PITH.jpg") 30px 30px/210px no-repeat,
+							url("../images/Pith_ByJonahReider.jpg") 30px 125px/210px no-repeat,
+							url("../images/Pith_Rosemary.jpg") 300px -10px/50px no-repeat,
+							url("../images/Pith_Fish.jpg") 420px -5px/170px no-repeat,
+							url("../images/Pith_Mint.jpg") 670px 10px/90px no-repeat,
+							url("../images/Pith_Glass.jpg") 390px 90px/55px no-repeat,
+							url("../images/Pith_Cherry.jpg") 580px 90px/80px no-repeat,
+							url("../images/Pith_Wine.jpg") 810px 30px/65px no-repeat;
 	height:208px;
 	position:relative;
 	width:1010px;
@@ -346,26 +346,26 @@ button, input {
 @font-face {
 	font-family: 'Hoefler Text';
 	font-weight: normal;
-	src:url("../media/fonts/hoefler_text.ttf");
+	src:url("../fonts/hoefler_text.ttf");
 }
 
 @font-face {
 	font-family: 'Hoefler Text';
 	font-style: italic;
-	src:url("../media/fonts/hoefler_text_italic.ttf");
+	src:url("../fonts/hoefler_text_italic.ttf");
 }
 
 @font-face {
 	font-family: 'Hoefler Text';
 	font-weight: bold;
-	src:url("../media/fonts/hoefler_text_bold.otf");
+	src:url("../fonts/hoefler_text_bold.otf");
 }
 
 @font-face {
 	font-family: 'Hoefler Text';
 	font-style: italic;
 	font-weight: bold;
-	src:url("../media/fonts/hofler_text_swash_bold_italic.otf");
+	src:url("../fonts/hofler_text_swash_bold_italic.otf");
 }
 
 /*@media (max-width: 850px) {
@@ -441,12 +441,12 @@ button, input {
 			width:100%;
 		}
 		header{
-			background: url("../media/images/Pith_PITH.jpg") 30px 30px/150px no-repeat,
-												url("../media/images/Pith_ByJonahReider.jpg") 30px 100px/150px no-repeat,
-												url("../media/images/Pith_Rosemary.jpg") 200px -20px/50px no-repeat,
-												url("../media/images/Pith_Fish.jpg") 290px 50px/170px no-repeat,
-												url("../media/images/Pith_Oyster.jpg") 470px -15px/115px no-repeat,
-												url("../media/images/Pith_Mint.jpg") 590px 80px/90px no-repeat;
+			background: url("../images/Pith_PITH.jpg") 30px 30px/150px no-repeat,
+												url("../images/Pith_ByJonahReider.jpg") 30px 100px/150px no-repeat,
+												url("../images/Pith_Rosemary.jpg") 200px -20px/50px no-repeat,
+												url("../images/Pith_Fish.jpg") 290px 50px/170px no-repeat,
+												url("../images/Pith_Oyster.jpg") 470px -15px/115px no-repeat,
+												url("../images/Pith_Mint.jpg") 590px 80px/90px no-repeat;
 			background-color:white;
 			border-bottom: 1px #EEEEEE solid;
 			height: 145px;

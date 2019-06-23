@@ -1,6 +1,6 @@
 ---
 tags: [mushrooms, food, recipes]
-icon: /media/orange.jpg
+icon: /images/orange.jpg
 ---
 
 Content goes here

@@ -1,6 +1,6 @@
 ---
 tags: [mortar, food, techniques]
-icon: /media/orange.jpg
+icon: /images/orange.jpg
 ---
 
 Mortar and pestle are implements used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, medicine and pharmacy.
@@ -12,8 +12,8 @@ Mortar and pestle are implements used since ancient times to prepare ingredients
 ~~Mistake~~
 #### Fourth heading
 ##### Fifth heading
-![Greenery](/media/images/greenery.jpg){:.medium .left}
+![Greenery](/images/greenery.jpg){:.medium .left}
 Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image! Some content goes here and then we want an image!
 
-![Illustrated orange slice](/media/orange.jpg){:.small .right}
+![Illustrated orange slice](/images/orange.jpg){:.small .right}
 ###### Sixth heading

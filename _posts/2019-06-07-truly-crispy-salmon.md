@@ -1,6 +1,6 @@
 ---
 tags: [salmon, crispy, recipes]
-icon: /media/orange.jpg
+icon: /images/orange.jpg
 ---
 
 Content goes here
