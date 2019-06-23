@@ -1,3 +1,24 @@
 defaults:
   - values:
       layout: "post"
+prose:
+  media: "/images"
+  siteurl: "http://amja.github.io"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "tags"
+        field:
+          alterable: true
+          element: "multiselect"
+          label: "Add Tags"
+          options: ["recipes", "techniques", "tools", "travel", "vibes"]
+      - name: "icon"
+        field:
+          element: "text"
+          label: "Post Icon"
+          value: "/images/"
+
