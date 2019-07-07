@@ -1,16 +1,16 @@
 body {
 	align-items: center;
 	background-color: black;
-	background-image: url('../images/tile.png');
+	background-image: url("../images/tile.png");
 	background-size: 200px;
 	background-position: 0 250px;
-	display:flex;
-	font-family: 'Hoefler Text';
-	height:100vh;
+	display: flex;
+	font-family: "Hoefler Text";
+	height: 100vh;
 	justify-content: center;
-	margin:0;
-	overflow:hidden;
-	padding:0;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 }
@@ -20,41 +20,43 @@ a {
 }
 
 #content_wrapper {
-	height:650px;
-	position:relative;
-	width:850px;
+	height: 650px;
+	position: relative;
+	width: 850px;
 }
 
 #content {
-	background:white;
+	background: white;
 	overflow: hidden;
 }
 
-header{
+header {
 	background: url("../images/Pith_PITH.jpg") 30px 30px/210px no-repeat,
-							url("../images/Pith_ByJonahReider.jpg") 30px 125px/210px no-repeat,
-							url("../images/Pith_Rosemary.jpg") 300px -10px/50px no-repeat,
-							url("../images/Pith_Fish.jpg") 420px -5px/170px no-repeat,
-							url("../images/Pith_Mint.jpg") 670px 10px/90px no-repeat,
-							url("../images/Pith_Glass.jpg") 390px 90px/55px no-repeat,
-							url("../images/Pith_Cherry.jpg") 580px 90px/80px no-repeat,
-							url("../images/Pith_Wine.jpg") 810px 30px/65px no-repeat;
-	height:208px;
-	position:relative;
-	width:1010px;
+		url("../images/Pith_ByJonahReider.jpg") 30px 125px/210px no-repeat,
+		url("../images/Pith_Rosemary.jpg") 300px -10px/50px no-repeat,
+		url("../images/Pith_Fish.jpg") 420px -5px/170px no-repeat,
+		url("../images/Pith_Mint.jpg") 670px 10px/90px no-repeat,
+		url("../images/Pith_Glass.jpg") 390px 90px/55px no-repeat,
+		url("../images/Pith_Cherry.jpg") 580px 90px/80px no-repeat,
+		url("../images/Pith_Wine.jpg") 810px 30px/65px no-repeat;
+	height: 208px;
+	position: relative;
+	width: 1010px;
 }
 
 #main {
-	display:grid;
-	display:-ms-grid;
+	display: grid;
+	display: -ms-grid;
 	grid-template-columns: 1fr 2.7fr;
-	height:calc(650px - 208px);
+	height: calc(650px - 208px);
 	line-height: 1.4em;
-	width:100%;
+	width: 100%;
 }
 
-#main > div {
+nav {
 	position: relative;
+	/* Stops vertical line from colliding with text */
+	padding-right: 40px;
 }
 
 .menu {
@@ -89,11 +91,11 @@ header{
 	overflow-y: auto;
 	/* Bottom padding to handle footer fade gradient */
 	padding: 0 15% 52px 0;
-	width:100%;
+	width: 100%;
 }
 
 #page-content a {
-	color:black;
+	color: black;
 }
 
 #page-content img {
@@ -136,28 +138,28 @@ header{
 
 h1 {
 	font-variant: small-caps;
-	font-weight:normal;
+	font-weight: normal;
 	text-transform: lowercase;
 }
 
 h2 {
-	font-size:1.2em;
+	font-size: 1.2em;
 }
 
 h3 {
-	font-size:1em;
+	font-size: 1em;
 }
 
 h4 {
-	font-size:0.9em;
+	font-size: 0.9em;
 }
 
 h5 {
-	font-size:0.8em;
+	font-size: 0.8em;
 }
 
 h6 {
-	font-size:0.7em;
+	font-size: 0.7em;
 }
 
 #posts {
@@ -169,7 +171,8 @@ h6 {
 	width: 100%;
 }
 
-#tags, #tags a {
+#tags,
+#tags a {
 	color: #999999;
 	font-size: 0.9em;
 	margin-top: -10px;
@@ -222,30 +225,34 @@ h6 {
 }
 
 .tito-wrapper {
-		margin-bottom:0px;
+	margin-bottom: 0px;
 }
 
 .tito-ticket-list {
 	-webkit-font-smoothing: antialiased;
-	font-size:13.5px;
-	font-weight:normal;
+	font-size: 13.5px;
+	font-weight: normal;
 	list-style-type: none;
-	padding:0;
+	padding: 0;
 	margin: 0;
 	text-rendering: optimizeLegibility;
 }
 
-.tito-badge-link, .sold-out {
-		display:none;
+.tito-badge-link,
+.sold-out {
+	display: none;
 }
 
-.tito-ticket-price-quantity-wrapper, .tito-ticket-quantity, .tito-ticket-price-quantity, .tito-ticket-price {
-	display:inline;
-	white-space:nowrap;
+.tito-ticket-price-quantity-wrapper,
+.tito-ticket-quantity,
+.tito-ticket-price-quantity,
+.tito-ticket-price {
+	display: inline;
+	white-space: nowrap;
 }
 
 .tito-ticket-name-wrapper {
-	display:inline;
+	display: inline;
 	width: 100%;
 }
 
@@ -257,8 +264,8 @@ h6 {
 .tito-ticket {
 	display: flex;
 	justify-content: space-between;
-	margin-bottom:14px;
-	line-height:1.6em;
+	margin-bottom: 14px;
+	line-height: 1.6em;
 }
 
 .tito-ticket-description {
@@ -268,9 +275,9 @@ h6 {
 }
 
 .tito-wrapper button {
-		background:white;
-		float: right;
-		padding:5px 8px 5px 8px;
+	background: white;
+	float: right;
+	padding: 5px 8px 5px 8px;
 }
 
 .tito-submit-wrapper {
@@ -278,28 +285,30 @@ h6 {
 	text-align: right;
 }
 
-button, input {
+button,
+input {
 	-webkit-appearance: none;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	border: 1px rgba(150, 150, 150, 0.5) solid;
 	border-radius: 3px;
 	color: black;
-	font-family: 'Hoefler Text';
+	font-family: "Hoefler Text";
 	width: 85px;
 }
 
-.tito-wrapper button, .tito-wrapper input {
-  font-size: 13.5px;
+.tito-wrapper button,
+.tito-wrapper input {
+	font-size: 13.5px;
 }
 
 .tito-wrapper input {
-	width:25px;
-	height:18px;
+	width: 25px;
+	height: 18px;
 }
 
 #ms-sub-form input {
-	display:inline;
+	display: inline;
 	font-size: 13.5px;
 	width: 46.5%;
 	margin-bottom: 10px;
@@ -311,7 +320,7 @@ button, input {
 	display: inline;
 	float: right;
 	margin: 0;
-	padding:5px 8px 5px 8px;
+	padding: 5px 8px 5px 8px;
 	width: auto;
 }
 
@@ -327,147 +336,201 @@ button, input {
 	clear: both;
 }
 
-/*li span {
-	font-style:italic;
-	text-align:right;
-}*/
-
 #bottom_gradient {
-	background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 42%, rgba(255,255,255,1) 100%);
-	background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0.5) 42%,rgba(255,255,255,1) 100%);
-	background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,0.5) 42%,rgba(255,255,255,1) 100%);
+	background: -moz-linear-gradient(
+		top,
+		rgba(255, 255, 255, 0) 0%,
+		rgba(255, 255, 255, 0.5) 42%,
+		rgba(255, 255, 255, 1) 100%
+	);
+	background: -webkit-linear-gradient(
+		top,
+		rgba(255, 255, 255, 0) 0%,
+		rgba(255, 255, 255, 0.5) 42%,
+		rgba(255, 255, 255, 1) 100%
+	);
+	background: linear-gradient(
+		to bottom,
+		rgba(255, 255, 255, 0) 0%,
+		rgba(255, 255, 255, 0.5) 42%,
+		rgba(255, 255, 255, 1) 100%
+	);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
-	height:52px;
-	position:absolute;
-	bottom:0;
-	width:100%;
+	height: 52px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 
 @font-face {
-	font-family: 'Hoefler Text';
+	font-family: "Hoefler Text";
 	font-weight: normal;
-	src:url("../fonts/hoefler_text.ttf");
+	src: url("../fonts/hoefler_text.ttf");
 }
 
 @font-face {
-	font-family: 'Hoefler Text';
+	font-family: "Hoefler Text";
 	font-style: italic;
-	src:url("../fonts/hoefler_text_italic.ttf");
+	src: url("../fonts/hoefler_text_italic.ttf");
 }
 
 @font-face {
-	font-family: 'Hoefler Text';
+	font-family: "Hoefler Text";
 	font-weight: bold;
-	src:url("../fonts/hoefler_text_bold.otf");
+	src: url("../fonts/hoefler_text_bold.otf");
 }
 
 @font-face {
-	font-family: 'Hoefler Text';
+	font-family: "Hoefler Text";
 	font-style: italic;
 	font-weight: bold;
-	src:url("../fonts/hofler_text_swash_bold_italic.otf");
+	src: url("../fonts/hofler_text_swash_bold_italic.otf");
 }
 
-/*@media (max-width: 850px) {
+/* Window width is smaller than content frame width */
+@media (max-width: 850px) {
 	#content_wrapper {
-		width:100%;
+		width: 100%;
 	}
 
-	header {
-		width:200%;
-		left:calc(250vw - 400px);
+	nav {
+		padding-right: 55px;
+	}
+
+	#ms-sub-form input {
+		padding-left: 0.6vw;
+		padding-right: 0.6vw;
+	}
+
+	#posts {
+		grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+		grid-gap: 2.3vw;
+		grid-auto-rows: auto;
 	}
 }
 
-@media (max-height:650px) {
+/* Window height is smaller than content frame height */
+@media (max-height: 650px) {
 	#content_wrapper {
 		height: 100%;
 	}
 
+	#main {
+		height: calc(100vh - 208px);
+	}
+
+	nav {
+		overflow-y: auto;
+	}
+}
+
+@media screen and (max-width: 500px),
+	(max-height: 500px) and (max-width: 850px) {
+	body {
+		background: none;
+		display: block;
+		overflow: auto;
+		width: 100%;
+	}
+
+	body,
+	html {
+		-webkit-overflow-scrolling: auto;
+	}
+
+	#content-wrapper {
+		height: auto;
+	}
+
 	#content {
-		height: inherit;
+		height: auto;
+		/*overflow-y: auto;*/
+	}
+
+	/*.tito-tito-pith-supper-club-1-tickets-embed, #main, .strip, body {
+		-webkit-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}*/
+
+	.tito-ticket {
+		margin-bottom: 15px;
 	}
 
 	header {
-		position:fixed;
-		top:0;
-		transform:translateX(-2px) translateY(-2px);
+		background: url("../images/Pith_PITH.jpg") 30px 30px/210px no-repeat,
+			url("../images/Pith_ByJonahReider.jpg") 30px 125px/210px no-repeat,
+			url("../images/Pith_Rosemary.jpg") 300px -10px/50px no-repeat,
+			url("../images/Pith_Fish.jpg") 330px 90px/170px no-repeat;
+		height: 170px;
 	}
 
 	#main {
-		position:absolute;
-		top:208px;
-		height:calc(100vh - 208px);
+		display: block;
+		height: auto;
+		width: auto;
+	}
+
+	#main > * {
+		display: block;
+		width: 100%;
+	}
+
+	nav {
+		text-align: center;
+	}
+
+	nav > .menu {
+		padding: 0 23px 0 23px;
+	}
+
+	nav li {
+		display: inline;
+	}
+
+	nav li a {
+		color: #00000055;
+	}
+
+	nav li.selected a {
+		color: black;
+	}
+
+	nav li:after {
+		color: #00000077;
+		content: " / ";
+	}
+
+	nav li:last-of-type:after {
+		content: "";
+	}
+
+	.menu .menu {
+		padding: 0;
+	}
+
+	.menu .menu li {
+		display: block;
+	}
+
+	.menu .menu li:after {
+		content: initial;
+	}
+
+	#line {
+		display: none;
+	}
+
+	#page-content {
+		overflow: hidden;
+		padding: 0 23px 0 23px;
+	}
+
+	#posts {
+		justify-items: center;
+		padding: 0;
+	}
+
+	#bottom_gradient {
+		display: none;
 	}
 }
-
-@media screen and (max-height:650px) and (max-width:850px) {
-	header {
-		left:0;
-		position:fixed;
-		top:0px;
-		transform:translateX(-2px) translateY(-2px);
-		width:1010px;
-	}
-
-	@media screen and (max-width:500px), (max-height:500px) and (max-width: 850px) {
-		body {
-			overflow:hidden;
-			width:100%;
-		}
-
-		.tito-tito-pith-supper-club-1-tickets-embed, #main, .strip, body {
-			-webkit-backface-visibility: hidden;
-			backface-visibility: hidden;
-		}
-
-		.tito-ticket {
-			margin-bottom: 15px;
-		}
-
-		body, html {
-			-webkit-overflow-scrolling: auto;
-		}
-
-		#content, #content_wrapper {
-			display:auto;
-			height:100%;
-			left:0;
-			overflow-y:scroll;
-			overflow-x:hidden;
-			-webkit-overflow-scrolling: touch;
-			position:absolute;
-			top:0;
-			width:100%;
-		}
-		header{
-			background: url("../images/Pith_PITH.jpg") 30px 30px/150px no-repeat,
-												url("../images/Pith_ByJonahReider.jpg") 30px 100px/150px no-repeat,
-												url("../images/Pith_Rosemary.jpg") 200px -20px/50px no-repeat,
-												url("../images/Pith_Fish.jpg") 290px 50px/170px no-repeat,
-												url("../images/Pith_Oyster.jpg") 470px -15px/115px no-repeat,
-												url("../images/Pith_Mint.jpg") 590px 80px/90px no-repeat;
-			background-color:white;
-			border-bottom: 1px #EEEEEE solid;
-			height: 145px;
-			position:fixed;
-			top: 0;
-			transform: none;
-			width:1010px;
-			z-index:1;
-		}
-
-		#main {
-			display:block;
-			height:100%;
-			position:relative;
-			top: 145px;
-			max-width:100%;
-		}
-
-		#bottom_gradient {
-			display:none;
-		}
-	}
-}
-*/
