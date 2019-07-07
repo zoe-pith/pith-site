@@ -2,6 +2,17 @@ defaults:
   - values:
       layout: "post"
 prose:
+  ignore:
+    - "/.well-known"
+    - "/fonts"
+    - "/_includes"
+    - "/_layouts"
+    - "/css"
+    - "/js"
+    - "/.*"
+    - "/CNAME"
+    - "/Gemfile*"
+    - "/_config.yml"
   media: "/images"
   siteurl: "http://amja.github.io"
   metadata:
