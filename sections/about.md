@@ -1,13 +1,19 @@
 ---
 layout: default
 title: About
-permalink: /
+permalink: /about
 weight: 1
 ---
 
-Anyone can host, and everyone should. Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
+Anyone can host, and everyone should.
 
-Join the mailing list to receive notifications about dinner openings as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
+\[Add photo\]
+
+I live in New York City, where I run the Pith Supper Club out of my apartment. I’m also a columnist and recipe contributor for Food & Wine Magazine. And when I travel, I’m most curious to explore amazing markets and home cooking traditions.
+
+Excellent hospitality does not have to be transactional and hierarchical. There is true joy in becoming a confident and creative host, in your own home, for your own community.
+
+Sign up below to receive sporadic notifications about supper club availability, as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
 — _Jonah Reider_
 
@@ -19,3 +25,15 @@ Join the mailing list to receive notifications about dinner openings as well as 
     <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space">&nbsp;</p>
+
+### Select Press
+★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
+Delicious — [The New Yorker](http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm)  
+Yes, chef! — [The New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  
+A coveted reservation — [The Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
+A new way for diners to engage — [Forbes](http://www.forbes.com/sites/eveturowpaul/2016/09/09/what-happens-when-the-dorm-room-chef-graduates/)  
+Impossible to stop eating — [Ruth Reichl](http://ruthreichl.com/2016/04/a-pithy-meal.html/)  
+An artful experience — [Food and Wine](http://www.foodandwine.com/chefs/why-these-chefs-are-creating-alternative-restaurant)  
+Best New Chef: East (nominee) — [Tasty Awards]()
+
+\[Add images here\]

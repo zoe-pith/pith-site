@@ -1,0 +1,394 @@
+---
+---
+
+@font-face {
+	font-family: "Adobe Caslon";
+	src: url("../fonts/ACaslonPro-Regular.otf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Adobe Caslon";
+	src: url("../fonts/ACaslonPro-Bold.otf");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Adobe Caslon";
+	src: url("../fonts/ACaslonPro-Italic.otf");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Adobe Caslon";
+	src: url("../fonts/ACaslonPro-BoldItalic.otf");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("../fonts/FuturaLT.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("../fonts/FuturaLT-Bold.ttf");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("../fonts/FuturaLT-Book.ttf");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("../fonts/FuturaLT-Medium.ttf");
+	font-weight: 500;
+	font-style: normal;
+}
+
+body {
+	display: flex;
+	font-family: Adobe Caslon;
+	font-size: 62.5%;
+	height: 100vh;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: black;
+}
+
+#content {
+	display: flex;
+	min-height: 70%;
+	margin-top: 10%;
+	width: 70%;
+}
+
+h1 {
+	font-family: Futura;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin: 0;
+	text-transform: lowercase;
+}
+
+nav {
+	display: inline-block;
+	float: left;
+	flex: 1 0 auto;
+	font-family: Futura;
+	font-size: 1.2rem;
+	font-weight: 500;
+	height: 100%;
+	line-height: 28px;
+	padding-right: 40px;
+	text-align: right;
+	ul {
+		padding: 0;
+		ul {
+			display: none;
+		}
+	}
+	li {
+		list-style: none;
+		&.selected ul {
+			display: initial;
+		}
+		a {
+			text-decoration: none;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+		&.selected > a {
+			text-decoration: underline;
+		}
+		li {
+			&.selected a {
+				color: black;
+			}
+			a {
+				color: grey;
+				font-weight: 300;
+			}
+		}
+	}
+	input {
+		border-color: grey;
+		border-width: 0 0 2px 0;
+		font-family: Futura;
+		font-size: 1.2rem;
+		font-weight: 500;
+		text-align: right;
+		width: 7.5rem;
+		&:focus {
+			border-width: 0 0 2px 0;
+			border-color: black;
+			outline: none;
+		}
+	}
+}
+
+.page {
+	display: none;
+	& > :last-child {
+		padding-bottom: 30px;
+	}
+}
+
+#page-content {
+	font-size: 1.3rem;
+	padding-top: 2.2rem;
+	width: 100%;
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: Futura;
+		font-weight: bold;
+	}
+
+	h2 {
+		font-size: 1.4rem;
+	}
+
+	h3 {
+		font-size: 1.4rem;
+		font-variant: small-caps;
+		font-weight: 500;
+		text-transform: lowercase;
+	}
+
+	h4 {
+		font-size: 1.1rem;
+	}
+
+	h5 {
+		font-size: 1.1rem;
+		font-weight: 500;
+	}
+
+	h6 {
+		font-weight: 400;
+	}
+	img {
+		margin: 15px 0 15px 0;
+		max-height: 420px;
+		max-width: 100%;
+		&.small {
+			max-height: initial;
+			width: 25%;
+		}
+		&.medium {
+			max-height: initial;
+			width: 50%;
+		}
+		&.large {
+			max-height: initial;
+			width: 75%;
+		}
+		&.full {
+			max-height: initial;
+			width: 100%;
+		}
+		&.left {
+			float: left;
+			margin: 0;
+			padding: 0 15px 15px 0;
+		}
+		&.right {
+			float: right;
+			margin: 0;
+			padding: 0 0 15px 15px;
+		}
+	}
+}
+
+#posts {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(120px, 1fr));
+	grid-gap: 20px;
+	grid-auto-rows: auto;
+	list-style: none;
+	width: 100%;
+}
+
+#tags,
+#tags a {
+	color: #999999;
+	font-size: 1rem;
+	margin-top: -0.6rem;
+	text-decoration: none;
+}
+
+#tags a:hover {
+	color: #666666;
+}
+
+#back-button {
+	clear: both;
+	display: none;
+	float: left;
+	a {
+		border-top: 1px solid rgba(0, 0, 0, 0.5);
+		font-size: 1.1rem;
+		font-weight: bold;
+		margin-top: 10px;
+		padding-top: 4px;
+		text-decoration: none;
+		&:hover {
+			color: #666;
+		}
+	}
+}
+
+.post {
+	display: none;
+	width: 120px;
+	a {
+		text-decoration: none;
+		& > img {
+			border: 1px solid rgba(200, 200, 200, 0.5);
+			filter: grayscale(100%);
+			margin: 0;
+			transition: 0.2s filter linear;
+			&:hover {
+				filter: grayscale(0%);
+			}
+		}
+	}
+	div {
+		display: none;
+	}
+}
+
+.tito-badge-link,
+.sold-out {
+	display: none;
+}
+
+/*
+
+.tito-wrapper {
+	margin-bottom: 0px;
+}
+
+.tito-ticket-list {
+	-webkit-font-smoothing: antialiased;
+	font-size: 13.5px;
+	font-weight: normal;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-rendering: optimizeLegibility;
+}
+
+.tito-ticket-price-quantity-wrapper,
+.tito-ticket-quantity,
+.tito-ticket-price-quantity,
+.tito-ticket-price {
+	display: inline;
+	white-space: nowrap;
+}
+
+.tito-ticket-name-wrapper {
+	display: inline;
+	width: 100%;
+}
+
+.tito-ticket-name {
+	display: block;
+}
+
+.tito-ticket {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 14px;
+	line-height: 1.6em;
+}
+
+.tito-ticket-description {
+	display: inline;
+	font-style: italic;
+	line-height: 1.6em;
+}
+
+.tito-wrapper button {
+	background: white;
+	float: right;
+	padding: 5px 8px 5px 8px;
+}
+
+.tito-submit-wrapper {
+	height: 30px;
+	text-align: right;
+}
+
+*/
+
+/*
+button,
+input {
+	-webkit-appearance: none;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	border: 1px rgba(150, 150, 150, 0.5) solid;
+	border-radius: 3px;
+	color: black;
+	font-family: "Hoefler Text";
+	width: 85px;
+}
+
+.tito-wrapper button,
+.tito-wrapper input {
+	font-size: 13.5px;
+}
+
+.tito-wrapper input {
+	width: 25px;
+	height: 18px;
+}
+
+#ms-sub-form input {
+	display: inline;
+	font-size: 13.5px;
+	width: 46.5%;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+#ms-sub-form input[type="submit"] {
+	background: white;
+	display: inline;
+	float: right;
+	margin: 0;
+	padding: 5px 8px 5px 8px;
+	width: auto;
+}
+
+#ms-sub-form input[type="submit"]:active {
+	background-color: #eeeeee;
+}
+
+#ms-sub-form input#email {
+	float: right;
+}
+
+*/

@@ -1,30 +1,40 @@
 - title: About
-  url: "/"
-
+  url: "#"
+- title: Pith
+  url: "#pith"
 - title: Do It Yourself
-  url: "/diy"
+  url: "#diy"
   children:
+    - title: All
+      url: "#diy"
     - title: Recipes
-      url: "#recipes"
+      url: "#diy/recipes"
     - title: Techniques
-      url: "#techniques"
+      url: "#diy/techniques"
     - title: Tools
-      url: "#tools"
+      url: "#diy/tools"
     - title: Travel
-      url: "#travel"
-    - title: Vibes
-      url: "#vibes"
-- title: Select Press
-  url: "/press"
-
-- title: Current Menu
-  url: "/menu"
+      url: "#diy/travel"
+    - title: Search
+      url: "#diy/search"
 
 - title: Reservations
-  url: "/reserve"
+  url: "#reserve"
 
-- title: Other Projects
-  url: "/projects"
-
+- title: Projects
+  url: "#projects"
+  children:
+    - title: "Consultations"
+      url: "#hospitality-consultation"
+    - title: "Education"
+      url: "#education"
+    - title: "Tours"
+      url: "#tours"
+    - title: "Art"
+      url: "#art"
+    - title: "Cannabis"
+      url: "#cannabis"
+    - title: "Media"
+      url: "#media"
 - title: Contact
-  url: "/contact"
+  url: "#contact"

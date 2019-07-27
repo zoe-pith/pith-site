@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /
+---
+
+{% for page in  site.pages %}
+    {% if page.title %}
+      <div class="page" id="{{page.permalink | remove: '/' | append: '-page'}}">
+        {{page.content}}
+      </div>
+    {% endif %}
+  {% endfor %}

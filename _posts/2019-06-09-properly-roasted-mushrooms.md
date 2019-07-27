@@ -4,5 +4,5 @@ icon: /images/orange.jpg
 ---
 
 Content goes here
-## Subtitle
+### Subtitle
 More content goes here

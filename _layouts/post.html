@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{page.title}}</h1>
+<h2>{{page.title}}</h2>
 {% if page.tags.size > 0 %}
   <div id="tags"># 
       {% for tag in page.tags %}
-        <a href="/diy#{{ tag }}">{{tag}}</a>
+        <a href="/#diy/{{ tag }}">{{tag}}</a>
         {% unless forloop.last %}
          &middot; 
         {% endunless %}

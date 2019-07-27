@@ -11,6 +11,7 @@
 		<script src="/js/jquery-2.1.1.js" type="text/javascript"></script>
 		<script src="/js/jquery-easing.js" type="text/javascript"></script>
 		<script src="/js/scrolling.js" type="text/javascript"></script>
+		<script src="/js/navigator.js" type="text/javascript"></script>
 		<script src="https://js.tito.io/v1" async></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77472601-1"></script>
@@ -25,9 +26,5 @@
 		</noscript>
 	</head>
 
-	<body>
-		<div id="content_wrapper">
-			<div id="content">
-				<header>
-				</header>
-				<section id="main">
+  <body>
+  		<div id="content">

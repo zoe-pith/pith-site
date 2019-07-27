@@ -3,9 +3,11 @@ layout: default
 title: Do It Yourself
 permalink: /diy
 weight: 2
+# Modify post layout when editing post format here!
 ---
 
-<script src="/js/posts.js" type="text/javascript"></script>
+Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no-stress recipes to become a more creative, improvisational, and confident host.
+
 {% if site.tags != "" %}
   {% include tag.html %}
 {% endif %}
@@ -18,11 +20,11 @@ weight: 2
         <span>{{ post.title }}</span>
       </a>
       <div>
-        <h1>{{post.title}}</h1>
+        <h2>{{post.title}}</h2>
         {% if post.tags.size > 0 %}
           <div id="tags"># 
               {% for tag in post.tags %}
-                <a href="/diy#{{ tag }}" onclick="return filterPosts('{{ tag }}')">{{tag}}</a>
+                <a href="/#diy/{{ tag }}" onclick="return filterPosts('{{ tag }}')">{{tag}}</a>
                 {% unless forloop.last %}
                  &middot; 
                 {% endunless %}
@@ -35,4 +37,4 @@ weight: 2
   {% endfor %}
 </ul>
 <article id="post"></article>
-<div id="back-button"><a href="#" onclick="goBack()">&larr; Back</a></div>
+<div id="back-button"><a href="#diy" onclick="goBack()">&larr; Back</a></div>
