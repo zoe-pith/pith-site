@@ -76,8 +76,10 @@ a {
 #content {
 	display: flex;
 	min-height: 70%;
-	margin-top: 10%;
-	width: 70%;
+	margin: 10% 4% 0 4%;
+	max-width: 1100px;
+	position: relative;
+	width: 100%;
 }
 
 h1 {
@@ -99,6 +101,10 @@ nav {
 	line-height: 28px;
 	padding-right: 40px;
 	text-align: right;
+	> button {
+		display: none;
+	}
+
 	ul {
 		padding: 0;
 		ul {
@@ -153,6 +159,7 @@ nav {
 }
 
 #page-content {
+	flex-grow: 1;
 	font-size: 1.3rem;
 	padding-top: 2.2rem;
 	width: 100%;
@@ -190,7 +197,7 @@ nav {
 	}
 	img {
 		margin: 15px 0 15px 0;
-		max-height: 420px;
+		max-height: 100%;
 		max-width: 100%;
 		&.small {
 			max-height: initial;
@@ -222,11 +229,12 @@ nav {
 }
 
 #posts {
-	display: grid;
-	grid-template-columns: repeat(4, minmax(120px, 1fr));
+	display: inline-grid;
+	grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
 	grid-gap: 20px;
 	grid-auto-rows: auto;
 	list-style: none;
+	padding: 0;
 	width: 100%;
 }
 
@@ -264,14 +272,17 @@ nav {
 	width: 120px;
 	a {
 		text-decoration: none;
-		& > img {
+		> img {
 			border: 1px solid rgba(200, 200, 200, 0.5);
 			filter: grayscale(100%);
-			margin: 0;
+			margin: 0!important;
 			transition: 0.2s filter linear;
 			&:hover {
 				filter: grayscale(0%);
 			}
+		}
+		span {
+			font-size: 1.1rem;
 		}
 	}
 	div {
@@ -392,3 +403,52 @@ input {
 }
 
 */
+
+@media screen and (max-width: 500px) {
+	body {
+		display: block;
+	}
+
+	nav {
+		background: white;
+		margin-bottom: 30px;
+		height: 70px;
+		overflow: hidden;
+		padding: 0;
+		position: fixed;
+		text-align: left;
+		transition: 0.3s height ease;
+		top: 0;
+		width: 100%;
+		z-index: 2;
+		> button {
+			background: left/30% url("../images/tile.png") repeat;
+			border: none;
+			color: white;
+			display: block;
+			font-size: 1.5rem;
+			height: 70px;
+			margin: 0 0 20px 0;
+			width: 100%;
+		}
+		> h1, &> ul {
+			margin-left: 30px;
+		}
+	}
+
+	#content {
+		display: block;
+		margin: 0;
+		width: 100%;
+	}
+
+	#page-content {
+		margin-top: 70px;
+		padding: 30px;
+	}
+
+	#contact-page img {
+		max-width: auto;
+		width: 100%!important;
+	}
+}

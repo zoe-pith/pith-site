@@ -1,4 +1,4 @@
-var state = { postVisible: false, previousScroll: 0, isSearchVisible: false };
+var state = { postVisible: false, previousScroll: 0, isSearchVisible: false, isMenuOpen: false };
 
 window.onload = function() {
   var url_data = window.location.hash.slice(1).split("/");
@@ -39,7 +39,6 @@ window.onload = function() {
   };
   showPage(spoofE);
   document.getElementById("loading").style.display = "none";
-  if (page === "diy") filterPosts(tag);
 };
 
 function showPage(e) {
@@ -50,6 +49,7 @@ function showPage(e) {
   pages.forEach(page => {
     if (page.id == (page_name || "about") + "-page") {
       page.style.display = "block";
+      state.previousScroll = document.body.scrollTop;
       document.body.scrollTop = 0;
     } else {
       page.style.display = "none";
@@ -78,12 +78,14 @@ function showPage(e) {
   state.selectedNavItem.classList.add("selected");
 
   if (page_name === "diy") filterPosts();
+  if (state.isMenuOpen && page_name !== "diy") toggleMenu();
   return false;
 }
 
 function showPost(e) {
-  state.previousScroll = document.getElementById("page-content").scrollTop;
-
+  state.previousScroll = document.body.scrollTop;
+  document.body.scrollTop = 0;
+  
   document.getElementById("posts").style.display = "none";
   document.querySelector("#diy-page p:first-child").style.display = "none";
   var post_wrapper = document.getElementById("post");
@@ -109,6 +111,7 @@ function searchPosts(text) {
 function filterPosts(tag) {
   if (state.postVisible) goBack();
   var newSelected;
+  var keepMenu = false;
   var posts = document.querySelectorAll("#posts li");
   posts.forEach(post => {
     if (!tag || post.classList.contains(tag + "-tag")) {
@@ -117,7 +120,6 @@ function filterPosts(tag) {
       post.style.display = "none";
     }
   });
-  console.log(state);
   if (state.isSearchVisible) revertSearch();
 
   var link = document.querySelector(
@@ -130,11 +132,14 @@ function filterPosts(tag) {
       state.selectedNavItem = link.parentElement;
       state.selectedNavItem.classList.add("selected");
     } else {
+      keepMenu = true;
       state.selectedNavItemParent = state.selectedNavItem;
       state.selectedNavItem = link.parentElement;
       state.selectedNavItem.classList.add("selected");
     }
   }
+  // alert(tag);
+  if (state.isMenuOpen && !keepMenu) toggleMenu();
 }
 
 function revertSearch() {
@@ -150,7 +155,29 @@ function goBack() {
   document.querySelector("#diy-page p:first-child").style.display = "initial";
   document.getElementById("posts").style.display = "grid";
   document.getElementById("back-button").style.display = "none";
-  document.getElementById("page-content").scrollTop = state.previousScroll;
+  document.body.scrollTop = state.previousScroll;
   state.postVisible = false;
   return false;
+}
+function toggleMenu() {
+  // alert("tog");
+  var menu = document.getElementsByTagName("nav")[0];
+  var button = document.querySelector("nav button");
+  var content = document.getElementById("page-content");
+  if (state.isMenuOpen) {
+    content.style.display = "block";
+    button.innerHTML = "&middot;&middot;&middot;";
+    menu.style.height = "70px";
+    setTimeout(() => {
+      menu.children[1].style.display = "none";
+      menu.children[2].style.display = "none";
+    }, 300);
+  } else {
+    menu.children[1].style.display = "block";
+    menu.children[2].style.display = "block";
+    setTimeout(() => (content.style.display = "none"), 300);
+    button.innerHTML = "&#10005;";
+    menu.style.height = "100vh";
+  }
+  state.isMenuOpen = !state.isMenuOpen;
 }

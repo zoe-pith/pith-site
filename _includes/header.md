@@ -10,7 +10,6 @@
 		<link rel="stylesheet" type="text/css" href="/css/style.css">
 		<script src="/js/jquery-2.1.1.js" type="text/javascript"></script>
 		<script src="/js/jquery-easing.js" type="text/javascript"></script>
-		<script src="/js/scrolling.js" type="text/javascript"></script>
 		<script src="/js/navigator.js" type="text/javascript"></script>
 		<script src="https://js.tito.io/v1" async></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
