@@ -38,6 +38,6 @@ Best New Chef: East (nominee) — [Tasty Awards]()
 
 ![Pith Supper Club in Brooklyn, New York]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
 
-![Fort Green Farmer's Market]({{site.baseurl}}//images/Screen%20Shot%202019-08-09%20at%206.53.17%20PM.png)
+![Fort Green Farmer's Market]({{site.baseurl}}/images/fort_green_market.jpg)
 
 ![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpeg)
