@@ -8,7 +8,7 @@ published: true
 
 Anyone can host, and everyone should.
 
-![pith_pattern_small.png]({{site.baseurl}}/images/pith_pattern_small.png)
+[pith_pattern_thin.png]({{site.baseurl}}/images/pith_pattern_thin.png)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment. I’m also a columnist and recipe contributor for Food & Wine Magazine. And when I travel, I’m most curious to explore amazing markets and home cooking traditions.
 
@@ -16,7 +16,6 @@ Excellent hospitality does not have to be transactional and hierarchical. There 
 
 Sign up below to receive sporadic notifications about supper club availability, as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
-— _Jonah Reider_
 
 <form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
   <input name="utf8" type="hidden" value="✓">
@@ -42,4 +41,3 @@ Best New Chef: East (nominee) — [Tasty Awards]()
 ![Fort Green Farmer's Market]({{site.baseurl}}//images/Screen%20Shot%202019-08-09%20at%206.53.17%20PM.png)
 
 ![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpeg)
-
