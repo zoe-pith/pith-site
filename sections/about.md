@@ -3,11 +3,12 @@ layout: default
 title: About
 permalink: /about
 weight: 1
+published: true
 ---
 
 Anyone can host, and everyone should.
 
-\[Add photo\]
+![pith_pattern_small.png]({{site.baseurl}}/images/pith_pattern_small.png)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment. I’m also a columnist and recipe contributor for Food & Wine Magazine. And when I travel, I’m most curious to explore amazing markets and home cooking traditions.
 
@@ -36,4 +37,9 @@ Impossible to stop eating — [Ruth Reichl](http://ruthreichl.com/2016/04/a-pith
 An artful experience — [Food and Wine](http://www.foodandwine.com/chefs/why-these-chefs-are-creating-alternative-restaurant)  
 Best New Chef: East (nominee) — [Tasty Awards]()
 
-\[Add images here\]
+![Pith Supper Club in Brooklyn, New York]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
+
+![Fort Green Farmer's Market]({{site.baseurl}}//images/Screen%20Shot%202019-08-09%20at%206.53.17%20PM.png)
+
+![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpeg)
+
