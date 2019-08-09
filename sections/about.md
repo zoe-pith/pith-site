@@ -8,7 +8,7 @@ published: true
 
 Anyone can host, and everyone should.
 
-[pith_pattern_thin.png]({{site.baseurl}}/images/pith_pattern_thin.png)
+![pith_pattern_thin.png]({{site.baseurl}}/images/pith_pattern_thin.png)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment. I’m also a columnist and recipe contributor for Food & Wine Magazine. And when I travel, I’m most curious to explore amazing markets and home cooking traditions.
 
