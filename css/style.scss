@@ -344,6 +344,8 @@ input {
     }
 }
 
+$nav-height: 70px;
+
 @media screen and (max-width: 500px) {
     body {
         display: block;
@@ -352,7 +354,7 @@ input {
     nav {
         background: white;
         font-size: 1.5rem;
-        height: 70px;
+        height: $nav-height;
         line-height: 2.4rem;
         margin-bottom: 30px;
         overflow: hidden;
@@ -362,6 +364,16 @@ input {
         top: 0;
         width: 100%;
         z-index: 2;
+        > div {
+            height: calc(100% - #{$nav-height});
+            overflow-y: scroll;
+            padding-top: 20px;
+            width: 100%;
+            h1,
+            & > ul {
+                margin-left: 30px;
+            }
+        }
         > button {
             background: left/30% url("../images/tile.png") repeat;
             border: none;
@@ -369,14 +381,10 @@ input {
             display: block;
             font-family: Futura;
             font-size: 1.7rem;
-            height: 70px;
-            margin: 0 0 20px 0;
+            height: $nav-height;
+            margin: 0;
             font-variant: small-caps;
             width: 100%;
-        }
-        > h1,
-        & > ul {
-            margin-left: 30px;
         }
     }
 

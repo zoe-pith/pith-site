@@ -15,7 +15,7 @@ window.onload = () => {
     const tag = urlData[1];
     let isUrlForElement = false;
 
-    const pages = document.querySelectorAll("nav > ul > li > a");
+    const pages = document.querySelectorAll("nav > div > ul > li > a");
     pages.forEach(link => {
         link.addEventListener("click", showPage);
     });
@@ -209,11 +209,9 @@ const toggleMenu = () => {
         menu.style.height = MENU_HEIGHT;
         setTimeout(() => {
             menu.children[1].style.display = "none";
-            menu.children[2].style.display = "none";
         }, MENU_ANIMATION_TIME);
     } else {
         menu.children[1].style.display = "block";
-        menu.children[2].style.display = "block";
         setTimeout(() => (content.style.display = "none"), MENU_ANIMATION_TIME);
         button.innerHTML = "&#10005;";
         menu.style.height = "100%";
