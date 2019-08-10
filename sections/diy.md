@@ -9,8 +9,9 @@ weight: 2
 Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no-stress recipes to become a more creative, improvisational, and confident host.
 
 {% if site.tags != "" %}
-  {% include tag.html %}
+{% include tag.html %}
 {% endif %}
+
 <div id="loading">Loading posts&hellip;</div>
 <ul id="posts">
   {% for post in site.posts %}

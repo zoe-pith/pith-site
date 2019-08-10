@@ -1,6 +1,6 @@
 - title: About
   url: "#"
-- title: Pith
+- title: Pith Supper Club
   url: "#pith"
 - title: Do It Yourself
   url: "#diy"
@@ -17,9 +17,6 @@
       url: "#diy/travel"
     - title: Search
       url: "#diy/search"
-
-- title: Reservations
-  url: "#reserve"
 
 - title: Projects
   url: "#projects"

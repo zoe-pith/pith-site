@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="Pith, Jonah Reider, supper club">
   	<meta name="author" content="Jonah Reider">
 		<title>Pith – Jonah Reider</title>
@@ -11,7 +11,7 @@
 		<script src="/js/jquery-2.1.1.js" type="text/javascript"></script>
 		<script src="/js/jquery-easing.js" type="text/javascript"></script>
 		<script src="/js/navigator.js" type="text/javascript"></script>
-		<script src="https://js.tito.io/v1" async></script>
+		<script src="https://js.tito.io/v1"></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77472601-1"></script>
 		<script>
