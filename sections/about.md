@@ -16,8 +16,7 @@ Excellent hospitality does not have to be transactional and hierarchical. There 
 
 Sign up below to receive sporadic notifications about supper club availability, as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
-
-<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="ms-sub-form" method="post" target="_blank">
+<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="subscribe" method="post" target="_blank">
   <input name="utf8" type="hidden" value="✓">
   <input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
   <input placeholder="Name" id="name" name="interested_user[name]" type="text">
@@ -27,6 +26,7 @@ Sign up below to receive sporadic notifications about supper club availability, 
 <p class="bottom_space">&nbsp;</p>
 
 ### Select Press
+
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
 Delicious — [The New Yorker](http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm)  
 Yes, chef! — [The New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  

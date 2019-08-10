@@ -58,7 +58,8 @@
 }
 
 html {
-    scroll-behavior: smooth;
+    // Add this back when it is better supported!
+    /* scroll-behavior: smooth; */
     font-size: 100%;
 }
 

@@ -58,6 +58,9 @@ window.onload = () => {
     ) {
         toggleMenu();
     }
+    new SmoothScroll("a[data-scroll]", {
+        speed: 450
+    });
 };
 
 const openSearchBox = e => {

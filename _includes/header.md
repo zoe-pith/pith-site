@@ -8,10 +8,9 @@
 		<title>Pith – Jonah Reider</title>
 		<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
 		<link rel="stylesheet" type="text/css" href="/css/style.css">
-		<script src="/js/jquery-2.1.1.js" type="text/javascript"></script>
-		<script src="/js/jquery-easing.js" type="text/javascript"></script>
 		<script src="/js/navigator.js" type="text/javascript"></script>
 		<script src="https://js.tito.io/v1"></script>
+		<script src="/js/smooth-scroll.polyfills.min.js"></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77472601-1"></script>
 		<script>
