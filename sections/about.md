@@ -30,12 +30,14 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </form>
 <p class="bottom_space">&nbsp;</p>
 
+
 ### Tips, Tools, and Tricks
 
 Recent #important post #1
 Recent #important post #2
 Recent #important post #3
 See more... (takes you to DIY page)
+
 
 ### Select Press
 
