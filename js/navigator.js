@@ -32,7 +32,9 @@ window.onload = () => {
             if (href[1] === "search") {
                 link.addEventListener("click", openSearchBox);
             } else {
-                link.addEventListener("click", () => filterPosts(href[1]));
+                link.addEventListener("click", () =>
+                    filterPosts(href[1], true)
+                );
             }
         } else {
             link.addEventListener("click", toggleMenu);
@@ -52,7 +54,7 @@ window.onload = () => {
     }
 
     showPage(spoofE);
-    filterPosts(tag);
+    filterPosts(tag, false);
     document.getElementById("loading").style.display = "none";
 
     if (!page && isMobileView) {
@@ -76,7 +78,7 @@ const openSearchBox = e => {
     const link = e.target;
     link.style.display = "none";
     link.parentElement.appendChild(field);
-    filterPosts("search");
+    filterPosts("search", false);
     field.focus();
     state.isSearchVisible = true;
     e.preventDefault();
@@ -125,7 +127,7 @@ const showPage = e => {
     state.selectedNavItem.classList.add("selected");
 
     const itemHasChildren = !!state.selectedNavItem.nextElementSibling;
-    if (page_name === POST_PAGE) filterPosts();
+    if (page_name === POST_PAGE) filterPosts("", false);
     if (!itemHasChildren || oldNavItem === state.selectedNavItem) toggleMenu();
     return false;
 };
@@ -157,7 +159,7 @@ function searchPosts(text) {
     });
 }
 
-const filterPosts = tag => {
+const filterPosts = (tag, linkClicked) => {
     if (state.postVisible) goBack();
     let keepMenu = false;
     const posts = document.querySelectorAll("#posts li");
@@ -168,6 +170,7 @@ const filterPosts = tag => {
             post.style.display = "none";
         }
     });
+
     if (state.isSearchVisible) revertSearch();
 
     const link = document.querySelector(
@@ -187,7 +190,8 @@ const filterPosts = tag => {
         }
     }
 
-    if (tag !== "search" && state.isMenuOpen && !keepMenu) toggleMenu();
+    if (linkClicked && tag !== "search" && state.isMenuOpen && !keepMenu)
+        toggleMenu();
 };
 
 const revertSearch = () => {
