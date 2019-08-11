@@ -12,7 +12,7 @@
         url: "#current-menu"
       - title: Reservations
         url: "#reservations"
-- title: Tools, Tips, and Tricks
+- title: Do It Yourself
   url: "#diy"
   children:
       - title: All
