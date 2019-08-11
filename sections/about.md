@@ -28,7 +28,7 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </form>
 <p class="bottom_space">&nbsp;</p>
 
-### Tools, Tips, and Tricks
+### Tips, Tools, and Tricks
 
 Recent #important post #1
 Recent #important post #2
