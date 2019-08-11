@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Do It Yourself
+title: 'Tools, Tips, and Tricks'
 permalink: /diy
 weight: 2
-# Modify post layout when editing post format here!
+published: true
 ---
 
 Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no-stress recipes to become a more creative, improvisational, and confident host.
