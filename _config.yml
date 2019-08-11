@@ -13,7 +13,7 @@ prose:
     - "/CNAME"
     - "/Gemfile*"
     - "/_config.yml"
-  media: "/images"
+  media: "images"
   siteurl: "http://amja.github.io"
   metadata:
     _posts:
@@ -32,4 +32,3 @@ prose:
           element: "text"
           label: "Post Icon"
           value: "/images/"
-
