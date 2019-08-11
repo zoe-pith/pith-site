@@ -1,6 +1,7 @@
 const MENU_ANIMATION_TIME = 300;
 const MENU_HEIGHT = "70px";
 const POST_PAGE = "diy";
+let isMobileView = false;
 
 const state = {
     postVisible: false,
@@ -10,6 +11,10 @@ const state = {
 };
 
 window.onload = () => {
+    isMobileView =
+        window
+            .getComputedStyle(document.querySelector("nav > button"))
+            .getPropertyValue("display") === "block";
     const urlData = window.location.hash.slice(1).split("/");
     const page = urlData[0];
     const tag = urlData[1];
@@ -23,19 +28,19 @@ window.onload = () => {
     const tag_links = document.querySelectorAll("nav ul ul a");
     tag_links.forEach(link => {
         const href = link.getAttribute("href").split("/");
-        if (href[0] === "#" + POST_PAGE && href[1] != "search") {
-            const filter = () => filterPosts(href[1]);
-            link.addEventListener("click", () => filter());
-        } else if (href[0] !== `#${POST_PAGE}` && href[0] === `#${page}`) {
-            isUrlForElement = true;
+        if (href[0] === "#" + POST_PAGE) {
+            if (href[1] === "search") {
+                link.addEventListener("click", openSearchBox);
+            } else {
+                link.addEventListener("click", () => filterPosts(href[1]));
+            }
+        } else {
+            link.addEventListener("click", toggleMenu);
+            if (href[0] !== `#${POST_PAGE}` && href[0] === `#${page}`) {
+                isUrlForElement = true;
+            }
         }
     });
-
-    const search_link = document.querySelector(
-        `nav [href = '#${POST_PAGE}/search']`
-    );
-
-    search_link.addEventListener("click", openSearchBox);
 
     const spoofE = {
         target: document.querySelector(`nav a[href = '#${page}']`)
@@ -50,15 +55,11 @@ window.onload = () => {
     filterPosts(tag);
     document.getElementById("loading").style.display = "none";
 
-    if (
-        !page &&
-        window
-            .getComputedStyle(document.querySelector("nav > button"))
-            .getPropertyValue("display") === "block"
-    ) {
+    if (!page && isMobileView) {
         toggleMenu();
     }
     new SmoothScroll("a[data-scroll]", {
+        offset: isMobileView ? MENU_HEIGHT : 180,
         speed: 450
     });
 };
@@ -66,11 +67,16 @@ window.onload = () => {
 const openSearchBox = e => {
     const field = document.createElement("input");
     field.addEventListener("input", e => searchPosts(e.srcElement.value));
-
+    field.addEventListener("keypress", e => {
+        // Enter key
+        if (e.keyCode === 13) {
+            toggleMenu();
+        }
+    });
     const link = e.target;
     link.style.display = "none";
     link.parentElement.appendChild(field);
-    filterPosts();
+    filterPosts("search");
     field.focus();
     state.isSearchVisible = true;
     e.preventDefault();
@@ -113,11 +119,14 @@ const showPage = e => {
             state.selectedNavItem.classList.remove("selected");
         }
     }
+
+    const oldNavItem = state.selectedNavItem;
     state.selectedNavItem = target.parentElement;
     state.selectedNavItem.classList.add("selected");
 
+    const itemHasChildren = !!state.selectedNavItem.nextElementSibling;
     if (page_name === POST_PAGE) filterPosts();
-    if (state.isMenuOpen && page_name !== POST_PAGE) toggleMenu();
+    if (!itemHasChildren || oldNavItem === state.selectedNavItem) toggleMenu();
     return false;
 };
 
@@ -153,7 +162,7 @@ const filterPosts = tag => {
     let keepMenu = false;
     const posts = document.querySelectorAll("#posts li");
     posts.forEach(post => {
-        if (!tag || post.classList.contains(tag + "-tag")) {
+        if (!tag || tag === "search" || post.classList.contains(tag + "-tag")) {
             post.style.display = "block";
         } else {
             post.style.display = "none";
@@ -177,8 +186,8 @@ const filterPosts = tag => {
             state.selectedNavItem.classList.add("selected");
         }
     }
-    // alert(tag);
-    if (state.isMenuOpen && !keepMenu) toggleMenu();
+
+    if (tag !== "search" && state.isMenuOpen && !keepMenu) toggleMenu();
 };
 
 const revertSearch = () => {
@@ -203,6 +212,7 @@ const goBack = () => {
 };
 
 const toggleMenu = () => {
+    if (!isMobileView) return;
     const menu = document.getElementsByTagName("nav")[0];
     const button = document.querySelector("nav button");
     const content = document.getElementById("page-content");

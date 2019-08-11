@@ -14,14 +14,11 @@ I live in New York City, where I run the Pith Supper Club out of my apartment. I
 
 Excellent hospitality does not have to be transactional and hierarchical. There is true joy in becoming a confident and creative host, in your own home, for your own community.
 
-
-
 ### Subscribe
-
 
 Sign up below to receive sporadic notifications about supper club availability, as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
-<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="subscribe" method="post" target="_blank">
+<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="subscribe-form" method="post" target="_blank">
   <input name="utf8" type="hidden" value="✓">
   <input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
   <input placeholder="Name" id="name" name="interested_user[name]" type="text">
@@ -30,14 +27,12 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </form>
 <p class="bottom_space">&nbsp;</p>
 
-
 ### Recent Posts
 
 Recent #important post #1
 Recent #important post #2
 Recent #important post #3
 See more... (takes you to DIY page)
-
 
 ### Select Press
 
