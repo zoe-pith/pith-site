@@ -15,7 +15,9 @@ I live in New York City, where I run the Pith Supper Club out of my apartment. I
 Excellent hospitality does not have to be transactional and hierarchical. There is true joy in becoming a confident and creative host, in your own home, for your own community.
 
 
+
 ### Subscribe
+
 
 Sign up below to receive sporadic notifications about supper club availability, as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
