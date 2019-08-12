@@ -1,5 +1,5 @@
 const MENU_ANIMATION_TIME = 300;
-const MENU_HEIGHT = "70px";
+const MENU_HEIGHT = "55px";
 const POST_PAGE = "diy";
 let isMobileView = false;
 
@@ -44,16 +44,18 @@ window.onload = () => {
         }
     });
 
-    const spoofE = {
-        target: document.querySelector(`nav a[href = '#${page}']`)
-    };
+    if (!isMobileView) {
+        const spoofE = {
+            target: document.querySelector(`nav a[href = '#${page}']`)
+        };
 
-    if (isUrlForElement) {
-        spoofE.target =
-            spoofE.target.parentElement.parentElement.previousElementSibling;
+        if (isUrlForElement) {
+            spoofE.target =
+                spoofE.target.parentElement.parentElement.previousElementSibling;
+        }
+
+        showPage(spoofE);
     }
-
-    showPage(spoofE);
     filterPosts(tag, false);
     document.getElementById("loading").style.display = "none";
 

@@ -360,7 +360,7 @@ input {
     }
 }
 
-$nav-height: 70px;
+$nav-height: 55px;
 
 @media screen and (max-width: 500px) {
     body {
@@ -392,9 +392,8 @@ $nav-height: 70px;
             }
         }
         > button {
-            background: left/30% url("../images/tile.png") repeat;
+            background: white;
             border: none;
-            color: white;
             display: block;
             font-family: Futura;
             font-size: 1.7rem;
@@ -416,11 +415,15 @@ $nav-height: 70px;
         box-sizing: border-box;
         margin-top: 70px;
         margin-left: 0;
-        padding: 30px;
+        padding: 0 30px 30px 30px;
     }
 
     #contact-page img {
         max-width: auto;
         width: 100% !important;
+    }
+
+    .page {
+        padding-bottom: 0;
     }
 }
