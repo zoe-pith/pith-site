@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Tools, Tips, and Tricks'
+title: "Tools, Tips, and Tricks"
 permalink: /diy
 weight: 2
 published: true
@@ -14,10 +14,10 @@ Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no
 
 <div id="loading">Loading posts&hellip;</div>
 <ul id="posts">
-  {% assign published_posts = site.posts | where: "published", true %}
+  {% assign published_posts = site.posts | where: "published", true | sort: "date" | reverse %}
   {% for post in published_posts %}
     <li class="post {{ post.tags | join: '-tag ' | append: '-tag' }}">
-      <a href="{{ post.url }}" onclick="return showPost(this)">
+      <a href="{{ post.url }}" onclick="return showPost(this.nextElementSibling)">
         <img src="{{ post.icon }}">
         <span>{{ post.title }}</span>
       </a>

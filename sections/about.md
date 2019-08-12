@@ -27,12 +27,30 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </form>
 <p class="bottom_space">&nbsp;</p>
 
+{% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
+{% assign num_posts = important_posts | size %}
+{% if num_posts > 0 %}
+
 ### Recent Posts
 
-Recent #important post #1
-Recent #important post #2
-Recent #important post #3
-See more... (takes you to DIY page)
+{% assign i = 0 %}
+
+<div id="featured-posts">
+{% for post in important_posts %}
+{% if i >= 3 %}
+{% break %}
+{% endif %}
+{% assign i = i | plus: 1 %}
+<div>
+    <a href="#diy" onclick="jumpToPost('{{ post.url}}');">
+    <img src="{{ post.icon }}">
+    <span>{{ post.title }}</span>
+    </a>
+</div>
+{% endfor %}
+</div>
+<a href="#diy" onclick="jumpToPost()">See more&hellip;</a>
+{% endif %}
 
 ### Select Press
 

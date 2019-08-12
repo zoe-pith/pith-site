@@ -61,7 +61,7 @@ window.onload = () => {
         toggleMenu();
     }
     new SmoothScroll("a[data-scroll]", {
-        offset: isMobileView ? MENU_HEIGHT : 180,
+        offset: isMobileView ? MENU_HEIGHT : 140,
         speed: 450
     });
 };
@@ -132,7 +132,7 @@ const showPage = e => {
     return false;
 };
 
-const showPost = e => {
+const showPost = postContent => {
     state.previousScroll = document.body.scrollTop;
     document.body.scrollTop = 0;
 
@@ -140,7 +140,7 @@ const showPost = e => {
     document.querySelector(`#${POST_PAGE}-page p:first-child`).style.display =
         "none";
     const post_wrapper = document.getElementById("post");
-    const post = e.nextElementSibling.innerHTML;
+    const post = postContent.innerHTML;
     post_wrapper.innerHTML = post;
 
     document.getElementById("back-button").style.display = "initial";
@@ -234,4 +234,16 @@ const toggleMenu = () => {
         menu.style.height = "100%";
     }
     state.isMenuOpen = !state.isMenuOpen;
+};
+
+const jumpToPost = postUrl => {
+    showPage({
+        target: document.querySelector(`nav a[href = '#${POST_PAGE}']`)
+    });
+    if (postUrl) {
+        const realPostLink = document.querySelector(`li a[href='${postUrl}']`);
+        realPostLink.parentElement.style.display = "block";
+        console.log(realPostLink.parentElement);
+        showPost(realPostLink.nextElementSibling, false);
+    }
 };
