@@ -9,6 +9,7 @@ tags:
   - italy
   - frying
   - potato
+important: true
 ---
 
 I like donuts, but I would never recommend making them at home — unless they are _graffe_, an insanely delicious Napoletan treat made partially from mashed potatoes. It's a surprising and simple recipe, but the result is impossibly airy, shimmering with granulated sugar and best eaten immediately alongside a foamy cappucino.
