@@ -1,7 +1,7 @@
 ---
 icon: /images/graffe_donuts.JPG
 published: true
-title: 'The Best Donuts are Made with Mashed Potatoes '
+title: The Best Donuts
 tags:
   - recipes
   - dessert
