@@ -25,8 +25,8 @@ As always with baking recipes, a scale makes preparing the dough extremely quick
 #### Recipe
 
 - 25 grams sugar
-- 250g cup warm water
 - 25 grams yeast
+- 250 grams warm water
 
 - 500 grams flour
 - 500 grams potato, boiled until soft and mashed or riced
