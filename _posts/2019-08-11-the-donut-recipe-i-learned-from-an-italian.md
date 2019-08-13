@@ -12,6 +12,7 @@ tags:
 important: true
 ---
 
+
 I like donuts, but I would never recommend making them at home — unless they are _graffe_, an insanely delicious Napoletan treat made partially from mashed potatoes. It's a surprising and simple recipe, but the result is impossibly airy, shimmering with granulated sugar and best eaten immediately alongside a foamy cappucino.
 
 ![Italian Grandma's Graffe ]({{site.baseurl}}/images/graffe_donuts.JPG)
@@ -23,31 +24,32 @@ As always with baking recipes, a scale makes preparing the dough extremely quick
 
 #### Recipe
 
-> 25 grams sugar
-> 250g cup warm water
-> 25 grams yeast
+- 25 grams sugar
+- 250g cup warm water
+- 25 grams yeast
 
-> 500 grams flour
-> 500 grams potato, boiled until soft and mashed or riced
-> 3 eggs
+- 500 grams flour
+- 500 grams potato, boiled until soft and mashed or riced
+- 3 eggs
+
 
 
 ### Dough Preparation
 
-\_Mix first three ingredients in mixing bowl to activate yeast. Then add flour, mashed or riced boiled potatos, and eggs. Mix and knead gently until combined, then rest either for 3 hours on your kitchen counter, or overnight in your refridgertor. While it's resting, keep the dough in the same mixing bowl to minimize cleanup, and cover it with a porous kitchen towel so the yeast can breath and work its magic.
+Mix first three ingredients in mixing bowl to activate yeast. Then add flour, mashed or riced boiled potatos, and eggs. Mix and knead gently until combined, then rest either for 3 hours on your kitchen counter, or overnight in your refridgertor. While it's resting, keep the dough in the same mixing bowl to minimize cleanup, and cover it with a porous kitchen towel so the yeast can breath and work its magic.
 
 
 ### Shaping
 
-\_Once the dough has risen, shape pieces of it into balls with your palms, then stick your finger through the middle, and spin to create a smooth loop. Video example below:
+Once the dough has risen, shape pieces of it into balls with your palms, then stick your finger through the middle, and spin to create a smooth loop. Video example below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pqxMTpsA6dY?start=134" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Cooking
 
-\_Set a deep but small frying pan on medium heat with plenty of sunflower or grapeseed oil (canola is fine too) and wait about 10 minutes. If the oil is smoking or turning brown, adjust by turning down the heat or moving pan away from heat completely.
+Set a deep but small frying pan on medium heat with plenty of sunflower or grapeseed oil (canola is fine too) and wait about 10 minutes. If the oil is smoking or turning brown, adjust by turning down the heat or moving pan away from heat completely.
 
 Fry shaped donuts until golden brown in sunflower or vegetable oil, about 2-4 minutes. Let cool slightly on an absorbant towel, then gently roll warm donut in shallow bowl of granulated sugar and serve immediately.
 
-![Holding Finished Donut]({{site.baseurl}}/https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1){:.small .right}
+![Holding Finished Donut](/https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1){:.small .right}
