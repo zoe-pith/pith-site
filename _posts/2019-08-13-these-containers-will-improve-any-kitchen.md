@@ -1,11 +1,11 @@
 ---
 important: true
-published: false
+published: true
 title: These Containers Will Improve Any Kitchen
 tags:
+  - techniques
   - tools
   - containers
-  - techniques
 icon: /images/deli-containers.png
 ---
 
