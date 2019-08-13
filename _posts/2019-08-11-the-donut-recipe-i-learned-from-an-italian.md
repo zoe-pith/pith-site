@@ -27,10 +27,12 @@ As always with baking recipes, a scale makes preparing the dough extremely quick
 - 25 grams sugar
 - 250g cup warm water
 - 25 grams yeast
-
+-
 - 500 grams flour
 - 500 grams potato, boiled until soft and mashed or riced
 - 3 eggs
+
+
 
 
 
@@ -52,4 +54,4 @@ Set a deep but small frying pan on medium heat with plenty of sunflower or grape
 
 Fry shaped donuts until golden brown in sunflower or vegetable oil, about 2-4 minutes. Let cool slightly on an absorbant towel, then gently roll warm donut in shallow bowl of granulated sugar and serve immediately.
 
-![Holding Finished Donut](/https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1)
+![Holding Finished Donut](https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1)
