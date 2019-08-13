@@ -14,7 +14,8 @@ Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no
 
 <div id="loading">Loading posts&hellip;</div>
 <ul id="posts">
-  {% assign published_posts = site.posts | where: "published", true | sort: "date" | reverse %}
+<!-- DO WHERE PUBLISHED ONCE ON REAL SITE -->
+  {% assign published_posts = site.posts | sort: "date" | reverse %} 
   {% for post in published_posts %}
     <li class="post {{ post.tags | join: '-tag ' | append: '-tag' }}">
       <a href="{{ post.url }}" onclick="return showPost(this.nextElementSibling)">
