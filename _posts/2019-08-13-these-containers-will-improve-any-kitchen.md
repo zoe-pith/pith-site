@@ -9,13 +9,19 @@ tags:
 icon: /images/deli-containers.png
 ---
 
-_Originally [published](fxw.com) for my column _Supper Club_ at Food & Wine Magazine._
+_Originally [published](fxw.com) for my column_ Supper Club _at Food & Wine Magazine._
 
 As much as I love browsing esoteric cookbooks (I see you, 6-month-aged fish garum), my home cooking routine generally involves spontaneously throwing together ingredients that I already have on hand.
 
 I think that this improvisational attitude towards cooking is common, but often exasperating without the confidence that good tools, techniques, and a bit of organization can bring. And though I have plenty of suggestions for blenders, knives, and soufflé techniques, **I’d encourage anyone to begin refining their home-cooking workflow with something more elemental: containers.**
      
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=pithenterpris-20&language=en_US&marketplace=amazon&region=US&placement=B075X416X8&asins=B075X416X8&linkId=0a3b9fa29baa883464469fec5d462649&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=pithenterpris-20&language=en_US&marketplace=amazon&region=US&placement=B0792K2MQV&asins=B0792K2MQV&linkId=525eb90b3b297730bdbc690c27b2b737&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<a href="https://www.amazon.com/Plastic-Food-Storage-Containers-Airtight/dp/B0792K2MQV/ref=as_li_ss_il?keywords=containers&qid=1565695042&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVkQ0RTlQM0dFRFVIJmVuY3J5cHRlZElkPUEwNTg2Njc0MUZWMTAyRDZLM0JGWiZlbmNyeXB0ZWRBZElkPUEwMTgwMDg4MVNESEY1WjFPTjlQTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&linkCode=li3&tag=pithenterpris-20&linkId=67cd3d8d4a3d476cd77476eae681c80e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0792K2MQV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pithenterpris-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pithenterpris-20&language=en_US&l=li3&o=1&a=B0792K2MQV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqxMTpsA6dY?start=134" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 You’ve probably eaten take-out from these containers. But next time you’re at a trendy restaurant, peek into the kitchen — I guarantee you’ll see them, impeccably labeled and employed religiously for measuring, prepping, cooking, and storage. Unlike many other obsessive restaurant protocols, this one really works wonders in any home kitchen.
 
@@ -27,7 +33,6 @@ Labeling helps even more: I use a piece of masking tape labeled with a permanent
 
 With a pantry and refrigerator full of labeled deli containers, rummaging through the kitchen to make stuff becomes … kind of fun. Below are a few of my favorite ways to use deli containers in day-to-day cooking and hosting.
 
-![deli-containers.png]({{site.baseurl}}/images/deli-containers.png)
 
 ### Measuring
 
