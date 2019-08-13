@@ -37,7 +37,15 @@ window.onload = () => {
                 );
             }
         } else {
-            link.addEventListener("click", toggleMenu);
+            link.addEventListener("click", e => {
+                document.querySelectorAll(".page").forEach(page => {
+                    if (page.style.display === "block") {
+                        page.style.paddingBottom = "100vh";
+                        state.lengthenedPage = page;
+                    }
+                });
+                toggleMenu();
+            });
             if (href[0] !== `#${POST_PAGE}` && href[0] === `#${page}`) {
                 isUrlForElement = true;
             }
@@ -88,6 +96,9 @@ const openSearchBox = e => {
 };
 
 const showPage = e => {
+    if (state.lengthenedPage) {
+        state.lengthenedPage.style.removeProperty("padding-bottom");
+    }
     if (state.postVisible) goBack();
     if (state.isSearchVisible) revertSearch();
 
@@ -98,8 +109,8 @@ const showPage = e => {
     pages.forEach(page => {
         if (page.id == (page_name || "about") + "-page") {
             page.style.display = "block";
-            state.previousScroll = document.body.scrollTop;
             document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
         } else {
             page.style.display = "none";
         }
@@ -135,8 +146,10 @@ const showPage = e => {
 };
 
 const showPost = postContent => {
-    state.previousScroll = document.body.scrollTop;
+    state.previousScroll =
+        document.body.scrollTop || document.documentElement.scrollTop;
     document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
 
     document.getElementById("posts").style.display = "none";
     document.querySelector(`#${POST_PAGE}-page p:first-child`).style.display =
@@ -213,6 +226,7 @@ const goBack = () => {
     document.getElementById("posts").style.display = "grid";
     document.getElementById("back-button").style.display = "none";
     document.body.scrollTop = state.previousScroll;
+    document.documentElement.scrollTop = state.previousScroll;
     state.postVisible = false;
     return false;
 };
