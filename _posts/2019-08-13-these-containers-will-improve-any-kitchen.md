@@ -60,3 +60,5 @@ The result is a reliably delicious, complex, and healthy dish that’s perfect f
 The best kitchen tricks are those that are inexpensive, simple, and endlessly versatile. I have many more tasty and versatile formulas to share, but I promise that if you commit to the Container Lifestyle™, you’ll find your own unending ways that they improve daily cooking and hosting. Whatever you end up making, just remember to store leftovers in a nicely labeled deli container 💪
 
 Buy a set of 44 BPA-free deli containers in three sizes [on Amazon for $18](https://amzn.to/2H1Ic44). Add a [Sharpie and a roll of masking tape](https://amzn.to/2Z3BGzG) if you want to go full pro.
+
+!(/https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
