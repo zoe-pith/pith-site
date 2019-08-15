@@ -68,6 +68,7 @@ body {
     font-family: Adobe Caslon;
     height: 100vh;
     justify-content: center;
+    line-height: 1.8rem;
     margin: 0;
     padding: 0;
     text-rendering: optimizeLegibility;
@@ -426,5 +427,13 @@ $nav-height: 55px;
 
     .page {
         padding-bottom: 0;
+    }
+
+    #featured-posts {
+        grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
+        grid-gap: 15px;
+        div {
+            width: 100%;
+        }
     }
 }
