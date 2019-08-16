@@ -17,7 +17,7 @@ Removing seeds from peppers, cutting strawberries,
 
 ### Big Knive
 
-[[!](https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg)](https://amzn.to/2KA6T9Q)
+[![](https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg)](https://amzn.to/2KA6T9Q)
 
 Paring and Chef's Knife Set from Tojiro for $90 
 
