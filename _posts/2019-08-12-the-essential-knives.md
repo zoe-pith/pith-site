@@ -1,8 +1,10 @@
 ---
-icon: /images/
+icon: images/Screen%20Shot%202019-08-16%20at%206.19.18%20PM.png
 published: true
 title: The Essential Knives
 important: false
+tags:
+  - tools
 ---
 #### You only need three knives
 Don't be tempted by giant sets of knives — they will be lackluster, expensive, or both. Instead, create a versatile arsenal of three knives, with three very different purposes.
@@ -14,7 +16,6 @@ I get my knives from Korin, an amazing importer of Japanese cooking tools based 
 Removing seeds from peppers, cutting strawberries, 
 
 ### Big Knive
-
 
 
 ![[Two Nice Online Knives](https://amzn.to/2KA6T9Q)(https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg)
