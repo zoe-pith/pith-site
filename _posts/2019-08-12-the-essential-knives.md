@@ -1,6 +1,6 @@
 ---
 icon: /images/
-published: false
+published: true
 title: The Essential Knives
 important: false
 ---
