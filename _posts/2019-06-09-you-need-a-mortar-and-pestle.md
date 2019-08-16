@@ -1,8 +1,12 @@
 ---
-tags: [mortar, food, techniques]
+tags:
+  - techniques
+  - mortar
+  - food
 icon: /images/orange.jpg
 title: You Need a Mortar and Pestle
-published: true
+published: false
+important: false
 ---
 
 Mortar and pestle are implements used since ancient times to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, medicine and pharmacy.
