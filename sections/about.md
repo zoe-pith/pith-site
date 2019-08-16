@@ -30,6 +30,8 @@ Sign up below to receive sporadic notifications about supper club availability, 
 {% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
 {% assign num_posts = important_posts | size %}
 {% if num_posts > 0 %}
+
+
 ### Recent Posts
 
 {% assign i = 0 %}
@@ -50,6 +52,7 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </div>
 <a href="#diy" onclick="jumpToPost()">See more&hellip;</a>
 {% endif %}
+
 
 
 ### Select Press
