@@ -61,4 +61,4 @@ The best kitchen tricks are those that are inexpensive, simple, and endlessly ve
 
 Buy a set of 44 BPA-free deli containers in three sizes [on Amazon for $18](https://amzn.to/2H1Ic44). Add a [Sharpie and a roll of masking tape](https://amzn.to/2Z3BGzG) if you want to go full pro.
 
-!(/https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
+![](/https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
