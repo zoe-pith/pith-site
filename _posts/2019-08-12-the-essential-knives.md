@@ -7,14 +7,23 @@ important: false
 #### You only need three knives
 Don't be tempted by giant sets of knives — they will be lackluster, expensive, or both. Instead, create a versatile arsenal of three knives, with three very different purposes.
 
+I get my knives from Korin, an amazing importer of Japanese cooking tools based in New York City, but you can find completely acceptable knives for quick delivery online.
+
 
 ### Small Knife
 Removing seeds from peppers, cutting strawberries, 
 
 ### Big Knive
 
-### Serrated Knife
 
+
+![[Two Nice Online Knives](https://amzn.to/2KA6T9Q)(https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg)
+Paring and Chef's Knife Set from Tojiro for $90 
+
+### Serrated Knife
+Your nice new chef's knife probably can cut through crusty bread or melons, but it will dull its blade quickly as you try to slice through difficult.
+
+Instead, use a serrated toothed blade that you saw back and forth to quickly cut through difficult products like tender tomatoes and crusty sourdough.
 
 #### Keep 'em sharp
 
@@ -22,22 +31,22 @@ In addition to your three knives, invest in a **honing steel**
 
 And while you can get **sharpening stones** to truly sharpen the blade every month or so, I would reccomend that most people simply take their knives to a professional sharpener twice a year or so. 
 
-Serratted knives are nearly impossible to sharpen, and they work very differently. 
+Serratted knives are nearly impossible to sharpen, but don't worry. After a few years of use you may want to recycle yours in favor of a replacement.
+
+### Have a cutting board
+I use a large, thick professional black cutting board. It keeps the knife sharp, stays steady, and doesn't get discolored with use.
 
 Lastly, store your knives in knife sleeves. You can keep them in a convenient drawer without worrying about the blades chipping against one another, or your hands getting cut accidentally.
 
 #### Use them properly
+What would hurt more, gently pressing your thumb into a knife or gently sliding a knife along your thumb? The slicing motion!!
 
+Don't cut by pushing a knife down into something. Instead slide the knife forward and down, pulling the blade into what your cutting. This takes so much less energy and keeps your blade sharp. [Learning To Cook Food](http://www.learningtocookfood.com/knife-skills-gif-guide/) has an amazing collection of GIFs about proper knife technique.
 
+Grip:
+![](https://i0.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkillsBladeGrip2.gif?zoom=2&resize=625%2C352)
 
-I get my knives from Korin, an amazing importer of Japanese cooking tools based in New York City. 
+Slice:
+![](https://i0.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkills3StepMotionB.gif?zoom=2&resize=625%2C352)
 
-If you just want to order on Amazon, there's plenty of good options as well.
-
-![Italian Grandma's Graffe ]({{site.baseurl}}/images/graffe_donuts.JPG)
-
-Recipes will surely vary from one Italian grandmother to the next, but I am loyal to the charming and stoutly _nonna_ who first taught me. _Graffe_ are a perfect performance for breakfast or brunch entertaining: guests love to watch the rings of dough puff up and turn golden, then dunk them into a shallow bowl of granulated sugar  _graffe_ are a a fantastic interactive thing to whip up for friends coming for breakfast or brunch. makes for a really fun and impressively performative brunch or breakfast offering, though I usually eat most of them before guests have a chance.
-
-As always with baking recipes, a scale makes preparing the dough extremely quick. For frying, use a deep but small frying pan with sunflower or grapeseed oil. And have a shallow bowl of granulated white sugar ready for a sublime last minute sweet and crunchy coating that pairs perfeclty 
-
-the barley-sweet donut is sublime  and  a last minute dunk yields a sublime sweet and crunchy exterior. 
+![](https://i2.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkillsGuideHandGrip.gif?zoom=2&resize=625%2C352)
