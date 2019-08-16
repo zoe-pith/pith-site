@@ -39,17 +39,10 @@ Please reach out for inquiries related to curating or developing a gallery dinne
 
 
 ### Cannabis
-Cannabis can elevate any experience when integrated artfully. I am the founder of Alto, the simplest and most delicious way for anyone to enjoy cannabinoids. Our curated daily essentials are infused gently with effective THC and CBD extracts, then packaged into unique single-serving packets. Learn more at [www.altoessentials.com](https://www.altoessentials.com), or [reach out](mailto:inquiries@pith.space) with any inquiries about consultations and advisory services in the cannabis industry.
+Cannabis can elevate any experience when integrated artfully. I am the founder and creative director of Alto, the simplest and most delicious way for anyone to enjoy cannabinoids. Our curated daily essentials are infused gently with effective THC and CBD extracts, then packaged into unique single-serving packets. Learn more at [www.altoessentials.com](https://www.altoessentials.com), or [reach out](mailto:inquiries@pith.space) with any inquiries about consultations and advisory services in the cannabis industry.
+
+
 
 
 ### Media
 I want to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world. See [select press](https://amja.github.io/#select-press). Judge, Beat Bobby Flay. Host, Nice Food for Not Much. Guest on TODAY Show, Stephen Colbert, ABC, CNN, VICE, NPR, and more.
-
-
-
-
-
-
-
-
-
