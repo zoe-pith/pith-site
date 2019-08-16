@@ -12,4 +12,4 @@ From containers to knives, from cleanest cutting board and best vegetable peeler
 
 Click [here](https://amzn.to/2H5aSZV) to see a list of the top essentials I think anyone should have in their home kitchen.
 
-**I woudl love the actual list embedded here!!! Would be so so so cool, with the simple photo grid and mouse-over illuminating the explaination I wrote on Amazon**
+**I would love the actual list embedded here!!! Would be so so so cool, with the simple photo grid and mouse-over illuminating the explaination I wrote on Amazon**
