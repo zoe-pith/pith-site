@@ -58,7 +58,6 @@ Yes, chef! — [The New York Times](https://www.nytimes.com/2017/04/20/style/jon
 An Innovative Cook — [AP](https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731)  
 A coveted reservation — [WSJ](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
 A Dining Experience — [Forbes](https://www.forbes.com/video/5734702032001/#40eac57de450)  
-Best New Chef Nominee — [Tasty Awards]()
 
 ![Pith Supper Club in Brooklyn, New York]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
 
