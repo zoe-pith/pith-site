@@ -209,7 +209,10 @@ const showPost = path => {
 function searchPosts(text) {
     const posts = document.querySelectorAll("#posts li");
     posts.forEach(post => {
-        if (!text || post.innerHTML.toLowerCase().indexOf(text) > -1) {
+        if (
+            !text ||
+            post.innerHTML.toLowerCase().indexOf(text.toLowerCase()) > -1
+        ) {
             post.style.display = "block";
         } else {
             post.style.display = "none";
