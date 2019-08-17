@@ -6,7 +6,7 @@ tags:
   - techniques
   - tools
   - containers
-icon: /images/deli-containers.png
+icon: images/container_cover.jpg
 ---
 
 _Originally [published](fxw.com) for my column_ Supper Club _at Food & Wine Magazine._
