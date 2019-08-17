@@ -1,5 +1,5 @@
 ---
-icon: images/Screen%20Shot%202019-08-16%20at%206.25.13%20PM.png
+icon: images/knife_cover.jpg
 published: true
 title: The Essential Knives
 important: false
