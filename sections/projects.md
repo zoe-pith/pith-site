@@ -39,7 +39,7 @@ Please reach out for inquiries related to curating or developing a gallery dinne
 
 Cannabis can elevate any experience when integrated artfully. I am the founder and creative director of Alto, the simplest and most delicious way for anyone to enjoy cannabinoids. Our curated daily essentials are infused gently with effective THC and CBD extracts, then packaged into unique single-serving packets. Learn more at [www.altoessentials.com](https://www.altoessentials.com), or [reach out](mailto:inquiries@pith.space) with any inquiries about consultations and advisory services in the cannabis industry.
 
-![Alto Family CBD Snap](https://drive.google.com/file/d/1ZKGtZEujImRK4n-20LIHp9Rie3Sz_SI7/preview)
+![Alto Family CBD Snap](https://drive.google.com/file/d/1ZKGtZEujImRK4n-20LIHp9Rie3Sz_SI7)
 
 ### Media
 
