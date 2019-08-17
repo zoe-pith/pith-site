@@ -5,6 +5,13 @@ fields:
 - type: text
   name: icon
   label: icon
-- type: text
-  name: title
-  label: title
+  default: ''
+  config:
+    required: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: important
+  type: boolean
+  label: Feature this post
