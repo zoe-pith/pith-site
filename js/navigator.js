@@ -63,20 +63,19 @@ window.onload = () => {
         }
     });
 
-    if (!isMobileView || page) {
-        const spoofE = {
-            target: document.querySelector(
-                `nav a[href = '?page=${page || "about"}']`
-            )
-        };
+    const spoofE = {
+        target: document.querySelector(
+            `nav a[href = '?page=${page || "about"}']`
+        )
+    };
 
-        showPage(spoofE);
-    }
+    showPage(spoofE);
     filterPosts(tag, false);
     showPost(urlData);
 
     if (!page && isMobileView) {
         toggleMenu();
+        setTimeout(toggleMenu, 1000);
     }
     new SmoothScroll("a[data-scroll]", {
         offset: isMobileView ? MENU_HEIGHT : 126,
