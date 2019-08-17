@@ -13,4 +13,6 @@ From wine glasses to water glasses, tea bags to coffee pots, bottle openers to s
 
 Click [here](https://amzn.to/2NaQzOk) to see a list of the top essentials I think anyone should have in their home kitchen.
 
+[![]({{site.baseurl}}/images/beverage_grid.jpg)](https://amzn.to/2NaQzOk)
+
 **I would love the actual list embedded here!!! Would be so so so cool, with the simple photo grid and mouse-over illuminating the explaination I wrote on Amazon**
