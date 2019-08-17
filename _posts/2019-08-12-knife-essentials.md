@@ -26,15 +26,14 @@ Your nice new chef's knife probably can cut through crusty bread or melons, but 
 
 Instead, use a serrated toothed blade that you saw back and forth to quickly cut through difficult products like tender tomatoes and crusty sourdough.
 
-[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg){:.medium}](https://amzn.to/2KCR0Q1)
+[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg){:.medium}](https://amzn.to/2KCR0Q1)  
 _Serrated Knife from Tojiro for $25_
 
 These three — big, small, and serrated — are all any home cook really needs. Investing in sharp ones, keeping them sharp, and using them properly will immensely elevate your home cooking and hosting routines.
 
 #### Keep 'em sharp
 
-In addition to your three knives, invest in a honing steel:
-
+In addition to your three knives, invest in a honing steel:  
 [![](https://images.wisegeek.com/chef-in-white-with-knife.jpg){:.medium}](https://amzn.to/31Q4T3b)
 
 While you can get sharpening stones to truly sharpen the blade every month or so, I would reccomend that most people simply take their knives to a professional sharpener twice a year or so. 
@@ -51,14 +50,11 @@ What would hurt more, gently pressing your thumb into a knife or gently sliding 
 
 Don't cut by pushing a knife down into something. Instead slide the knife forward and down, pulling the blade into what your cutting. This takes so much less energy and keeps your blade sharp. [Learning To Cook Food](http://www.learningtocookfood.com/knife-skills-gif-guide/) has an amazing collection of GIFs about proper knife technique.
 
-Grip:
-
+Grip:  
 ![](https://i0.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkillsBladeGrip2.gif?zoom=2&resize=625%2C352)
 
-Slice:
-
+Slice:  
 ![](https://i0.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkills3StepMotionB.gif?zoom=2&resize=625%2C352)
 
-Watch your fingers:
-
+Watch your fingers:  
 ![](https://i2.wp.com/www.learningtocookfood.com/wp-content/uploads/2016/01/KnifeSkillsGuideHandGrip.gif?zoom=2&resize=625%2C352)
