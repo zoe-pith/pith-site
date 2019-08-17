@@ -26,7 +26,7 @@ Your nice new chef's knife probably can cut through crusty bread or melons, but 
 
 Instead, use a serrated toothed blade that you saw back and forth to quickly cut through difficult products like tender tomatoes and crusty sourdough.
 
-[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg)](https://amzn.to/2KCR0Q1)
+[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg)]{:.medium}(https://amzn.to/2KCR0Q1)
 _Serrated Knife from Tojiro for $25 _
 
 These three — big, small, and serrated — are all any home cook really needs. Investing in sharp ones, keeping them sharp, and using them properly will immensely elevate your home cooking and hosting routines.
@@ -35,7 +35,7 @@ These three — big, small, and serrated — are all any home cook really need
 
 In addition to your three knives, invest in a honing steel:
 
-[![](https://images.wisegeek.com/chef-in-white-with-knife.jpg)](https://amzn.to/31Q4T3b){{small}}
+[![](https://images.wisegeek.com/chef-in-white-with-knife.jpg){:.medium}](https://amzn.to/31Q4T3b)
 
 While you can get sharpening stones to truly sharpen the blade every month or so, I would reccomend that most people simply take their knives to a professional sharpener twice a year or so. 
 
