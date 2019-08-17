@@ -3,6 +3,8 @@
   children:
       - title: Subscribe
         url: "#subscribe"
+      - title: Recent Posts
+        url: "#recent-posts"
       - title: Select Press
         url: "#select-press"
 - title: Pith Supper Club

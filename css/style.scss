@@ -108,7 +108,7 @@ nav {
     padding-right: 55px;
     position: fixed;
     text-align: right;
-    margin-top: 13px;
+    margin-top: 20px;
 
     input {
         border-radius: 0;
@@ -116,6 +116,10 @@ nav {
 
     > button {
         display: none;
+    }
+
+    > div > a {
+        text-decoration: none;
     }
 
     ul {
@@ -434,6 +438,13 @@ $nav-height: 55px;
         grid-gap: 15px;
         div {
             width: 100%;
+        }
+    }
+
+    #page-content .post,
+    #featured-posts div {
+        > a img {
+            filter: none;
         }
     }
 }

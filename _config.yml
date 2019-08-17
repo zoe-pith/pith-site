@@ -1,6 +1,14 @@
 defaults:
-    - values:
-          layout: "post"
+    - scope:
+          path: ""
+          type: "posts"
+      values:
+          layout: null
+    - scope:
+          path: ""
+          type: "pages"
+      values:
+          layout: "page"
 prose:
     ignore:
         - "/.well-known"

@@ -1,6 +1,7 @@
 const MENU_ANIMATION_TIME = 300;
 const MENU_HEIGHT = "55px";
 const POST_PAGE = "diy";
+const FAILED_POST_LOAD = "<p>Couldn't load post 😪</p>";
 let isMobileView = false;
 
 const state = {
@@ -11,6 +12,7 @@ const state = {
 };
 
 window.onload = () => {
+    handleLinks();
     isMobileView =
         window
             .getComputedStyle(document.querySelector("nav > button"))
@@ -71,7 +73,7 @@ window.onload = () => {
         toggleMenu();
     }
     new SmoothScroll("a[data-scroll]", {
-        offset: isMobileView ? MENU_HEIGHT : 140,
+        offset: isMobileView ? MENU_HEIGHT : 147,
         speed: 450
     });
 };
@@ -145,21 +147,39 @@ const showPage = e => {
     return false;
 };
 
-const showPost = postContent => {
+const showPost = postPath => {
     state.previousScroll =
         document.body.scrollTop || document.documentElement.scrollTop;
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
 
     document.getElementById("posts").style.display = "none";
+    // Hide posts page header
     document.querySelector(`#${POST_PAGE}-page p:first-child`).style.display =
         "none";
     const post_wrapper = document.getElementById("post");
-    const post = postContent.innerHTML;
-    post_wrapper.innerHTML = post;
-
-    document.getElementById("back-button").style.display = "initial";
-    state.postVisible = true;
+    post_wrapper.innerHTML = "<p>Loading post…</p>";
+    fetch(postPath)
+        .then(response => {
+            if (response.ok) {
+                response.text().then(html => {
+                    document.getElementById("back-button").style.display =
+                        "initial";
+                    state.postVisible = true;
+                    post_wrapper.innerHTML = html;
+                });
+            } else {
+                document.getElementById("back-button").style.display =
+                    "initial";
+                state.postVisible = true;
+                post_wrapper.innerHTML = FAILED_POST_LOAD;
+            }
+        })
+        .catch(() => {
+            document.getElementById("back-button").style.display = "initial";
+            state.postVisible = true;
+            post_wrapper.innerHTML = FAILED_POST_LOAD;
+        });
     return false;
 };
 
@@ -252,14 +272,20 @@ const toggleMenu = () => {
     state.isMenuOpen = !state.isMenuOpen;
 };
 
-const jumpToPost = postUrl => {
+const jumpToPost = postPath => {
     showPage({
         target: document.querySelector(`nav a[href = '#${POST_PAGE}']`)
     });
-    if (postUrl) {
-        const realPostLink = document.querySelector(`li a[href='${postUrl}']`);
-        realPostLink.parentElement.style.display = "block";
-        console.log(realPostLink.parentElement);
-        showPost(realPostLink.nextElementSibling, false);
+    if (postPath) {
+        showPost(postPath);
     }
+};
+
+const handleLinks = () => {
+    const links = document.querySelectorAll("a");
+    links.forEach(link => {
+        if (link.hostname && link.hostname !== location.hostname) {
+            link.target = "_blank";
+        }
+    });
 };

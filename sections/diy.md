@@ -18,7 +18,7 @@ Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no
   {% assign published_posts = site.posts | sort: "date" | reverse %} 
   {% for post in published_posts %}
     <li class="post {{ post.tags | join: '-tag ' | append: '-tag' }}">
-      <a href="{{ post.url }}" onclick="return showPost(this.nextElementSibling)">
+      <a href="{{ post.url }}" onclick="return showPost(this.pathname)">
         <img src="{{ post.icon }}">
         <span>{{ post.title }}</span>
       </a>
@@ -34,7 +34,7 @@ Tap into the joy of do-it-yourself hospitality: below are my tips, tools, and no
               {% endfor %}
           </div>
         {% endif %}
-        {{ post.content }}
+        <!-- {{ post.content }} -->
       </div>
     </li>
   {% endfor %}
