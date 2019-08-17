@@ -11,7 +11,7 @@ Having a set of good knives makes cooking and hosting extremely fun. You can't u
 
 I get my knives from Korin, an amazing importer of Japanese cooking tools based in New York City, but you can find completely acceptable knives for quick delivery online.
 
-[![](https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg)](https://amzn.to/2KA6T9Q)
+[![](https://images-na.ssl-images-amazon.com/images/I/618wZN%2BHY4L._SL1500_.jpg){:.medium}](https://amzn.to/2KA6T9Q)
 _Paring and Chef's Knife from Tojiro for $90_
 
 ### Big Knive
@@ -26,7 +26,7 @@ Your nice new chef's knife probably can cut through crusty bread or melons, but 
 
 Instead, use a serrated toothed blade that you saw back and forth to quickly cut through difficult products like tender tomatoes and crusty sourdough.
 
-[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg)]{:.medium}(https://amzn.to/2KCR0Q1)
+[![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg){:.medium}](https://amzn.to/2KCR0Q1)
 _Serrated Knife from Tojiro for $25_
 
 These three — big, small, and serrated — are all any home cook really needs. Investing in sharp ones, keeping them sharp, and using them properly will immensely elevate your home cooking and hosting routines.
