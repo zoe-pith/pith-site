@@ -289,6 +289,7 @@ nav {
 #page-content .post,
 #featured-posts div {
     display: none;
+    line-height: 1.4rem;
     width: 120px;
     > a {
         text-decoration: none;
@@ -314,7 +315,7 @@ nav {
 
 #featured-posts {
     display: grid;
-    grid-template-columns: repeat(3, minmax(auto, 160px));
+    grid-template-columns: repeat(3, minmax(auto, 200px));
     grid-auto-flow: column;
     width: 100%;
 
