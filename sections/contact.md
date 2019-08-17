@@ -15,4 +15,4 @@ instagram [@jonahreider](https://instagram.com/jonahreider)
 ![hands harvesting greens](images/greenery.jpg){:.large}
 ![oysters](images/sea_food.jpg){:.large}
 
-_Website crafted by [Amos Jackson](https://amos.im/)_
+_Website coded by [Amos Jackson](https://amos.im/)_
