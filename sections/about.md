@@ -55,11 +55,10 @@ Excellent hospitality does not have to be transactional and hierarchical. Sign u
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
 Delicious — [The New Yorker](http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm)  
 Yes, chef! — [The New York Times](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html)  
-A coveted reservation — [The Wall Street Journal](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
-A new way for diners to engage — [Forbes](http://www.forbes.com/sites/eveturowpaul/2016/09/09/what-happens-when-the-dorm-room-chef-graduates/)  
-Impossible to stop eating — [Ruth Reichl](http://ruthreichl.com/2016/04/a-pithy-meal.html/)  
-An artful experience — [Food and Wine](http://www.foodandwine.com/chefs/why-these-chefs-are-creating-alternative-restaurant)  
-Best New Chef: East (nominee) — [Tasty Awards]()
+An Innovative Cook — [AP](https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731)  
+A coveted reservation — [WSJ](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
+A Dining Experience — [Forbes](https://www.forbes.com/video/5734702032001/#40eac57de450)  
+Best New Chef Nominee — [Tasty Awards]()
 
 ![Pith Supper Club in Brooklyn, New York]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
 
