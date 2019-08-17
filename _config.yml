@@ -4,6 +4,7 @@ defaults:
           type: "posts"
       values:
           layout: null
+          permalink: /:year-:month-:day-:title
     - scope:
           path: ""
           type: "pages"

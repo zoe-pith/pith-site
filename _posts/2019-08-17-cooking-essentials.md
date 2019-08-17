@@ -1,11 +1,12 @@
 ---
 tags:
-  - tools
+    - tools
 icon: /images/kitchen_essentials.jpg
 published: true
 title: Cooking Essentials
 important: true
 ---
+
 You don't need to be an experienced cook to be a great host — but having access to the best and most versatile tools ceratinly helps. Below is my essential list of everything I reccomend for people setting up a new kitchen.
 
 From containers to knives, from cleanest cutting board and best vegetable peeler, I've selected only objects that meet my demands in form _and_ function.

@@ -1,5 +1,5 @@
 - title: About
-  url: "#"
+  url: "?page=about"
   children:
       - title: Subscribe
         url: "#subscribe"
@@ -8,36 +8,36 @@
       - title: Select Press
         url: "#select-press"
 - title: Pith Supper Club
-  url: "#pith"
+  url: "?page=pith"
   children:
       - title: Current Menu
         url: "#current-menu"
       - title: Reservations
         url: "#reservations"
 - title: Do It Yourself
-  url: "#diy"
+  url: "?page=diy"
   children:
       - title: All
-        url: "#diy"
+        url: "?page=diy"
         noscroll: true
       - title: Recipes
-        url: "#diy/recipes"
+        url: "?page=diy&tag=recipes"
         noscroll: true
       - title: Techniques
-        url: "#diy/techniques"
+        url: "?page=diy&tag=techniques"
         noscroll: true
       - title: Tools
-        url: "#diy/tools"
+        url: "?page=diy&tag=tools"
         noscroll: true
       - title: Travel
-        url: "#diy/travel"
+        url: "?page=diy&tag=travel"
         noscroll: true
       - title: Search
-        url: "#diy/search"
+        url: "?page=diy&tag=search"
         noscroll: true
 
 - title: Projects
-  url: "#projects"
+  url: "?page=projects"
   children:
       - title: "Consultations"
         url: "#hospitality-consultation"
@@ -52,4 +52,4 @@
       - title: "Media"
         url: "#media"
 - title: Contact
-  url: "#contact"
+  url: "?page=contact"

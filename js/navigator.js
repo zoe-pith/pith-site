@@ -5,10 +5,20 @@ const FAILED_POST_LOAD = "<p>Couldn't load post 😪</p>";
 let isMobileView = false;
 
 const state = {
+    prevUrl: "",
     postVisible: false,
     previousScroll: 0,
     isSearchVisible: false,
     isMenuOpen: false
+};
+
+const setUrl = val => {
+    history.pushState({}, "", val);
+};
+const getUrlParam = (param, url) => {
+    const regex = new RegExp(`.*?[?&]${param}=(.*?)(&|$)`, "g");
+    const match = regex.exec(url);
+    return match && match[1];
 };
 
 window.onload = () => {
@@ -17,10 +27,10 @@ window.onload = () => {
         window
             .getComputedStyle(document.querySelector("nav > button"))
             .getPropertyValue("display") === "block";
-    const urlData = window.location.hash.slice(1).split("/");
-    const page = urlData[0];
-    const tag = urlData[1];
-    let isUrlForElement = false;
+    const urlData = window.location.search;
+    const page = getUrlParam("page", urlData);
+    const tag = getUrlParam("tag", urlData);
+    const { hash } = window.location;
 
     const pages = document.querySelectorAll("nav > div > ul > li > a");
     pages.forEach(link => {
@@ -29,17 +39,19 @@ window.onload = () => {
 
     const tag_links = document.querySelectorAll("nav ul ul a");
     tag_links.forEach(link => {
-        const href = link.getAttribute("href").split("/");
-        if (href[0] === "#" + POST_PAGE) {
-            if (href[1] === "search") {
+        const params = link.href;
+        if (getUrlParam("page", params) === POST_PAGE) {
+            const tag = getUrlParam("tag", params);
+            if (tag === "search") {
                 link.addEventListener("click", openSearchBox);
             } else {
-                link.addEventListener("click", () =>
-                    filterPosts(href[1], true)
-                );
+                link.addEventListener("click", e => {
+                    filterPosts(tag, true);
+                    e.preventDefault();
+                });
             }
         } else {
-            link.addEventListener("click", e => {
+            link.addEventListener("click", () => {
                 document.querySelectorAll(".page").forEach(page => {
                     if (page.style.display === "block") {
                         page.style.paddingBottom = "100vh";
@@ -48,26 +60,20 @@ window.onload = () => {
                 });
                 toggleMenu();
             });
-            if (href[0] !== `#${POST_PAGE}` && href[0] === `#${page}`) {
-                isUrlForElement = true;
-            }
         }
     });
 
     if (!isMobileView) {
         const spoofE = {
-            target: document.querySelector(`nav a[href = '#${page}']`)
+            target: document.querySelector(
+                `nav a[href = '?page=${page || "about"}']`
+            )
         };
-
-        if (isUrlForElement) {
-            spoofE.target =
-                spoofE.target.parentElement.parentElement.previousElementSibling;
-        }
 
         showPage(spoofE);
     }
     filterPosts(tag, false);
-    document.getElementById("loading").style.display = "none";
+    showPost(urlData);
 
     if (!page && isMobileView) {
         toggleMenu();
@@ -76,6 +82,8 @@ window.onload = () => {
         offset: isMobileView ? MENU_HEIGHT : 147,
         speed: 450
     });
+
+    window.location.hash = hash;
 };
 
 const openSearchBox = e => {
@@ -98,6 +106,11 @@ const openSearchBox = e => {
 };
 
 const showPage = e => {
+    if (!e || !e.target) {
+        return;
+    }
+
+    e.preventDefault && e.preventDefault();
     if (state.lengthenedPage) {
         state.lengthenedPage.style.removeProperty("padding-bottom");
     }
@@ -105,7 +118,7 @@ const showPage = e => {
     if (state.isSearchVisible) revertSearch();
 
     const { target } = e;
-    const page_name = target.href.split("#")[1];
+    const page_name = getUrlParam("page", target.search);
     const pages = document.querySelectorAll(".page");
 
     pages.forEach(page => {
@@ -144,10 +157,16 @@ const showPage = e => {
     const itemHasChildren = !!state.selectedNavItem.nextElementSibling;
     if (page_name === POST_PAGE) filterPosts("", false);
     if (!itemHasChildren || oldNavItem === state.selectedNavItem) toggleMenu();
+    setUrl(target.href);
     return false;
 };
 
-const showPost = postPath => {
+const showPost = path => {
+    const post = getUrlParam("post", path);
+    if (!path || !post) {
+        return;
+    }
+
     state.previousScroll =
         document.body.scrollTop || document.documentElement.scrollTop;
     document.body.scrollTop = 0;
@@ -158,28 +177,33 @@ const showPost = postPath => {
     document.querySelector(`#${POST_PAGE}-page p:first-child`).style.display =
         "none";
     const post_wrapper = document.getElementById("post");
-    post_wrapper.innerHTML = "<p>Loading post…</p>";
-    fetch(postPath)
+    const preamble = document.querySelector(`.post > a[href = "${path}"]`)
+        .nextElementSibling.innerHTML;
+    post_wrapper.innerHTML = preamble + "<p>Loading post…</p>";
+    fetch("/" + post)
         .then(response => {
             if (response.ok) {
                 response.text().then(html => {
                     document.getElementById("back-button").style.display =
                         "initial";
                     state.postVisible = true;
-                    post_wrapper.innerHTML = html;
+                    post_wrapper.innerHTML = preamble + html;
+                    handleLinks(true);
                 });
             } else {
                 document.getElementById("back-button").style.display =
                     "initial";
                 state.postVisible = true;
-                post_wrapper.innerHTML = FAILED_POST_LOAD;
+                post_wrapper.innerHTML = preamble + FAILED_POST_LOAD;
             }
         })
         .catch(() => {
             document.getElementById("back-button").style.display = "initial";
             state.postVisible = true;
-            post_wrapper.innerHTML = FAILED_POST_LOAD;
+            post_wrapper.innerHTML = preamble + FAILED_POST_LOAD;
         });
+    state.prevUrl = window.location.search;
+    setUrl(path);
     return false;
 };
 
@@ -209,7 +233,7 @@ const filterPosts = (tag, linkClicked) => {
     if (state.isSearchVisible) revertSearch();
 
     const link = document.querySelector(
-        `nav ul ul a[href = '#${POST_PAGE + (tag ? "/" + tag : "")}']`
+        `nav ul ul a[href = '?page=${POST_PAGE}${tag ? "&tag=" + tag : ""}']`
     );
     if (link) {
         // If another tag is already selected
@@ -224,14 +248,22 @@ const filterPosts = (tag, linkClicked) => {
             state.selectedNavItem.classList.add("selected");
         }
     }
-
-    if (linkClicked && tag !== "search" && state.isMenuOpen && !keepMenu)
-        toggleMenu();
+    if (linkClicked) {
+        if (tag === "search") {
+            setUrl(`?page=${POST_PAGE}`);
+        } else {
+            setUrl(link.href);
+            if (state.isMenuOpen && !keepMenu) {
+                toggleMenu();
+            }
+        }
+    }
+    return false;
 };
 
 const revertSearch = () => {
     const search = document.querySelector(
-        `nav [href = '#${POST_PAGE}/search']`
+        `nav [href = '?page=${POST_PAGE}&tag=search']`
     );
     search.parentElement.removeChild(search.nextElementSibling);
     search.style.display = "block";
@@ -248,6 +280,7 @@ const goBack = () => {
     document.body.scrollTop = state.previousScroll;
     document.documentElement.scrollTop = state.previousScroll;
     state.postVisible = false;
+    setUrl(state.prevUrl);
     return false;
 };
 
@@ -274,15 +307,15 @@ const toggleMenu = () => {
 
 const jumpToPost = postPath => {
     showPage({
-        target: document.querySelector(`nav a[href = '#${POST_PAGE}']`)
+        target: document.querySelector(`nav a[href = '?page=${POST_PAGE}']`)
     });
     if (postPath) {
-        showPost(postPath);
+        showPost(`?page=diy&post=${postPath}`);
     }
 };
 
-const handleLinks = () => {
-    const links = document.querySelectorAll("a");
+const handleLinks = inPost => {
+    const links = document.querySelectorAll(`${inPost && "#post "}a`);
     links.forEach(link => {
         if (link.hostname && link.hostname !== location.hostname) {
             link.target = "_blank";

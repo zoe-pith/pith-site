@@ -31,7 +31,6 @@ Sign up below to receive sporadic notifications about supper club availability, 
 {% assign num_posts = important_posts | size %}
 {% if num_posts > 0 %}
 
-
 ### Recent Posts
 
 {% assign i = 0 %}
@@ -43,7 +42,7 @@ Sign up below to receive sporadic notifications about supper club availability, 
 {% endif %}
 {% assign i = i | plus: 1 %}
 <div>
-    <a href="#diy" onclick="jumpToPost('{{ post.url}}');">
+    <a href="" onclick="jumpToPost('{{ post.url | remove_first: '/'}}'); return false;">
     <img src="{{ post.icon }}">
     <span>{{ post.title }}</span>
     </a>
@@ -52,8 +51,6 @@ Sign up below to receive sporadic notifications about supper club availability, 
 </div>
 <a href="#diy" onclick="jumpToPost()">See more&hellip;</a>
 {% endif %}
-
-
 
 ### Select Press
 
