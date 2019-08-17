@@ -63,7 +63,7 @@ window.onload = () => {
         }
     });
 
-    if (!isMobileView) {
+    if (!isMobileView || page) {
         const spoofE = {
             target: document.querySelector(
                 `nav a[href = '?page=${page || "about"}']`
@@ -79,7 +79,7 @@ window.onload = () => {
         toggleMenu();
     }
     new SmoothScroll("a[data-scroll]", {
-        offset: isMobileView ? MENU_HEIGHT : 147,
+        offset: isMobileView ? MENU_HEIGHT : 126,
         speed: 450
     });
 
