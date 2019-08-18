@@ -56,3 +56,6 @@ When possible, I enjoy crafting tours for small groups — exploring a city's cu
 Dining and hosting provides a unique opportunity to experience art: I love exploring how a meal can showcase beautiful furniture, glassware, ceramics, music, metalwork. At my Pith Supper Club, I enjoy serving food on tableware made by my mother utilizing functional as well as nonfunctional artworks from friends.
 
 Please reach out for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
+
+Tea Bowls from [Lily Fein](https://www.lilyfein.com) at Pith Supper Club:  
+![](https://www.lilyfein.com/uploads/8/7/1/4/8714945/two-pourers_orig.jpg)
