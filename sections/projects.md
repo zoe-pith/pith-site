@@ -21,7 +21,8 @@ Let’s collaborate to make the world a more delicious place.
 
 I received [three stars](https://www.chicagotribune.com/dining/ct-review-intro-jonah-reider-food-0928-20160924-column.html) from the Chicago Tribune for my menu development and implementation in residency at Intro Restaurant. I’ve developed menus for galas at The New Museum, advised Sam Adams Beer on flavor development, and executed private events and marketing collaborations for partners including Google, Stella Artois, Conde Nast, L’Oreal, and Land Rover. I’m also a founding partner with Meltyman Grilled Cheese in Japan. I also enjoy advising hospitality programs in the hotels, aviation, and yachting industries.
 
-_![](/images/private_dining.jpg)Private dining logistics._
+_Private dining logistics:_  
+_![](/images/private_dining.jpg)_
 
 Reach out if you'd like to chat about a hospitality project, CPG brand, event, or pop-up.
 
@@ -33,7 +34,8 @@ Cooking and dining spaces should be the focal points of any home. Contact me if 
 
 Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being. I love showing young people, in or out of school, how cooking truly develops self confidence, self-expression, and civic engagement. In Brooklyn, from 2017-2018, I ran a free after-school program for middle-schoolers, using the Pith Supper Club venue to explore gardening, grocery shopping, dish development, and more.
 
-_![](/images/tedx_jonah.jpg)TEDx Georgetown_
+TEDx Georgetown_  
+_![](/images/tedx_jonah.jpg)
 
 Drawing from my economics education (focusing on inequality, sustainable development, business organization, and entrepreneurship), I’ve also spoken at institutions including Georgetown University, Stanford University, Columbia University, and at conferences in Abu Dhabi, Kuala Lumpur, Fukuoka.
 
