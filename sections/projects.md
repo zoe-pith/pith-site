@@ -7,33 +7,37 @@ weight: "6"
 ---
 Let’s collaborate to make the world a more delicious place.
 
+### Media
+
+![](https://cdn10.bostonmagazine.com/wp-content/uploads/2016/01/colbert3-e1453985391584.jpg)
+
+![](/images/bobby_flay.jpg)
+
+![](/images/elite_daily.jpg)
+
+![](/images/cnbc_jonah.jpg)In various media roles as a commentator, host, and judge, I seek to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world.
+
 ### Hospitality Consultation
 
-I received [three stars](https://www.chicagotribune.com/dining/ct-review-intro-jonah-reider-food-0928-20160924-column.html) from the Chicago Tribune for my menu development and implementation in residency at Intro Restaurant. I’ve developed menus for galas at The New Museum, advised Sam Adams Beer on flavor development, and executed private events and marketing collaborations for partners including Google, Stella Artois, Conde Nast, L’Oreal, and Land Rover. I’m also a founding partner with Meltyman Grilled Cheese in Japan.
+I received [three stars](https://www.chicagotribune.com/dining/ct-review-intro-jonah-reider-food-0928-20160924-column.html) from the Chicago Tribune for my menu development and implementation in residency at Intro Restaurant. I’ve developed menus for galas at The New Museum, advised Sam Adams Beer on flavor development, and executed private events and marketing collaborations for partners including Google, Stella Artois, Conde Nast, L’Oreal, and Land Rover. I’m also a founding partner with Meltyman Grilled Cheese in Japan. I also enjoy advising hospitality programs in the hotels, aviation, and yachting industries.
+
+_![](/images/private_dining.jpg)Private dining logistics._
 
 Reach out if you'd like to chat about a hospitality project, CPG brand, event, or pop-up.
 
 ### Home Consultation
 
-Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home for relaxed cooking, elegant eating, and professional entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more. I can also facilitate simple lessons or trainings to develop confidence using tools and techniques as best as possible.
+Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home for relaxed cooking, elegant eating, and professional entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more. I also enjoy facilitate simple lessons or trainings to develop confidence in your home, hotel, boat, or plane using tools and techniques as best as possible.
 
 ### Education
 
 Food and flavor are great lenses through which to examine political, economic, social, environmental, and physical well-being. I love showing young people, in or out of school, how cooking truly develops self confidence, self-expression, and civic engagement. In Brooklyn, from 2017-2018, I ran a free after-school program for middle-schoolers, using the Pith Supper Club venue to explore gardening, grocery shopping, dish development, and more.
 
+_![](/images/tedx_jonah.jpg)TEDx Georgetown_
+
 Drawing from my economics education (focusing on inequality, sustainable development, business organization, and entrepreneurship), I’ve also spoken at institutions including Georgetown University, Stanford University, Columbia University, and at conferences in Abu Dhabi, Kuala Lumpur, Fukuoka.
 
 Please reach out if you'd like to chat about designing, implementing, and evaluating culinary arts education and food service standards. Improving public school lunches and food education is of particular interest to me. I'm also available for appropriate speaking opportunities, panel moderation, or entrepreneurial consulting.
-
-### Tours
-
-When possible, I enjoy crafting tours for small groups — exploring a city's culinary and hospitality traditions, best farmer’s markets, hidden places for social dining, and more. Tours will be  tailored to a groups’ interest, and can include a cooking class or demonstration. I'm based in New York City but have also facilitated tours in Tokyo, Paris, the Cote D'Azur — and enjoy researching and developing experiences in new places as well.
-
-### Art
-
-Dining and hosting provides a unique opporutnity to experience art, rather than glare at it through on a austere gallery wall. I love exploring how a meal can beautiful furniture, glassware, ceramics, music, metalwork. At my Pith Supper Club, I enjoy serving food on tableware made by my mother, showcasing functional and nonfunctional artworks from friends.
-
-Please reach out for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
 
 ### Cannabis
 
@@ -41,6 +45,12 @@ Cannabis can elevate any experience when integrated artfully. I am the founder a
 
 [![](/images/alto_family.jpg)](https://www.altoessentials.com)
 
-### Media
+### Tours
 
-I want to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world. See [select press](https://amja.github.io/#select-press). Judge, Beat Bobby Flay. Host, Nice Food for Not Much. Guest on TODAY Show, Stephen Colbert, ABC, CNN, VICE, NPR, and more.
+When possible, I enjoy crafting tours for small groups — exploring a city's culinary and hospitality traditions, best farmer’s markets, hidden places for social dining, and more. Tours will be  tailored to a groups’ interest, and can include a cooking class or demonstration. I'm based in New York City but have also facilitated tours in Tokyo, Paris, the Cote D'Azur — and enjoy researching and developing experiences in new places as well.
+
+### Art
+
+Dining and hosting provides a unique opportunity to experience art: I love exploring how a meal can showcase beautiful furniture, glassware, ceramics, music, metalwork. At my Pith Supper Club, I enjoy serving food on tableware made by my mother utilizing functional as well as nonfunctional artworks from friends.
+
+Please reach out for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
