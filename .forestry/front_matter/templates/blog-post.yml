@@ -15,3 +15,5 @@ fields:
 - name: important
   type: boolean
   label: Feature this post
+pages:
+- _posts/Habanero Carrot Puree.md
