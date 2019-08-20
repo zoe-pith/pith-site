@@ -9,7 +9,7 @@ Anyone can host, and everyone should.
 
 ![pith]({{site.baseurl}}/images/pith_pattern_thin.png)
 
-I live in New York City, where I run the Pith Supper Club out of my apartment. I’m also a columnist at Food & Wine Magazine, a voracious traveler, and an entrepreneur most excited by the magic of do-it-yourself hospitality.
+I live in New York City, where I run the Pith Supper Club out of my apartment. I am also a columnist at Food & Wine Magazine, a voracious traveler, and a culinary entrepreneur.  
 
 ### Subscribe
 
@@ -48,8 +48,6 @@ Excellent hospitality does not have to be transactional and hierarchical. Sign u
 </div>
 <a href="#diy" onclick="jumpToPost()">See more…</a>
 {% endif %}
-
-  
 
 ### Select Press
 
