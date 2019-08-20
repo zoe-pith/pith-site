@@ -1,14 +1,13 @@
 ---
 important: true
-published: true
 title: The Containers You Need
 tags:
-  - techniques
-  - tools
-  - containers
+- techniques
+- tools
+- containers
 icon: images/container_cover.jpg
----
 
+---
 _Originally [published](fxw.com) for my column_ Supper Club _at Food & Wine Magazine._
 
 As much as I love browsing esoteric cookbooks (I see you, 6-month-aged fish garum), my home cooking routine generally involves spontaneously throwing together ingredients that I already have on hand.
