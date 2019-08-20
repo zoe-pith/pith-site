@@ -4,7 +4,7 @@ icon: ''
 important: false
 
 ---
-_This carrot, habanero, and olive oil puree is perfectly balanced to function as a dip for steak and potatoes, a sauce for roasted chicken or broiled whole fish, or as a base for a delicious pasta._
+_This carrot, habanero, and olive oil puree is easy to make an functions as a hot sauce, a dip, and a  balanced to function as a dip for steak and potatoes, a sauce for roasted chicken or broiled whole fish, or as a base for a delicious pasta._
 
 * _2 carrots_
 * _1/2 habanero, seeds removed_
