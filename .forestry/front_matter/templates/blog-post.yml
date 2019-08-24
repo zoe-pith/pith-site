@@ -2,6 +2,11 @@
 label: Blog post
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: text
   name: icon
   label: icon
