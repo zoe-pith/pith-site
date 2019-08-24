@@ -10,38 +10,3 @@ defaults:
           type: "pages"
       values:
           layout: "page"
-prose:
-    ignore:
-        - "/.well-known"
-        - "/fonts"
-        - "/_includes"
-        - "/_layouts"
-        - "/css"
-        - "/js"
-        - "/.*"
-        - "/CNAME"
-        - "/Gemfile*"
-        - "/_config.yml"
-    media: "images"
-    siteurl: "http://amja.github.io"
-    metadata:
-        _posts:
-            - name: "title"
-              field:
-                  element: "text"
-                  label: "title"
-            - name: "tags"
-              field:
-                  alterable: true
-                  element: "multiselect"
-                  label: "Add Tags"
-                  options: ["recipes", "techniques", "tools", "travel", "vibes"]
-            - name: "icon"
-              field:
-                  element: "text"
-                  label: "Post Icon"
-                  value: "/images/"
-            - name: "important"
-              field:
-                  element: "checkbox"
-                  label: "Feature this post"
