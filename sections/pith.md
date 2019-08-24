@@ -5,9 +5,9 @@ permalink: "/pith"
 weight: "2"
 
 ---
-![](/images/pith_design.png)
-
 Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
+
+![](/images/pith_design.png)
 
 ### Current Menu
 
