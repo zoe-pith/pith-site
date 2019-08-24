@@ -55,7 +55,7 @@ In daily use, any blade develops tiny tears, bends, and misalignment. Though per
 
 ![](https://blades.guru/wp-content/uploads/2018/12/Animated-GIF-original-3.mp4)
 
-A honing steel doesn't sharpen your blade, but rather realigns it. Get in the habit of honing your blade every time they're significantly used — you'll be shocked at how refreshed your knives constantly feel.
+A honing steel, like [this one](https://amzn.to/31Q4T3b), doesn't sharpen your blade, but rather realigns it. Get in the habit of honing your blade every time they're significantly used — you'll be shocked at how refreshed your knives constantly feel.
 
 Also, never **ever** put your knives in the dishwasher — they will get dull in no time. Instead, just wipe knives clean with warm water after each use. Dry them completely with a cloth before putting them away.
 
@@ -68,12 +68,12 @@ Don't bother sharpening your serrated knives. As long as you're always sawing ba
 ### A great cutting board
 
 [![](https://images-na.ssl-images-amazon.com/images/I/41o5rVDlWwL._SL1200_.jpg){:.medium}](https://amzn.to/2Zdu2CR)  
-Unless you have a beautiful butcher's block wooden countertop, you need a commercial-grade cutting board that's big enough to really work on and thick enough to steady any knife technique. I always use this black cutting board because it doesn't get discolored with use.
+Unless you have a beautiful butcher's block wooden countertop, you need a commercial-grade cutting board that's big enough to really work on and thick enough to steady any knife technique. I always use [this black cutting board](https://amzn.to/2Zdu2CR) because it doesn't get discolored with use.
 
 ### Knife Sleeves
 
 [![](https://images-na.ssl-images-amazon.com/images/I/A1cnRPRCmtL._SL1500_.jpg){:.medium}](https://amzn.to/2YWVWYI)  
-Instead of a clunky wooden block taking up countertop space with eighteen things you may or may not use, just place your knives in a convenient drawer, using simple knife sleeves that guard the blade, keep it dry, and protect your fingers.
+Instead of a clunky wooden block taking up countertop space with eighteen things you may or may not use, just place your knives in a convenient drawer, using simple [knife sleeves like these ones](https://amzn.to/2YWVWYI) that guard the blade, keep it dry, and protect your fingers.
 
 #### Use them properly
 
