@@ -1,6 +1,6 @@
 ---
 icon: "/images/dried_meat_cover.jpg"
-title: Anyone Can Dry-Age Meats
+title: Dry Aged Meat
 tags:
 - techniques
 
