@@ -9,13 +9,14 @@ Let’s collaborate to make the world a more delicious place.
 
 ### Media
 
-![](https://cdn10.bostonmagazine.com/wp-content/uploads/2016/01/colbert3-e1453985391584.jpg)
+![](https://cdn10.bostonmagazine.com/wp-content/uploads/2016/01/colbert3-e1453985391584.jpg){:.medium}
 
-![](/images/bobby_flay.jpg)
+![](/images/bobby_flay.jpg){:.medium}
 
-![](/images/elite_daily.jpg)
+![](/images/elite_daily.jpg){:.medium}
 
-![](/images/cnbc_jonah.jpg)In various media roles as a commentator, host, and judge, I seek to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world.
+![](/images/cnbc_jonah.jpg){:.medium}
+In various media roles as a commentator, host, and judge, I seek to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world.
 
 ### Hospitality Consultation
 
