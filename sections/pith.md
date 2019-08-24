@@ -7,7 +7,7 @@ weight: "2"
 ---
 Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
-![](/images/pith_design.png)
+![](/images/Screen Shot 2019-08-24 at 1.13.59 PM.png)
 
 ### Current Menu
 
