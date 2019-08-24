@@ -29,7 +29,7 @@ And for Japanese blades, which are thinner, lighter, more precise, and require a
 
 A small paring knife allows for more complicated knifework, like removing the pith and seeds from a pepper, coring tiny strawberries, or deveining shrimp. A small knife is also great at the table for slicing fresh fruit or hard cheeses.
 
-I used a great $8 [Victorinox 3.25" paring knife](https://amzn.to/2Hfyyee) for a long time, but recently upgraded to a [Japanese blade](https://amzn.to/2KA6T9Q) and noticed a significant upgrade in quality. 
+I used a great $8 [Victorinox 3.25" paring knife](https://amzn.to/2Hfyyee) for a long time, but recently upgraded to a [Japanese blade](https://amzn.to/2KA6T9Q) and noticed a significant upgrade in quality.
 
 ### Serrated Knife
 
@@ -42,7 +42,6 @@ The beloved [Victorinox](https://amzn.to/2NdSy4D) model is about $30, although y
 [![](https://images-na.ssl-images-amazon.com/images/I/51aMUICnA9L._SL1200_.jpg){:.medium}](https://amzn.to/2KCR0Q1)  
 _Serrated Knife from Tojiro for $25_
 
-
 These three — big, small, and serrated — are all the knives any home cook really needs. Keep them sharp, and use them properly, and I'm certain you'll find your home cooking and hosting routines immensely elevated.
 
 #### Keep 'em sharp
@@ -54,7 +53,7 @@ Keep your treasured blades happy by investing in:
 [![](https://images.wisegeek.com/chef-in-white-with-knife.jpg){:.medium}](https://amzn.to/31Q4T3b)  
 In daily use, any blade develops tiny tears, bends, and misalignment. Though perhaps visually imperceptable, these kinks create unnecesary friction and misalignment, making a blade feel much less sharp as you slice across its entire length.
 
-![](https://blades.guru/wp-content/uploads/2018/12/Animated-GIF-original-3.mp4?_=3)
+![](https://blades.guru/wp-content/uploads/2018/12/Animated-GIF-original-3.mp4)
 
 A honing steel doesn't sharpen your blade, but rather realigns it. Get in the habit of honing your blade every time they're significantly used — you'll be shocked at how refreshed your knives constantly feel.
 
