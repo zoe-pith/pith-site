@@ -6,12 +6,12 @@ tags:
 - tools
 
 ---
-Serving good drinks is one of the easiest ways to be a great host. don't need to be an experienced cook to be a great host — but having access to the best and most versatile tools ceratinly helps. Below is my essential list of everything I reccomend for people seeking to serve and enjoy beverages as best as possible.
+Easily and elegantly serving delicious drinks is one of the simplest ways to be a great host.
+
+Here, I have compiled a constantly-updating list of the essential items I use to best serve and enjoy beverages.
 
 From wine glasses to water glasses, tea bags to coffee pots, bottle openers to sparkling water machines, I've selected the least expensive objects that meet my demands in form _and_ function.
 
 Click [here](https://amzn.to/2NaQzOk) to see a list of the top essentials I think anyone should have in their home kitchen.
 
 [![]({{site.baseurl}}/images/beverage_grid.jpg)](https://amzn.to/2NaQzOk)
-
-**I would love the actual list embedded here!!! Would be so so so cool, with the simple photo grid and mouse-over illuminating the explaination I wrote on Amazon**
