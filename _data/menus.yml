@@ -1,5 +1,6 @@
 - title: About
   url: "?page=about"
+  closemenu: true
   children:
       - title: Subscribe
         url: "#subscribe"
@@ -9,6 +10,7 @@
         url: "#select-press"
 - title: Pith Supper Club
   url: "?page=pith"
+  closemenu: true
   children:
       - title: Current Menu
         url: "#current-menu"

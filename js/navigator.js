@@ -155,7 +155,13 @@ const showPage = e => {
 
     const itemHasChildren = !!state.selectedNavItem.nextElementSibling;
     if (page_name === POST_PAGE) filterPosts("", false);
-    if (!itemHasChildren || oldNavItem === state.selectedNavItem) toggleMenu();
+
+    if (
+        target.hasAttribute("close-menu") ||
+        !itemHasChildren ||
+        oldNavItem === state.selectedNavItem
+    )
+        toggleMenu();
     setUrl(target.href);
     return false;
 };
