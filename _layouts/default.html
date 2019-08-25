@@ -1,3 +1,10 @@
 {% include header.md %}
-{{ content }}
+<nav role="status">
+    <button onclick="toggleMenu()" aria-label="Toggle menu">menu</button>
+    <div>
+        <a href="/"><h1>Jonah Reider</h1></a>
+        {% include datamenu menu=site.data.menus all=true %}
+    </div>
+</nav>
+<div id="page-content" role="status">{{ content }}</div>
 {% include footer.md %}

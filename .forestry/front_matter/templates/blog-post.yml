@@ -1,0 +1,24 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- type: text
+  name: icon
+  label: icon
+  default: ''
+  config:
+    required: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: important
+  type: boolean
+  label: Feature this post
+pages:
+- _posts/Habanero Carrot Puree.md

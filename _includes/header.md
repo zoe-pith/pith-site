@@ -2,16 +2,15 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="Pith, Jonah Reider, supper club">
   	<meta name="author" content="Jonah Reider">
 		<title>Pith – Jonah Reider</title>
-		<link rel="shortcut icon" type="image/png" href="media/images/favicon.png"/>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<script src="js/jquery-2.1.1.js" type="text/javascript"></script>
-		<script src="js/jquery-easing.js" type="text/javascript"></script>
-		<script src="js/scrolling.js" type="text/javascript"></script>
-		<script src='https://js.tito.io/v1' async></script>
+		<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<script src="/js/navigator.js" type="text/javascript"></script>
+		<script src="https://js.tito.io/v1"></script>
+		<script src="/js/smooth-scroll.polyfills.min.js"></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77472601-1"></script>
 		<script>
@@ -20,12 +19,10 @@
 		  gtag('js', new Date());
 		  gtag('config', 'UA-77472601-1');
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/css/nojs.css">
+		</noscript>
 	</head>
 
-	<body>
-		<div class="arrow" id="arrow-left"></div>
-		<div id="content_wrapper">
-			<div id="content">
-				<header>
-				</header>
-				<section id="main">
+  <body>
+  		<div id="content">

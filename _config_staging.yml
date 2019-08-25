@@ -3,10 +3,5 @@ defaults:
           path: ""
           type: "posts"
       values:
-          layout: null
+          layout: page
           permalink: /:year-:month-:day-:title
-    - scope:
-          path: ""
-          type: "pages"
-      values:
-          layout: "page"

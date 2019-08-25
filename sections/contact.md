@@ -1,9 +1,18 @@
-# contact
-[inquiries@pith.space](mailto:inquiries@pith.space)  
-	instagram [@jonahreider](https://instagram.com/jonahreider)
+---
+layout: default
+title: Contact
+permalink: /contact
+weight: 7
+published: true
+---
 
-![plates of pasta](media/images/pasta_plating.jpg)
-![Jonah Reider posing with a skewer](media/images/jonah.jpg)
-![hands harvesting greens](media/images/greenery.jpg)
-![oysters](media/images/sea_food.jpg)
+[inquiries@jonahreider.com](mailto:inquiries@jonahreider.com)
 
+instagram [@jonahreider](https://instagram.com/jonahreider)
+
+![plates of pasta](images/pasta_plating.jpg){:.large}
+![S__2818052_0.jpg]({{site.baseurl}}/images/S__2818052_0.jpg){:.large}
+![hands harvesting greens](images/greenery.jpg){:.large}
+![oysters](images/sea_food.jpg){:.large}
+
+_Website coded by [Amos Jackson](https://amos.im/)_

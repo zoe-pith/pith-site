@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h2>{{page.title}}</h2>
+{% if page.tags.size > 0 %}
+  <div id="tags"># 
+      {% for tag in page.tags %}
+        <a href="/#diy/{{ tag }}">{{tag}}</a>
+        {% unless forloop.last %}
+         &middot; 
+        {% endunless %}
+      {% endfor %}
+  </div>
+{% endif %}
+{{content}}

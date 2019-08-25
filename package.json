@@ -1,0 +1,11 @@
+{
+    "name": "pith-site",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+        "eslint": "^6.1.0",
+        "prettier": "^1.18.2"
+    },
+    "dependencies": {}
+}

@@ -1,0 +1,57 @@
+- title: About
+  url: "?page=about"
+  closemenu: true
+  children:
+      - title: Subscribe
+        url: "#subscribe"
+      - title: Recent Posts
+        url: "#recent-posts"
+      - title: Select Press
+        url: "#select-press"
+- title: Pith Supper Club
+  url: "?page=pith"
+  closemenu: true
+  children:
+      - title: Current Menu
+        url: "#current-menu"
+      - title: Reservations
+        url: "#reservations"
+- title: Do It Yourself
+  url: "?page=diy"
+  children:
+      - title: All
+        url: "?page=diy"
+        noscroll: true
+      - title: Recipes
+        url: "?page=diy&tag=recipes"
+        noscroll: true
+      - title: Techniques
+        url: "?page=diy&tag=techniques"
+        noscroll: true
+      - title: Tools
+        url: "?page=diy&tag=tools"
+        noscroll: true
+      - title: Travel
+        url: "?page=diy&tag=travel"
+        noscroll: true
+      - title: Search
+        url: "?page=diy&tag=search"
+        noscroll: true
+
+- title: Projects
+  url: "?page=projects"
+  children:
+      - title: "Consultations"
+        url: "#hospitality-consultation"
+      - title: "Education"
+        url: "#education"
+      - title: "Tours"
+        url: "#tours"
+      - title: "Art"
+        url: "#art"
+      - title: "Cannabis"
+        url: "#cannabis"
+      - title: "Media"
+        url: "#media"
+- title: Contact
+  url: "?page=contact"
