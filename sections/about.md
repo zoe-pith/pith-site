@@ -6,7 +6,6 @@ weight: "1"
 
 ---
 Anyone can host, and everyone should.
-
 ![pith]({{site.baseurl}}/images/pith_pattern_thin.png)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through my cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
