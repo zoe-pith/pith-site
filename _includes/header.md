@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="Pith, Jonah Reider, supper club">
   	<meta name="author" content="Jonah Reider">
-		<title>Pith – Jonah Reider</title>
+		<title>Jonah Reider</title>
 		<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
 		<link rel="stylesheet" type="text/css" href="/css/style.css">
 		<script src="/js/navigator.js" type="text/javascript"></script>
