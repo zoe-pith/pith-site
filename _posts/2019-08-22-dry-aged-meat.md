@@ -7,7 +7,8 @@ tags:
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/dry-aging-meats-how-supper-club)_._
 
-### You Should Be Dry-Aging Your Meats at Home — Here's How
+#### You Should Be Dry-Aging Your Meats at Home — Here's How
+
 ![](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
 
 Allow me to guess that you do not currently have a 900°F commercial broiler or a six-foot charcoal grill sitting at home. Still, I believe in your ability to create tender, steakhouse-quality proteins with caramelized crusts.
@@ -19,12 +20,13 @@ Dry-aged meat at a restaurant or grocery store can cost twice as much as its you
 ![](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
 
 ### Dry-aging makes meat taste better
+
 Exposing meat to cold, circulating air for an extended period of time gently dehydrates it, concentrating flavor and increasing the ratio of fat to muscle. This process also tenderizes, allowing naturally occurring enzymes to break down the meat's carbohydrates, proteins, and fats into super-flavorful sugars and amino acids like glutamate (e.g. natural MSG).
 
 And have you ever pan-seared a steak only to have it come out grey and bland? That's where dry-aging can help you: the dry and flavorful surfaces of aged proteins are extremely easy to caramelize in a pan.
 
-
 ### The required tools are inexpensive and versatile
+
 All you need to dry-age at home is your **refrigerator**, a [**wire rack**](https://amzn.to/2L9jZK2 "(opens new window)"), and a [**sheet pan**](https://amzn.to/33Wo3Gl "(opens new window)").
 
 [![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
@@ -33,18 +35,18 @@ Refrigerators have an air circulation system to ensure freshness. By aging meat 
 
 [![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
 
-This setup minimizes moisture and heat, safeguarding against rot. 
-
+This setup minimizes moisture and heat, safeguarding against rot.
 
 ### Add salt to significantly increase the dry-aging effect
+
 Salt is the only seasoning that consistently and effectively penetrates through food, adding flavor, tenderizing, and drawing out excessive moisture. I always sprinkle sea salt generously on meat before aging it. Looking for even more flavor? Brush salty and savory fish sauce on its surface.
 
 For an even more intense flavor, I brush meat before aging with a salty and umami-laden wash of soy sauce, anchovy paste, crushed black peppercorn, and grated garlic. The result is aged meat with a mouthwatering aroma redolent of jerky.
 
 **Note**: It’s important to avoid any oil in your seasoning, as fat creates a barrier preventing moisture from escaping as salt penetrates inwards.
 
-
 ### Dry-aging elevates many proteins and inexpensive or unusual cuts
+
 Rib-eyes, porterhouses, or strip steaks will be delicious after a week or so in the fridge, but I also like to experiment with less expensive cuts of beef. Short ribs, for example, are rarely seared and served medium-rare, but I think they are exquisite after aging about five days.
 
 https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg
@@ -61,6 +63,7 @@ The intense flavor and supple mouthfeel of aged meet makes it great to serve raw
 ![](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
 
 ### Cook it like a pro
+
 When you're ready to cook, forget charcoal, sous-vide machines, and blowtorches. You can get an extraordinary sear out of any dry-aged meat on the stovetop because its dehydrated surfaces are extremely easy to caramelize.
 
 My hosting trick is to create this delicious crust well before any guests have arrived. Right before eating, I finish the meat quickly in the oven with no smoke, splatters, or stress.
@@ -71,6 +74,4 @@ At this point, you should have a succulent steakhouse-quality sear with a raw in
 
 You won't need to rest the meat much, because it finished cooking from room temperature. Just slice it and garnish with flaky salt. Mmmmmm.
 
-
-
-_Buy two quarter-size sheet pans [on Amazon for $12](https://amzn.to/33Wo3Gl) and two elevated wire racks that fit perfectly inside, also [$12 on Amazon.](https://amzn.to/2L9jZK2)_
+_Buy two quarter-size sheet pans_ [_on Amazon for $12_](https://amzn.to/33Wo3Gl) _and two elevated wire racks that fit perfectly inside, also_ [_$12 on Amazon._](https://amzn.to/2L9jZK2)
