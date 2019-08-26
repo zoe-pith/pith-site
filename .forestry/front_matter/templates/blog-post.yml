@@ -21,5 +21,6 @@ fields:
   type: boolean
   label: Feature this post
 pages:
+- _posts/crêpe.md
 - _posts/table-essentials.md
 - _posts/Habanero Carrot Puree.md
