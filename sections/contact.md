@@ -14,4 +14,4 @@ instagram [@jonahreider](https://instagram.com/jonahreider)
 ![hands harvesting greens](images/greenery.jpg){:.large}
 ![oysters](images/sea_food.jpg){:.large}
 
-_Website coded by_ [_Amos Jackson_](https://amos.im/) _and designed by Jonah Reider._
+_Website coded by_ [_Amos Jackson_](https://amos.im/) _and designed by Jonah Reider. Illustrations by_ [Cerise Zelenetz](https://www.instagram.com/unnecessaryobservations)
