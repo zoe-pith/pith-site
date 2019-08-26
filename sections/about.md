@@ -26,7 +26,6 @@ Sign up below to receive sporadic notifications about supper club availability a
 {% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
 {% assign num_posts = important_posts | size %}
 {% if num_posts > 0 %}
-
 ### Recent Posts
 
 {% assign i = 0 %}
@@ -47,7 +46,8 @@ Sign up below to receive sporadic notifications about supper club availability a
 </div>
 <a href="#diy" onclick="jumpToPost()">See more…</a>
 {% endif %}
-
+  
+  
 ### Select Press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
