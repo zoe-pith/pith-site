@@ -56,4 +56,4 @@ Dining and hosting provides a unique opportunity to experience art: I love explo
 Please reach out for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
 
 _Tea Bowls from_ [_Lily Fein_](https://www.lilyfein.com) _at Pith Supper Club:_  
-![](https://www.lilyfein.com/uploads/8/7/1/4/8714945/two-pourers_orig.jpg)
+![](/images/two-pourers_orig.jpg)
