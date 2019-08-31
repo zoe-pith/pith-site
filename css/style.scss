@@ -175,6 +175,14 @@ nav {
     }
 }
 
+#pith-page span {
+    opacity: 0;
+    &:after {
+        content: "\A";
+        white-space: pre;
+    }
+}
+
 #page-content {
     display: block;
     flex-grow: 1;
@@ -425,6 +433,12 @@ $nav-height: 55px;
         margin-top: 70px;
         margin-left: 0;
         padding: 0 30px 60px 30px;
+    }
+    #pith-page span {
+        opacity: 1;
+        &:after {
+            content: "";
+        }
     }
 
     #contact-page img {

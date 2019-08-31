@@ -64,6 +64,7 @@ window.onload = () => {
     });
 
     const spoofE = {
+        spoof: true,
         target: document.querySelector(
             `nav a[href = '?page=${page || "about"}']`
         )
@@ -157,9 +158,10 @@ const showPage = e => {
     if (page_name === POST_PAGE) filterPosts("", false);
 
     if (
-        target.hasAttribute("close-menu") ||
-        !itemHasChildren ||
-        oldNavItem === state.selectedNavItem
+        !e.spoof &&
+        (target.hasAttribute("close-menu") ||
+            !itemHasChildren ||
+            oldNavItem === state.selectedNavItem)
     )
         toggleMenu();
     setUrl(target.href);
