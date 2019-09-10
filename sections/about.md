@@ -3,10 +3,10 @@ layout: default
 title: About
 permalink: "/about"
 weight: "1"
-
 ---
+
 Anyone can host, and everyone should.
-![pith]({{site.baseurl}}/images/pith_pattern_thin.png)
+![pith]({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through my cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
@@ -26,6 +26,7 @@ Sign up below to receive sporadic notifications about supper club availability a
 {% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
 {% assign num_posts = important_posts | size %}
 {% if num_posts > 0 %}
+
 ### Recent Posts
 
 {% assign i = 0 %}
@@ -61,4 +62,4 @@ A Dining Experience — [Forbes](https://www.forbes.com/video/5734702032001/#40e
 
 ![Fort Green Farmer's Market]({{site.baseurl}}/images/fort_green_market.jpg)
 
-![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpeg)
+![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpg)
