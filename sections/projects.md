@@ -3,13 +3,13 @@ layout: default
 title: Projects
 permalink: "/projects"
 weight: "6"
-
 ---
+
 Let’s collaborate to make the world a more delicious place.
 
 ### Media
 
-![](https://cdn10.bostonmagazine.com/wp-content/uploads/2016/01/colbert3-e1453985391584.jpg){:.large}
+![](/images/colbert.jpg){:.large}
 ![](/images/bobby_flay.jpg){:.large}
 ![](/images/elite_daily.jpg){:.large}
 ![](/images/cnbc_jonah.jpg){:.large}  
@@ -47,7 +47,7 @@ Cannabis can elevate any hospitality experience. I am the founder and creative d
 
 ### Tours
 
-I enjoy occasionally hosting private tours exploring a city's culinary and hospitality traditions, best farmer’s markets, hidden places for social dining, and more. Tours will be  tailored to a groups’ interest, and can include a cooking class or demonstration. I am based in New York City but have facilitated tours in Tokyo, Paris, the Cote D'Azur — and enjoy researching and developing experiences for other locations as well.
+I enjoy occasionally hosting private tours exploring a city's culinary and hospitality traditions, best farmer’s markets, hidden places for social dining, and more. Tours will be tailored to a groups’ interest, and can include a cooking class or demonstration. I am based in New York City but have facilitated tours in Tokyo, Paris, the Cote D'Azur — and enjoy researching and developing experiences for other locations as well.
 
 ### Art
 
