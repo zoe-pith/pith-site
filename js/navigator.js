@@ -64,7 +64,7 @@ window.onload = () => {
     });
 
     const spoofE = {
-        spoof: true,
+        dontToggleMenu: true,
         target: document.querySelector(
             `nav a[href = '?page=${page || "about"}']`
         )
@@ -158,7 +158,7 @@ const showPage = e => {
     if (page_name === POST_PAGE) filterPosts("", false);
 
     if (
-        !e.spoof &&
+        !e.dontToggleMenu &&
         (target.hasAttribute("close-menu") ||
             !itemHasChildren ||
             oldNavItem === state.selectedNavItem)
@@ -317,6 +317,7 @@ const toggleMenu = () => {
 
 const jumpToPost = postPath => {
     showPage({
+        dontToggleMenu: true,
         target: document.querySelector(`nav a[href = '?page=${POST_PAGE}']`)
     });
     if (postPath) {

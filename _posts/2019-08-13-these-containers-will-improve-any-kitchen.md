@@ -2,12 +2,12 @@
 important: true
 title: The Containers You Need
 tags:
-- techniques
-- tools
-- containers
+    - techniques
+    - tools
+    - containers
 icon: images/container_cover.jpg
-
 ---
+
 _Originally_ [_published_](https://www.foodandwine.com/cooking-techniques/cooking-deli-containers-supper-club) _for my column_ Supper Club _at Food & Wine Magazine._
 
 As much as I love browsing esoteric cookbooks (I see you, 6-month-aged fish garum), my home cooking routine generally involves spontaneously throwing together ingredients that I already have on hand.
@@ -50,18 +50,18 @@ The labeled deli container lifestyle turns everything in your kitchen into a rea
 
 For example, my partner Sarah invented an excellent formula for a delicious grain salad that never gets old. Mix one ingredient from each category below together in ratios of your choosing. Season with citrus juice, olive oil, salt, and pepper and top with more fresh herbs and cheese.
 
-* Steamed or boiled grain (quinoa, barley, millet, rice, buckwheat groats)
-* Toasted nut (hazelnuts, pistachios, walnuts, or almonds)
-* Crumbled cheese (funky pecorino, sharp parmesan, briny feta, or creamy blue cheese)
-* Sliced vegetable (crunchy celery or radishes, sweet roasted beets or yams, bitter greens like radicchio or arugula, or no-shame frozen peas or canned artichoke hearts)
-* One herb (bright mint, vegetal dill, fragrant basil, or earthy parsley).
+-   Steamed or boiled grain (quinoa, barley, millet, rice, buckwheat groats)
+-   Toasted nut (hazelnuts, pistachios, walnuts, or almonds)
+-   Crumbled cheese (funky pecorino, sharp parmesan, briny feta, or creamy blue cheese)
+-   Sliced vegetable (crunchy celery or radishes, sweet roasted beets or yams, bitter greens like radicchio or arugula, or no-shame frozen peas or canned artichoke hearts)
+-   One herb (bright mint, vegetal dill, fragrant basil, or earthy parsley).
 
 The result is a reliably delicious, complex, and healthy dish that’s perfect for a solo dinner or as part of a larger dinner party. And when all the ingredients you need are already in labeled deli containers, the assembly takes about two minutes.
 
 The best kitchen tricks are those that are inexpensive, simple, and endlessly versatile. I have many more tasty and versatile formulas to share, but I promise that if you commit to the Container Lifestyle™, you’ll find your own unending ways that they improve daily cooking and hosting. Whatever you end up making, just remember to store leftovers in a nicely labeled deli container 💪
 
-Buy a set of 44 BPA-free deli containers in three sizes [on Amazon for $18](https://amzn.to/2H1Ic44). Add a [Sharpie and a roll of masking tape](https://amzn.to/2Z3BGzG) if you want to go full pro.
+Buy a set of 44 BPA-free deli containers in three sizes [on Amazon for \$18](https://amzn.to/2H1Ic44). Add a [Sharpie and a roll of masking tape](https://amzn.to/2Z3BGzG) if you want to go full pro.
 
-![](/https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
+![](https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
 
 <a href="https://www.amazon.com/DuraHome-Containers-Leakproof-Container-Microwavable/dp/B075X416X8/ref=as_li_ss_il?&linkCode=li3&tag=pithenterpris-20&linkId=ad5b2403c5b2483924a99ef14e2dc12f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075X416X8&Format=SL250&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pithenterpris-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pithenterpris-20&language=en_US&l=li3&o=1&a=B075X416X8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />{:.medium}
