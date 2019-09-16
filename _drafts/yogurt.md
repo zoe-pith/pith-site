@@ -1,77 +1,60 @@
 ---
 icon: "/images/dried_meat_cover.jpg"
-title: Dry Aged Meat
+title: Yogurt
 tags:
 - techniques
 
 ---
-_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/dry-aging-meats-how-supper-club)_._
+_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/yogurt-tips-supper-club)_._
 
-#### You Should Be Dry-Aging Your Meats at Home — Here's How
+#### Yogurt is one of the most versatile ingredients a home cook can use to elevate a meal.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-dip-sumac-FT-BLOG0919.jpg)
 
-Allow me to guess that you do not currently have a 900°F commercial broiler or a six-foot charcoal grill sitting at home. Still, I believe in your ability to create tender, steakhouse-quality proteins with caramelized crusts.
+While I've never particularly enjoyed a giant bowl of yogurt first thing in the morning, I always have some in my fridge. There are so many varieties: briny sheep’s yogurt, thick and creamy strained yogurt, funky fermented kefir. All are equally delicious, but honestly, I just make sure I never run out of inexpensive, full-fat cow’s milk yogurt. It’s my indispensable staple to quickly add richness, tang, and brightness to all types of cooking, from appetizers to desserts.
 
-The trick? Dry-aging, which improves flavor and texture while making cuts easier to cook simply and beautifully.
+Here are some of my favorite ways to integrate yogurt into day-to-day cooking:
 
-Dry-aged meat at a restaurant or grocery store can cost twice as much as its younger counterparts, but you can do it at home, better—and for free.
+### **Make the best simple salad dressing:**
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-salad-dressing-FT-BLOG0919.jpg)
 
-### Dry-aging makes meat taste better
+A spoonful of yogurt enriches vinaigrettes, adding texture and tang to any salad.
 
-Exposing meat to cold, circulating air for an extended period of time gently dehydrates it, concentrating flavor and increasing the ratio of fat to muscle. This process also tenderizes, allowing naturally occurring enzymes to break down the meat's carbohydrates, proteins, and fats into super-flavorful sugars and amino acids like glutamate (e.g. natural MSG).
+I frequently turn to a dressing of lemon juice, salt, olive oil, white pepper, and yogurt — it elevates a simple salad of fresh greens and adds zest to heartier salads with grilled chicken, poached salmon, or nice canned tuna. Don’t worry about perfectly emulsifying the dressing, either. I love the look and taste of beads of olive oil strewn throughout citrusy seasoned yogurt.
 
-And have you ever pan-seared a steak only to have it come out grey and bland? That's where dry-aging can help you: the dry and flavorful surfaces of aged proteins are extremely easy to caramelize in a pan.
+### **Whip up two-ingredient appetizers:**
 
-### The required tools are inexpensive and versatile
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-dip-sumac-FT-BLOG0919.jpg)
 
-All you need to dry-age at home is your **refrigerator**, a [**wire rack**](https://amzn.to/2L9jZK2 "(opens new window)"), and a [**sheet pan**](https://amzn.to/33Wo3Gl "(opens new window)").
+When I want to a quick snack, or to impress guests with an appetizer spread, I rely on thick salted yogurt drizzled with olive oil and a few herbs or spices. This makes for an excellent dip for crudités, or a phenomenal creamy spread for crusty bread.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
+### **Enhance soups and stews:**
 
-Refrigerators have an air circulation system to ensure freshness. By aging meat on an elevated wire rack, uncovered and near your refrigerator’s fan, air will circulate all around the meat, keeping it dry and cool. The sheet pan just goes underneath to catch drippings and keep your fridge clean.
+Whether mixed in while cooking or added as a last minute garnish, yogurt adds a rich brightness to all sorts of soups, stews, and braises. 
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-squash-soup-FT-BLOG0919.jpg)
 
-This setup minimizes moisture and heat, safeguarding against rot.
+A dollop, perhaps thinned out with olive oil or seasoned with finely chopped herbs and citrus zest, is the perfect counterpart to anything from a sweet root vegetable soup to a hefty meat stew.
 
-### Add salt to significantly increase the dry-aging effect
+### **Marinade everything in it:**
 
-Salt is the only seasoning that consistently and effectively penetrates through food, adding flavor, tenderizing, and drawing out excessive moisture. I always sprinkle sea salt generously on meat before aging it. Looking for even more flavor? Brush salty and savory fish sauce on its surface.
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-marinade-FT-BLOG0919.jpg)
 
-For an even more intense flavor, I brush meat before aging with a salty and umami-laden wash of soy sauce, anchovy paste, crushed black peppercorn, and grated garlic. The result is aged meat with a mouthwatering aroma redolent of jerky.
+For a powerful marinade, I blend yogurt with whole garlic cloves, fistfuls of fresh herbs, plenty of olive oil, ground black peppercorn, and salt.
 
-**Note**: It’s important to avoid any oil in your seasoning, as fat creates a barrier preventing moisture from escaping as salt penetrates inwards.
+Before searing, grilling, or broiling, I’ll rub this mix inside whole fish, cover filets of chicken in it, or let cuts of lamb soak it up. The salty and herbaceous yogurt penetrates into proteins, amplifying flavor and moisture.
 
-### Dry-aging elevates many proteins and inexpensive or unusual cuts
+Make sure to set some of this marinade aside to serve later as an intense condiment to the finished dish or any side vegetables. The following morning, finish it off atop fried eggs and crispy potatoes.
 
-Rib-eyes, porterhouses, or strip steaks will be delicious after a week or so in the fridge, but I also like to experiment with less expensive cuts of beef. Short ribs, for example, are rarely seared and served medium-rare, but I think they are exquisite after aging about five days.
+### **Put it on cake:**
 
-https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg
-_Insanely marbled dry-aged short rib I made in my refridgerator._
+![](https://cdn-image.foodandwine.com/sites/default/files/1568405720/yogurt-best-ingredient-desserts-icing-FT-BLOG0919.jpg)
 
-Beyond beef, DIY dry-aging works wonders with a variety of proteins. I like to give duck breasts, chicken wings, and racks of lamb a salty, spicy rub and about three days of maturation.
+Whatever you regularly bake, try subbing yogurt in for other liquids or dairy. Cakes, muffins, and even chocolate chip cookies benefit from this twist. To compensate for different moisture levels, some experimentation may be needed, but I find that yogurt adds tang and cuts through the richness of many sweet dishes.
 
-Even a whole fish benefits from one to two days of air-drying with a bit of salt rubbed along its exterior. Afterwards, drizzling it with olive oil and roasting it whole on the wire rack in an ultra-hot oven for ten minutes will guarantee a marvelously tender result with a charred and crackly exterior.
+To top off any scones, cakes, or cookies, make an incredibly simple icing using strained yogurt, confectioner’s sugar, and lemon juice.
 
-### Don’t want to cook? Serve dry-aged meat raw
+And if you just don’t like baking or are pressed for time, sweeten strained yogurt with honey and serve it alongside seasonal fruit or berries. This is a reliably simple and elegant dessert (or breakfast). Take it up a notch by folding in lemon zest, a drop of vanilla extract, crushed fennel seeds, or toasted sesame oil.
 
-The intense flavor and supple mouthfeel of aged meet makes it great to serve raw. I love serving a few ultra-thin slices of dry-aged beef with olives and salt as a simple and decadent appetizer. For a more filling snack, I’ll pile a few slices atop toasted sourdough or eat them with soft-boiled eggs and delicate lettuces.
-
-![](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
-
-### Cook it like a pro
-
-When you're ready to cook, forget charcoal, sous-vide machines, and blowtorches. You can get an extraordinary sear out of any dry-aged meat on the stovetop because its dehydrated surfaces are extremely easy to caramelize.
-
-My hosting trick is to create this delicious crust well before any guests have arrived. Right before eating, I finish the meat quickly in the oven with no smoke, splatters, or stress.
-
-To do this, heat a pan with a bit of oil or fat (I like to use a bit of cured fat from the dry-aged meat itself) until it’s smoking hot. Then add your meat, cold from the refrigerator, and sear each side for about two minutes, pressing gently down with a spatula or kitchen towel, and moving the cooking meat around in a circle to soak up any rendered fat.
-
-At this point, you should have a succulent steakhouse-quality sear with a raw interior. Set your meat back on the wire rack and sheet pan, on your kitchen counter, and clean up. Later on, five to ten minutes before you’re ready to eat, slide the pan and rack in a 450°F oven and finish cooking to your desired doneness.
-
-You won't need to rest the meat much, because it finished cooking from room temperature. Just slice it and garnish with flaky salt. Mmmmmm.
-
-_Buy two quarter-size sheet pans_ [_on Amazon for $12_](https://amzn.to/33Wo3Gl) _and two elevated wire racks that fit perfectly inside, also_ [_$12 on Amazon._](https://amzn.to/2L9jZK2)
+![](/images/yogurt-best-ingredient-fresh-fruit-parfait-FT-BLOG0919.jpg)(_fresh fruit with yogurt and fennel pollen_)
