@@ -3,8 +3,8 @@ layout: default
 title: Projects
 permalink: "/projects"
 weight: "6"
----
 
+---
 Let’s collaborate to make the world a more delicious place.
 
 ### Media
@@ -26,7 +26,7 @@ Reach out if you'd like to chat about a hospitality project, brand and product d
 
 ### Home Consultation
 
-Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home for relaxed cooking, elegant eating, and professional entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more. And whether in a apartment, home, boat, or plane - I enjoy the challenges of developing and implementing elevated and truly intimate hospitality.
+Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home or private space with an eye towards relaxed cooking, elegant eating, and elevated entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more.
 
 ### Education
 
