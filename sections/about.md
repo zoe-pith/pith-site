@@ -14,11 +14,11 @@ I live in New York City, where I run the Pith Supper Club out of my apartment an
 
 Sign up below to receive sporadic notifications about supper club availability as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
-<form accept-charset="UTF-8" action="https://tickets.pith.space/pith/supper-club/interested_users" id="subscribe-form" method="post" target="_blank">
+<form accept-charset="UTF-8" action="https://tickets.jonahreider.com/pith/supper-club/interested_users#thanks" id="subscribe-form" method="post" target="_blank">
 <input name="utf8" type="hidden" value="✓">
-<input name="authenticity_token" type="hidden" value="FCumfjNcXNgC/34KKuL4EFAxuBlvfFIMzU1LOGtwROs=">
-<input placeholder="Name" id="name" name="interested_user\[name\]" type="text">
-<input placeholder="Email" id="email" name="interested_user\[email\]" type="email">
+<input name="authenticity_token" type="hidden" value="jqNrxffRtVFMc3MQfO6akJeXISo8jfPxJNObXzKi6gY=">
+<input placeholder="Name" id="name" name="interested_user[name]" type="text">
+<input placeholder="Email" id="email" name="interested_user[email]" type="email">
 <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space"> </p>
