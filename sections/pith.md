@@ -3,25 +3,28 @@ layout: default
 title: Pith Supper Club
 permalink: "/pith"
 weight: "2"
----
 
+---
 Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
 ![](/images/pith-illustrations.png)
 
 ### Current Menu
 
-Tomato toast with plenty of smoked salt<span> /</span>
-Raw sardines with pickled coriander berries<span> /</span>
-Celery salad with parsley and black currant
+Vegetables with aioli <span> /</span>
+Chard and chèvre pastry <span> /</span>  
 
-Crispy and garlicky whole bass<span> /</span>
-Charred pole beans with mint<span> /</span>
-Cherry tomatoes stewed with windowsill herbs<span> /</span>
-Barley salad with radishes and sheep’s cheese
+Spicy melon and mint gazpacho <span> /</span>
+Kohlrabi with lemon and shaved parmesan <span> /</span>
+Beets with parsley and pistachio <span> /</span>  
 
-Blackberry and lemon verbena tart<span> /</span>
-Tea and almond cookies
+Crispy-skin salmon <span> /</span>
+Charred vinegary peppers <span> /</span>
+Tomato and toast salad <span> /</span>
+Yogurt with herbs  
+
+Pluot sorbet and honey gelato <span> /</span>
+Almond cookies
 
 ### Reservations
 
