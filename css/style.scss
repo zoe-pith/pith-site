@@ -175,7 +175,7 @@ nav {
     }
 }
 
-#pith-page span {
+#pith-page .menu-delim {
     opacity: 0;
     &:after {
         content: "\A";
@@ -434,7 +434,7 @@ $nav-height: 55px;
         margin-left: 0;
         padding: 0 30px 60px 30px;
     }
-    #pith-page span {
+    #pith-page .menu-delim {
         opacity: 1;
         &:after {
             content: "";
