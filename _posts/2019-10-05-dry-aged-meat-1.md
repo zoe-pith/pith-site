@@ -26,7 +26,7 @@ This intuitive way of cooking can be unsettling compared to a temperature knob a
 
 Here are a few of my favorite ways to use the broiler.
 
-### Toast bread (and elevate it)
+### **Toast bread (and elevate it)**
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-toast-FT-BLOG1019.jpg)
 
