@@ -3,6 +3,7 @@ icon: "/images/broiler_cover.jpg"
 title: Your Broiler Misses You
 tags:
 - techniques
+important: true
 
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/broiling-tips-technique-supper-club)_._
