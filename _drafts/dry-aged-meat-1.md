@@ -1,77 +1,62 @@
 ---
-icon: "/images/dried_meat_cover.jpg"
-title: Dry Aged Meat
+icon: "/images/broiler_cover.jpg"
+title: Your Broiler Misses You
 tags:
 - techniques
 
 ---
-_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/dry-aging-meats-how-supper-club)_._
+_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/broiling-tips-technique-supper-club)_._
 
-#### You Should Be Dry-Aging Your Meats at Home — Here's How
+#### The Best Cooking Tool Is Already in Your Kitchen and You're Not Using It Enough
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-figs-dessert-FT-BLOG1019.jpg)
 
-Allow me to guess that you do not currently have a 900°F commercial broiler or a six-foot charcoal grill sitting at home. Still, I believe in your ability to create tender, steakhouse-quality proteins with caramelized crusts.
+Take a peek inside your oven, and you’ll find a hidden gem: the broiler, easily the most underrated appliance in any kitchen.
 
-The trick? Dry-aging, which improves flavor and texture while making cuts easier to cook simply and beautifully.
+While ovens maintain an evenly distributed and precise temperature, the broiler activates an intense direct flame that beats down on ingredients from above. It’s brute, analog, and gloriously visceral, and it's my secret weapon for quick and elegant appetizers, desserts, and proteins.
 
-Dry-aged meat at a restaurant or grocery store can cost twice as much as its younger counterparts, but you can do it at home, better—and for free.
+I rely on my broiler to toast, roast, grill, char, melt, crisp, and warm—often all at the same time, with no preheating required, and with no sticky stovetop to wipe down when I’m finished.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiler-vegetables-FT-BLOG1019.jpg)
 
-### Dry-aging makes meat taste better
+To ensure consistent cooking, I either align my food directly beneath the broiler flame or rotate it frequently. If I see something about to burn, I simply shuffle it to a rack further away from the flame. Want to keep a side warm while the main course is sizzling inches away from the broiler’s flame? Just let it hang out at the very bottom of the oven where the heat is gentle.
 
-Exposing meat to cold, circulating air for an extended period of time gently dehydrates it, concentrating flavor and increasing the ratio of fat to muscle. This process also tenderizes, allowing naturally occurring enzymes to break down the meat's carbohydrates, proteins, and fats into super-flavorful sugars and amino acids like glutamate (e.g. natural MSG).
+This intuitive way of cooking can be unsettling compared to a temperature knob and a timer—but with practice, it yields far more delicious and exciting results, while making hosting a breeze.
 
-And have you ever pan-seared a steak only to have it come out grey and bland? That's where dry-aging can help you: the dry and flavorful surfaces of aged proteins are extremely easy to caramelize in a pan.
+Here are a few of my favorite ways to use the broiler.
 
-### The required tools are inexpensive and versatile
+### Toast bread (and elevate it)
 
-All you need to dry-age at home is your **refrigerator**, a [**wire rack**](https://amzn.to/2L9jZK2 "(opens new window)"), and a [**sheet pan**](https://amzn.to/33Wo3Gl "(opens new window)").
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-toast-FT-BLOG1019.jpg)
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
+Get rid of that crusty toaster oven taking up your valuable counter space: the broiler makes spectacular toast in about two minutes. Brush a little butter or olive oil on slices of bread, slide them about six inches below the flame, and don’t get distracted. It will go from perfectly golden to depressingly carbonized in less than a minute.
 
-Refrigerators have an air circulation system to ensure freshness. By aging meat on an elevated wire rack, uncovered and near your refrigerator’s fan, air will circulate all around the meat, keeping it dry and cool. The sheet pan just goes underneath to catch drippings and keep your fridge clean.
+Broiled bread may be stupidly simple, but it really tastes better than its sober toaster-oven sibling. Plus, I find it invaluable for turning soup into a filling meal, making use of a stray overripe avocado, and sopping up the remains of a great stew or pasta.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
+Even better, add a slice, chunk, or crumble of cheese to your toast and put it back under the broiler—you’ll have the bubbling open-faced grilled cheese of your dreams in two more minutes. I think fatty and funky varieties work the best, so I often opt for washed-rind taleggio (basically my favorite cheese, period) or blue cheese.
 
-This setup minimizes moisture and heat, safeguarding against rot.
+### Char vegetables for easy side dishes
 
-### Add salt to significantly increase the dry-aging effect
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiler-vegetables-FT-BLOG1019-2.jpg)
 
-Salt is the only seasoning that consistently and effectively penetrates through food, adding flavor, tenderizing, and drawing out excessive moisture. I always sprinkle sea salt generously on meat before aging it. Looking for even more flavor? Brush salty and savory fish sauce on its surface.
+Broiling is perfect for making smoky, jammy, and juicy vegetables. I season whole peppers, eggplants, or tomatoes with olive oil and salt, then broil them for ten to fifteen minutes, flipping once. Let them cool slightly and easily rub off any overburnt bits with your thumb; the soft and flavorful flesh will remain intact.
 
-For an even more intense flavor, I brush meat before aging with a salty and umami-laden wash of soy sauce, anchovy paste, crushed black peppercorn, and grated garlic. The result is aged meat with a mouthwatering aroma redolent of jerky.
+This technique is key in executing complex sauces like romesco or dips like baba ganouj. But to be honest, I prefer to simply serve these blistered vegetables as a delicious side dish, tossed quickly with olive oil, vinegar, salt, and chili flakes.
 
-**Note**: It’s important to avoid any oil in your seasoning, as fat creates a barrier preventing moisture from escaping as salt penetrates inwards.
+And when I’m roasting root vegetables like potatoes, sunchokes, squash, a quick spin under the broiler before serving guarantees a super-crunchy exterior.
 
-### Dry-aging elevates many proteins and inexpensive or unusual cuts
+### Render the crispiest skin
 
-Rib-eyes, porterhouses, or strip steaks will be delicious after a week or so in the fridge, but I also like to experiment with less expensive cuts of beef. Short ribs, for example, are rarely seared and served medium-rare, but I think they are exquisite after aging about five days.
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-fish-FT-BLOG1019.jpg)The broiler’s intense and direct heat makes it easy to consistently serve super crispy proteins without overcooking them.
 
-https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg
-_Insanely marbled dry-aged short rib I made in my refridgerator._
+The trick is to pre-sear your main (steak, salmon filets, duck breasts, etc.) until it’s caramelized and crisp on the outside but essentially raw inside. Then let it sit out at room temperature until mealtime, when five minutes before eating, the broiler’s intensity will re-crisp its exterior while quickly bring its temperature to a perfect medium rare.
 
-Beyond beef, DIY dry-aging works wonders with a variety of proteins. I like to give duck breasts, chicken wings, and racks of lamb a salty, spicy rub and about three days of maturation.
+Slow-cooking works the same way: I’ll braise chicken thighs or lamb ribs well in advance, then crisp them up under the broiler five minutes before eating. More delicate foods like whole fish or shrimp can be cooked entirely under the broiler just ten minutes or so before eating. If you use an elevated rack, hot air will circulate to keep both sides crispy.
 
-Even a whole fish benefits from one to two days of air-drying with a bit of salt rubbed along its exterior. Afterwards, drizzling it with olive oil and roasting it whole on the wire rack in an ultra-hot oven for ten minutes will guarantee a marvelously tender result with a charred and crackly exterior.
+And because the bottom of your oven gets only gently heated by the broiler, you can warm up any pre-made side dishes below while the proteins are crisping up for a perfectly cooked multi-course meal.
 
-### Don’t want to cook? Serve dry-aged meat raw
+### Prepare dessert in minutes
 
-The intense flavor and supple mouthfeel of aged meet makes it great to serve raw. I love serving a few ultra-thin slices of dry-aged beef with olives and salt as a simple and decadent appetizer. For a more filling snack, I’ll pile a few slices atop toasted sourdough or eat them with soft-boiled eggs and delicate lettuces.
+![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-figs-dessert-FT-BLOG1019.jpg)If you, like me, have little patience for complex pastry recipes, simply sprinkle sugar over halved fruits and slide them under the broiler. A lightly crunchy caramel crust develops in two or three minutes while the fruit underneath becomes irresistibly juicy.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
-
-### Cook it like a pro
-
-When you're ready to cook, forget charcoal, sous-vide machines, and blowtorches. You can get an extraordinary sear out of any dry-aged meat on the stovetop because its dehydrated surfaces are extremely easy to caramelize.
-
-My hosting trick is to create this delicious crust well before any guests have arrived. Right before eating, I finish the meat quickly in the oven with no smoke, splatters, or stress.
-
-To do this, heat a pan with a bit of oil or fat (I like to use a bit of cured fat from the dry-aged meat itself) until it’s smoking hot. Then add your meat, cold from the refrigerator, and sear each side for about two minutes, pressing gently down with a spatula or kitchen towel, and moving the cooking meat around in a circle to soak up any rendered fat.
-
-At this point, you should have a succulent steakhouse-quality sear with a raw interior. Set your meat back on the wire rack and sheet pan, on your kitchen counter, and clean up. Later on, five to ten minutes before you’re ready to eat, slide the pan and rack in a 450°F oven and finish cooking to your desired doneness.
-
-You won't need to rest the meat much, because it finished cooking from room temperature. Just slice it and garnish with flaky salt. Mmmmmm.
-
-_Buy two quarter-size sheet pans_ [_on Amazon for $12_](https://amzn.to/33Wo3Gl) _and two elevated wire racks that fit perfectly inside, also_ [_$12 on Amazon._](https://amzn.to/2L9jZK2)
+This trick works well throughout the year with seasonal fruits like nectarines, pears, figs, and grapefruits. Frequently rotate the pan to ensure an even caramelization, and as always with the broiler, keep a watchful eye. With a dollop of softly whipped cream or a scoop of ice cream, this is an entirely impressive dessert that I frequently fall back on when hosting.
