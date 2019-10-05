@@ -8,7 +8,7 @@ important: true
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/broiling-tips-technique-supper-club)_._
 
-#### The Best Cooking Tool Is Already in Your Kitchen and You're Not Using It Enough
+### The Best Cooking Tool Is Already in Your Kitchen and You're Not Using It Enough
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-figs-dessert-FT-BLOG1019.jpg)
 
@@ -26,7 +26,7 @@ This intuitive way of cooking can be unsettling compared to a temperature knob a
 
 Here are a few of my favorite ways to use the broiler.
 
-### **Toast bread (and elevate it)**
+#### **Toast bread (and elevate it)**
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-toast-FT-BLOG1019.jpg)
 
@@ -36,7 +36,7 @@ Broiled bread may be stupidly simple, but it really tastes better than its sober
 
 Even better, add a slice, chunk, or crumble of cheese to your toast and put it back under the broiler—you’ll have the bubbling open-faced grilled cheese of your dreams in two more minutes. I think fatty and funky varieties work the best, so I often opt for washed-rind taleggio (basically my favorite cheese, period) or blue cheese.
 
-### Char vegetables for easy side dishes
+#### Char vegetables for easy side dishes
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiler-vegetables-FT-BLOG1019-2.jpg)
 
@@ -46,7 +46,7 @@ This technique is key in executing complex sauces like romesco or dips like baba
 
 And when I’m roasting root vegetables like potatoes, sunchokes, squash, a quick spin under the broiler before serving guarantees a super-crunchy exterior.
 
-### Render the crispiest skin
+#### Render the crispiest skin
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-fish-FT-BLOG1019.jpg)The broiler’s intense and direct heat makes it easy to consistently serve super crispy proteins without overcooking them.
 
@@ -56,7 +56,7 @@ Slow-cooking works the same way: I’ll braise chicken thighs or lamb ribs well 
 
 And because the bottom of your oven gets only gently heated by the broiler, you can warm up any pre-made side dishes below while the proteins are crisping up for a perfectly cooked multi-course meal.
 
-### Prepare dessert in minutes
+#### Prepare dessert in minutes
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1570133065/jonah-reider-broiled-figs-dessert-FT-BLOG1019.jpg)If you, like me, have little patience for complex pastry recipes, simply sprinkle sugar over halved fruits and slide them under the broiler. A lightly crunchy caramel crust develops in two or three minutes while the fruit underneath becomes irresistibly juicy.
 
