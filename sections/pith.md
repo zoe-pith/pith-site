@@ -13,9 +13,9 @@ Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner f
 
 Colorful radishes with labne <span class="menu-delim"> /</span> Cherry tomatoes and husk cherries <span class="menu-delim"> /</span> Smoked trout and shallots on buttered toast <span class="menu-delim"> /</span> 
 
-Acorn squash soup with juniper croutons,  <span class="menu-delim"> /</span> Raw kale with pine nuts and grated mimolette <span class="menu-delim"> /</span> Purple endives with oranges and fennel
+Acorn squash soup with juniper croutons <span class="menu-delim"> /</span> Raw kale with pine nuts and grated mimolette <span class="menu-delim"> /</span> Purple endives with oranges and fennel
 
-Roasted dry-aged beef and mushrooms <span class="menu-delim"> /</span> Charred vinegary peppers <span class="menu-delim"> /</span> Turnips roasted with sage and bread crumbs <span class="menu-delim"> /</span>
+Roasted dry-aged beef and mushrooms <span class="menu-delim"> /</span> Charred vinegary peppers and mashed parsnips <span class="menu-delim"> /</span> Turnips roasted with sage and bread crumbs <span class="menu-delim"> /</span>
 
 Concord grape sorbet and honey gelato <span class="menu-delim"> /</span> Crispy almond cookies
 
