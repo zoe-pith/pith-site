@@ -3,28 +3,21 @@ layout: default
 title: Pith Supper Club
 permalink: "/pith"
 weight: "2"
----
 
+---
 Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
 
 ![](/images/pith-illustrations.png)
 
 ### Current Menu
 
-Vegetables with aioli <span class="menu-delim"> /</span>
-Chard and chèvre pastry <span class="menu-delim"> /</span>
+Colorful radishes with labne <span class="menu-delim"> /</span> Cherry tomatoes and husk cherries <span class="menu-delim"> /</span> Smoked trout and shallots on buttered toast <span class="menu-delim"> /</span> 
 
-Spicy melon and mint gazpacho <span class="menu-delim"> /</span>
-Kohlrabi with lemon and shaved parmesan <span class="menu-delim"> /</span>
-Beets with parsley and pistachio <span class="menu-delim"> /</span>
+Acorn squash soup with juniper croutons,  <span class="menu-delim"> /</span> Raw kale with pine nuts and grated mimolette <span class="menu-delim"> /</span> Purple endives with oranges and fennel
 
-Crispy-skin salmon <span class="menu-delim"> /</span>
-Charred vinegary peppers <span class="menu-delim"> /</span>
-Tomato and toast salad <span class="menu-delim"> /</span>
-Yogurt with herbs
+Roasted dry-aged beef and mushrooms <span class="menu-delim"> /</span> Charred vinegary peppers <span class="menu-delim"> /</span> Turnips roasted with sage and bread crumbs <span class="menu-delim"> /</span>
 
-Pluot sorbet and honey gelato <span class="menu-delim"> /</span>
-Almond cookies
+Concord grape sorbet and honey gelato <span class="menu-delim"> /</span> Crispy almond cookies
 
 ### Reservations
 
