@@ -1,6 +1,6 @@
 ---
 icon: "/images/napkin-cover.jpg"
-title: Your Broiler Misses You
+title: Linen Napkins
 tags:
 - tools
 important: true
