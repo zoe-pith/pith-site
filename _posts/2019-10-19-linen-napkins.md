@@ -8,7 +8,7 @@ important: true
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/napkin-linen-upgrade-tips-supper-club)_._
 
-### It’s Time to Upgrade Your Napkins
+## It’s Time to Upgrade Your Napkins
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/jonah-reider-cloth-napkins-ft-blog1019.jpg)
 
@@ -18,7 +18,7 @@ Personally, I’m a sucker for nice music, a solid set of silverware, and lively
 
 But whether I’m polishing off leftovers alone or serving a big dinner to plenty of guests, I’ve found that nice linen napkins elevate meals with very minimal effort.
 
-### Fancy napkins make your food taste fancy
+#### Fancy napkins make your food taste fancy
 
 There’s a broad body of research showing that environmental factors like music, lighting, and table setting impact our perception of taste. A recent study found that while about half of us always use paper napkins at home, practically everybody thinks that food tastes better when it’s eaten with cloth napkins.
 
