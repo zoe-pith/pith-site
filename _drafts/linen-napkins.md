@@ -12,9 +12,9 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/jonah-reider-cloth-napkins-ft-blog1019.jpg)
 
-You don’t need to be a great cook to be a great host; many of the things that make a meal lovely have little to do with the food itself.
+You don’t need to be a great cook to be a great host: many of the things that make a meal lovely have little to do with the food itself.
 
-Personally, I’m a sucker for nice music, a solid set of silverware, and lively conversation—for special occasions, maybe a flickering candle or two.
+Personally, I’m a sucker for nice music, a solid set of silverware, and lively conversation — for special occasions, maybe a flickering candle or two.
 
 But whether I’m polishing off leftovers alone or serving a big dinner to plenty of guests, I’ve found that nice linen napkins elevate meals with very minimal effort.
 
