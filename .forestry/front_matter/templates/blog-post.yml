@@ -21,8 +21,8 @@ fields:
   type: boolean
   label: Feature this post
 pages:
-- _posts/crêpe.md
-- _posts/Habanero Carrot Puree.md
-- _posts/table-essentials.md
-- _posts/diy-perfect-fish-filets.md
 - _posts/napkins.md
+- _posts/crêpe.md
+- _posts/diy-perfect-fish-filets.md
+- _posts/table-essentials.md
+- _posts/Habanero Carrot Puree.md
