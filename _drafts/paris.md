@@ -8,19 +8,11 @@ tags:
 ---
 ![](http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg)
 
-Parisians are snobby and rude with the best bar and cafe culture in the world. If you can learn to tolerate — no, embrace — the social roughness that turns many people off from Paris, I promise you'll find an immensely rewarding and exciting food city. 
+Prado Restaurante (well priced excellent new Portuguese cuisine, superb wine); Sol e Pesca for chill snack or lunch or souvenirs if you like amazing canned fish; Taberna dos Mercadores for classic cuisine (tiny clams, salt baked fish, crispy octopus) really lovely but you'll likely have to put your name down and walk around while you wait...there's a lot of super heavy saucy food that I honestly didn't really like that much but finding the lighter farmer's market vibe stuff is so worth it
 
-If you're into the sort of nouveau fancy dining of small plates of seasonal fare, I think there's no better place than Paris. Young chefs form around the world. And in the realm of home cooking, Paris is home to dozens of excellent farmer's markets, often coexisting with pretty great _brocantes_ where you can 
+#### 
 
-International French
-
-Clown Bar
-
-Au Passage
-
-#### Cave a Vins
-
-Many of the best restaurants — with insufferable waiting times and curt hostesses — have more casual wine caves right next door. Often, these spots 
+Many of the best restaurants — with insufferable waiting times and curt hostesses — have more casual wine caves right next door. Often, these spots
 
 #### Grilling
 
