@@ -14,13 +14,13 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
 
-Throughout autumn, while everyone is busy ogling [pumpkins](https://www.foodandwine.com/lifestyle/pumpkin-varieties-baking-cooking), I’m stockpiling [hot peppers](https://www.foodandwine.com/fwx/ghost-pepper) of all colors and sizes. Beyond their addictive sting of heat, fresh chilies offer an intoxicating array of vegetal, bright, and fruity aromas that you just can’t find in a shaker of cayenne powder.
+Throughout autumn, while everyone is busy ogling pumpkins, I’m stockpiling hot peppers of all colors and sizes. Beyond their addictive sting of heat, fresh chilies offer an intoxicating array of vegetal, bright, and fruity aromas that you just can’t find in a shaker of cayenne powder.
 
 And what a bang for your buck: at the market this week, three overflowing cups of hot peppers cost as much as three apples.
 
 As a frequent host, I rely on distinctive condiments to riff on dishes that I’m already comfortable cooking. Quickly infusing the complex flavors of hot peppers into olive oil, butter, vinegar, or citrus juice, I’ve developed potent all-in-one seasonings that never go bad.
 
-![](https://giphy.com/gifs/FoodAndWine-spicy-peppers-hot-Ypq2XP5CZHAinlf8EZ)
+![](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/200w_d.gif)
 
 To round out flavor, I always add salt to my concoctions, and occasionally some thinly sliced onion or garlic. If I’m worried about an overpowering spiciness, I’ll first remove the chilies’ intense seeds and membranes, then soak them in cold water for a few minutes.
 
