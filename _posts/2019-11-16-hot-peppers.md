@@ -60,4 +60,4 @@ Regardless, after about ten minutes of simmering, I let the infused mixture cool
 
 For a thicker and sweeter condiment, try adding some roughly chopped carrots in with the peppers, fat, and salt. Cook covered, at low heat, until the carrots have softened. Then mush it up into an extraordinary paste using a mortar and pestle, an immersion blender, or even a fork.
 
-So in short, make hot pepper season last all year long: fill your fridge with preservations of any fresh chilies you can get your hands on. 
+So in short, make hot pepper season last all year long: fill your fridge with preservations of any fresh chilies you can get your hands on.
