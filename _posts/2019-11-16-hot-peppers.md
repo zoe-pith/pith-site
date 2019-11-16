@@ -20,7 +20,7 @@ And what a bang for your buck: at the market this week, three overflowing cups o
 
 As a frequent host, I rely on distinctive condiments to riff on dishes that I’m already comfortable cooking. Quickly infusing the complex flavors of hot peppers into olive oil, butter, vinegar, or citrus juice, I’ve developed potent all-in-one seasonings that never go bad.
 
-![](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/200w_d.gif)
+![](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/giphy.gif)
 
 To round out flavor, I always add salt to my concoctions, and occasionally some thinly sliced onion or garlic. If I’m worried about an overpowering spiciness, I’ll first remove the chilies’ intense seeds and membranes, then soak them in cold water for a few minutes.
 
@@ -40,7 +40,7 @@ For spicier peppers like wrinkled habaneros or slender thai chiles, I rely more 
 
 This elixir is great to serve tableside (a superior homemade Tabasco) or to integrate into favorite recipes. Either way, nothing so easily makes a simple dish the star of a dinner party.
 
-When I get my hands on super-fresh fish, for example, I’ll serve it raw in a pool of chili-infused citrus juice and quality olive oil. 
+When I get my hands on super-fresh fish, for example, I’ll serve it raw in a pool of chili-infused citrus juice and quality olive oil.
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
 
