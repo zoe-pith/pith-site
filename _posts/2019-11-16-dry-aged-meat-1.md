@@ -10,7 +10,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 #### Spice Up Any Meal
 
-> Preserve peak-season peppers in fat or acid to upgrade everyday cooking all year long.
+#### Preserve peak-season peppers in fat or acid to upgrade everyday cooking all year long.
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
 
