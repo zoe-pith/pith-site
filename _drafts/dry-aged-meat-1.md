@@ -1,77 +1,63 @@
 ---
-icon: "/images/dried_meat_cover.jpg"
-title: Dry Aged Meat
+icon: "/images/pepper_cover.jpg"
+title: Hot Peppers
 tags:
 - techniques
+important: true
 
 ---
-_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/dry-aging-meats-how-supper-club)_._
+_Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### You Should Be Dry-Aging Your Meats at Home — Here's How
+#### Spice Up Any Meal
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
+> Preserve peak-season peppers in fat or acid to upgrade everyday cooking all year long.
 
-Allow me to guess that you do not currently have a 900°F commercial broiler or a six-foot charcoal grill sitting at home. Still, I believe in your ability to create tender, steakhouse-quality proteins with caramelized crusts.
+![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
 
-The trick? Dry-aging, which improves flavor and texture while making cuts easier to cook simply and beautifully.
+Throughout autumn, while everyone is busy ogling [pumpkins](https://www.foodandwine.com/lifestyle/pumpkin-varieties-baking-cooking), I’m stockpiling [hot peppers](https://www.foodandwine.com/fwx/ghost-pepper) of all colors and sizes. Beyond their addictive sting of heat, fresh chilies offer an intoxicating array of vegetal, bright, and fruity aromas that you just can’t find in a shaker of cayenne powder.
 
-Dry-aged meat at a restaurant or grocery store can cost twice as much as its younger counterparts, but you can do it at home, better—and for free.
+And what a bang for your buck: at the market this week, three overflowing cups of hot peppers cost as much as three apples.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
+As a frequent host, I rely on distinctive condiments to riff on dishes that I’m already comfortable cooking. Quickly infusing the complex flavors of hot peppers into olive oil, butter, vinegar, or citrus juice, I’ve developed potent all-in-one seasonings that never go bad.
 
-### Dry-aging makes meat taste better
+![](https://giphy.com/gifs/FoodAndWine-spicy-peppers-hot-Ypq2XP5CZHAinlf8EZ)
 
-Exposing meat to cold, circulating air for an extended period of time gently dehydrates it, concentrating flavor and increasing the ratio of fat to muscle. This process also tenderizes, allowing naturally occurring enzymes to break down the meat's carbohydrates, proteins, and fats into super-flavorful sugars and amino acids like glutamate (e.g. natural MSG).
+To round out flavor, I always add salt to my concoctions, and occasionally some thinly sliced onion or garlic. If I’m worried about an overpowering spiciness, I’ll first remove the chilies’ intense seeds and membranes, then soak them in cold water for a few minutes.
 
-And have you ever pan-seared a steak only to have it come out grey and bland? That's where dry-aging can help you: the dry and flavorful surfaces of aged proteins are extremely easy to caramelize in a pan.
+But whether with acid or fat, chili preserves lock in peak-season flavor and lend brightness and zing to whatever I’m cooking. A few containers of these hot pepper infusions —no recipe required— will effortlessly upgrade tired basics and inject energy into your cooking and hosting habits.
 
-### The required tools are inexpensive and versatile
+### Macerate in lemon or vinegar
 
-All you need to dry-age at home is your **refrigerator**, a [**wire rack**](https://amzn.to/2L9jZK2 "(opens new window)"), and a [**sheet pan**](https://amzn.to/33Wo3Gl "(opens new window)").
+Acid is criminally underused in home kitchens; it brightens and energizes practically any dish. But when infused with fresh chilies, a spoonful of citrus juice or vinegar becomes one of my favorite ways to blast flavor into anything I’m serving.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
+I chop fresh chilies and macerate them in fresh lemon juice or a light vinegar with a fistful of salt. (White vinegar works well, but champagne or apple cider vinegars are even better.) Optionally, a handful of chopped onions boosts savory notes, and slices of citrus can double up zesty aromas.
 
-Refrigerators have an air circulation system to ensure freshness. By aging meat on an elevated wire rack, uncovered and near your refrigerator’s fan, air will circulate all around the meat, keeping it dry and cool. The sheet pan just goes underneath to catch drippings and keep your fridge clean.
+This technique turns thinly sliced mild peppers like jalapeños or poblanos into excellent instant pickles. Their vegetal crunch and gentle bite make a perfect garnish to heartier main courses as well as sandwiches and salads.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
+![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-4.jpg)
 
-This setup minimizes moisture and heat, safeguarding against rot.
+For spicier peppers like wrinkled habaneros or slender thai chiles, I rely more on the resulting spicy brine. Tiny and fiery chilies, sliced in half and left to soak in salty lemon juice, yield a liquid that packs in heat with a rush of fruitiness.
 
-### Add salt to significantly increase the dry-aging effect
+This elixir is great to serve tableside (a superior homemade Tabasco) or to integrate into favorite recipes. Either way, nothing so easily makes a simple dish the star of a dinner party.
 
-Salt is the only seasoning that consistently and effectively penetrates through food, adding flavor, tenderizing, and drawing out excessive moisture. I always sprinkle sea salt generously on meat before aging it. Looking for even more flavor? Brush salty and savory fish sauce on its surface.
+When I get my hands on super-fresh fish, for example, I’ll serve it raw in a pool of chili-infused citrus juice and quality olive oil. 
 
-For an even more intense flavor, I brush meat before aging with a salty and umami-laden wash of soy sauce, anchovy paste, crushed black peppercorn, and grated garlic. The result is aged meat with a mouthwatering aroma redolent of jerky.
+![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
 
-**Note**: It’s important to avoid any oil in your seasoning, as fat creates a barrier preventing moisture from escaping as salt penetrates inwards.
+This same dressing works beautifully over sliced ripe tomatoes, or mixed into a large chopped salad.
 
-### Dry-aging elevates many proteins and inexpensive or unusual cuts
+Chili-infused acids also cut through rich stews, add a burst of flavor to bland poached fish, and perk up an otherwise quotidian roast chicken. And with a splash of chili vinegar mixed in, thick yogurt becomes a zippy condiment of its own, perfect for soup-swirling and bread-dunking.
 
-Rib-eyes, porterhouses, or strip steaks will be delicious after a week or so in the fridge, but I also like to experiment with less expensive cuts of beef. Short ribs, for example, are rarely seared and served medium-rare, but I think they are exquisite after aging about five days.
+### How to preserve them in fat
 
-https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg
-_Insanely marbled dry-aged short rib I made in my refridgerator._
+Fats also do an excellent job at absorbing and preserving complex flavor from fresh hot peppers. I gently simmer olive oil or butter with salt, garlic cloves, and roughly chopped deseeded chilies.
 
-Beyond beef, DIY dry-aging works wonders with a variety of proteins. I like to give duck breasts, chicken wings, and racks of lamb a salty, spicy rub and about three days of maturation.
+Feel free to add spices—toasted cumin and coriander; crushed ginger and garlic, or fennel seed and citrus zest—but in general, I like to keep my spicy preserves relatively elemental, and thus, versatile.
 
-Even a whole fish benefits from one to two days of air-drying with a bit of salt rubbed along its exterior. Afterwards, drizzling it with olive oil and roasting it whole on the wire rack in an ultra-hot oven for ten minutes will guarantee a marvelously tender result with a charred and crackly exterior.
+![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-5.jpg)
 
-### Don’t want to cook? Serve dry-aged meat raw
+Regardless, after about ten minutes of simmering, I let the infused mixture cool and reserve it in my fridge. A pat of chili butter in the pan upgrades everything from grilled cheese sandwiches to seared scallops to fried eggs. Chili-infused oil is perfect for drizzling over pasta, stews, and soups.
 
-The intense flavor and supple mouthfeel of aged meet makes it great to serve raw. I love serving a few ultra-thin slices of dry-aged beef with olives and salt as a simple and decadent appetizer. For a more filling snack, I’ll pile a few slices atop toasted sourdough or eat them with soft-boiled eggs and delicate lettuces.
+For a thicker and sweeter condiment, try adding some roughly chopped carrots in with the peppers, fat, and salt. Cook covered, at low heat, until the carrots have softened. Then mush it up into an extraordinary paste using a mortar and pestle, an immersion blender, or even a fork.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
-
-### Cook it like a pro
-
-When you're ready to cook, forget charcoal, sous-vide machines, and blowtorches. You can get an extraordinary sear out of any dry-aged meat on the stovetop because its dehydrated surfaces are extremely easy to caramelize.
-
-My hosting trick is to create this delicious crust well before any guests have arrived. Right before eating, I finish the meat quickly in the oven with no smoke, splatters, or stress.
-
-To do this, heat a pan with a bit of oil or fat (I like to use a bit of cured fat from the dry-aged meat itself) until it’s smoking hot. Then add your meat, cold from the refrigerator, and sear each side for about two minutes, pressing gently down with a spatula or kitchen towel, and moving the cooking meat around in a circle to soak up any rendered fat.
-
-At this point, you should have a succulent steakhouse-quality sear with a raw interior. Set your meat back on the wire rack and sheet pan, on your kitchen counter, and clean up. Later on, five to ten minutes before you’re ready to eat, slide the pan and rack in a 450°F oven and finish cooking to your desired doneness.
-
-You won't need to rest the meat much, because it finished cooking from room temperature. Just slice it and garnish with flaky salt. Mmmmmm.
-
-_Buy two quarter-size sheet pans_ [_on Amazon for $12_](https://amzn.to/33Wo3Gl) _and two elevated wire racks that fit perfectly inside, also_ [_$12 on Amazon._](https://amzn.to/2L9jZK2)
+So in short, make hot pepper season last all year long: fill your fridge with preservations of any fresh chilies you can get your hands on. 
