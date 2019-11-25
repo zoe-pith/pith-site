@@ -19,8 +19,6 @@ Roasted dry-aged beef and mushrooms <span class="menu-delim"> /</span> Charred v
 
 Concord grape sorbet and honey gelato <span class="menu-delim"> /</span> Crispy almond cookies
 
-_Sommelier David Hoffman_
-
 ### Reservations
 
 Tickets are all inclusive of food, wine, and hospitality. BYOB encouraged if shared communally. Tickets are non-refundable but fully transferable, and limited to a maximum of two per order. Menu is entirely subject to change and no dietary restrictions can be accommodated. [Inquiries](mailto:inquiries@pith.space) are welcome regarding special events or partnerships.
