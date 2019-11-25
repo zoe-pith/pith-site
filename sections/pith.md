@@ -11,7 +11,7 @@ Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner f
 
 ### Current Menu
 
-Sourdough bread and salted butter <span class="menu-delim"> /</span> 
+Sourdough bread and salted butter
 
 Raw scallops with citrus and chilies <span class="menu-delim"> /</span> Raw tuna with preserved tomatoes and chilies <span class="menu-delim"> /</span> Raw mackerel with radishes and lemon
 
