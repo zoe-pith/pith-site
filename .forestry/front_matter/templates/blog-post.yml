@@ -21,7 +21,7 @@ fields:
   type: boolean
   label: Feature this post
 pages:
+- _posts/2020-01-02-diy-perfect-fish-filets.md
 - _posts/Habanero Carrot Puree.md
 - _posts/crêpe.md
-- _posts/diy-perfect-fish-filets.md
 - _posts/table-essentials.md
