@@ -2,7 +2,7 @@
 tags:
 - tools
 title: Linen Napkins
-icon: "/images/napkins-cover.jpg"
+icon: "/images/napkin-cover.jpg"
 important: false
 
 ---
