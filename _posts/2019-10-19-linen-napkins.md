@@ -1,5 +1,5 @@
 ---
-icon: "/images/napkin-cover.jpg"
+icon: "/images/fish-cover.jpg"
 title: Linen Napkins
 tags:
 - tools
@@ -8,56 +8,60 @@ important: true
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/napkin-linen-upgrade-tips-supper-club)_._
 
-## It’s Time to Upgrade Your Napkins
+## My Foolproof Trick for Perfect Fish Filets
 
-![](https://cdn-image.foodandwine.com/sites/default/files/jonah-reider-cloth-napkins-ft-blog1019.jpg)
+![](https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1575398843/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-5.jpg?itok=xFuuT9KX)
 
-You don’t need to be a great cook to be a great host: many of the things that make a meal lovely have little to do with the food itself.
+There are few things more impressive than a perfectly cooked piece of fish: crackly, salty skin giving way to large flakes of tender flesh. While it may seem like a task for a chef with an industrial ventilation hood and culinary school education, prepping the idyllic fish fillet is just as easily done in a home kitchen.
 
-Personally, I’m a sucker for nice music, a solid set of silverware, and lively conversation — for special occasions, maybe a flickering candle or two.
+I’ve developed a foolproof method that's perfect for dinner parties, as most of the prep can be done far in advance. Marinating your fish _after_ searing it may seem counterintuitive, but it ensures the crispiest, most flavorful broiled result.
 
-But whether I’m polishing off leftovers alone or serving a big dinner to plenty of guests, I’ve found that nice linen napkins elevate meals with very minimal effort.
+Here's how it works: I begin by quickly searing the skin-side of quality fish well before mealtime. Then, I put the uncooked side of each filet in a simple, salty marinade—and when it’s time to eat, I use my oven’s broiler to re-crisp the skin and gently cook the fish in less than five minutes.
 
-#### Fancy napkins make your food taste fancy
+![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-3.jpg)This leaves me plenty of time to set the table, clean up the kitchen, enjoy a drink, or chat with guests if I'm hosting—and I never have to worry about a dry or soggy result. As for how to serve it? With a squeeze of lemon, and only a dash of smug satisfaction at how simply it came together.
 
-There’s a broad body of research showing that environmental factors like music, lighting, and table setting impact our perception of taste. A recent study found that while about half of us always use paper napkins at home, practically everybody thinks that food tastes better when it’s eaten with cloth napkins.
+#### First things first: choose the right fish
 
-When I host guests, they're always impressed by the linen napkins simply curled up at each place setting on my table. To unfold a napkin is an unfussy but elegant gesture to begin a meal. And while eating, I’ve found that cloth does a better job of keeping your hands clean, your table beautiful, and your cleanup quick.
+Simple, focused cooking always requires top quality ingredients. Avoid frozen or previously frozen fish; it can get watery and sinewy during cooking. Super-fresh fish always has an appetizing sheen and smells faintly oceanic without any cloying fishiness.
+
+Salmon is an obvious choice—it’s affordable and fatty, reliably silky when done properly—but this technique will work well with any thick, skin-on fish fillet. Whatever the type of fish, I like to cut it into single serving portions before cooking. I cut into the fish flesh-side facing up; fish skin is much easier to slice through when it’s right against the cutting board.
 
 But if you’re unconvinced by the placebo effect napkins have on the overall quality of a meal, I’d still recommend the upgrade: my beloved cloth napkins are sustainable, economical, and endlessly reusable.
 
-#### Nice napkins save money (and the environment)
+#### Sear it ahead of time!
 
-Stop using precious cabinet space to hoard crumpled take-out napkins! Paper napkins are cheap, but I can easily destroy three or four of them in a single meal. Plus, once they’ve soaked up sauces and drippings, they’re nearly impossible to recycle.
+Crispy fish skin is one of life’s finest pleasures, but it can be stressful, smoky, and splattery to execute in the midst of a dinner party.
 
-Cloth napkins are a small investment that will last many years. At less than $10 apiece, the ones I use every day have already saved me a substantial amount of money.
+My trick is to sear fish fillets on a very hot pan well before mealtime. I let my cast-iron heat up over high heat for a few minutes before adding a generous sprinkle of salt and just a drop of vegetable oil, which doesn’t blacken and burn like butter or olive oil.
 
-#### Pick linen in a few colors
+Then, I quickly lay each fillet down with its skin touching the pan, using a spatula to gently press down and ensure an even sear. After a minute or so, each fish fillet will have a beautifully browned and crisp skin side, with the flesh still largely raw. Remove the fish immediately from the pan, keeping the flesh of the partially seared fillet as uncooked as possible.
 
-Linen, derived from flax, is far more sustainable and durable than polyester or cotton. I think it’s more beautiful, too.
+![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219.jpg)
 
-My simple, square napkins are cut from stone-washed linen and add a luxurious but understated touch to the table. They can withstand repeated use without fraying, and when I don’t have time to iron, their wrinkles are actually quite charming.
+#### _Then_ marinate
 
-I like using warm cream or beige napkins, but for messier meals, I also have a darker charcoal colored napkins that hide stains quite well. Whatever you pick, I’d recommend avoiding linens with embroidery (easy to fray) or intricate patterns (you’ll regret them).
+Next, I make a flavorful marinade on a sheet pan for the pre-seared fillets to rest in. **Always stick to something simple and salty: olive oil, salt, and smashed garlic is a surefire bet, but I also like to use miso, soy sauce, or fish sauce**. A sprinkling of pepper or chilies is never a bad idea, either.
 
-#### Fold them simply
+It’s difficult for flavor to penetrate through skin, so I arrange the fillets with their flesh against the pan and marinade. If you’re cooking within an hour, just leave your marinating pre-seared fish out on the countertop. Otherwise, pop them in the fridge where they can sit, sopping up flavor, for up to twelve hours.
 
-Watching [napkin folding videos](https://www.youtube.com/watch?v=r7_YTnqP5uk "(opens new window)") online is a perfectly acceptable waste of time, but avoid the impulse to craft an origami flower out of your own nice napkins. I simply fold mine in thirds to hide seams and edges.
+Anyways, the messy part is over: this is when I pour myself a big glass of wine, set the table, clean up the kitchen, or focus on other dishes.
 
-![](https://media.giphy.com/media/eHGCIK4HqTAP1xYvMr/giphy.gif)
+#### Finish under the broiler
 
-Then I set them either to the left of the plate, underneath flatware, or I roll them into circular napkin holders:
+Under the broiler’s intense and direct flame, a sheet pan of marinated and pre-seared fish finishes cooking in only a few minutes: each fillet will come to a perfect medium-rare temperature while its skin re-crisps perfectly.
 
-![](https://media.giphy.com/media/SXlYCO2JAme0bajuwz/giphy.gif)
+If the pre-seared fish was resting in the fridge, take it out about 30 minutes before cooking. Room temperature fish cooks more quickly and evenly than cold fish.
 
-Besides making your table look luxe, unrolling cloth napkins make the beginning of a meal feel ceremonious and convivial.
+![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-2.jpg)Make sure that the fish skin is about six inches away from the broiler’s flame—any closer and the skin will burn in the time it takes to finish cooking. Keep individual fillets squished together, so that hot air can not overcook or dry out their sides.
 
-#### Toss them in the hamper and reuse happily
+The fish should be perfectly finished in four or five minutes, so watch it carefully. If it’s undercooked to anyone’s liking, no stress—just put it back in the broiler for another minute or two. Voilà—succulent, medium rare fish with deeply browned and crispy skin.
 
-After a dinner party or a few solo meals, I toss used linens in my laundry hamper and wash them with my clothing at the end of the week. Stains come out easily, and with time, the fabric actually gets softer.
+#### Accessorize
 
-Ironing is worth the effort if you’re looking to return your linens to their super smooth, restaurant-quality origins. But when I don’t have time (or for daily use), rumpled linen has a lovely casual look that still adds elegance to any dining experience.
+A perfect piece of fish needs nothing more than a squeeze of lemon. That being said, it’s easy to prepare simple vegetable sides that finish cooking below the fish.
 
-However you use them, though, I guarantee that investing in a nice set of linen napkins will make you just a bit more confident and calm about hosting impressive meals — and isn’t that the real joy of cooking?
+![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-4.jpg)
 
-_Buy the set of elegant, minimal linen napkins that I use every day on_ [_Zara Home_](https://www.zarahome.com/us/washed-linen-napkin-(pack-of-2)-c0p301252265.html?colorId=507&srch=true "(opens new window)") _for $17._
+Small potatoes, cherry tomatoes, mushrooms, or cruciferous greens roast up easily with olive oil and salt in a hot oven. Even easier, finished fish fillets go great with a pile of kimchi, a slaw of thinly sliced celery and herbs, or wrapped in crispy lettuce cups.
+
+But don’t stress about the plating — just try not to flex too hard when you calmly deliver shimmering, golden brown, ultra crispy, perfectly tender fish to the dinner table.
