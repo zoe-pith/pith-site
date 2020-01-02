@@ -1,8 +1,9 @@
 ---
 icon: "/images/fish-cover.jpg"
-title: Linen Napkins
+title: Fish Filets
 tags:
-- tools
+- technique
+- recipes
 important: true
 
 ---
