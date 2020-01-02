@@ -39,7 +39,7 @@ Then, I quickly lay each fillet down with its skin touching the pan, using a spa
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219.jpg)
 
-#### _Then_ marinate
+#### Then marinate
 
 Next, I make a flavorful marinade on a sheet pan for the pre-seared fillets to rest in. **Always stick to something simple and salty: olive oil, salt, and smashed garlic is a surefire bet, but I also like to use miso, soy sauce, or fish sauce**. A sprinkling of pepper or chilies is never a bad idea, either.
 
