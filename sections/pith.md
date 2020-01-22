@@ -11,15 +11,15 @@ Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner f
 
 ### Current Menu
 
-Sourdough bread and salted butter
+Sourdough bread, soft salted butter, green olives
 
-Raw scallops with citrus and chilies <span class="menu-delim"> /</span> Raw tuna with preserved tomatoes and chilies <span class="menu-delim"> /</span> Raw mackerel with radishes and lemon
+Raw tuna with dried tomato and chilies <span class="menu-delim"> /</span> Raw scallops with black garlic and seaweed <span class="menu-delim"> /</span> Raw mushrooms with lemon zest and pecorino
 
-Cauliflower soup <span class="menu-delim"> /</span> Kohlrabi with dill <span class="menu-delim"> /</span> Chicories and toasted pecans
+Oranges with crunchy kohlrabi and chipotle <span class="menu-delim"> /</span> Carrots with browned butter and hazelnuts <span class="menu-delim"> /</span> Golden beets with yogurt and croutons
 
-Roasted dry-aged beef and mushrooms <span class="menu-delim"> /</span> White beans with charred peppers and crispy bread <span class="menu-delim"> /</span> Turnips with browned butter, crispy kale, and hazelnuts
+Roasted quail and leeks <span class="menu-delim"> /</span>  preserved lemon gravy <span class="menu-delim"> /</span> chewy barley risotto <span class="menu-delim"> /</span> lemony wild greens
 
-Cranberry tart <span class="menu-delim"> /</span> Vanilla ice cream <span class="menu-delim"> /</span> Cynar & Bourbon
+Warm dark chocolate and white sesame ice cream
 
 ### Reservations
 
