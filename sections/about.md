@@ -3,12 +3,18 @@ layout: default
 title: About
 permalink: "/about"
 weight: "1"
----
 
+---
 Anyone can host, and everyone should.
 ![pith]({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through my cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
+
+### Kitchen Essentials
+
+More than anything, people ask me what stuff they should get for their kitchen. [Here](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") is my list of the basic tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
+
+From containers to knives, from a cutting board to the best vegetable peeler, I've selected the least expensive objects that meet my needs in form _and_ function.
 
 ### Subscribe
 
@@ -17,8 +23,8 @@ Sign up below to receive sporadic notifications about supper club availability a
 <form accept-charset="UTF-8" action="https://tickets.jonahreider.com/pith/supper-club/interested_users#thanks" id="subscribe-form" method="post" target="_blank">
 <input name="utf8" type="hidden" value="✓">
 <input name="authenticity_token" type="hidden" value="jqNrxffRtVFMc3MQfO6akJeXISo8jfPxJNObXzKi6gY=">
-<input placeholder="Name" id="name" name="interested_user[name]" type="text">
-<input placeholder="Email" id="email" name="interested_user[email]" type="email">
+<input placeholder="Name" id="name" name="interested_user\[name\]" type="text">
+<input placeholder="Email" id="email" name="interested_user\[email\]" type="email">
 <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space"> </p>
@@ -47,8 +53,7 @@ Sign up below to receive sporadic notifications about supper club availability a
 </div>
 <a href="#diy" onclick="jumpToPost()">See more…</a>
 {% endif %}
-  
-  
+
 ### Select Press
 
 ★★★ — [Chicago Tribune](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html)  
