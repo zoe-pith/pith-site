@@ -12,7 +12,7 @@ I live in New York City, where I run the Pith Supper Club out of my apartment an
 
 ### Kitchen Essentials
 
-More than anything, people ask me what stuff they should get for their kitchen. [Here](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") is my list of the basic tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
+More than anything, people ask me what stuff they should get for their kitchen. [Here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected the least expensive objects that meet my needs in form _and_ function.
 
