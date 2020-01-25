@@ -10,40 +10,76 @@ tags:
 
 Below is a haphazard and ever-changing list of my favorite places to eat, drink, and shop in Paris.
 
-Most of my recommendations are in the city's northeast quadrant, around the 2nd, 3rd, and 11th arrondissements. I personally adore this area, especially the 11th, probably because this is where most of my friends are, but also because it is far away from the most touristy destinations in the city, with a particularly lovely concentration of cheese shops, seafood stalls, bakeries, cafes, natural wine bars.
+Most of my recommendations are in the city's northeast quadrant, particularly around the 3rd and 11th arrondissements. I personally adore this area, largely because this is just where most of my friends are, but also because it is central yet neighborhoodly in the city, with a particularly lovely concentration of cheese shops, seafood stalls, bakeries, cafes, natural wine bars.
 
-Yes, Parisians are curt and at times plainly rude. Get over it. This is a city full of grunge, glamor, and romance. And an extraordinary universal respect for quality food at its most elemental.
+Yes, Parisians are curt and at times plainly rude. Get over it. This is a city full of grunge, glamor, and romance — and a shared  reverence for quality food at its most elemental.
 
-#### Cafés and Boulangeries
+_One important note: many of my recommendations are taken from David Lebovitz's_ [_incredible blog_](https://www.davidlebovitz.com/paris/) _— he is an American pastry chef living in Paris, and his picks are spot-on. If you have time, dig deep into his deep resource for experiencing the best of Paris._
 
-Don't waste time looking up the very best bakery or café: coffee and baguettes. The absolute best activity in Paris involves eating a tartine (baguette  at a café 1 euro coffee is bracing, bitter, and just lovely at any single café. But don't get a single thing besides coffee. The nice croissants and baguettes are all sold at the bakeries scattered throughout .
+#### Cafés
 
-A good croissant has a hard shiny shell (lacquered with butter with clear lines from being rolled) and an incredibly airy interior reeking of butter. The shop should smell like the inside of a movie theatre popcorn tank. Did I mention butter?
+Don't waste time looking up a top-rated bakery or coffee: the very best activity in Paris involves sitting outside at any bustling neighborhood café (one with glowing heating lamps, if it's winter), people-watching and enjoying a bracing espresso or allongé (espresso with hot water) with a tartine (baguette + butter + jam).
 
-These cafés form the social core of Paris — go for a inky espresso in the morning, but come back for a glass of wine and a plate of fries or snails at lunchtime, and . It's not really worth stressing over finding the "best" one — the real joy is walking through neighborhoods
+To me, these cafés form the social and culinary core of Paris — go for an inky espresso in the morning, but come back for a glass of wine and a plate of steak-frites (for me, always cooked _saignant_ — juuust perfectly under medium rare) or snails at lunchtime, a rack of lamb chops or a hearty soup at night, and drinks with friends until late.
 
-#### Simple Lunching
+Again, it's really not worth stressing about finding the "best" café or bistro — the real joy is finding a spot near to where you're staying that you will enjoy coming back to over and over again.
 
-Breizh Cafe serves galettes. These savory crepes are made from buckwheat galettes.
+#### Croissants
 
-Whether I'm traveling or not, I usually don't plan lunches. When I'm in Paris, if I'm really hungry mid-day, I try to find an enticing small bistro or cafe and get a steak-frites (cooked **saignant**) or a bowl of soup.
+I judge any French bakery on its croissant alone. Paris is a walking city, so whenever I'm on the move, my nose is finely tuned to the sweet, heavy smell of caramelizing butter that suggests I might find something spectacular.
+
+A great croissant has a hard shiny shell (dozens of flaky leaves of pastry lacquered with butter) and an incredibly airy interior reeking of butter. The shop should smell like the inside of a movie theatre popcorn tank. There should be a line to order. Did I mention butter?
+
+There are lots of excellent croissants in Paris and plenty of lackluster ones. I can't share a comprehensive favorite-bakery list, but I will mention **Blé Sucré** in the 12th which offers a pretty spectacular example of a plain croissant au beurre.
+
+![](https://i.pinimg.com/originals/0c/6a/ec/0c6aec21875484f9afd3973e89d26955.jpg{:.medium})
+
+#### Crepes
+
+Breizh Cafe serves the best crepes and galettes in Paris. A galette is a slightly crisp savory crepe traditionally from Normandy and Brittany, made from fermented 100% buckwheat flour. At Breizh, I recommend a plain one with bowl of buttermilk to dip it in as well as one with egg and cheese (I like to add wilted spinach. I have to get a bowl of dry sparkling hard cider, and if I have room, a delicious sweet white-flour crepe for dessert.
+
+This is my only specific lunch recommendation: whether I'm traveling or not, I generally don't plan lunches. When I'm in Paris, if I'm really hungry mid-day, I usually just find an enticing small bistro or cafe and get a steak-frites (remember, always cooked _saignant_) or a bowl of soup.
 
 #### Cave à Vins
 
-Many of Paris' most innovative and renowned restaurants have small wine bars affixed next door or a floor below. There are also many excellent standalone spots that serve simple, delicious food with inexpensive glasses of super cool wine. prefer to visit these places, because they are cheaper, simpler, and faster. You can usually also buy a bottle from their collection to take home on your way out.
+Many of Paris' most innovative and renowned restaurants have small wine bars affixed next door or a floor below. There are also many excellent standalone spots that serve the same blend of simple, delicious food with inexpensive glasses of super cool wine. prefer to visit these places, because they are cheaper, simpler, and faster. You can usually also buy a bottle from their collection to take home on your way out. Around 5pm I am often guilty of searching for a "cave a vins" nearby to see if anything interesting is located close by.
 
-Around 5pm I'll often just look up "cave a vins" in google and see if anything interesting is located close by.
-
-Septime La Cave — the baby sister of fabulous tasting menu Septime and its seafood focused sibling Clamato. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil, a plate of fresh ricotta with salty anchovies and toasted hazelnuts.
+One to check out is _Septime La Cave_ — the little wine-bar sister of fabulous tasting menu restaurant Septime and the seafood focused à la carte Clamato. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil and a plate of fresh ricotta with salty anchovies and toasted hazelnuts — all with glasses of some great finds.
 
 #### Restaurants
 
+One note — I think that buying wine by the bottle gives exceptional value in Paris. The wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves don't mark up bottles by much.
+
 ### Clown Bar
+
+Clown Bar
+
+### Frenchie's Bar A Vins
+
+### C A M
+
+A delicious, unfussy, interesting restaurant helmed by Korean chef Esu-Lee. is making serving lightly out of an old fish market on a small street in the heart of the 3rd arrondisement. The most decadent lightly pickled mackerel is laid atop a paste of black garlic and seaweed, a , a slab of salty, warm dark chocolate for dessert. This is an exemplary contemporary Paris restaurant.
+
+#### Le San Sebastien, Au Passage
+
+Really great wine list
+
+If you're near Gare du Nord, check out this excellent and inexpensive kebab restaurant. Here the chefs are making . The street it's on is a tiny little enclave of extraordinary Turkish markets, bakeries, and more.
 
 #### Venues
 
-La Gare, way out in the 19th arrondissement, is an abandoned train station that hosts amazing live jazz and contemporary music. MUST GO!
+La Gare, way out in the 19th arrondissement, is an excellent  music venue located in an abandoned train station. Sometimes people are serving little homemade snacks. A must go especially during summer nights, when throngs of people stream outside.
 
-#### Museums
+![](https://feiyutravelbox.files.wordpress.com/2019/01/img_3230.jpg?w=1038&h=576&crop=1)
 
-Frenchie's Cave A Vin
+![](https://www.google.com/maps/uv?hl=en&pb=!1s0x47e66dcd447086f1%3A0x4aed1ed5a92a81a6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMmPmqoex-jUgN-i0TOU2RzWawgNC-vIJ6mB6oQ%3Dw520-h350-n-k-no!5sla%20gare%20paris%20jazz%20-%20Google%20Search!15sCAQ&imagekey=!1e10!2sAF1QipOILRPt-70Q9J09DYjD20x7pht-QhFFxtwPSpjJ#)
+
+### Shopping
+
+If you like drooling over beautiful copper pans and excellent chef's tools, you must visit E.DEHILLERIN in the very center of Paris. This is the Paris kitchenware store of choice for Julia Child, Martha Stewart, Ina Garten, the list goes on... It's dusty, slightly disorganized, and completely amazing.
+
+![](https://live.staticflickr.com/8239/8600039378_9c3bfaaf2f_b.jpg)
+
+I also like to visit the Marché D'Aligres on Fridays, which combines an awesome covered market full of excellent cheese and meat vendors, a great outdoors farmers market, and a big flea market featuring dozens of antiques-borderline-junk hawkers. It's fun to walk through and haggle for some nice French silverware or cocktail glasses. And as an added plus, it's all quite near that croissant spot Blé Sucré as well :-)
+
+![](https://2pxdyh46g00wzs0ex3fzl5ow-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Brocante-Place-dAligre-3.jpg)
