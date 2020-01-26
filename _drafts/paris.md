@@ -38,6 +38,8 @@ There are lots of excellent croissants in Paris and plenty of lackluster ones. I
 
 Breizh Cafe serves the best crepes and galettes in Paris. A galette is a slightly crisp savory crepe traditionally from Normandy and Brittany, made from fermented 100% buckwheat flour. At Breizh, I recommend a plain one with bowl of buttermilk to dip it in as well as one with egg and cheese (I like to add wilted spinach. I have to get a bowl of dry sparkling hard cider, and if I have room, a delicious sweet white-flour crepe for dessert.
 
+![](/images/breihz.jpg)
+
 This is my only specific lunch recommendation: whether I'm traveling or not, I generally don't plan lunches. When I'm in Paris, if I'm really hungry mid-day, I usually just find an enticing small bistro or cafe and get a steak-frites (remember, always cooked _saignant_) or a bowl of soup.
 
 #### Cave à Vins
@@ -46,40 +48,48 @@ Many of Paris' most innovative and renowned restaurants have small wine bars aff
 
 One to check out is _Septime La Cave_ — the little wine-bar sister of fabulous tasting menu restaurant Septime and the seafood focused à la carte Clamato. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil and a plate of fresh ricotta with salty anchovies and toasted hazelnuts — all with glasses of some great finds.
 
+![](/images/septimecave.jpg)
+
 #### Restaurants
 
-One note — I think that buying wine by the bottle gives exceptional value in Paris. The wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves don't mark up bottles by much.
+A few restaurants that I revisited on my last trip to Paris and can recommend .  One note — I'm growing to think that buying wine by the bottle at restaurants yields exceptional value in Paris. Wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves don't mark up bottles by much. Don't be afraid to chat with sommeliers about your preferences and. I often also ask for a recommendation to pair with a few dishes I'm pretty sure I'll order.
 
 ### Clown Bar
 
-Clown Bar
+Clown Bar is an absolute classic. A small wine bar next to the big Circus D'Hiver building  The chef has changed but the food, wine, and atmosphere are perfect. Veal brains if you're adventurous, perfectly juicy and crisp pigeon, creamy burrata, toothsome cured fish with long slices of _buddha's hand_ citrus.
 
 ### Frenchie's Bar A Vins
 
+I always come here when I'm in Paris — it's the baby sibling of a fancier tasting menu, with cheaper à la carte dishes that are adventurous without being annoying. Put your name down, and if there's a wait, grab a drink at the large café around the corner or check out the fish, meat, and cheese markets nestled throughout the neighboring small streets.
+
 ### C A M
 
-A delicious, unfussy, interesting restaurant helmed by Korean chef Esu-Lee. is making serving lightly out of an old fish market on a small street in the heart of the 3rd arrondisement. The most decadent lightly pickled mackerel is laid atop a paste of black garlic and seaweed, a , a slab of salty, warm dark chocolate for dessert. This is an exemplary contemporary Paris restaurant.
+A delicious, unfussy, and interesting restaurant helmed by Korean chef Esu Lee. The most decadent lightly pickled mackerel is laid atop a paste of black garlic and seaweed, an aromatic and barely creamy soup is overflowing with tiny clams, and a slab of salty dark chocolate is presented warm and spoonable for dessert. This is an exemplary contemporary Paris restaurant.
 
-#### Le San Sebastien, Au Passage
+### Le San Sebastien, Au Passage
 
 Really great wine list
 
-If you're near Gare du Nord, check out this excellent and inexpensive kebab restaurant. Here the chefs are making . The street it's on is a tiny little enclave of extraordinary Turkish markets, bakeries, and more.
+### Urfa Durum
+
+If you're near Gare du Nord, check out this absolutely amazing (and inexpensive) Turkish restaurant puffy freshly fired pita is topped with charcoal grilled meats. This place has the best kebab sandwiches around because there's no white sauce or even spices: just salty charred meats, fresh tomato and lettuce, and puffy freshly-fired pita. There are only about six options on the menu, but don't miss out on a lamajcun. Plus, the blocks surrounding the restaurant are a tiny little enclave of extraordinary Turkish markets and bakeries.
+
+### Shopping
+
+If you like drooling over beautiful copper pans and excellent chef's tools, you must visit **E.DEHILLERIN** in the very center of Paris. This is the Paris kitchenware store of choice for Julia Child, Martha Stewart, Ina Garten, the list goes on... It's dusty, slightly disorganized, and completely amazing.
+
+![](https://live.staticflickr.com/8239/8600039378_9c3bfaaf2f_b.jpg)
+
+I also like to visit the **Marché D'Aligres** on Fridays, which combines an awesome covered market full of excellent cheese and meat vendors, a great outdoors farmers market, and a big flea market featuring dozens of antiques-borderline-junk hawkers. It's fun to walk through and haggle for some nice French silverware or cocktail glasses. And as an added plus, it's all quite near that croissant spot Blé Sucré as well :-)
+
+![](https://2pxdyh46g00wzs0ex3fzl5ow-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Brocante-Place-dAligre-3.jpg)
 
 #### Venues
 
-La Gare, way out in the 19th arrondissement, is an excellent  music venue located in an abandoned train station. Sometimes people are serving little homemade snacks. A must go especially during summer nights, when throngs of people stream outside.
+**La Gare**, way out in the 19th arrondissement, is an excellent  music venue located in an abandoned train station. Sometimes people are serving little homemade snacks. A must go especially during summer nights, when throngs of people stream outside.
 
 ![](https://feiyutravelbox.files.wordpress.com/2019/01/img_3230.jpg?w=1038&h=576&crop=1)
 
 ![](https://www.google.com/maps/uv?hl=en&pb=!1s0x47e66dcd447086f1%3A0x4aed1ed5a92a81a6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMmPmqoex-jUgN-i0TOU2RzWawgNC-vIJ6mB6oQ%3Dw520-h350-n-k-no!5sla%20gare%20paris%20jazz%20-%20Google%20Search!15sCAQ&imagekey=!1e10!2sAF1QipOILRPt-70Q9J09DYjD20x7pht-QhFFxtwPSpjJ#)
 
-### Shopping
-
-If you like drooling over beautiful copper pans and excellent chef's tools, you must visit E.DEHILLERIN in the very center of Paris. This is the Paris kitchenware store of choice for Julia Child, Martha Stewart, Ina Garten, the list goes on... It's dusty, slightly disorganized, and completely amazing.
-
-![](https://live.staticflickr.com/8239/8600039378_9c3bfaaf2f_b.jpg)
-
-I also like to visit the Marché D'Aligres on Fridays, which combines an awesome covered market full of excellent cheese and meat vendors, a great outdoors farmers market, and a big flea market featuring dozens of antiques-borderline-junk hawkers. It's fun to walk through and haggle for some nice French silverware or cocktail glasses. And as an added plus, it's all quite near that croissant spot Blé Sucré as well :-)
-
-![](https://2pxdyh46g00wzs0ex3fzl5ow-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Brocante-Place-dAligre-3.jpg)
+### 
