@@ -1,14 +1,12 @@
 ---
-icon: https://dimg04.c-ctrip.com/images/10080r000000hb46aED29_C_800_800.jpg?proc=source%2Ftrip
+icon: "/images/Paris.jpg"
 important: true
 title: Paris
 tags:
 - travel
 
 ---
-![](http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg)
-
-Below is a haphazard and ever-changing list of my favorite places to eat, drink, and shop in Paris.
+![](http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg)Below is a haphazard and ever-changing list of my favorite places to eat, drink, and shop in Paris.
 
 Most of my recommendations are in the city's northeast quadrant, particularly around the 3rd and 11th arrondissements. I personally adore this area, largely because this is just where most of my friends are, but also because it is central yet neighborhoodly in the city, with a particularly lovely concentration of cheese shops, seafood stalls, bakeries, cafes, natural wine bars.
 
