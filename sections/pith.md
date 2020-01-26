@@ -15,7 +15,7 @@ Sourdough bread, soft salted butter, green olives.
 
 Raw tuna with dried tomato and chilies; raw scallops with black garlic and seaweed; raw mushrooms with lemon zest and pecorino.
 
-Oranges with crunchy kohlrabi and chipotle; carrots with browned butter and hazelnuts; golden beets with yogurt and croutons.
+Radicchio with grapefruit and shallots; carrots roasted with chipotle and hazelnuts; golden beets with yogurt and sourdough croutons.
 
 Roasted quail and leeks; preserved lemon gravy; chewy barley risotto; lemony wild greens.
 
