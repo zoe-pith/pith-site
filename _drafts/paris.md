@@ -12,7 +12,7 @@ Most of my recommendations are in the city's northeast quadrant, particularly ar
 
 Yes, Parisians are curt and at times plainly rude. Get over it. This is a city full of grunge, glamor, and romance — and a shared  reverence for quality food at its most elemental.
 
-_One important note: many of my recommendations are taken from David Lebovitz's_ [_incredible blog_](https://www.davidlebovitz.com/paris/) _— he is an American pastry chef living in Paris, and his picks are spot-on. If you have time, dig deep into his deep resource for experiencing the best of Paris._
+_One important note: many of my recommendations are taken from David Lebovitz's_ [_incredible blog_](https://www.davidlebovitz.com/paris/) _— he is an American pastry chef living in Paris, and his picks are spot-on. If you have time, definitely dig deep into his deep resource for experiencing Paris._
 
 #### Cafés
 
@@ -34,7 +34,7 @@ There are lots of excellent croissants in Paris and plenty of lackluster ones. I
 
 #### Crepes
 
-Breizh Cafe serves the best crepes and galettes in Paris. A galette is a slightly crisp savory crepe traditionally from Normandy and Brittany, made from fermented 100% buckwheat flour. At Breizh, I recommend a plain one with bowl of buttermilk to dip it in as well as one with egg and cheese (I like to add wilted spinach. I have to get a bowl of dry sparkling hard cider, and if I have room, a delicious sweet white-flour crepe for dessert.
+Breizh Cafe serves the best crepes and galettes in Paris. A galette is a slightly crisp savory crepe traditionally from Normandy and Brittany, made from fermented 100% buckwheat flour. At Breizh, I recommend a plain one with bowl of buttermilk to dip it in as well as one with egg and cheese and wilted spinach. I can't leave without also getting a bowl of dry sparkling hard cider, and if I have room, a delicious sweet crepe for dessert.
 
 ![](/images/breihz.jpg)
 
@@ -44,17 +44,19 @@ This is my only specific lunch recommendation: whether I'm traveling or not, I g
 
 Many of Paris' most innovative and renowned restaurants have small wine bars affixed next door or a floor below. There are also many excellent standalone spots that serve the same blend of simple, delicious food with inexpensive glasses of super cool wine. prefer to visit these places, because they are cheaper, simpler, and faster. You can usually also buy a bottle from their collection to take home on your way out. Around 5pm I am often guilty of searching for a "cave a vins" nearby to see if anything interesting is located close by.
 
-One to check out is _Septime La Cave_ — the little wine-bar sister of fabulous tasting menu restaurant Septime and the seafood focused à la carte Clamato. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil and a plate of fresh ricotta with salty anchovies and toasted hazelnuts — all with glasses of some great finds.
+One to check out is _Septime La Cave_ — the little wine-bar sister of fabulous tasting menu restaurant _Septime_ and the seafood focused à la carte _Clamato_. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil and a plate of fresh ricotta with salty anchovies and toasted hazelnuts — all while tasting super interesting wines.
 
 ![](/images/septimecave.jpg)
 
 #### Restaurants
 
-A few restaurants that I revisited on my last trip to Paris and can recommend .  One note — I'm growing to think that buying wine by the bottle at restaurants yields exceptional value in Paris. Wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves don't mark up bottles by much. Don't be afraid to chat with sommeliers about your preferences and. I often also ask for a recommendation to pair with a few dishes I'm pretty sure I'll order.
+OK, here are few restaurants that I revisited on my last trip to Paris and can happily recommend to anyone. This list is not exhaustive at all, so again, I'd recommend also checking out _David Lebovitz's_ [_great compilation_](https://www.davidlebovitz.com/paris/) of Paris restaurants. 
+
+One note for dinners in Paris: I'm growing to think that buying wine by the bottle at restaurants yields exceptional value in Paris. Wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves are more likely to have interesting minimal-intervention wines at a reasonable mark-up. Don't be afraid to chat with sommeliers about your preferences! I often ask for a recommendation to pair with a few dishes I'm pretty sure I'll order. 
 
 ### Clown Bar
 
-Clown Bar is an absolute classic. A small wine bar next to the big Circus D'Hiver building  The chef has changed but the food, wine, and atmosphere are perfect. Veal brains if you're adventurous, perfectly juicy and crisp pigeon, creamy burrata, toothsome cured fish with long slices of _buddha's hand_ citrus.
+Clown Bar is an absolute classic: a small restaurant next to a big old circus building,  The chef has changed but the food, wine, and atmosphere are perfect. Veal brains if you're adventurous, perfectly juicy and crisp pigeon, creamy burrata, toothsome cured fish with long slices of buddha's hand citrus. They also have an excellent _pithivier_: a heavenly heart-attack (foie gras, duck, etc) stuffed inside puff pastry. YUM!
 
 ### Frenchie's Bar A Vins
 
@@ -64,13 +66,13 @@ I always come here when I'm in Paris — it's the baby sibling of a fancier tas
 
 A delicious, unfussy, and interesting restaurant helmed by Korean chef Esu Lee. The most decadent lightly pickled mackerel is laid atop a paste of black garlic and seaweed, an aromatic and barely creamy soup is overflowing with tiny clams, and a slab of salty dark chocolate is presented warm and spoonable for dessert. This is an exemplary contemporary Paris restaurant.
 
-### Le San Sebastien, Au Passage
+### Le San Sebastien, Au Passage, 
 
-Really great wine list
+There are so many quietly pleasurable bistros and neo-bistros in Paris, so I could go on forever, but I've always enjoyed **Au Passage**. Off a narrow street, ever-changing chefs serve pretty innovative charcuterie, raw seafood, cooked fish, roasted meats, and unique vegetables — all alongside a great wine list. I also recently visited Le San Sebastien where I tried an 
 
 ### Urfa Durum
 
-If you're near Gare du Nord, check out this absolutely amazing (and inexpensive) Turkish restaurant puffy freshly fired pita is topped with charcoal grilled meats. This place has the best kebab sandwiches around because there's no white sauce or even spices: just salty charred meats, fresh tomato and lettuce, and puffy freshly-fired pita. There are only about six options on the menu, but don't miss out on a lamajcun. Plus, the blocks surrounding the restaurant are a tiny little enclave of extraordinary Turkish markets and bakeries.
+If you're near Gare du Nord, check out this absolutely amazing (and inexpensive) Kurdish restaurant serving puffy freshly fired pita and charcoal grilled meats. There are only about six options on the menu and you have to eat on a wooden stool on the sidewalk. The lamajcun — €3 pizza-esque breads topped with roasted and minced lamb and vegetables — is a required order. But the kebab wraps are the best in town: the chefs use no white sauce nor even spices: just salty charred lamb, fresh tomato and raw onion, all wrapped up in that irresistible freshly-fired pita. Plus, the blocks surrounding the restaurant are a tiny little enclave of extraordinary Turkish markets and bakeries.
 
 ### Shopping
 
