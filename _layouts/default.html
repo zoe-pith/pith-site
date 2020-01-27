@@ -1,4 +1,9 @@
 {% include header.md %}
+<script>
+    if (window.location.pathname !== "/") {
+        window.location.href = "/?page=" + window.location.pathname.slice(1);
+    }
+</script>
 <nav role="status">
     <button onclick="toggleMenu()" aria-label="Toggle menu">menu</button>
     <div>

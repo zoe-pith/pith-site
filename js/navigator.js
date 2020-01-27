@@ -165,6 +165,7 @@ const showPage = e => {
     )
         toggleMenu();
     setUrl(target.href);
+    document.title = "Jonah Reider";
     return false;
 };
 
@@ -196,6 +197,7 @@ const showPost = path => {
                     state.postVisible = true;
                     post_wrapper.innerHTML = preamble + html;
                     handleLinks(true);
+                    document.title = post_wrapper.getElementsByTagName("h2")[0].innerHTML + " — Jonah Reider";
                 });
             } else {
                 document.getElementById("back-button").style.display =
