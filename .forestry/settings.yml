@@ -4,10 +4,16 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
+- type: directory
+  path: redirects
+  label: Redirects
+  create: all
+  match: "**/*"
+- type: directory
+  path: sections
   label: Pages
   create: all
-  new_doc_ext: md
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all

@@ -19,5 +19,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- sections/redirect_paris.md
