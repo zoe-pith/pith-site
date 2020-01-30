@@ -1,18 +1,12 @@
 ---
-icon: "/images/paris.jpg"
+icon: "/images/tahona.jpg"
 important: true
-title: Paris
+title: Tahona Tequila
 tags:
 - travel
 
 ---
-![](http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg)Below is a haphazard and ever-changing list of my favorite places to eat, drink, and shop in Paris.
-
-Most of my recommendations are in the city's northeast quadrant, particularly around the 3rd and 11th arrondissements. I adore this area: it is central and bustling, but often quiet and neighborhoodly, with a lovely concentration of excellent cheese shops, fish stands, bakeries, cafes, and phenomenal wine bars.
-
-Yes, Parisians are curt and at times plainly rude. Get over it. This is a city full of grunge, glamor, and romance — and a shared  reverence for quality food at its most elemental.
-
-_One important note: many of my recommendations are taken from David Lebovitz's_ [_incredible blog_](https://www.davidlebovitz.com/paris/) _— he is an American pastry chef living in Paris, and his picks are spot-on. If you have time, definitely dig deep into his deep resource for experiencing Paris._
+![](https://cdn.liquor.com/wp-content/uploads/2017/05/18081326/Is-the-Old-School-Way-of-Making-Tequila-Actually-Better-tequla-tapatio-720x480-inline.jpg)
 
 #### Cafés
 
