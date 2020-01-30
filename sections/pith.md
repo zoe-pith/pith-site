@@ -2,7 +2,6 @@
 layout: default
 title: Pith Supper Club
 permalink: "/pith"
-weight: "2"
 
 ---
 Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.

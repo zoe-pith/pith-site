@@ -2,7 +2,6 @@
 layout: default
 title: Contact
 permalink: "/contact"
-weight: "7"
 
 ---
 [inquiries@jonahreider.com](mailto:inquiries@jonahreider.com)

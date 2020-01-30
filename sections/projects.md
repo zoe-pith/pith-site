@@ -2,7 +2,6 @@
 layout: default
 title: Projects
 permalink: "/projects"
-weight: "6"
 
 ---
 Let’s collaborate to make the world a more delicious place.

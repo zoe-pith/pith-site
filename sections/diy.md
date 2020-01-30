@@ -2,7 +2,6 @@
 layout: default
 title: "Tools, Tips, and Tricks"
 permalink: /diy
-weight: 2
 published: true
 ---
 
