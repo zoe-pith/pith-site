@@ -9,6 +9,8 @@ sections:
   label: Redirects
   create: all
   match: "**/*"
+  templates:
+  - redirect
 - type: directory
   path: sections
   label: Pages
