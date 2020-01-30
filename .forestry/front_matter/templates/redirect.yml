@@ -3,8 +3,8 @@ label: Redirect
 hide_body: true
 fields:
 - type: file
-  name: image
-  label: image
+  name: imessage_image
+  label: Image for iMessage preview etc.
 - type: text
   name: layout
   label: layout
@@ -14,8 +14,8 @@ fields:
   name: permalink
   label: permalink
 - type: text
-  name: redirect
-  label: redirect
+  name: redirect_to
+  label: redirect to
 - type: text
   name: title
   label: title
