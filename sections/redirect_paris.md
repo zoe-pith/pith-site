@@ -1,8 +1,7 @@
 ---
-image: http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg
+imessage_image: http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg
 layout: redirect
-permalink: "/paris"
-redirect: "/?page=diy&post=2020-01-26-paris"
-title: Paris
-
+permalink: /paris
+redirect_to:   /?page=diy&post=2020-01-26-paris
+title: "Paris"
 ---
