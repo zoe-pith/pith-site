@@ -1,9 +1,9 @@
 ---
-imessage_image: http://www.aeontours.com/img/paris-guide/place_de_la_bastille.jpg
+imessage_image: "/images/broiler_cover.jpg"
 layout: redirect
-permalink: "/paris"
-redirect_to: "/?page=diy&post=2020-01-26-paris"
-title: Paris
+permalink: "/tokyo"
+redirect_to: "/?page=diy&post=2019-08-15-tokyo"
+title: Tokyo
 published: false
 
 ---
