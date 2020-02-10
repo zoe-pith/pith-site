@@ -8,88 +8,42 @@ tags:
 ---
 ![](https://cdn.liquor.com/wp-content/uploads/2017/05/18081326/Is-the-Old-School-Way-of-Making-Tequila-Actually-Better-tequla-tapatio-720x480-inline.jpg)
 
-#### Cafés
+[patron.jp2](/images/patron.jp2 "patron.jp2")In the afternoon, the hills of Jalisco glow a cool blue. Steely succulents are planted in every direction — Blue Weber Agave, specifically — which means only one thing: tequila.
 
-Don't waste time looking up a top-rated bakery or coffee: the very best activity in Paris involves sitting outside at any bustling neighborhood café (one with glowing heating lamps, if it's winter), people-watching and enjoying a bracing espresso or allongé (espresso with hot water) with a tartine (baguette + butter + jam).
+I was sixty miles east from the city of Guadelajara on a mission to better understand Mexico’s national elixir, one which previously brought to mind tropical cocktails and college hangovers. Every morning, the roads teem with small white trucks, each carrying two farmers and thousands of pounds of their trimmed, ripe agave. At night, 18-wheelers rumble in the opposite direction, bringing bottled tequila to an ever-growing global customer base.
 
-To me, these cafés form the social and culinary core of Paris — go for an inky espresso in the morning, but come back for a glass of wine and a plate of steak-frites (for me, always cooked _saignant_ — juuust perfectly under medium rare) or snails at lunchtime, a rack of lamb chops or a hearty soup at night, and drinks with friends until late.
+The area is constantly busy because tequila production does not operate seasonally: agave can be grown, harvested, roasted, pressed, fermented, and distilled all year round. This process must take place within approved areas constituting only 5% of the entire country, using only one extra-sweet species of agave. These requirements, and the prohibitive cost of corresponding machinery, keep truly artisanal producers at bay — there are only about 100 tequila distilleries in Mexico compared to more than 27,000 wineries in France.
 
-Again, it's really not worth stressing about finding the "best" café or bistro — the real joy is finding a spot near to where you're staying that you will enjoy coming back to over and over again.
+### Tahona Tequila is The Best Tequila
 
-#### Croissants
+All this is not to say that artisanal methods don’t exist. I stayed at the Patron manufacturing hub for two days and witnessed their large and local workforce preserving traditional methods with an eye towards sustainability. Ripe, spindly agave (8 years old!) are wrestled from the ground and trimmed for their _piñas,_ white starchy hearts. When steamed for about three days, the starch in these _piñas_ become astonishingly sweet, an exotic cross between a pineapple and tamarind.
 
-I judge any French bakery on its croissant alone. Paris is a walking city, so whenever I'm on the move, my nose is finely tuned to the sweet, heavy smell of caramelizing butter that suggests I might find something spectacular.
+Traditionally, donkeys would then pull a two-ton volcanic stone _tahona_ over the roasted agave, crushing it slowly into a juicy pulp — but to minimize notes of donkey urine, producers now use a powerful electric motor to roll the stone. It’s evocative of other stone-grinding processes, like Italian olives being crushed into oil, or Japanese tea leaves being ground into matcha.
 
-A great croissant has a hard shiny shell (dozens of flaky leaves of pastry lacquered with butter) and an incredibly airy interior reeking of butter. The shop should smell like the inside of a movie theatre popcorn tank. There should be a line to order. Did I mention butter?
+With this _tahona_ process, the agave juice and pulp is fermented together. The fiber rises to the top of the barrel, forming a protective blanket that adds flavor and prevents aromatic compounds from evaporating. It’s a slow, inefficient, and delicious process.
 
-There are lots of excellent croissants in Paris and plenty of lackluster ones. I can't share a comprehensive favorite-bakery list, but I will mention **Blé Sucré** in the 12th which offers a pretty spectacular example of a plain croissant au beurre.
+Sadly, very few distilleries use a _tahona_ at all, and even fewer release bottles derived exclusively from the process. Most tequila is instead made using industrially juiced agave that is strained and fermented in stainless steel tanks, yielding a muted flavor profile with a heightened sting.
 
-![](https://i.pinimg.com/originals/0c/6a/ec/0c6aec21875484f9afd3973e89d26955.jpg){:.medium}
+Paton’s [_Roca _](https://www.patrontequila.com/products/roca.html)line of tequilas, for example, is made exclusively using this traditional _tahona_ process of juice pressed from roasted agave hearts; it has an assertive aroma and delicate flavor that pairs excellently with food.
 
-#### Crepes
+#### Matched Only By Jalisco's Food Scene
 
-Breizh Cafe serves the best crepes and galettes in Paris. A galette is a slightly crisp savory crepe traditionally from Normandy and Brittany, made from fermented 100% buckwheat flour. At Breizh, I recommend a plain one with bowl of buttermilk to dip it in as well as one with egg and cheese and wilted spinach. I can't leave without also getting a bowl of dry sparkling hard cider, and if I have room, a delicious sweet crepe for dessert.
+The best restaurants in Jalisco are strewn alongside the highway, packed into a bustling city streets, or scattered along the perimeter of big markets. Each seller seems to have one or two specialities that everybody orders.
 
-![](/images/breihz.jpg){:.medium}
+Some tortillas are delicate and soft; some are crispy and oozing with melted cheese. They might be topped with juicy beef tongue braised with green chilis. Or it could be a hunk of pork shoulder, spinning hypnotically and licked by flames. Or, crispy fried crickets, doused in lime juice, then stuffed into a small quesadilla.
 
-This is my only specific lunch recommendation: whether I'm traveling or not, I generally don't plan lunches. When I'm in Paris, if I'm really hungry mid-day, I usually just find an enticing small bistro or cafe and get a steak-frites (remember, always cooked _saignant_) or a bowl of soup.
+Chopped white onion and cilantro garnish practically everything, but the addictively spicy and colorful salsas differ from one vendor to the next: jalapeños minced with onion and vinegar; intensely fruity habaneros blended with roasted red peppers; deeply toasted nuts and seeds blended with oil and red chilies.
 
-#### Cave à Vins
+At some point, I took a break from these rich bites to enjoy a small plastic bag filled with perfectly ripe watermelon and cucumber, seasoned with salt, lime juice, and chili powder. All of these snacks cost less than $10 in total!
 
-Pro tip: many of Paris' renowned restaurants have small wine bars affixed next door or a floor below. There are also many excellent standalone spots that offer the same winning combination of simple, delicious small plates of food and inexpensive glasses of super cool wine. You can easily visit three or four of these places in a night, as they are cheaper and faster than going to a stuffier restaurant. Importantly, you can usually also buy a bottle from their collection to take home on your way out. Around 5pm I am often guilty of searching for a "cave a vins" nearby to see if anything interesting is located close by.
+One evening, I visited a Patron agave field to attend an ambitious and mysterious pop-up dinner. A chef was on site roasting massive sirloin steaks, peppers of all sizes and colors, and pale creamy squashes over an enormous wood fire. 60 guests had come from all over the world, had been gathered by Secret
 
-One to check out is _Septime La Cave_ — the little wine-bar sister of fabulous tasting menu restaurant _Septime_ and the seafood focused à la carte _Clamato_. Here you can eat ruby red slices of cured beef leg shimmering with fennel seed oil and a plate of fresh ricotta with salty anchovies and toasted hazelnuts — all while tasting super interesting wines.
+#### But it goes perfectly with all types of home cooking and hosting
 
-![](/images/septimecave.jpg){:.medium}
+Tequila, particularly the tahona-produced _Roca_ line, went so well with these local delicacies. But after I came home to New York, I discovered how much I enjoyed serving it alongside all types of dishes.
 
-#### Restaurants
+The precise balance of fruit, smoke, and vegetal spice in _blanco_ unaged tequila makes it a perfect match for light fare like raw fish and acidic salads, and an alluring relief from richer and spicier stews and soups. The _anejo_ varieties, aged close to three years in oak barrels, have a warmth and texture to rival cognac for after-dinner sipping.
 
-OK, here are few restaurants that I revisited on my last trip to Paris and can happily recommend to anyone. This list is not exhaustive at all, so again, I'd recommend also checking out David Lebovitz's [great compilation](https://www.davidlebovitz.com/paris/) of restaurants throughout the city.
+Just please forget about making the cloying tropical cocktails that completely conceal tequila’s subtleties. Instead, try substituting the spirit for gin or vodka to enliven any simple drink such as a dirty martini or a negroni.
 
-One note for Paris dining: I'm growing to think that buying wine by the bottle at restaurants yields exceptional value. Wines are cheaper to begin with because there are so fewer EU importation and alcohol taxes, but the restaurants themselves are more likely to have interesting minimal-intervention wines at a reasonable mark-up. Don't be afraid to chat with sommeliers about your preferences! I often ask for a recommendation to pair with a few dishes I'm pretty sure I'll order. Best of all, it's totally acceptable to ask to take a partially drunk bottle to go.
-
-### Clown Bar
-
-Clown Bar is an absolute classic: a small restaurant next to a big old circus building,  The chef has changed but the food, wine, and atmosphere are perfect. Veal brains if you're very adventurous, perfectly juicy and crisp pigeon if you're somewhat adventurous, creamy burrata no matter what, and toothsome cured fish with thin cross-sections of pithy citrus. They also have an excellent _pithivier_: a heavenly heart-attack (foie gras, duck, etc) stuffed inside puff pastry. YUM!
-
-![](https://live.staticflickr.com/8598/28771863265_ba02d5a968_b.jpg){:.medium}
-
-### Frenchie's Bar A Vins
-
-I always come here when I'm in Paris — it's the baby sibling of a fancier tasting menu, with cheaper à la carte dishes that are adventurous without being annoying. Put your name down, and if there's a wait, grab a drink at the large café around the corner or check out the fish, meat, and cheese markets nestled throughout the neighboring small streets.
-
-![](https://parisbymouth.com/wp-content/uploads/2017/08/P1230053.jpg){:.medium}
-
-### C A M
-
-A delicious, unfussy, and interesting restaurant helmed by Korean chef Esu Lee. The most decadent lightly pickled mackerel is laid atop a paste of black garlic and seaweed, an aromatic and barely creamy soup is overflowing with tiny clams, and a slab of salty dark chocolate is presented warm and spoonable for dessert. This is an exemplary contemporary Paris restaurant.
-
-![](https://lefooding.com/media/W1siZiIsIjIwMTcvMTIvMDQvMTlfMTFfNTNfMzM4X3Jlc3RhdXJhbnRfQ0FNX3BhcmlzLmpwZyJdLFsicCIsInRodW1iIiwiNjcyeDYwMCJdXQ/restaurant-CAM-paris.jpg?sha=fcf6c2d6){:.medium}
-
-### Le San Sebastien, Au Passage, Le Rigmarole
-
-There are so many quietly pleasurable bistros and neo-bistros in Paris, so I could go on forever, but I've always enjoyed **Au Passage**. Off a narrow street, ever-changing chefs serve pretty innovative charcuterie, raw seafood, cooked fish, roasted meats, and unique vegetables — all alongside a great wine list. I also recently visited **Le San Sebastien** where I enjoyed unpretentious, interesting neo-bistro fare and an amazing €30 bottle of an extremely savory, barely colored red wine. Lastly, **Le Rigmarole** is an exquisite small restaurant where husband-and-wife prepare seasonal French ingredients using a traditional Japanese _binchotan_ charcoal grill. Expect great wine, extraordinary skewers of grilled chicken parts (and more!), a good-ass grilled lobster ramen situation, and reliably excellent wines.
-
-!\[Neobistro in Paris\](https://cdn.vox-cdn.com/thumbor/m9viBLN-rJJHY5OJbqt354WExGE=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/63223333/Photo_Mar_18__4_36_19_AM__1___1_.0.jpg =542x361){:.medium}
-
-### Urfa Durum
-
-If you're near Gare du Nord, check out this absolutely amazing (and inexpensive) Kurdish restaurant serving puffy freshly fired pita and charcoal grilled meats. There are only about six options on the menu and you have to eat with a can of beer on a wooden stool on the sidewalk. The lamajcun — a €3 pizza-esque pita topped with roasted and minced lamb and vegetables — is a required order. But the €6 kebab wraps are the best in town: the chefs use no white sauce nor even spices, just salty charred lamb, fresh tomato and raw onion, all wrapped up in that irresistible freshly-fired pita. Plus, the blocks surrounding the restaurant constitute an enclave of extraordinary Turkish markets and bakeries.
-
-![Urfa Durum kebabs in paris](https://cdn.discoverdiscomfort.com/wp-content/uploads/2019/11/Ethnic-guide-to-Paris-Best-Kebabs-urfa-durum-outside.jpg){:.medium}
-
-### Shopping
-
-If you like drooling over beautiful copper pans and excellent chef's tools, you must visit **E.DEHILLERIN** in the very center of Paris. This is the Paris kitchenware store of choice for Julia Child, Martha Stewart, Ina Garten, the list goes on... It's dusty, slightly disorganized, and completely amazing.
-
-![best kitchen shopping in paris pots pans knives](https://live.staticflickr.com/8239/8600039378_9c3bfaaf2f_b.jpg)
-
-I also like to visit the **Marché D'Aligres** on Fridays, which combines an awesome covered market full of excellent cheese and meat vendors, a great outdoors farmers market, and a big flea market featuring dozens of antiques-borderline-junk hawkers. It's fun to walk through and haggle for some nice French silverware or cocktail glasses. And as an added plus, it's all quite near that croissant spot Blé Sucré as well :-)
-
-![antique market paris brocante d'aligres](https://2pxdyh46g00wzs0ex3fzl5ow-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Brocante-Place-dAligre-3.jpg)
-
-#### Venues
-
-I don't usually do much besides cooking and eating, but one Paris music/entertainment venue comes to mind. **La Gare**, way out in the 19th arrondissement, hosts excellent jazz and contemporary music shows out of an abandoned train station. Sometimes little homemade snacks are served at the bar. A must go especially during summer nights, when throngs of people stream outside to drink and eat street food.
-
-![jazz in paris hip venues cool music paris](https://feiyutravelbox.files.wordpress.com/2019/01/img_3230.jpg?w=1038&h=576&crop=1)
+Ultimately, I prefer simply sipping tequila — and you will too. Make sure to seek out brands working with the ancient _tahona_ juicing and fermentation process, and you’ll find yourself — and your guests — thoroughly impressed.
