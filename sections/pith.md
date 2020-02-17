@@ -10,15 +10,15 @@ Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner f
 
 ### Current Menu
 
-Sourdough bread, soft salted butter, green olives.
+Sourdough bread, soft salted butter, preserved white asparagus, and green olives.
 
-Raw tuna with dried tomato and chilies; raw scallops with black garlic and seaweed; raw mushrooms with lemon zest and pecorino.
+Raw tuna with tomato and chili paste; raw turbot in a morel vinaigrette; raw scallops with seaweed; a few salty slices of beef.
 
-Radicchio with grapefruit and shallots; carrots roasted with chipotle and hazelnuts; golden beets with yogurt and sourdough croutons.
+Citrus and shallot salad; carrots roasted in chipotle butter; thick yogurt with pumpkin seed togarashi.
 
-Roasted quail and leeks; preserved lemon gravy; chewy barley risotto; lemony wild greens.
+Poached tilefish with mustard greens and caramelized fennel; chewy barley risotto with crispy mushrooms; lemony leaves of radicchio.
 
-Warm dark chocolate and white sesame ice cream.
+Warm dark chocolate and brown butter ice cream.
 
 ### Reservations
 
