@@ -4,28 +4,27 @@ title: Projects
 permalink: "/projects"
 
 ---
-Let’s collaborate to make the world a more delicious place.
+Let’s collaborate on something delicious.
 
 ### Media
 
 ![](/images/colbert.jpg){:.large}
 ![](/images/bobby_flay.jpg){:.large}
 ![](/images/elite_daily.jpg){:.large}
-![](/images/cnbc_jonah.jpg){:.large}  
-In various media roles as a commentator, host, and judge, I seek to showcase the magic of home hosting and do-it-yourself hospitality in communities around the world.
+![](/images/cnbc_jonah.jpg){:.large}
 
 ### Hospitality Consultation
 
-I received [three stars](https://www.chicagotribune.com/dining/ct-review-intro-jonah-reider-food-0928-20160924-column.html) from the Chicago Tribune for my menu development and implementation in residency at Intro Restaurant. I’ve developed menus for galas at The New Museum, advised Sam Adams Beer on flavor development, and executed private events and marketing collaborations for partners including Google, Stella Artois, Conde Nast, L’Oreal, and Land Rover. I’m also a founding partner with Meltyman Grilled Cheese in Japan.
+I received [three stars](https://www.chicagotribune.com/dining/ct-review-intro-jonah-reider-food-0928-20160924-column.html) from the Chicago Tribune for my menu development and implementation in residency at Intro Restaurant. I’ve developed menus for galas at The New Museum, advised Sam Adams Beer on flavor development, and executed private events with partners including Google, Stella Artois, Conde Nast, L’Oreal, and Land Rover.
 
 _Private dining logistics:_  
 _![](/images/private_dining.jpg)_{:.large}
 
-Reach out if you'd like to chat about a hospitality project, brand and product development, private events or collaborative pop-ups.
+[Reach out](mailto:inquiries@jonahreider.com) if you'd like to chat about a hospitality project, brand and product development, private events or collaborative pop-ups.
 
 ### Home Consultation
 
-Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home or private space with an eye towards relaxed cooking, elegant eating, and elevated entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more.
+Cooking and dining spaces should be the focal points of any home. Contact me if you’d like help outfitting your home or private space with an eye towards relaxed cooking, pleasurable dining, and elegant entertaining. Based on your needs and space, I will recommend essential tools, small appliances, cutlery, tableware, lighting, audio equipment, and more.
 
 ### Education
 
@@ -36,11 +35,11 @@ _TEDx Georgetown_
 
 Drawing from my economics education (focusing on inequality, sustainable development, business organization, and entrepreneurship), I’ve also spoken at institutions including Georgetown University and Stanford University, and participated in international development conferences in Abu Dhabi, Kuala Lumpur, and Fukuoka.
 
-Please reach out if you'd like to chat about designing, implementing, and evaluating culinary arts education and food service standards. Improving public school lunches and food education is of particular interest to me. I'm also available for relevant speaking opportunities, panel moderation, or entrepreneurial consulting.
+[Reach out](mailto:inquiries@jonahreider.com) if you'd like to chat about designing, implementing, and evaluating culinary arts education and food service standards. Improving public school lunches and food education is of particular interest to me. I'm also available for relevant speaking opportunities, panel moderation, or entrepreneurial consulting.
 
-### Cannabis
+### Cannabinoids
 
-Cannabis can elevate any hospitality experience. I am the founder and creative director of Alto, the simplest and most delicious way for anyone to enjoy cannabinoids. Our curated daily essentials are infused gently with effective THC and CBD extracts, then packaged into unique single-serving packets. Learn more at [www.altoessentials.com](https://www.altoessentials.com), or [reach out](mailto:inquiries@pith.space) with any inquiries about consultations and advisory services in the cannabis industry.
+Cannabis and hemp have a place in home entertaining routines and the hospitality industry generally. I am the founder and creative director of [Alto](www.altoessentials.com), the simplest and most delicious way for anyone to enjoy cannabinoids. Our curated daily essentials are infused gently with effective THC and CBD extracts, then packaged into unique single-serving packets. Learn more at [www.altoessentials.com](https://www.altoessentials.com), or [reach out](mailto:inquiries@jonahreider.com) with any inquiries about consultations and advisory services in the cannabis industry.
 
 [![](/images/alto_family.jpg)](https://www.altoessentials.com){:.large}
 
@@ -52,7 +51,7 @@ I enjoy occasionally hosting private tours exploring a city's culinary and hospi
 
 Dining and hosting provides a unique opportunity to experience art: I love exploring how a meal can showcase beautiful furniture, glassware, ceramics, music, metalwork, and more. At my Pith Supper Club, I enjoy serving food on tableware made by my mother utilizing functional as well as nonfunctional artworks from friends.
 
-Please reach out for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
+[Reach out](mailto:inquiries@jonahreider.com) for inquiries related to curating or developing a gallery dinner, artist collaborations, or something else entirely surprising and edible.
 
 _Tea Bowls from_ [_Lily Fein_](https://www.lilyfein.com) _at Pith Supper Club:_  
 ![](/images/two-pourers_orig.jpg)
