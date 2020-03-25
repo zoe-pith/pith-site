@@ -1,6 +1,6 @@
 ---
 icon: "/images/pepper_cover.jpg"
-title: Hot Peppers
+title: Vegetable Peelers
 tags:
 - techniques
 important: true
@@ -8,39 +8,31 @@ important: true
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### Spice Up Any Meal
+### **How to make magic with a vegetable peeler.**
 
-#### Preserve peak-season peppers in fat or acid to upgrade everyday cooking all year long.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220-3.jpg)
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
+A cooking tool that does only one thing is best re-gifted to a hoarder with a big house. Goodbye, stray melon ballers, garlic pressers, and hard-boiled egg slicers: all these gizmos promise to make cooking effortless, but are actually pretty time-consuming to use, clean, and store. Instead, allow me to sing the praises of a small, inexpensive, easy-to-clean, and deceptively versatile tool, one that you probably already have: the modest vegetable peeler.
 
-Throughout autumn, while everyone is busy ogling pumpkins, I’m stockpiling hot peppers of all colors and sizes. Beyond their addictive sting of heat, fresh chilies offer an intoxicating array of vegetal, bright, and fruity aromas that you just can’t find in a shaker of cayenne powder.
+It’s nice to have a tool that easily removes tough, flavorless skins from root vegetables. But in my kitchen, it’s used for so much more. A vegetable peeler contains a unique blade that improves any home cook’s daily workflow, unlocking new textures and formats from ingredients in ways that would otherwise only be possible with excellent knife skills, cumbersome machines, or a fancy mandolins.
 
-And what a bang for your buck: at the market this week, three overflowing cups of hot peppers cost as much as three apples.
+Now it’s earned a permanent spot on my kitchen counter—and it should be on yours, too. Here's why a vegetable peeler is every host’s secret weapon.
 
-As a frequent host, I rely on distinctive condiments to riff on dishes that I’m already comfortable cooking. Quickly infusing the complex flavors of hot peppers into olive oil, butter, vinegar, or citrus juice, I’ve developed potent all-in-one seasonings that never go bad.
+### **The one you need costs about $3**
 
-![](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/giphy.gif)
+Believe me: the very best vegetable peeler is plastic, brightly colored, and about $3. The timeless [Kuhn Rikon peeler ](https://www.amazon.com/Kuhn-Rikoma-Original-Peeler-3-Pack/dp/B083PQLPPT/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreiderveggiepeeler0220-20&linkId=169c8a32f5375edd1e69251e650601d1&language=en_US "(opens new window)")is Swiss-designed and one of the cheapest options available. It's the preferred peeler of countless professional chefs, and in a tight home kitchen, where cabinet real-estate counts, it’s even more valuable.
 
-To round out flavor, I always add salt to my concoctions, and occasionally some thinly sliced onion or garlic. If I’m worried about an overpowering spiciness, I’ll first remove the chilies’ intense seeds and membranes, then soak them in cold water for a few minutes.
+![](https://images-na.ssl-images-amazon.com/images/I/81wc3tSnWFL._AC_SL1500_.jpg)
 
-But whether with acid or fat, chili preserves lock in peak-season flavor and lend brightness and zing to whatever I’m cooking. A few containers of these hot pepper infusions —no recipe required— will effortlessly upgrade tired basics and inject energy into your cooking and hosting habits.
+For years, mine has tirelessly cut through sinewy ginger, tender tomatoes, rock-hard cheeses, and everything in between. Because it’s virtually impossible to resharpen the blade on a vegetable peeler, some dulling is inevitable. I love that this one is easy to recycle and repurchase.
 
-### Macerate in lemon or vinegar
+### **Serve hard cheeses the right way**
 
-Acid is criminally underused in home kitchens; it brightens and energizes practically any dish. But when infused with fresh chilies, a spoonful of citrus juice or vinegar becomes one of my favorite ways to blast flavor into anything I’m serving.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-XL-BLOG0220.jpg)
 
-I chop fresh chilies and macerate them in fresh lemon juice or a light vinegar with a fistful of salt. (White vinegar works well, but champagne or apple cider vinegars are even better.) Optionally, a handful of chopped onions boosts savory notes, and slices of citrus can double up zesty aromas.
+Forget flavorless and powdery pre-ground parmesan—hard cheeses are especially succulent when sliced into thin shards that dissolve on the tongue. A vegetable peeler does this effortlessly, but if you attempt these super-thin slices with a knife, any hard cheese is likely to crumble.
 
-This technique turns thinly sliced mild peppers like jalapeños or poblanos into excellent instant pickles. Their vegetal crunch and gentle bite make a perfect garnish to heartier main courses as well as sandwiches and salads.
-
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-4.jpg)
-
-For spicier peppers like wrinkled habaneros or slender thai chiles, I rely more on the resulting spicy brine. Tiny and fiery chilies, sliced in half and left to soak in salty lemon juice, yield a liquid that packs in heat with a rush of fruitiness.
-
-This elixir is great to serve tableside (a superior homemade Tabasco) or to integrate into favorite recipes. Either way, nothing so easily makes a simple dish the star of a dinner party.
-
-When I get my hands on super-fresh fish, for example, I’ll serve it raw in a pool of chili-infused citrus juice and quality olive oil.
+A bowl full of large flakes of nutty mimolette or aged pecorino is a totally respectable appetizer on its own. But when I’m hosting, I love to garnish pastas, salads, grains, and roasted vegetables with thin strips of any hard cheese. Don’t forget to save the rind for a delicious broth or stock.
 
 ![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
 
