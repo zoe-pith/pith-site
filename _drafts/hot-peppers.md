@@ -1,8 +1,9 @@
 ---
-icon: "/images/pepper_cover.jpg"
+icon: "/images/Zuchinni screenshot.png"
 title: Vegetable Peelers
 tags:
 - techniques
+- tools
 important: true
 
 ---
