@@ -1,56 +1,49 @@
 ---
 icon: "/images/Zuchinni screenshot.png"
-title: Vegetable Peelers
+title: Set the Mood
 tags:
 - techniques
-- tools
 important: true
 
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### **How to make magic with a vegetable peeler:**
+#### Set the Mood for a Delicious Dinner:
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220-3.jpg)
+One of the best-kept secrets to entertaining at home is that you don’t need to be a good cook to be a good host. I host about ten meals a week, and whether it’s my supper club, Pith, or an impromptu lunch, I’m certain that the mood matters more than the food.
 
-Goodbye, stray melon ballers, garlic pressers, and hard-boiled egg slicers: a cooking tool that does only one thing is best re-gifted to a hoarder with a big house.  Instead, allow me to sing the praises of a small, inexpensive, easy-to-clean, and deceptively versatile tool, one that you probably already have: the modest vegetable peeler.
+Most of my friends, it seems, avoid cooking and hosting at home out of performance anxiety. How can they, on moderate budgets and with limited time, possibly find the correct ingredients, the proper tools, let alone the ideal natural light, all needed to impeccably reproduce and document some latest popular recipe? They can’t — but it’s a myth that that a great meal requires flawlessly cooked food.
 
-It’s nice to have a tool that easily removes tough, flavorless skins from root vegetables. But in my kitchen, it’s used for so much more. A vegetable peeler contains a unique blade that improves any home cook’s daily workflow, unlocking new textures and formats from ingredients in ways that would otherwise only be possible with excellent knife skills, cumbersome machines, or a fancy mandolins.
+When I host, I end up devoting more energy to setting the right mood for a meal than I ever do actually cooking it. In the process, I’ve found myself less stressed, and my guests happier. It’s a more hospitable approach, less about showing off skills and more about receiving people as generously as possible.
 
-Now it’s earned a permanent spot on my kitchen counter—and it should be on yours, too. Here's why a vegetable peeler is every host’s secret weapon.
+#### **Set a glorious table**
 
-#### **The one you need costs about $3**
+No matter what space you’re hosting in, embellish your dining table and draw attention to it.
 
-Surprisingly, the very best vegetable peeler is plastic, brightly colored, and about $3. The timeless [Kuhn Rikon peeler ](https://www.amazon.com/Kuhn-Rikoma-Original-Peeler-3-Pack/dp/B083PQLPPT/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreiderveggiepeeler0220-20&linkId=169c8a32f5375edd1e69251e650601d1&language=en_US "(opens new window)")is Swiss-designed and one of the cheapest options available. It's the preferred peeler of countless professional chefs, and in a tight home kitchen where cabinet real-estate counts, it’s even more valuable.
+I try not to overcrowd the table by keeping each place setting minimal. Everyone gets a fork, knife, plate, cup, and wine glass, and I don’t change these throughout the meal. Tablecloths are expensive and easy to stain, but simple linen napkins add comfort and elegance. Having ice on hand for water and cocktails is a free way to boost tableside luxury.
 
-![](https://images-na.ssl-images-amazon.com/images/I/81wc3tSnWFL._AC_SL1500_.jpg)
+Flowers can also add celebratory, sculptural, and organic bursts of beauty. I avoid overpriced technicolor ones in favor of simple bunches of wildflowers. One bunch can become three or four smaller arrangements that fill up a table yet keep guest’s faces visible to one another.
 
-For years, mine has tirelessly cut through sinewy ginger, tender tomatoes, rock-hard cheeses, and everything in between. Because it’s virtually impossible to resharpen the blade on a vegetable peeler, some dulling is inevitable. I love that this one is easy to recycle and repurchase.
+And don’t forget that final, necessary touch to any dinner table: a few bowls of ready-to-eat snacks. Whether olives, nuts, or bread and butter, they leave me free to finish preparing the main dishes as guests arrive.
 
-#### Serve hard cheeses the right way:
+#### Add ambience with dim lights and candles
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-XL-BLOG0220.jpg)
+Experimenting with lighting in your dining room will make any meal feel more intimate. Nearly all restaurants have dim lighting and tables with flickering candles for good reason — they draw attention away from a room’s messier corners and instead towards the table and the faces sitting around it.
 
-Forget flavorless and powdery pre-ground parmesan—hard cheeses are especially succulent when sliced into thin shards that dissolve on the tongue. A vegetable peeler does this effortlessly, but if you attempt these super-thin slices with a knife, any hard cheese is likely to crumble.
+More than anything, I recommend switching your lightbulbs to dimmable ones that [glow a delicate golden hue](https://amzn.to/2TAuZED), mimicking the warmth of natural flame. Avoid pointing all the light directly at your table, and perhaps place one or two floor lamps in corners to help light the room gently and evenly.
 
-A bowl full of large flakes of nutty mimolette or aged pecorino is a totally respectable appetizer on its own. But when I’m hosting, I love to garnish pastas, salads, grains, and roasted vegetables with thin strips of any hard cheese. Don’t forget to save the rind for a delicious broth or stock.
+I’ve also invested in [giant candles](https://amzn.to/3anmALC) that burn for dozens of dinners. Fake candles just don’t cut it, and there’s a satisfying decadence to candles (and wine bottles) wearing down slowly throughout a meal. Plus, leftover wax is surprisingly easy to clean with a spatula and hot water.
 
-#### Use it to upgrade simple vegetable dishes:
+#### Bump the music
 
-Armed with a quality peeler, I’m able to quickly upgrade practically any vegetable in ways that would otherwise require complicated knife techniques. I love to shave squash, cucumbers, big radishes, or zucchini into long, fat strips, then dress them simply with a zingy vinaigrette for a beautiful salad or side dish.
+Researchers call it “sonic seasoning:” studies consistently show that food really tastes better in a room with music playing. Background music can also lessen social inhibitions, making guests more comfortable to chat with one another. avoiding awkward pauses when I have to tend to dirty dishes or undercooked meat.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220-3.jpg)
+Whether you’re bumping music from your phone or a giant hi-fi system, pick a playlist with hours of music that you love, and check the volume ahead of time so that you don’t have to anxiously fiddle with the music throughout a meal. (If you want to tune into the sound of my own dinner parties, [here is the playlist](https://open.spotify.com/playlist/6WF8xZ4XMItYISVjbSzGKc?si=eMesobU6REqqlz_4MncOeg) I use practically every time I host.) Whatever you blast, rest assured it will concretely improve guests’ perception of your food.
 
-Other times, I’ll use my peeler to shred big carrots into long strands. Tangled together with raisins, pine nuts, and harissa or spicy tomato paste, it becomes a delicious slaw that’s as good with grilled meats as it is stuffed into a sandwich with hummus. And even a Caesar salad can be made particularly crispy by substituting lettuce for long strips of celery.
+**Don’t fixate on mistakes**
 
-Fruits can undergo the same treatment: big wedges of melon or apple can be sliced thin using the peeler and seasoned with fresh mint, lemon juice, salt, and a hit of chili powder for a delicious savory side or refreshing dessert.
+How you bring a dish to the table can make or break a meal far more than the dish itself. Nervously apologizing for overcooked chicken doesn’t exactly set the best mood**.** Cooking is hard — have pride in your creations!
 
-#### And way, way more…
+When I radiate pride over a dish, I’m certain guests enjoy it more. Sometimes this means brightly reclassifying burnt carrots as charred. Sometimes it means bitting my tongue about overcooked pasta. Even if you have no music, no lights, even no damn table, just remember: if you’re happy, your guests will be.
 
-A quality peeler is an indispensable blade that any home cook can confidently whip out to improve daily workflow and to transform humble ingredients into more interesting formats for impressive sides, salads and garnishes.
-
-At the beginning of a meal, I’ll use my peeler to quickly carve long strips of citrus peels to garnish cocktails. And for dessert, I’ll shave delicate curls off a block of chocolate. These chocolatey wisps look beautiful sprinkled over a frosted cake, and taste great over a bowl of yogurt or ice cream.
-
-Descaling a whole fish? A vegetable peeler can handle it with ease. The point is, give the same level of respect and attention to every little gadget taking up space in your cabinets, and you’ll quickly realize that expensive, single use gadgets are not worth it.
-
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220.jpg)
+Is it professional suicide for a home cooking columnist to claim that cooking may not actually matter that much? I don't think so — imperfection is in fact exactly what makes cooking at home so relaxing and fun. A bean stew, a $10 bottle of bourbon, and a smile will get you way further than anxiously following a trendy recipe.
