@@ -12,7 +12,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220-3.jpg)
 
-A cooking tool that does only one thing is best re-gifted to a hoarder with a big house. Goodbye, stray melon ballers, garlic pressers, and hard-boiled egg slicers: all these gizmos promise to make cooking effortless, but are actually pretty time-consuming to use, clean, and store. Instead, allow me to sing the praises of a small, inexpensive, easy-to-clean, and deceptively versatile tool, one that you probably already have: the modest vegetable peeler.
+Goodbye, stray melon ballers, garlic pressers, and hard-boiled egg slicers: a cooking tool that does only one thing is best re-gifted to a hoarder with a big house.  Instead, allow me to sing the praises of a small, inexpensive, easy-to-clean, and deceptively versatile tool, one that you probably already have: the modest vegetable peeler.
 
 It’s nice to have a tool that easily removes tough, flavorless skins from root vegetables. But in my kitchen, it’s used for so much more. A vegetable peeler contains a unique blade that improves any home cook’s daily workflow, unlocking new textures and formats from ingredients in ways that would otherwise only be possible with excellent knife skills, cumbersome machines, or a fancy mandolins.
 
@@ -20,7 +20,7 @@ Now it’s earned a permanent spot on my kitchen counter—and it should be on y
 
 ### **The one you need costs about $3**
 
-Believe me: the very best vegetable peeler is plastic, brightly colored, and about $3. The timeless [Kuhn Rikon peeler ](https://www.amazon.com/Kuhn-Rikoma-Original-Peeler-3-Pack/dp/B083PQLPPT/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreiderveggiepeeler0220-20&linkId=169c8a32f5375edd1e69251e650601d1&language=en_US "(opens new window)")is Swiss-designed and one of the cheapest options available. It's the preferred peeler of countless professional chefs, and in a tight home kitchen, where cabinet real-estate counts, it’s even more valuable.
+Surprisingly, the very best vegetable peeler is plastic, brightly colored, and about $3. The timeless [Kuhn Rikon peeler ](https://www.amazon.com/Kuhn-Rikoma-Original-Peeler-3-Pack/dp/B083PQLPPT/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreiderveggiepeeler0220-20&linkId=169c8a32f5375edd1e69251e650601d1&language=en_US "(opens new window)")is Swiss-designed and one of the cheapest options available. It's the preferred peeler of countless professional chefs, and in a tight home kitchen where cabinet real-estate counts, it’s even more valuable.
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81wc3tSnWFL._AC_SL1500_.jpg)
 
@@ -34,22 +34,22 @@ Forget flavorless and powdery pre-ground parmesan—hard cheeses are especially 
 
 A bowl full of large flakes of nutty mimolette or aged pecorino is a totally respectable appetizer on its own. But when I’m hosting, I love to garnish pastas, salads, grains, and roasted vegetables with thin strips of any hard cheese. Don’t forget to save the rind for a delicious broth or stock.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
+### Use it to upgrade simple vegetable dishes
 
-This same dressing works beautifully over sliced ripe tomatoes, or mixed into a large chopped salad.
+Armed with a quality peeler, I’m able to quickly upgrade practically any vegetable in ways that would otherwise require complicated knife techniques. I love to shave squash, cucumbers, big radishes, or zucchini into long, fat strips, then dress them simply with a zingy vinaigrette for a beautiful salad or side dish.
 
-Chili-infused acids also cut through rich stews, add a burst of flavor to bland poached fish, and perk up an otherwise quotidian roast chicken. And with a splash of chili vinegar mixed in, thick yogurt becomes a zippy condiment of its own, perfect for soup-swirling and bread-dunking.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220-3.jpg)
 
-### How to preserve them in fat
+Other times, I’ll use my peeler to shred big carrots into long strands. Tangled together with raisins, pine nuts, and harissa or spicy tomato paste, it becomes a delicious slaw that’s as good with grilled meats as it is stuffed into a sandwich with hummus. And even a Caesar salad can be made particularly crispy by substituting lettuce for long strips of celery.
 
-Fats also do an excellent job at absorbing and preserving complex flavor from fresh hot peppers. I gently simmer olive oil or butter with salt, garlic cloves, and roughly chopped deseeded chilies.
+Fruits can undergo the same treatment: big wedges of melon or apple can be sliced thin using the peeler and seasoned with fresh mint, lemon juice, salt, and a hit of chili powder for a delicious savory side or refreshing dessert.
 
-Feel free to add spices—toasted cumin and coriander; crushed ginger and garlic, or fennel seed and citrus zest—but in general, I like to keep my spicy preserves relatively elemental, and thus, versatile.
+### And way, way more…
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-5.jpg)
+A quality peeler is an indispensable blade that any home cook can confidently whip out to improve daily workflow and to transform humble ingredients into more interesting formats for impressive sides, salads and garnishes.
 
-Regardless, after about ten minutes of simmering, I let the infused mixture cool and reserve it in my fridge. A pat of chili butter in the pan upgrades everything from grilled cheese sandwiches to seared scallops to fried eggs. Chili-infused oil is perfect for drizzling over pasta, stews, and soups.
+At the beginning of a meal, I’ll use my peeler to quickly carve long strips of citrus peels to garnish cocktails. And for dessert, I’ll shave delicate curls off a block of chocolate. These chocolatey wisps look beautiful sprinkled over a frosted cake, and taste great over a bowl of yogurt or ice cream.
 
-For a thicker and sweeter condiment, try adding some roughly chopped carrots in with the peppers, fat, and salt. Cook covered, at low heat, until the carrots have softened. Then mush it up into an extraordinary paste using a mortar and pestle, an immersion blender, or even a fork.
+Descaling a whole fish? A vegetable peeler can handle it with ease. The point is, give the same level of respect and attention to every little gadget taking up space in your cabinets, and you’ll quickly realize that expensive, single use gadgets are not worth it.
 
-So in short, make hot pepper season last all year long: fill your fridge with preservations of any fresh chilies you can get your hands on.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fways-to-use-a-veggie-peeler-FT-BLOG0220.jpg)
