@@ -40,7 +40,7 @@ Researchers call it “sonic seasoning:” studies consistently show that food r
 
 Whether you’re bumping music from your phone or a giant hi-fi system, pick a playlist with hours of music that you love, and check the volume ahead of time so that you don’t have to anxiously fiddle with the music throughout a meal. (If you want to tune into the sound of my own dinner parties, [here is the playlist](https://open.spotify.com/playlist/6WF8xZ4XMItYISVjbSzGKc?si=eMesobU6REqqlz_4MncOeg) I use practically every time I host.) Whatever you blast, rest assured it will concretely improve guests’ perception of your food.
 
-**Don’t fixate on mistakes**
+#### Don’t fixate on mistakes
 
 How you bring a dish to the table can make or break a meal far more than the dish itself. Nervously apologizing for overcooked chicken doesn’t exactly set the best mood**.** Cooking is hard — have pride in your creations!
 
