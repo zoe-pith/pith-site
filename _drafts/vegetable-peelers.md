@@ -1,5 +1,5 @@
 ---
-icon: "/images/Zuchinni screenshot.png"
+icon: "/images/setmood.png"
 title: Set the Mood
 tags:
 - techniques
