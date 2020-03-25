@@ -12,7 +12,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 One of the best-kept secrets to entertaining at home is that you don’t need to be a good cook to be a good host. I host about ten meals a week, and whether it’s my supper club, Pith, or an impromptu lunch, I’m certain that the mood matters more than the food.
 
-Most of my friends, it seems, avoid cooking and hosting at home out of performance anxiety. How can they, on moderate budgets and with limited time, possibly find the correct ingredients, the proper tools, let alone the ideal natural light, all needed to impeccably reproduce and document some latest popular recipe? They can’t — but it’s a myth that that a great meal requires flawlessly cooked food.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F03%2Fjonah-reider-hosting-tips-FT-BLOG0320-2000.jpg)Most of my friends, it seems, avoid cooking and hosting at home out of performance anxiety. How can they, on moderate budgets and with limited time, possibly find the correct ingredients, the proper tools, let alone the ideal natural light, all needed to impeccably reproduce and document some latest popular recipe? They can’t — but it’s a myth that that a great meal requires flawlessly cooked food.
 
 When I host, I end up devoting more energy to setting the right mood for a meal than I ever do actually cooking it. In the process, I’ve found myself less stressed, and my guests happier. It’s a more hospitable approach, less about showing off skills and more about receiving people as generously as possible.
 
@@ -20,7 +20,7 @@ When I host, I end up devoting more energy to setting the right mood for a meal 
 
 No matter what space you’re hosting in, embellish your dining table and draw attention to it.
 
-I try not to overcrowd the table by keeping each place setting minimal. Everyone gets a fork, knife, plate, cup, and wine glass, and I don’t change these throughout the meal. Tablecloths are expensive and easy to stain, but simple linen napkins add comfort and elegance. Having ice on hand for water and cocktails is a free way to boost tableside luxury.
+![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2019%2F10%2Fjonah-reider-cloth-napkins-ft-blog1019.jpg)I try not to overcrowd the table by keeping each place setting minimal. Everyone gets a fork, knife, plate, cup, and wine glass, and I don’t change these throughout the meal. Tablecloths are expensive and easy to stain, but simple linen napkins add comfort and elegance. Having ice on hand for water and cocktails is a free way to boost tableside luxury.
 
 Flowers can also add celebratory, sculptural, and organic bursts of beauty. I avoid overpriced technicolor ones in favor of simple bunches of wildflowers. One bunch can become three or four smaller arrangements that fill up a table yet keep guest’s faces visible to one another.
 
