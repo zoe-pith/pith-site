@@ -3,7 +3,8 @@ icon: "/images/mortarcover.png"
 title: Mortar and Pestle
 tags:
 - techniques
-important: true
+- Tools
+important: false
 
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
