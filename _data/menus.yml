@@ -8,14 +8,6 @@
         url: "#recent-posts"
       - title: Select Press
         url: "#select-press"
-- title: Pith Supper Club
-  url: "?page=pith"
-  closemenu: true
-  children:
-      - title: Current Menu
-        url: "#current-menu"
-      - title: Reservations
-        url: "#reservations"
 - title: Writing
   url: "?page=diy"
   children:
@@ -37,7 +29,14 @@
       - title: Search
         url: "?page=diy&tag=search"
         noscroll: true
-
+- title: Pith Supper Club
+  url: "?page=pith"
+  closemenu: true
+  children:
+      - title: Current Menu
+        url: "#current-menu"
+      - title: Reservations
+        url: "#reservations"
 - title: Projects
   url: "?page=projects"
   children:
