@@ -16,7 +16,7 @@
         url: "#current-menu"
       - title: Reservations
         url: "#reservations"
-- title: Do It Yourself
+- title: Writing
   url: "?page=diy"
   children:
       - title: All
