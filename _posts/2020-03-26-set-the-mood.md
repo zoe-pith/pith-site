@@ -9,9 +9,9 @@ important: false
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### An Ancient Cooking Tool Deserves Your Respect
+#### The Ancient Cooking Tool That Deserves Your Respect
 
-The best upgrade to your cooking routine was invented about 37,000 years ago. The mortar and pestle_—_an almost comically analog stone bowl and stick_—_is a timeless staple in every cuisine.
+The best upgrade to your cooking routine was invented about 37,000 years ago. The mortar and pestle —an almost comically analog stone bowl and stick— is a timeless staple in every cuisine.
 
 ![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fjonah-reider-mortar-and-pestle-FT-BLOG1219-2.jpg)Above all, using a mortar and pestle really taps into the primal joys of cooking: there’s something exhilarating, even cathartic, about furiously transforming food from one form to another with nothing but a small stone.
 
@@ -43,4 +43,4 @@ Bludgeoning a head of garlic with a pestle immediately breaks it into individual
 
 Once I’ve improvised an intense pulp in my mortar, I gently fold in something soft and creamy. Olive oil and citrus juice suffice for bright dressings and marinades. But adding avocado, soft roasted peppers, broiled cherry tomatoes, or thick yogurt will result in a complex no-recipe sauce or dip.
 
-Mash everything up to the texture of your liking, season it with salt and acid to taste, and triumphantly bring the mortar to a table of salivating guests. Voilà: a surefire upgrade to your usual roast chicken, stew, or sautéed veggies—no wifi-connected, sentient blender necessary.
+Mash everything up to the texture of your liking, season it with salt and acid to taste, and triumphantly bring the mortar to a table of salivating guests. Voilà: a surefire upgrade to your usual roast chicken, stew, or sautéed veggies—no wifi-connected sentient blender necessary.
