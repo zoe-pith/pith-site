@@ -4,7 +4,7 @@ title: Writing
 permalink: "/diy"
 
 ---
-Tap into the pleasure of do-it-yourself hospitality: here I have compiled my writing on cooking, hosting, travel, and more.
+Tap into the pleasure of do-it-yourself hospitality: here is some of my writing on cooking, hosting, travel, and more.
 
 {% if site.tags != "" %}
 {% include tag.html %}
