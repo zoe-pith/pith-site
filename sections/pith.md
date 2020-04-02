@@ -4,7 +4,7 @@ title: Pith Supper Club
 permalink: "/pith"
 
 ---
-Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
+Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City. _Currently on hold due to the COVID19 public health crisis. Stay healthy, and cook at home to stay sane!_
 
 ![](/images/pith-illustrations.png)
 
@@ -14,9 +14,9 @@ Sesame sourdough bread; soft salted butter; plenty of radishes; green olives.
 
 Smashed peas and mint on toast; raw fluke with cucumber and shiso; raw beef with pickled coriander berries.
 
-Little lettuces with lots of dill and shallots; charred spring onions with vinegar and walnuts; tender asparagus with fresh bay leaf.
+Little lettuces with lots of dill and shallots; charred spring onions with vinegar and walnuts; steamed asparagus with golden butter and bay leaf.
 
-Tilefish and fava beans cooked gently in a smoky rhubarb vinaigrette; crispy potatoes with yogurt and fish roe; tangles of lemony watercress.
+Tilefish and fava beans cooked gently in a smoky rhubarb vinaigrette; crispy potatoes with thick cream; lemony garlicky greens.
 
 Rhubarb crumble; brown butter ice cream.
 
