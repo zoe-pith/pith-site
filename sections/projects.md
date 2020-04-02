@@ -13,9 +13,9 @@ Let’s collaborate on something delicious.
 ![](/images/elite_daily.jpg){:.large}
 ![](/images/cnbc_jonah.jpg){:.large}
 
-### Hospitality Consultation
+### Hospitality & Brand Consulting
 
-Private events? Research & development for a product, venue, event, or campaign? Select clients: Google, Stella Artois, KitchenAid, Conde Nast, L’Oreal, Sam Adams, Land Rover.
+Private events? Research & development for a product, venue, experience, or campaign? _Select clients: Google, Stella Artois, KitchenAid, Conde Nast, L’Oreal, Sam Adams, Land Rover._
 
   
 _![](/images/private_dining.jpg)_{:.large}
