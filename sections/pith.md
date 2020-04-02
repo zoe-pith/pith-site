@@ -4,7 +4,9 @@ title: Pith Supper Club
 permalink: "/pith"
 
 ---
-Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City. _Currently on hold due to the COVID19 public health crisis. Stay healthy, and cook at home to stay sane!_
+Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner for six guests out of my apartment in New York City.
+
+_Currently on hold due to the COVID19 public health crisis. Stay healthy, and cook at home to stay sane!_
 
 ![](/images/pith-illustrations.png)
 
