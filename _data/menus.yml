@@ -1,13 +1,6 @@
 - title: About
   url: "?page=about"
   closemenu: true
-  children:
-      - title: Subscribe
-        url: "#subscribe"
-      - title: Recent Posts
-        url: "#recent-posts"
-      - title: Select Press
-        url: "#select-press"
 - title: Writing
   url: "?page=diy"
   children:
