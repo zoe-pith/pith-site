@@ -11,9 +11,9 @@ I live in New York City, where I run the Pith Supper Club out of my apartment an
 
 ### Kitchen Essentials
 
-More than anything, people ask me what stuff they should get for their kitchen. [Here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
+More than anything, people ask me what stuff they should get for their kitchen. So: [here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
 
-From containers to knives, from a cutting board to the best vegetable peeler, I've selected the least expensive objects that meet my needs in form _and_ function.
+From containers to knives, from a cutting board to the best vegetable peeler, I've selected the most affordable, functional, and beautiful objects that will upgrade your home cooking workflow.
 
 ### Subscribe
 
@@ -22,8 +22,8 @@ Sign up below to receive sporadic notifications about supper club availability a
 <form accept-charset="UTF-8" action="https://tickets.jonahreider.com/pith/supper-club/interested_users#thanks" id="subscribe-form" method="post" target="_blank">
 <input name="utf8" type="hidden" value="✓">
 <input name="authenticity_token" type="hidden" value="jqNrxffRtVFMc3MQfO6akJeXISo8jfPxJNObXzKi6gY=">
-<input placeholder="Name" id="name" name="interested_user[name]" type="text">
-<input placeholder="Email" id="email" name="interested_user[email]" type="email">
+<input placeholder="Name" id="name" name="interested_user\[name\]" type="text">
+<input placeholder="Email" id="email" name="interested_user\[email\]" type="email">
 <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space"> </p>
