@@ -33,18 +33,16 @@
 - title: Projects
   url: "?page=projects"
   children:
-      - title: "Consultations"
-        url: "#hospitality-consultation"
-      - title: "Education"
-        url: "#education"
-      - title: "Tours"
-        url: "#tours"
-      - title: "Art"
-        url: "#art"
-      - title: "Cannabis"
-        url: "#cannabis"
       - title: "Media"
         url: "#media"
+      - title: "Consultations"
+        url: "#hospitality--brand-consulting"
+      - title: "Education"
+        url: "#education"
+      - title: "Cannabis"
+        url: "#cannabinoids"
+      - title: "Art"
+        url: "#art"
 - title: Contact
   url: "?page=contact"
   
