@@ -1,5 +1,5 @@
 ---
-icon: "/images/duckbreast.png"
+icon: "/images/duckbreast.jpg"
 title: Duck Breasts
 tags:
 - techniques

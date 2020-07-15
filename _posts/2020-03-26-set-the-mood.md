@@ -1,5 +1,5 @@
 ---
-icon: "/images/mortarcover.png"
+icon: "/images/mortarcover.jpg"
 title: Mortar and Pestle
 tags:
 - techniques

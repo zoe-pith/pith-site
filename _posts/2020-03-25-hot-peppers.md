@@ -1,5 +1,5 @@
 ---
-icon: "/images/Zuchinni screenshot.png"
+icon: "/images/Zuchinni-screenshot.jpg"
 title: Vegetable Peelers
 tags:
 - techniques

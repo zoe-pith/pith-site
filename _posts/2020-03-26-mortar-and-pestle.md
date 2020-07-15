@@ -1,5 +1,5 @@
 ---
-icon: "/images/stovetopsmoking.png"
+icon: "/images/stovetopsmoking.jpg"
 title: Stovetop Smoking
 tags:
 - techniques
@@ -43,4 +43,4 @@ And onions and beets can go for an hour or more of direct stovetop flame. Their 
 
 Almost any vegetable recipe you already enjoy will benefit from some stovetop smokiness — so get exploring. Just one note of advice: if you, like me, have no ventilation hood, open your windows before getting started 💨
 
-![](/images/stovetopsmoking.png)
+![](/images/stovetopsmoking.jpg)

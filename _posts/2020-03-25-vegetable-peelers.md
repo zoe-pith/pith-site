@@ -1,5 +1,5 @@
 ---
-icon: "/images/setmood.png"
+icon: "/images/setmood.jpg"
 title: Set the Mood
 tags:
 - techniques
