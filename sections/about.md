@@ -7,13 +7,13 @@ permalink: "/about"
 Anyone can host, and everyone should.
 ![pith]({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
-I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through my cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
+I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
 ### Kitchen Essentials
 
 More than anything, people ask me what stuff they should get for their kitchen. So: [here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
 
-From containers to knives, from a cutting board to the best vegetable peeler, I've selected the most affordable, functional, and beautiful objects that will upgrade your home cooking workflow.
+From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
 
 ### Subscribe
 
