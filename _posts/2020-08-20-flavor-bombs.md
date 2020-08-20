@@ -1,5 +1,5 @@
 ---
-icon: "/images/flavorbombsmall"
+icon: "/images/flavorbombsmall.png"
 title: Flavor Bombs
 tags:
 - techniques
