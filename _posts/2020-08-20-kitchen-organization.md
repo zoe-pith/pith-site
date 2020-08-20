@@ -1,5 +1,5 @@
 ---
-icon: "/images/kitchenorganization"
+icon: "/images/kitchenorganization.png"
 title: Kitchen Organization
 tags:
 - techniques
