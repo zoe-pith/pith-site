@@ -22,8 +22,8 @@ Sign up below to receive sporadic notifications about supper club availability a
 <form accept-charset="UTF-8" action="https://tickets.jonahreider.com/pith/supper-club/interested_users#thanks" id="subscribe-form" method="post" target="_blank">
 <input name="utf8" type="hidden" value="✓">
 <input name="authenticity_token" type="hidden" value="jqNrxffRtVFMc3MQfO6akJeXISo8jfPxJNObXzKi6gY=">
-<input placeholder="Name" id="name" name="interested_user\[name\]" type="text">
-<input placeholder="Email" id="email" name="interested_user\[email\]" type="email">
+<input placeholder="Name" id="name" name="interested_user[name]" type="text">
+<input placeholder="Email" id="email" name="interested_user[email]" type="email">
 <input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space"> </p>
