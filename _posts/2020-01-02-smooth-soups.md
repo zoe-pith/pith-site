@@ -11,7 +11,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ## Secrets to a flavorful, velvety  soup—no matter what's in your pantry.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119.jpg)
+![Bowls of soup on a table, one green with basil leaves, one orange with yoghurt and herbs. A slice of toasted sourdough sits on top of one of the bowls](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119.jpg)
 It never fails to amaze me how delicious and luxurious a single ingredient can become when cooked properly. Velvety, blended soups are a perfect example. They’re just as simple as their chunkier, dozen-ingredient counterparts, and they are indisputably more elegant. Inexpensive and healthy, these soups can be made quickly, well ahead of mealtime.
 
 I prefer to serve food family-style when I'm hosting, but individual bowls of soup are the perfect way to dress up a dinner party. Soups are always easy to keep warm while tending to other dishes, and leftovers make a reliably fantastic solo meal.
@@ -28,7 +28,7 @@ The sweetness and umami of sautéed onions are elemental when building flavor. I
 
 There’s a time and a place to stew together every dying vegetable scrap in sight, but this is not it. For a clean and focused result, just pick one main ingredient to highlight. **Practically anything will work.** Often I look for something seasonal at the farmer’s market that catches my eye — lately, that means cauliflower, or squash, in summer it was zucchini, or corn — but year-round, I happily turn to a bag of frozen peas.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-4.jpg)
+![A hand sprinkling chopped basil and lemon zest onto a thick yellow-orange soup with a dollop of yoghurt](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-4.jpg)
 Whatever ingredient it is, stir in about three cups, roughly chopped if it’s large. Season to taste with more salt (usually plenty of black peppercorn too). Continue to sauté five minutes, stirring occasionally to avoid burnt bits sticking to the pot.
 
 #### Skip the dairy
@@ -57,12 +57,12 @@ I like to top every bowl of hot soup with a garnish that adds a burst of flavor,
 
 For example, a delicate cauliflower soup takes on an entirely different tone when swirled with a spoonful of dark, curry-powder infused olive oil.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-3.jpg)
+![A bowl of cream-colored soup with dark-orange oil swirled into it. Toasted sourdough sits next to it](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-3.jpg)
 
 The zucchini and basil soup is great with a few small leaves of basil — or simply with peppery olive oil drizzled on top.  
   
-![](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-2.jpg)
+![Bowl of thick green soup with basil leaves and toasted sourdough](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-2.jpg)
 
 And a rich squash, carrot, or pumpkin soup will benefit from a swirl of tangy yogurt, or a sprinkle of a gremolata of grated citrus zest, finely chopped parsley, pepper, and salt.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-5.jpg)
+![Bowl of thick yellow-orange soup with a dollop of yoghurt and chopped basil and lemon zest](https://cdn-image.foodandwine.com/sites/default/files/1574449750/jonah-reider-blended-soups-FT-BLOG1119-5.jpg)

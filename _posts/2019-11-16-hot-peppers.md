@@ -12,7 +12,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 #### Preserve peak-season peppers in fat or acid to upgrade everyday cooking all year long.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
+![A tub of hot peppers of various shapes and colors](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119.jpg)
 
 Throughout autumn, while everyone is busy ogling pumpkins, I’m stockpiling hot peppers of all colors and sizes. Beyond their addictive sting of heat, fresh chilies offer an intoxicating array of vegetal, bright, and fruity aromas that you just can’t find in a shaker of cayenne powder.
 
@@ -20,7 +20,7 @@ And what a bang for your buck: at the market this week, three overflowing cups o
 
 As a frequent host, I rely on distinctive condiments to riff on dishes that I’m already comfortable cooking. Quickly infusing the complex flavors of hot peppers into olive oil, butter, vinegar, or citrus juice, I’ve developed potent all-in-one seasonings that never go bad.
 
-![](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/giphy.gif)
+![An animated photo showing tubs of vegetables and the following labels appearing on top of each: "cherry peppers, olive oil, salt", "cascabel, lemon slices, salt, lemon juice", "poblano, onion, salt, apple cider vinegar", "jalapeño, salt, white vinegar", "cumari do paro, salt, shallots, champagne vinegar"](https://media.giphy.com/media/Ypq2XP5CZHAinlf8EZ/giphy.gif)
 
 To round out flavor, I always add salt to my concoctions, and occasionally some thinly sliced onion or garlic. If I’m worried about an overpowering spiciness, I’ll first remove the chilies’ intense seeds and membranes, then soak them in cold water for a few minutes.
 
@@ -34,7 +34,7 @@ I chop fresh chilies and macerate them in fresh lemon juice or a light vinegar w
 
 This technique turns thinly sliced mild peppers like jalapeños or poblanos into excellent instant pickles. Their vegetal crunch and gentle bite make a perfect garnish to heartier main courses as well as sandwiches and salads.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-4.jpg)
+![Tub of preserved japaleño slices next to avocado toast garnished with those peppers](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-4.jpg)
 
 For spicier peppers like wrinkled habaneros or slender thai chiles, I rely more on the resulting spicy brine. Tiny and fiery chilies, sliced in half and left to soak in salty lemon juice, yield a liquid that packs in heat with a rush of fruitiness.
 
@@ -42,7 +42,7 @@ This elixir is great to serve tableside (a superior homemade Tabasco) or to inte
 
 When I get my hands on super-fresh fish, for example, I’ll serve it raw in a pool of chili-infused citrus juice and quality olive oil.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
+![Tub of preserved lemon slices next to raw pinkish fish in a pool of oil](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-3.jpg)
 
 This same dressing works beautifully over sliced ripe tomatoes, or mixed into a large chopped salad.
 
@@ -54,7 +54,7 @@ Fats also do an excellent job at absorbing and preserving complex flavor from fr
 
 Feel free to add spices—toasted cumin and coriander; crushed ginger and garlic, or fennel seed and citrus zest—but in general, I like to keep my spicy preserves relatively elemental, and thus, versatile.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-5.jpg)
+![Plates of raw fish in oil, sliced green tomatoes in oil, avocado toast with jalapeño garnish and salad leaves](https://cdn-image.foodandwine.com/sites/default/files/1572892470/preserved-hot-peppers-FT-BLOG1119-5.jpg)
 
 Regardless, after about ten minutes of simmering, I let the infused mixture cool and reserve it in my fridge. A pat of chili butter in the pan upgrades everything from grilled cheese sandwiches to seared scallops to fried eggs. Chili-infused oil is perfect for drizzling over pasta, stews, and soups.
 

@@ -14,7 +14,7 @@ As much as I love browsing esoteric cookbooks (I see you, 6-month-aged fish garu
 
 I think that this improvisational attitude towards cooking is common, but often exasperating without the confidence that good tools, techniques, and a bit of organization can bring. And though I have plenty of suggestions for blenders, knives, and soufflé techniques, I’d encourage anyone to begin refining their home-cooking workflow with something more elemental: containers.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1567546370/Jonah-Reider-Containers-2.jpg){:.medium}](https://amzn.to/311G6cb)
+[![Cupboards containing round plastic tubs of ingredients with labels written on masking tape](https://cdn-image.foodandwine.com/sites/default/files/1567546370/Jonah-Reider-Containers-2.jpg){:.medium}](https://amzn.to/311G6cb)
 
 You’ve probably eaten take-out from these containers. But next time you’re at a trendy restaurant, peek into the kitchen — I guarantee you’ll see them, impeccably labeled and employed religiously for measuring, prepping, cooking, and storage. Unlike many other obsessive restaurant protocols, this one really works wonders in any home kitchen.
 
@@ -32,12 +32,12 @@ The containers come in three sizes (8 oz. half pints, 16 oz. pints, and 32 oz. q
 
 ### Storing Herbs
 
-![](https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1567546370/Jonah-Reider-Containers-4.jpg?itok=Ocofq3p8){:.medium}
+![Tubs of dill, berries, mint, thyme](https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1567546370/Jonah-Reider-Containers-4.jpg?itok=Ocofq3p8){:.medium}
 Say goodbye to brown, slimy, two-day-old basil — pick herbs, wrap them in a damp paper towel, and refrigerate them in a small deli container. You’ll double or triple their shelf life.
 
 ### Beverages
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1567546370/Jonah-Reider-Containers-5.jpg){:.medium}
+![Tubs of coffee and grain tea on counter](https://cdn-image.foodandwine.com/sites/default/files/1567546370/Jonah-Reider-Containers-5.jpg){:.medium}
 I brew a rich and exquisitely smooth iced coffee by letting ⅓ cup of roughly ground coffee beans soak in a one quart deli container of water for one day. Strain it through a paper or metal filter before drinking. I make iced tea the same way (three tea bags or two tablespoons of loose leaf tea per one quart container of water), and even add a lovely zing to tap water by letting it get icy cold in a quart container with a few orange peels.
 
 ### Salad dressing
@@ -62,6 +62,6 @@ The best kitchen tricks are those that are inexpensive, simple, and endlessly ve
 
 Buy a set of 44 BPA-free deli containers in three sizes [on Amazon for \$18](https://amzn.to/2H1Ic44). Add a [Sharpie and a roll of masking tape](https://amzn.to/2Z3BGzG) if you want to go full pro.
 
-![](https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
+![Tubs of leftovers, including gravy, cornbread, mashed potatoes](https://assets.bonappetit.com/photos/59809825a2d4466309949405/16:9/w_1280%2Cc_limit/basically%252520-%252520containers%252520-%252520masking%2525202.jpg)
 
-<a href="https://www.amazon.com/DuraHome-Containers-Leakproof-Container-Microwavable/dp/B075X416X8/ref=as_li_ss_il?&linkCode=li3&tag=pithenterpris-20&linkId=ad5b2403c5b2483924a99ef14e2dc12f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075X416X8&Format=SL250&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pithenterpris-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pithenterpris-20&language=en_US&l=li3&o=1&a=B075X416X8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />{:.medium}
+<a href="https://www.amazon.com/DuraHome-Containers-Leakproof-Container-Microwavable/dp/B075X416X8/ref=as_li_ss_il?&linkCode=li3&tag=pithenterpris-20&linkId=ad5b2403c5b2483924a99ef14e2dc12f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075X416X8&Format=SL250&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pithenterpris-20&language=en_US" alt="Amazon listing stock photo of plastic tubs containing food"></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pithenterpris-20&language=en_US&l=li3&o=1&a=B075X416X8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />{:.medium}

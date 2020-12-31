@@ -8,7 +8,7 @@ Pith is an exercise in do-it-yourself hospitality: I sporadically serve dinner f
 
 _Currently on hold due to the COVID19 public health crisis. Stay healthy, and cook at home to stay sane!_
 
-![](/images/pith-illustrations.png)
+![Line drawing of wine, fish, cherries, rosemary and basil](/images/pith-illustrations.png)
 
 ### Current Menu
 

@@ -1,6 +1,6 @@
 ---
-icon: "/images/duckbreast.jpg"
-title: Duck Breasts
+icon: "/images/stovetopsmoking.jpg"
+title: Stovetop Smoking
 tags:
 - techniques
 - tools
@@ -9,40 +9,38 @@ important: true
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### Cooking Duck Breasts at Home Is Easier Than You Think
+#### Cook Directly Over Your Stovetop Flame
 
-I love a good roast chicken—before you ask: garlicky olive oil, salt, and a 450° oven until golden brown—but when I want to whip up some truly impressive fowl, I turn to duck breasts.
+Cooking directly over flames is ancient and inimitable, and for me, practically any food with hints of smokiness  evokes an image of a chef expertly tending to an unwieldy wood fire. But lately, I’ve realized that a similar flavor can be attained using nothing but my gas stovetop.
 
-With a gently gamey flavor and gorgeous contrast between juicy lean meat and caramelized crisp skin, duck breasts make an elegant focal point of any home-cooked meal, whether casual or celebratory. Plus, the active cooking time is no more than 30 minutes (though if you want restaurant-quality results, there are a few things to do a day or two before eating.)
+![Partially-charred onions on wire rack over gas flame](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-2.jpg)Hear me out: hosting is all about exceeding expectations, and when I cook directly over my burners, I can make quick, simple dishes that taste like they’ve been cooking on a fire for hours—all without ever leaving my cramped apartment kitchen. If you’re looking to cook more sustainably and eat more vegetarian meals, smoking vegetables on the stovetop is a great way to add a meaty undertone to subtle ingredients, giving them the heft of proteins.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcrispy-duck-jonah-reider-FT-BLOG0120-4.jpg)First, I slowly salt-cure the meat to make it tender and juicy. Next, I score and gently pre-sear the skin side of each breast, rendering plenty of valuable duck fat and guaranteeing an extra crispy final result. Lastly, right before eating, I use my oven’s fiery broiler to bring the meat to a ruby medium-rare while securing that mouthwatering brittle skin. Voilà.
+#### Two simple tools make the stovetop smoking process painless
 
-This process is perfect for everyday hosting because most of it can be done well before mealtime. And, as an added bonus, it consistently makes my apartment smell like a fancy French restaurant.
+The metal grates over any gas stove are shaped to support a pot, not a handful of charring green beans. To facilitate the easiest open-flame stovetop cooking, buy a [simple metal mesh rack](https://www.korin.com/KON-109-NC "(opens new window)") and a [pair of large tweezers](https://www.amazon.com/Adecco-LLC-Stainless-tweezer-precision/dp/B01MQQCSS0/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreidersmokingvegetables0120-20&linkId=0c850a9d4924ab1cd7ff1f71702b269a&language=en_US "(opens new window)").
 
-#### 1. Cure to improve flavor and crispiness
+You can use the metal rack you already have for cooling cookies, but it will get degraded quickly from repeated exposure to direct flame. I have an inexpensive wire rack designed for Japanese yakitori grills, but it’s the perfect size to fit over one stovetop burner. To nimbly handle everything I have charring, I opt for large chef’s tweezers, which outperform traditional tongs in nearly every way.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcrispy-duck-jonah-reider-FT-BLOG0120.jpg)I always start by patting raw duck breasts dry before showering their skin and flesh with kosher salt. This salt cure penetrates the meat, creating a natural brine that boosts flavor, tenderness, and ease of cooking. Often, I like to add ground spices like cumin and coriander to the salt for an aromatic punch. Other times, I brush umami-laden fish sauce over the meat instead of using salt at all.
+#### Delicate veggies will take no more than a minute
 
-Whatever you use, let the salted duck breasts sit on a wire cooling rack in the fridge for **at least a day**—exposure to circulating air inside the fridge encourages the exterior to dry out while the salt seasons and moistens the meat. After a day or two, the duck breasts will have shrunk and tightened, revealing a taut skin that’s easy to crisp and a deeply red flesh.
+![Blistering green beans over gas flame](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-3.jpg)With this stovetop open-flame setup, small vegetables can nearly instantaneously become impressive appetizers and side dishes. Green beans, for example, blister after no more than 45 seconds over my burner’s flame. I like to serve them immediately, tossed with olive oil, chili, fresh basil, and flaky salt.
 
-#### 2. Render fat and pre-cook on the stove
+Cherry tomatoes also char and bubble, becoming decadently juicy within a minute or two of exposure to flame. I finish them with the same reliable glug of olive oil and a generous pinch of flaky salt; perhaps some bracing vinegar or ground chili, too.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcrispy-duck-jonah-reider-FT-BLOG0120-3.jpg)
+Another idea: bite-sized pieces of sweet, tender corn develop irresistibly burnished kernels in about one minute. Rubbed with butter (and, optionally, a bit of grated parmesan or bottarga) they make a fabulous snack or side to any meal.
 
-Duck breasts are very lean, with almost all the fat stored in a thick layer of skin. Making this skin incredibly crispy requires slowly rendering out much of the fat. **A few hours before eating**, I remove the cured duck breasts from my fridge and quickly slice a criss-cross pattern gently into the skin. This scoring technique helps ensure that the fat is evenly rendered. I place each scored breast skin-side down onto a skillet and then turn the burner on.
+A touch of bitterness from black blistered spots on these vegetables is delicious, but I always keep a watchful eye: too much time over the flame will render their delicate skins inedible.
 
-_Pro tip: Rest a heavy pot full of water on top of the meat to ensure that the skin remains evenly pressed against the pan._
+#### Sturdier vegetables take a longer time
 
-It’s very important that the **duck and pan are cold** when I start cooking—like other poultry, duck dries out easily if even slightly overcooked. After a few minutes over medium-low heat, I expect to hear a gentle, appetizing sizzle and to see duck fat slowly start to fill the pan. Periodically, I might drain off the fat, but whatever you do, **never throw this liquid gold away**. Duck fat is my secret ingredient for exceptional roasted potatoes, toasted bread, sautéed bitter greens, and even extra-rich roast chicken.
+Denser vegetables, on the other hand, take much longer to cook and fully absorb a smoky flavor. Their outer layers completely carbonize, but their interiors become sweet, jammy, and deeply smoky — making them striking as snacks, garnishes, or ingredients in complex sauces. I rely on those lovely long tweezers to make sure every side gets sufficient exposure to flame.
 
-I take the breasts off the pan after about 10 minutes of gentle heat, when they have a golden crisp skin but an essentially raw interior.
+All types of peppers, for example, blacken completely after five or so minutes over my stovetop. I always cover them with an upside-down bowl as soon as they are off the flame; this way, they continue to cook for a few minutes in their own steam. The peppers’ burnt skins are then incredibly easy to rub off, revealing a soft, succulent flesh that is wonderful sliced, marinated in olive oil and vinegar, mashed into a dip, or puréed into a soup.
 
-#### 3. Finish cooking in the oven
+![Charred eggplant on plate](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-4.jpg)Eggplants can easily char over the stove for a half hour, becoming ink-black and brittle. Inside, however, you’ll find an impossibly soft, supremely smoky pulp. I like to make a simple and beautiful dish by placing halved charred eggplants directly on a serving plate, then finishing them with plenty of salt, olive oil, yogurt, and herbs.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcrispy-duck-jonah-reider-FT-BLOG0120-6.jpg)As long as dinner is no more than a few hours away, I’ll let these pre-seared duck breasts sit skin-side up in a small baking tray near my oven. About 20 minutes before mealtime, I’ll turn on my oven’s broiler, pre-heating it to maximum temperature using direct flame from above. When it’s time to eat—and I really mean it: once guests are actually sitting down, finishing snacks, etc. — I slide the tray into the lower racks of my oven.
+And onions and beets can go for an hour or more of direct stovetop flame. Their outer layers will be beyond burnt, but don’t stress. The sweet interior layers of these smoked onions are addictive to snack on, whether mixed with olives as an appetizer, smashed on toast, or included in a heartier main course. The beets, once cooled and peeled, reveal a vibrant ruby interior with a meaty flavor and chew. Slices of them are delicious in salads, mashed into yogurt dips, or blended into sauces.
 
-The broiler’s overhead flame re-crisps the duck skin as the hot oven brings the room-temperature meat up to a juicy medium rare. While this is happening, I can easily also fit some side dishes in the oven for a simple multi-course meal.
+Almost any vegetable recipe you already enjoy will benefit from some stovetop smokiness — so get exploring. Just one note of advice: if you, like me, have no ventilation hood, open your windows before getting started 💨
 
-Depending on the size of your duck breasts, **it will take no more than four to ten minutes** for them to come to medium rare temperature. I push a slender metal cake tester through the meat, then press it against my upper lip. When the cake tester feels warm, my duck is perfectly cooked. If it’s cold to the touch, keep cooking. If it’s hot to the touch, the meat has overcooked. **Err on the side of undercooking**, though—you can always slide the meat back under the broiler to continue cooking to your liking.
-
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcrispy-duck-plated-jonah-reider-FT-BLOG0120.jpg)Lastly, cut those crisp beauties up into slices and serve them immediately with a sprinkle of flaky finishing salt, a simple pan sauce, or a few bright side dishes. Make more than you need: I love to use leftovers in salads, sandwiches, or a homemade spicy larb. And don’t forget about those exquisite duck fat potatoes!
+![Partially-charred onions on wire rack over gas flame](/images/stovetopsmoking.jpg)

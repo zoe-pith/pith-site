@@ -6,43 +6,44 @@
   children:
       - title: All
         url: "?page=diy"
-        noscroll: true
       - title: Recipes
         url: "?page=diy&tag=recipes"
-        noscroll: true
       - title: Techniques
         url: "?page=diy&tag=techniques"
-        noscroll: true
       - title: Tools
         url: "?page=diy&tag=tools"
-        noscroll: true
       - title: Travel
         url: "?page=diy&tag=travel"
-        noscroll: true
       - title: Search
         url: "?page=diy&tag=search"
-        noscroll: true
 - title: Pith Supper Club
   url: "?page=pith"
   closemenu: true
   children:
       - title: Current Menu
         url: "#current-menu"
+        scroll: true
       - title: Reservations
         url: "#reservations"
+        scroll: true
 - title: Projects
   url: "?page=projects"
   children:
       - title: "Media"
         url: "#media"
+        scroll: true
       - title: "Consultations"
         url: "#hospitality--brand-consulting"
+        scroll: true
       - title: "Education"
         url: "#education"
+        scroll: true
       - title: "Cannabis"
         url: "#cannabinoids"
+        scroll: true
       - title: "Art"
         url: "#art"
+        scroll: true
 - title: Contact
   url: "?page=contact"
   

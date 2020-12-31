@@ -64,7 +64,7 @@ window.onload = () => {
     });
 
     const spoofE = {
-        dontToggleMenu: true,
+        isSpoof: true,
         target: document.querySelector(
             `nav a[href = '?page=${page || "about"}']`
         )
@@ -88,10 +88,10 @@ window.onload = () => {
 
 const openSearchBox = e => {
     const field = document.createElement("input");
-    field.addEventListener("input", e => searchPosts(e.srcElement.value));
-    field.addEventListener("keypress", e => {
+    field.addEventListener("input", e => searchPosts(e.target.value));
+    field.addEventListener("keydown", e => {
         // Enter key
-        if (e.keyCode === 13) {
+        if (e.key === "Enter") {
             toggleMenu();
         }
     });
@@ -126,6 +126,9 @@ const showPage = e => {
             page.style.display = "block";
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
+            if (!e.isSpoof) {
+                announce(`${page.title} page shown`);
+            }
         } else {
             page.style.display = "none";
         }
@@ -138,27 +141,32 @@ const showPage = e => {
                 state.selectedNavItemParent != target.parentElement
             ) {
                 state.selectedNavItem.classList.remove("selected");
+                state.selectedNavItem.children[0].removeAttribute("aria-current");
             } else {
                 state.selectedNavItemParent.classList.remove("selected");
+                state.selectedNavItemParent.children[0].removeAttribute("aria-current");
                 state.selectedNavItem.classList.remove("selected");
+                state.selectedNavItem.children[0].removeAttribute("aria-current");
                 state.selectedNavItemParent = null;
             }
         } else if (state.selectedNavItem.contains(target.parentElement)) {
             state.selectedNavItemParent = state.selectedNavItem;
         } else {
             state.selectedNavItem.classList.remove("selected");
+            state.selectedNavItem.children[0].removeAttribute("aria-current");
         }
     }
 
     const oldNavItem = state.selectedNavItem;
     state.selectedNavItem = target.parentElement;
     state.selectedNavItem.classList.add("selected");
+    state.selectedNavItem.children[0].setAttribute("aria-current", "true");
 
     const itemHasChildren = !!state.selectedNavItem.nextElementSibling;
     if (page_name === POST_PAGE) filterPosts("", false);
 
     if (
-        !e.dontToggleMenu &&
+        !e.isSpoof &&
         (target.hasAttribute("close-menu") ||
             !itemHasChildren ||
             oldNavItem === state.selectedNavItem)
@@ -217,31 +225,41 @@ const showPost = path => {
 };
 
 function searchPosts(text) {
-    const posts = document.querySelectorAll("#posts li");
+    let allHidden = true;
+    const posts = document.querySelectorAll("#posts li.post");
+    let count = 0;
     posts.forEach(post => {
         if (
             !text ||
             post.innerHTML.toLowerCase().indexOf(text.toLowerCase()) > -1
         ) {
+            count++;
             post.style.display = "block";
+            allHidden = false;
         } else {
             post.style.display = "none";
         }
     });
+
+    announce(`${count} post${count == 1 ? "" : "s"} found`);
+    document.getElementById("no-posts-found").style.display = allHidden ? "initial" : "none";
 }
 
 const filterPosts = (tag, linkClicked) => {
     if (state.postVisible) goBack();
     let keepMenu = false;
-    const posts = document.querySelectorAll("#posts li");
+    const posts = document.querySelectorAll("#posts li.post");
+    let count = 0;
     posts.forEach(post => {
         if (!tag || tag === "search" || post.classList.contains(tag + "-tag")) {
+            count++;
             post.style.display = "block";
         } else {
             post.style.display = "none";
         }
     });
 
+    announce(`${count} post${count == 1 ? "" : "s"} found`);
     if (state.isSearchVisible) revertSearch();
 
     const link = document.querySelector(
@@ -251,13 +269,16 @@ const filterPosts = (tag, linkClicked) => {
         // If another tag is already selected
         if (state.selectedNavItemParent) {
             state.selectedNavItem.classList.remove("selected");
+            state.selectedNavItem.children[0].removeAttribute("aria-current");
             state.selectedNavItem = link.parentElement;
             state.selectedNavItem.classList.add("selected");
+            state.selectedNavItem.children[0].setAttribute("aria-current", "true");
         } else {
             keepMenu = true;
             state.selectedNavItemParent = state.selectedNavItem;
             state.selectedNavItem = link.parentElement;
             state.selectedNavItem.classList.add("selected");
+            state.selectedNavItem.children[0].setAttribute("aria-current", "true");
         }
     }
     if (linkClicked) {
@@ -304,6 +325,7 @@ const toggleMenu = () => {
     if (state.isMenuOpen) {
         content.style.display = "block";
         button.innerHTML = "menu";
+        button.setAttribute("aria-label", "Open menu");
         menu.style.height = MENU_HEIGHT;
         setTimeout(() => {
             menu.children[1].style.display = "none";
@@ -312,6 +334,7 @@ const toggleMenu = () => {
         menu.children[1].style.display = "block";
         setTimeout(() => (content.style.display = "none"), MENU_ANIMATION_TIME);
         button.innerHTML = "&#10005;";
+        button.setAttribute("aria-label", "Close menu");
         menu.style.height = "100%";
     }
     state.isMenuOpen = !state.isMenuOpen;
@@ -319,7 +342,7 @@ const toggleMenu = () => {
 
 const jumpToPost = postPath => {
     showPage({
-        dontToggleMenu: true,
+        isSpoof: true,
         target: document.querySelector(`nav a[href = '?page=${POST_PAGE}']`)
     });
     if (postPath) {
@@ -334,4 +357,11 @@ const handleLinks = inPost => {
             link.target = "_blank";
         }
     });
+};
+
+const announce = text => {
+    document.getElementById("live-region").innerText = text;
+    setTimeout(() => {
+        document.getElementById("live-region").innerText = "";
+    }, 500);
 };

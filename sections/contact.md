@@ -8,9 +8,9 @@ permalink: "/contact"
 
 instagram [@jonahreider](https://instagram.com/jonahreider)
 
-![plates of pasta](images/pasta_plating.jpg){:.large}
-![S]({{site.baseurl}}/images/S__2818052_0.jpg){:.large}
-![hands harvesting greens](images/greenery.jpg){:.large}
-![oysters](images/sea_food.jpg){:.large}
+![Small dishes of pasta with sophisticated plating. Each is adorned with a sprig of greenery.](images/pasta_plating.jpg){:.large}
+![Portrait of Jonah with a kitchen knife held in front of the left side of his face.]({{site.baseurl}}/images/S__2818052_0.jpg){:.large}
+![Hands harvest greens onto a metal prep tray, outdoors.](images/greenery.jpg){:.large}
+![A dish of two oysters.](images/sea_food.jpg){:.large}
 
 _Website coded by_ [_Amos Jackson_](https://amos.im/) _and designed by Jonah Reider. Illustrations by_ [Cerise Zelenetz](https://www.instagram.com/unnecessaryobservations)

@@ -13,13 +13,13 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 Water is the least interesting thing you can put in your ice-cube tray.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-2.jpg)For me, at least, this is not the time to be tackling lengthy recipes. I just want to reach into the pantry and quickly prepare whatever looks easiest. And that’s ok! Lazy cooking is never bad when you’re armed with flavor bombs.
+![A tray of ice cubes made from a variety of different colored ingredients](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-2.jpg)For me, at least, this is not the time to be tackling lengthy recipes. I just want to reach into the pantry and quickly prepare whatever looks easiest. And that’s ok! Lazy cooking is never bad when you’re armed with flavor bombs.
 
 Although I don’t usually associate the freezer with intense flavor, I’ve been relying on mine to upgrade all sorts of tired dinnertime basics. In a spare ice cube tray, I freeze small pucks of various flavorful concoctions. I affectionately call them bombs because of their explosive impact on even the blandest of dishes.
 
 With a bag full of these delicious little cubes, any five-minute meal can be spontaneously upgraded: simply cooked beans, grains, pastas, soup, and stews—basically anything that seems to need a little something to perk it up. And it all happens at a moment’s notice, with no mess to clean.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520.jpg)
+![Ice cube tray containing various ingredients, not yet frozen](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520.jpg)
 
 #### **You Don’t Need Any Fancy Equipment** 
 
@@ -29,7 +29,7 @@ I prefer to use a [silicone ice-cube trays](https://amzn.to/3iZN2iO "(opens new 
 
 Once equipped with an ice cube tray, the process is idiot-proof. I take practically any flavorful concoction—any paste, jam, juice, broth, purée, etc. — and freeze cubes of it until solid. Then, I pop the frozen pucks into a resealable plastic bag, where they remain protected from freezer burn until I call them into duty.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-4.jpg)
+![Padron peppers in a cast iron pan with a green ice cube in the center](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-4.jpg)
 
 #### You Can Freeze Almost Anything
 
@@ -41,7 +41,7 @@ Then, there are delicate ingredients that I tend to use in small quantities. Qua
 
 Lastly, I like to deploy my ice-cube tray when I’m making any particularly complicated or time-consuming creations. Slowly [caramelized onions](https://www.foodandwine.com/cooking-techniques/how-caramelize-onions), carefully browned butter, deeply reduced stocks or broths, and homemade [curry pastes](https://www.foodandwine.com/recipes/keow-wan-green-curry-paste)can be demanding to prepare. Why not make lots at once, then freeze individual chunks for easy use in the future?
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-3.jpg)
+![A glass of liquid with a red ice cube](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F05%2F06%2Fjonah-reider-flavor-bombs-FT-BLOG0520-3.jpg)
 
 #### Any Dish Is Better With a Flavor Bomb
 

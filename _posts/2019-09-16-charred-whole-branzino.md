@@ -12,7 +12,7 @@ This recipe uses your broiler to make an exquisitely crispy whole fish with bare
 
 No smoke, no mess — just delicate, lemony fish with a charred and bubbly exterior reminiscent of a fine Neapolitan pizza. I love to serve it next to a bowl of jammy roasted cherry tomatoes. A slightly messy pleasure to eat.
 
-![branzino_prep.jpg]({{site.baseurl}}/images/branzino_prep.jpg)
+![Two raw, gutted, whole fish on wire rack, surrounded by lemons, salt, pepper and other ingredients]({{site.baseurl}}/images/branzino_prep.jpg)
 
 ### Ingredients
 

@@ -5,7 +5,7 @@ permalink: "/about"
 
 ---
 Anyone can host, and everyone should.
-![pith]({{site.baseurl}}/images/pith_pattern_thin.jpg)
+![Line drawn pattern of wine glasses, fish and other culinary objects.]({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
@@ -44,7 +44,7 @@ Sign up below to receive sporadic notifications about supper club availability a
 {% assign i = i | plus: 1 %}
 <div>
 <a href="" onclick="jumpToPost('{{ post.url | remove_first: '/'}}'); return false;">
-<img src="{{ post.icon }}">
+<img src="{{ post.icon }}" alt="">
 <span>{{ post.title }}</span>
 </a>
 </div>
@@ -62,8 +62,8 @@ An Innovative Cook — [AP](https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d
 A coveted reservation — [WSJ](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319)  
 A Dining Experience — [Forbes](https://www.forbes.com/video/5734702032001/#40eac57de450)
 
-![Pith Supper Club in Brooklyn, New York]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
+![Jonah pouring wine as nine dinner guests sit at a large table.]({{site.baseurl}}/images/supper_club_brooklyn.jpg)
 
-![Fort Green Farmer's Market]({{site.baseurl}}/images/fort_green_market.jpg)
+![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg)
 
-![Pith in Manhattan]({{site.baseurl}}/images/pith_manhattan.jpg)
+![Jonah setting the table, which is decorated with flowers. Sun streams through the windows and the shelves behind the table are filled with tableware and wine bottles.]({{site.baseurl}}/images/pith_manhattan.jpg)

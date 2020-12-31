@@ -6,7 +6,7 @@ tags:
 - travel
 
 ---
-![](/images/patron.jpg)
+![Jonah, wearing a cowboy hat and sunglasses, standing in a field of agave plants](/images/patron.jpg)
 
 In the afternoon, the hills of Jalisco glow a cool blue. Steely succulents are planted in every direction — Blue Weber Agave, specifically — which means only one thing: tequila.
 
@@ -18,7 +18,7 @@ The area is constantly busy because tequila production does not operate seasonal
 
 All this is not to say that artisanal methods don’t exist. I stayed at the Patron manufacturing hub for two days and witnessed their large and local workforce preserving traditional methods with an eye towards sustainability. Ripe, spindly agave (8 years old!) are wrestled from the ground and trimmed for their _piñas,_ white starchy hearts. When steamed for about three days, the starch in these _piñas_ become astonishingly sweet, an exotic cross between a pineapple and tamarind.
 
-![](https://cdn.liquor.com/wp-content/uploads/2017/05/18081326/Is-the-Old-School-Way-of-Making-Tequila-Actually-Better-tequla-tapatio-720x480-inline.jpg)
+![A vat of ground agave pulp with a large stone wheel attached by an axle to the center](https://cdn.liquor.com/wp-content/uploads/2017/05/18081326/Is-the-Old-School-Way-of-Making-Tequila-Actually-Better-tequla-tapatio-720x480-inline.jpg)
 
 Traditionally, donkeys would then pull a two-ton volcanic stone _tahona_ over the roasted agave, crushing it slowly into a juicy pulp — but to minimize notes of donkey urine, producers now use a powerful electric motor to roll the stone. It’s evocative of other stone-grinding processes, like Italian olives being crushed into oil, or Japanese tea leaves being ground into matcha.
 
@@ -30,7 +30,7 @@ Paton’s [_Roca _](https://www.patrontequila.com/products/roca.html)line of teq
 
 #### Matched Only By Jalisco's Food Scene
 
-![](/images/tacos.jpg)
+![Two tacos with chopped white onion, cilantro and meat](/images/tacos.jpg)
 
 The best restaurants in Jalisco are strewn alongside the highway, packed into a bustling city streets, or scattered along the perimeter of big markets. Each seller seems to have one or two specialities that everybody orders.
 

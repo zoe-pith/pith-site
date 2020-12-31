@@ -11,7 +11,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ## My Foolproof Trick for Perfect Fish Filets
 
-![](https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1575398843/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-5.jpg?itok=xFuuT9KX)
+![A fork spearing a piece of tender, broiled salmon on a bed of greens](https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1575398843/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-5.jpg?itok=xFuuT9KX)
 
 There are few things more impressive than a perfectly cooked piece of fish: crackly, salty skin giving way to large flakes of tender flesh. While it may seem like a task for a chef with an industrial ventilation hood and culinary school education, prepping the idyllic fish fillet is just as easily done in a home kitchen.
 
@@ -19,7 +19,7 @@ I’ve developed a foolproof method that's perfect for dinner parties, as most o
 
 Here's how it works: I begin by quickly searing the skin-side of quality fish well before mealtime. Then, I put the uncooked side of each filet in a simple, salty marinade—and when it’s time to eat, I use my oven’s broiler to re-crisp the skin and gently cook the fish in less than five minutes.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-3.jpg)This leaves me plenty of time to set the table, clean up the kitchen, enjoy a drink, or chat with guests if I'm hosting—and I never have to worry about a dry or soggy result. As for how to serve it? With a squeeze of lemon, and only a dash of smug satisfaction at how simply it came together.
+![Two plates of crispy salmon, one on smashed potatoes with herbs and the other on broccolini](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-3.jpg)This leaves me plenty of time to set the table, clean up the kitchen, enjoy a drink, or chat with guests if I'm hosting—and I never have to worry about a dry or soggy result. As for how to serve it? With a squeeze of lemon, and only a dash of smug satisfaction at how simply it came together.
 
 #### First things first: choose the right fish
 
@@ -37,7 +37,7 @@ My trick is to sear fish fillets on a very hot pan well before mealtime. I let m
 
 Then, I quickly lay each fillet down with its skin touching the pan, using a spatula to gently press down and ensure an even sear. After a minute or so, each fish fillet will have a beautifully browned and crisp skin side, with the flesh still largely raw. Remove the fish immediately from the pan, keeping the flesh of the partially seared fillet as uncooked as possible.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219.jpg)
+![Salmon with seared skin on top and dark, nearly raw bottom half. Sitting on tray of grilled broccolini](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219.jpg)
 
 #### Then marinate
 
@@ -53,7 +53,7 @@ Under the broiler’s intense and direct flame, a sheet pan of marinated and pre
 
 If the pre-seared fish was resting in the fridge, take it out about 30 minutes before cooking. Room temperature fish cooks more quickly and evenly than cold fish.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-2.jpg)Make sure that the fish skin is about six inches away from the broiler’s flame—any closer and the skin will burn in the time it takes to finish cooking. Keep individual fillets squished together, so that hot air can not overcook or dry out their sides.
+![Tray of skin-seared salmon on broccolini being placed into oven](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-2.jpg)Make sure that the fish skin is about six inches away from the broiler’s flame—any closer and the skin will burn in the time it takes to finish cooking. Keep individual fillets squished together, so that hot air can not overcook or dry out their sides.
 
 The fish should be perfectly finished in four or five minutes, so watch it carefully. If it’s undercooked to anyone’s liking, no stress—just put it back in the broiler for another minute or two. Voilà—succulent, medium rare fish with deeply browned and crispy skin.
 
@@ -61,7 +61,7 @@ The fish should be perfectly finished in four or five minutes, so watch it caref
 
 A perfect piece of fish needs nothing more than a squeeze of lemon. That being said, it’s easy to prepare simple vegetable sides that finish cooking below the fish.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-4.jpg)
+![Squeezing lemon onto the cooked salmon dish](https://cdn-image.foodandwine.com/sites/default/files/1575398898/perfectly-cooked-salmon-jonah-reider-FT-BLOG1219-4.jpg)
 
 Small potatoes, cherry tomatoes, mushrooms, or cruciferous greens roast up easily with olive oil and salt in a hot oven. Even easier, finished fish fillets go great with a pile of kimchi, a slaw of thinly sliced celery and herbs, or wrapped in crispy lettuce cups.
 

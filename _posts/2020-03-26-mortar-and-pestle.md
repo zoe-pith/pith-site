@@ -1,46 +1,46 @@
 ---
-icon: "/images/stovetopsmoking.jpg"
-title: Stovetop Smoking
+icon: "/images/mortarcover.jpg"
+title: Mortar and Pestle
 tags:
 - techniques
-- tools
-important: true
+- Tools
+important: false
 
 ---
 _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.foodandwine.com/cooking-techniques/hot-peppers-preserving-supper-club)_._
 
-#### Cook Directly Over Your Stovetop Flame
+#### The Ancient Cooking Tool That Deserves Your Respect
 
-Cooking directly over flames is ancient and inimitable, and for me, practically any food with hints of smokiness  evokes an image of a chef expertly tending to an unwieldy wood fire. But lately, I’ve realized that a similar flavor can be attained using nothing but my gas stovetop.
+The best upgrade to your cooking routine was invented about 37,000 years ago. The mortar and pestle —an almost comically analog stone bowl and stick— is a timeless staple in every cuisine.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-2.jpg)Hear me out: hosting is all about exceeding expectations, and when I cook directly over my burners, I can make quick, simple dishes that taste like they’ve been cooking on a fire for hours—all without ever leaving my cramped apartment kitchen. If you’re looking to cook more sustainably and eat more vegetarian meals, smoking vegetables on the stovetop is a great way to add a meaty undertone to subtle ingredients, giving them the heft of proteins.
+![A mortar and pestle containing garlic cloves](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fjonah-reider-mortar-and-pestle-FT-BLOG1219-2.jpg)Above all, using a mortar and pestle really taps into the primal joys of cooking: there’s something exhilarating, even cathartic, about furiously transforming food from one form to another with nothing but a small stone.
 
-#### Two simple tools make the stovetop smoking process painless
+#### Go with unpolished granite
 
-The metal grates over any gas stove are shaped to support a pot, not a handful of charring green beans. To facilitate the easiest open-flame stovetop cooking, buy a [simple metal mesh rack](https://www.korin.com/KON-109-NC "(opens new window)") and a [pair of large tweezers](https://www.amazon.com/Adecco-LLC-Stainless-tweezer-precision/dp/B01MQQCSS0/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fwjonahreidersmokingvegetables0120-20&linkId=0c850a9d4924ab1cd7ff1f71702b269a&language=en_US "(opens new window)").
+Forget about dainty porcelain mortars that can barely handle an avocado. The best mortars and pestles are large and made from coarse unpolished granite. This stone creates enough friction to easily and evenly break down any type of ingredient. It’s also nonporous, so it doesn’t retain flavor and is easy to clean by hand.
 
-You can use the metal rack you already have for cooling cookies, but it will get degraded quickly from repeated exposure to direct flame. I have an inexpensive wire rack designed for Japanese yakitori grills, but it’s the perfect size to fit over one stovetop burner. To nimbly handle everything I have charring, I opt for large chef’s tweezers, which outperform traditional tongs in nearly every way.
+_Buy the one I use: Kota Japan Large Black Granite Mortar & Pestle, for_ [_$29 on Amazon_](https://amzn.to/2QIUrqU "(opens new window)")_._
 
-#### Delicate veggies will take no more than a minute
+No matter what I’m making, I first use the pestle like a hammer to soften and break down ingredients into smaller pieces. Then, I grind away, pushing the pestle against the walls of the mortar. Ingredients are drawn between the stone and quickly pulverized. A very smooth paste or powder rarely takes more than one minute of grinding, but often I prefer a slightly rougher texture.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-3.jpg)With this stovetop open-flame setup, small vegetables can nearly instantaneously become impressive appetizers and side dishes. Green beans, for example, blister after no more than 45 seconds over my burner’s flame. I like to serve them immediately, tossed with olive oil, chili, fresh basil, and flaky salt.
+#### Maximize the flavor of spices
 
-Cherry tomatoes also char and bubble, becoming decadently juicy within a minute or two of exposure to flame. I finish them with the same reliable glug of olive oil and a generous pinch of flaky salt; perhaps some bracing vinegar or ground chili, too.
+![A mortar and pestle containing ground and whole spices](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fjonah-reider-mortar-and-pestle-FT-BLOG1219-6.jpg)Powdery, pre-ground spices so easily turn dreary and bland. A mortar and pestle guarantees impressive meals by letting me work with whole spices instead.
 
-Another idea: bite-sized pieces of sweet, tender corn develop irresistibly burnished kernels in about one minute. Rubbed with butter (and, optionally, a bit of grated parmesan or bottarga) they make a fabulous snack or side to any meal.
+Whole spices are inexpensive but potent: I keep all types in simple [deli containers](https://www.foodandwine.com/cooking-techniques/cooking-deli-containers-supper-club) away from direct sunlight, taking out small quantities to grind as needed while cooking. It takes much less time than you’d think and dramatically elevates the simplest dishes. A small sprinkle of freshly ground black pepper, for example, adds a powerful warmth to complex sauces and seared meats just as much as it does to a fried egg or buttered toast.
 
-A touch of bitterness from black blistered spots on these vegetables is delicious, but I always keep a watchful eye: too much time over the flame will render their delicate skins inedible.
+To maximize their potency, I toast spices in a hot skillet for a few minutes before crushing them. A blend of freshly toasted and ground fennel seed, coriander, and cumin make a reliably magnificent seasoning for meats and vegetables. And if you like spicy, smoky chai, make your own using in the mortar and pestle using cardamom, cloves, cinnamon, and black pepper.
 
-#### Sturdier vegetables take a longer time
+#### Never have garlic fingers again
 
-Denser vegetables, on the other hand, take much longer to cook and fully absorb a smoky flavor. Their outer layers completely carbonize, but their interiors become sweet, jammy, and deeply smoky — making them striking as snacks, garnishes, or ingredients in complex sauces. I rely on those lovely long tweezers to make sure every side gets sufficient exposure to flame.
+![Hands grinding garlic in a mortar and pestle](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fjonah-reider-mortar-and-pestle-FT-BLOG1219-3.jpg)Garlic's lovely stench is clingy; it never seems to leave my fingers or the cutting board. A mortar and pestle lets me comfortably and efficiently peel and mash it without pungent residue.
 
-All types of peppers, for example, blacken completely after five or so minutes over my stovetop. I always cover them with an upside-down bowl as soon as they are off the flame; this way, they continue to cook for a few minutes in their own steam. The peppers’ burnt skins are then incredibly easy to rub off, revealing a soft, succulent flesh that is wonderful sliced, marinated in olive oil and vinegar, mashed into a dip, or puréed into a soup.
+Bludgeoning a head of garlic with a pestle immediately breaks it into individual cloves, each with their skin slightly cracked. These bruised cloves cleanly separate from their skin with a light squeeze. Afterwards, the mortar quickly and cleanly mashes them into a paste perfect for all types of cooking. Doing so with a bit of salt further intensifies the garlicky flavor.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fcharred-stovetop-vegetables-FT-BLOG0120-4.jpg)Eggplants can easily char over the stove for a half hour, becoming ink-black and brittle. Inside, however, you’ll find an impossibly soft, supremely smoky pulp. I like to make a simple and beautiful dish by placing halved charred eggplants directly on a serving plate, then finishing them with plenty of salt, olive oil, yogurt, and herbs.
+#### Make one-pot marinades, dips, and dressings
 
-And onions and beets can go for an hour or more of direct stovetop flame. Their outer layers will be beyond burnt, but don’t stress. The sweet interior layers of these smoked onions are addictive to snack on, whether mixed with olives as an appetizer, smashed on toast, or included in a heartier main course. The beets, once cooled and peeled, reveal a vibrant ruby interior with a meaty flavor and chew. Slices of them are delicious in salads, mashed into yogurt dips, or blended into sauces.
+![Ground green sauce in a mortar and pestle](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F01%2Fjonah-reider-mortar-and-pestle-FT-BLOG1219-4.jpg)Salty garlic paste and freshly ground spices or herbs are the building blocks to almost all of the sauces, marinades, dressings, and dips that I regularly serve.
 
-Almost any vegetable recipe you already enjoy will benefit from some stovetop smokiness — so get exploring. Just one note of advice: if you, like me, have no ventilation hood, open your windows before getting started 💨
+Once I’ve improvised an intense pulp in my mortar, I gently fold in something soft and creamy. Olive oil and citrus juice suffice for bright dressings and marinades. But adding avocado, soft roasted peppers, broiled cherry tomatoes, or thick yogurt will result in a complex no-recipe sauce or dip.
 
-![](/images/stovetopsmoking.jpg)
+Mash everything up to the texture of your liking, season it with salt and acid to taste, and triumphantly bring the mortar to a table of salivating guests. Voilà: a surefire upgrade to your usual roast chicken, stew, or sautéed veggies—no wifi-connected sentient blender necessary.

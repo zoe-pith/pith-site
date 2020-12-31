@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,15 +32,15 @@
                     window.location.href = "/?page=" + window.location.pathname.slice(1);
                 }
             </script>
-            <nav role="status">
-                <button onclick="toggleMenu()" aria-label="Toggle menu">menu</button>
+            <nav>
+                <button onclick="toggleMenu()" aria-label="Open menu">menu</button>
                 <div>
-                    <a href="/"><h1>Jonah Reider</h1></a>
-                    {% include datamenu menu=site.data.menus all=true %}
+					<a href="/"><h1>Jonah Reider</h1></a>
+					{% include datamenu menu=site.data.menus %}
                 </div>
             </nav>
-            <div id="page-content" role="status">{{ content }}</div>
-        </div>
+            <div id="page-content">{{ content }}</div>
+		</div>
+		<div id="live-region" aria-live="polite"></div>
     </body>
 </html>
-    

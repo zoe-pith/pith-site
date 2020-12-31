@@ -13,7 +13,7 @@ important: true
 ---
 I like donuts, but I would never recommend making them at home — unless they are _graffe_, an insanely delicious Napoletan treat made partially from mashed potatoes. It's a surprising and simple recipe, but the result is impossibly airy, shimmering with granulated sugar and best eaten immediately alongside a foamy cappucino.
 
-![Italian Grandma's Graffe ]({{site.baseurl}}/images/graffe_donuts.JPG)
+![Italian golden-brown donuts coated with granulated sugar]({{site.baseurl}}/images/graffe_donuts.JPG)
 
 Recipes will surely vary from one Italian grandmother to the next, but I remain loyal to the charming and stoutly _nonna_ who first taught me.
 
@@ -44,4 +44,4 @@ Set a deep but small frying pan on medium heat with plenty of sunflower or grape
 
 Fry shaped donuts until golden brown in sunflower or vegetable oil, about 2-4 minutes. Let cool slightly on an absorbant towel, then gently roll warm donut in shallow bowl of granulated sugar and serve immediately.
 
-![Holding Finished Donut](https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1)
+![Hands holding finished donut, golden-brown and coated in sugar](https://i1.wp.com/mentecontorta.it/wp-content/uploads/2017/02/graffe-napoletane-8.jpg?resize=1200%2C640&ssl=1)

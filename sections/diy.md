@@ -11,12 +11,13 @@ Tap into the pleasure of do-it-yourself hospitality: here is some of my writing 
 {% endif %}
 
 <ul id="posts">
+<li id="no-posts-found">No posts found :(</li>
 <!-- DO WHERE PUBLISHED ONCE ON REAL SITE -->
 {% assign published_posts = site.posts | sort: "date" | reverse %}
 {% for post in published_posts %}
 <li class="post {{ post.tags | join: '-tag ' | append: '-tag' }}">
 <a href="?page=diy&post={{ post.url | remove_first: '/'}}" onclick="return showPost(this.search)">
-<img src="{{ post.icon }}">
+<img src="{{ post.icon }}" alt="">
 <span>{{ post.title }}</span>
 </a>
 <div>

@@ -9,7 +9,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 #### You Should Be Dry-Aging Your Meats at Home — Here's How
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
+![Slices of rare-cooked steak with a sprinkle of salt on a dark-colored plate](https://cdn-image.foodandwine.com/sites/default/files/1566326669/Air-Drying-Supper-Club-7-FT-BLOG082019.jpg)
 
 Allow me to guess that you do not currently have a 900°F commercial broiler or a six-foot charcoal grill sitting at home. Still, I believe in your ability to create tender, steakhouse-quality proteins with caramelized crusts.
 
@@ -17,7 +17,7 @@ The trick? Dry-aging, which improves flavor and texture while making cuts easier
 
 Dry-aged meat at a restaurant or grocery store can cost twice as much as its younger counterparts, but you can do it at home, better—and for free.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
+![Close up of dry-aged beef on a wire rack, with high quality fat marbling](https://cdn-image.foodandwine.com/sites/default/files/1566323160/IMG_8287.jpg)
 
 ### Dry-aging makes meat taste better
 
@@ -29,11 +29,11 @@ And have you ever pan-seared a steak only to have it come out grey and bland? Th
 
 All you need to dry-age at home is your **refrigerator**, a [**wire rack**](https://amzn.to/2L9jZK2 "(opens new window)"), and a [**sheet pan**](https://amzn.to/33Wo3Gl "(opens new window)").
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
+[![Metal sheet pan product photo](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Supper-Club-Air-Drying-FT-BLOG08202019.jpg)](https://amzn.to/33Wo3Gl)
 
 Refrigerators have an air circulation system to ensure freshness. By aging meat on an elevated wire rack, uncovered and near your refrigerator’s fan, air will circulate all around the meat, keeping it dry and cool. The sheet pan just goes underneath to catch drippings and keep your fridge clean.
 
-[![](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
+[![Wire rack product photo](https://cdn-image.foodandwine.com/sites/default/files/1566324292/Grill-Rack-Supper-Club-FT-BLOG08202019.jpg)](https://amzn.to/2L9jZK2)
 
 This setup minimizes moisture and heat, safeguarding against rot.
 
@@ -60,7 +60,7 @@ Even a whole fish benefits from one to two days of air-drying with a bit of salt
 
 The intense flavor and supple mouthfeel of aged meet makes it great to serve raw. I love serving a few ultra-thin slices of dry-aged beef with olives and salt as a simple and decadent appetizer. For a more filling snack, I’ll pile a few slices atop toasted sourdough or eat them with soft-boiled eggs and delicate lettuces.
 
-![](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
+![Thin slices of marbled beef, with olives and a sprinkle of salt](https://cdn-image.foodandwine.com/sites/default/files/1566325378/Raw-Airdried-FT-BLOG08202019.jpg)
 
 ### Cook it like a pro
 

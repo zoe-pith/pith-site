@@ -13,7 +13,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 Here's how to streamline your kitchen set-up.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F06%2F22%2Fhow-to-organize-even-the-smallest-kitchen-XL-BLOG0620.jpg)
+![Photo of a stove and oven, with various cooking utensils hanging on the wall behind](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F06%2F22%2Fhow-to-organize-even-the-smallest-kitchen-XL-BLOG0620.jpg)
 
 The most enjoyable cooking is always pretty improvisational. I’m happiest when quickly scavenging the fridge for things that catch my eye, then riffing off a favorite recipe to create something delicious.
 
@@ -27,7 +27,7 @@ A small kitchen can be far easier to work in than a cavernous one where completi
 
 Then, equip each workspace with only the tools essential to that space. My storage area is filled with uniform transparent containers that give me a panoramic view of all ingredients on hand. My cleaning station is simply my sink, some soap, a sponge, and a knot of steel wool. My prep area has a knife block, a big cutting board, and mixing bowls within reach. And my cooking area comprises the stove, with sheet pans and a few tools nearby. Having these distinct areas reduces mess and stress, making cooking more purposeful _and_ pleasurable.
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F06%2F22%2Fhow-to-organize-even-the-smallest-kitchen-VT-BLOG0620.jpg)
+![Photo of stone countertop with various labelled ingredients and containers. A cast iron pan, two rubber spatulas, a fish spatula and a cake tester hang on the wall above](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F06%2F22%2Fhow-to-organize-even-the-smallest-kitchen-VT-BLOG0620.jpg)
 
 #### Eating Utensils Can Go Elsewhere
 

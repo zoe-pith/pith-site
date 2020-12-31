@@ -10,7 +10,7 @@ _Written for my column_ [Supper Club _at Food & Wine Magazine_](https://www.food
 
 ## It’s Time to Upgrade Your Napkins
 
-![](https://cdn-image.foodandwine.com/sites/default/files/jonah-reider-cloth-napkins-ft-blog1019.jpg)
+![View of laid table from above with four linen napkins rolled into tubes, sitting in bowls. A vase of flowers is the centerpiece](https://cdn-image.foodandwine.com/sites/default/files/jonah-reider-cloth-napkins-ft-blog1019.jpg)
 
 You don’t need to be a great cook to be a great host: many of the things that make a meal lovely have little to do with the food itself.
 
@@ -44,11 +44,11 @@ I like using warm cream or beige napkins, but for messier meals, I also have a d
 
 Watching [napkin folding videos](https://www.youtube.com/watch?v=r7_YTnqP5uk "(opens new window)") online is a perfectly acceptable waste of time, but avoid the impulse to craft an origami flower out of your own nice napkins. I simply fold mine in thirds to hide seams and edges.
 
-![](https://media.giphy.com/media/eHGCIK4HqTAP1xYvMr/giphy.gif)
+![Animated photo of Jonah folding a napkin into thirds on one axis and then the next, finally folding in half](https://media.giphy.com/media/eHGCIK4HqTAP1xYvMr/giphy.gif)
 
 Then I set them either to the left of the plate, underneath flatware, or I roll them into circular napkin holders:
 
-![](https://media.giphy.com/media/SXlYCO2JAme0bajuwz/giphy.gif)
+![Animated photo of Jonah placing the folded napkin into a circular napkin holder and placing in a bowl](https://media.giphy.com/media/SXlYCO2JAme0bajuwz/giphy.gif)
 
 Besides making your table look luxe, unrolling cloth napkins make the beginning of a meal feel ceremonious and convivial.
 
