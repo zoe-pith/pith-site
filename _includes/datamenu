@@ -8,7 +8,7 @@
 	{% capture _classes %}{% if node.children and node.children.size != 0 %}branch{% else %}leaf{% endif %}{% endcapture %}
 	{% assign _href = "" %}
 	{% if node.url %}
-		{% capture _href %} href="{{ node.url }}" {% if node.scroll %}data-scroll aria-hidden="true"{% endif %}{% if node.closemenu %} close-menu{% endif %}{% endcapture %}
+		{% capture _href %} href="{{ node.url }}" {% if node.scroll %}data-scroll aria-hidden="true"{% endif %}{% if node.closemenu %} close-menu{% endif %}{% if node.newtab %} target="_blank"{% endif %}{% endcapture %}
 	{% endif %}
 	<li class="{{ _classes }}">
 		<a{{ _href }}>

@@ -106,7 +106,7 @@ const openSearchBox = e => {
 };
 
 const showPage = e => {
-    if (!e || !e.target) {
+    if (!e || !e.target || e.target.origin !== window.origin) {
         return;
     }
 

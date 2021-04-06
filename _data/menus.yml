@@ -17,15 +17,11 @@
       - title: Search
         url: "?page=diy&tag=search"
 - title: Pith Supper Club
-  url: "?page=pith"
-  closemenu: true
-  children:
-      - title: Current Menu
-        url: "#current-menu"
-        scroll: true
-      - title: Reservations
-        url: "#reservations"
-        scroll: true
+  url: "https://pith.store/collections/supper-club"
+  newtab: true
+- title: Shop
+  url: "https://pith.store"
+  newtab: true
 - title: Projects
   url: "?page=projects"
   children:
@@ -37,9 +33,6 @@
         scroll: true
       - title: "Education"
         url: "#education"
-        scroll: true
-      - title: "Cannabis"
-        url: "#cannabinoids"
         scroll: true
       - title: "Art"
         url: "#art"
