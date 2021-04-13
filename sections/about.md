@@ -9,28 +9,15 @@ Anyone can host, and everyone should.
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
+### Shop Pith
+
+Visit the [Pith Store](www.pith.store) to shop for delicious goods, classes, and supper club dates. Make sure to sign up for email alerts to be the first to know about new drops, and consider a monthly membership that guarantees access to everything before they sell out.
+
 ### Kitchen Essentials
 
 More than anything, people ask me what stuff they should get for their kitchen. So: [here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
-
-### Subscribe
-
-Sign up below to receive sporadic notifications about supper club availability as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
-
-<form accept-charset="UTF-8" action="https://tickets.jonahreider.com/pith/supper-club/interested_users#thanks" id="subscribe-form" method="post" target="_blank">
-<input name="utf8" type="hidden" value="✓">
-<input name="authenticity_token" type="hidden" value="jqNrxffRtVFMc3MQfO6akJeXISo8jfPxJNObXzKi6gY=">
-<input placeholder="Name" id="name" name="interested_user[name]" type="text">
-<input placeholder="Email" id="email" name="interested_user[email]" type="email">
-<input type="submit" name="commit" value="Subscribe" />
-</form>
-<p class="bottom_space"> </p>
-
-{% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
-{% assign num_posts = important_posts | size %}
-{% if num_posts > 0 %}
 
 ### Recent Posts
 
