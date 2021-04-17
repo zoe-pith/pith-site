@@ -19,6 +19,10 @@ More than anything, people ask me what stuff they should get for their kitchen. 
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
 
+{% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
+{% assign num_posts = important_posts | size %}
+{% if num_posts > 0 %}
+
 ### Recent Posts
 
 {% assign i = 0 %}
