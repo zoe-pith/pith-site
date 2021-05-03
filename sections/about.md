@@ -19,6 +19,10 @@ More than anything, people ask me what stuff they should get for their kitchen. 
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
 
+### Subscribe
+
+Sign up below to receive sporadic notifications about supper club availability as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
+
 <form method="post" action="https://pith.store/contact#contact_form" id="contact_form" accept-charset="UTF-8" id="subscribe-form" target="_blank">
     <input type="hidden" name="form_type" value="customer">
     <input type="hidden" name="utf8" value="✓">
