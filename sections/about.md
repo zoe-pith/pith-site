@@ -19,6 +19,15 @@ More than anything, people ask me what stuff they should get for their kitchen. 
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
 
+<form method="post" action="https://pith.store/contact#contact_form" id="contact_form" accept-charset="UTF-8" id="subscribe-form" target="_blank">
+    <input type="hidden" name="form_type" value="customer">
+    <input type="hidden" name="utf8" value="✓">
+    <input type="hidden" name="contact[tags]" value="newsletter">
+    <input type="email" value="" placeholder="Your email" name="contact[email]" id="email" autocorrect="off" autocapitalize="off">
+    <input type="submit" name="commit" value="Subscribe" />
+</form>
+<p class="bottom_space"> </p>
+
 {% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
 {% assign num_posts = important_posts | size %}
 {% if num_posts > 0 %}

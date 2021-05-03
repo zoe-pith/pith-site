@@ -338,12 +338,7 @@ nav {
     }
 }
 
-.tito-badge-link,
-.sold-out {
-    display: none;
-}
-
-$input-height: 28px;
+$input-height: 40px;
 
 button,
 input {
@@ -355,29 +350,15 @@ input {
     border-radius: 3px;
     box-sizing: border-box;
     font-family: Adobe Caslon;
-    font-size: 1rem;
+    font-size: 1.1rem;
     height: $input-height;
     line-height: $input-height;
     margin: 8px 8px 8px 0;
-    padding: 0 5px;
+    padding: 0 15px;
     text-rendering: optimizeLegibility;
-}
 
-.tito-wrapper {
-    padding-bottom: 30px;
-    ul {
-        font-size: 1.1rem;
-        list-style: none;
-        margin: 0;
-        padding: 0;
-
-        li div {
-            display: inline;
-        }
-
-        input[type="text"] {
-            width: 40px;
-        }
+    &::placeholder, &::-webkit-input-placeholder {
+        color: rgb(104, 104, 104);
     }
 }
 
