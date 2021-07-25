@@ -5,8 +5,8 @@ permalink: "/about"
 
 ---
 Anyone can host, and everyone should.
-![Line drawn pattern of wine glasses, fish and other culinary objects.]
-({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg)
+![Line drawn pattern of wine glasses, fish and other culinary objects.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg)
+
 ({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
