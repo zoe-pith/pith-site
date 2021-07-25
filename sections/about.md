@@ -5,7 +5,9 @@ permalink: "/about"
 
 ---
 Anyone can host, and everyone should.
-![Line drawn pattern of wine glasses, fish and other culinary objects.]({{site.baseurl}}/images/pith_pattern_thin.jpg)
+![Line drawn pattern of wine glasses, fish and other culinary objects.]
+({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg)
+({{site.baseurl}}/images/pith_pattern_thin.jpg)
 
 I live in New York City, where I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
@@ -24,11 +26,11 @@ From containers to knives, from a cutting board to the best vegetable peeler, I'
 Sign up below to receive sporadic notifications about supper club availability as well as essential tips for cultivating a welcoming home and an improvisational confidence in the kitchen.
 
 <form method="post" action="https://pith.store/contact#contact_form" id="contact_form" accept-charset="UTF-8" id="subscribe-form" target="_blank">
-    <input type="hidden" name="form_type" value="customer">
-    <input type="hidden" name="utf8" value="✓">
-    <input type="hidden" name="contact[tags]" value="newsletter">
-    <input type="email" value="" placeholder="Your email" name="contact[email]" id="email" autocorrect="off" autocapitalize="off">
-    <input type="submit" name="commit" value="Subscribe" />
+<input type="hidden" name="form_type" value="customer">
+<input type="hidden" name="utf8" value="✓">
+<input type="hidden" name="contact\[tags\]" value="newsletter">
+<input type="email" value="" placeholder="Your email" name="contact\[email\]" id="email" autocorrect="off" autocapitalize="off">
+<input type="submit" name="commit" value="Subscribe" />
 </form>
 <p class="bottom_space"> </p>
 
