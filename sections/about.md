@@ -8,15 +8,15 @@ permalink: "/about"
 
 # Pith Supper Club and Home Goods
 
-![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while I was an economics student at Columbia University. I still enjoy sporadically hosting strangers at my home for seasonal and social meals, but Pith has grown into a small line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our monthly drops of goods for online ordering, and see if supper club seats are available.
+![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while I was an economics student at Columbia University. I still enjoy sporadically hosting strangers at my home for seasonal and social meals, but Pith has grown into a small line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our small monthly drops of goods for online ordering, and check if supper club seats are available.
 
 # Pzaz® Caffeine Mist
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)I  I would best build a large and successful company. Instead of focusing on high-end home cooking, I decided to apply by apply my experience with flavor, brand, and product development to the worst product I could find on the checkout counter of convenience stores: 5 Hour Energy.
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)To build a massively impactful impactful company, I decided to pick the worst food or beverage product I could find and reimagine it for today’s consumer. I visited hundreds of convenience stores and saw that 5 Hour Energy is ready to die.
 
 Pzaz is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
 
-I developed it with a team of experts and founders who share my obsession with revitalizing a dead retail category  and redefining what it means to be energized. Pzaz is manufactured in the United States and currently sold exclusively at bodegas.
+I developed it with a team of experts who share my obsession with revitalizing a dead retail category  and redefining what it means to be energized. Pzaz is manufactured in the United States and currently sold exclusively at bodegas. We are lucky to be backed by some of today’s most visionary founders, leaders, and investors.
 
 # Food & Wine Magazine
 
