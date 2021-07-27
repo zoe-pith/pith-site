@@ -1,42 +1,19 @@
-- title: About
+- title: Jonah Reider
   url: "?page=about"
   closemenu: true
-- title: Writing
-  url: "?page=diy"
-  children:
-      - title: All
-        url: "?page=diy"
-      - title: Recipes
-        url: "?page=diy&tag=recipes"
-      - title: Techniques
-        url: "?page=diy&tag=techniques"
-      - title: Tools
-        url: "?page=diy&tag=tools"
-      - title: Travel
-        url: "?page=diy&tag=travel"
-      - title: Search
-        url: "?page=diy&tag=search"
-- title: Pith Supper Club
-  url: "https://pith.store/collections/supper-club"
-  newtab: true
-- title: Shop
+- title: Pith
   url: "https://pith.store"
   newtab: true
-- title: Projects
-  url: "?page=projects"
-  children:
-      - title: "Media"
-        url: "#media"
-        scroll: true
-      - title: "Consultations"
-        url: "#hospitality--brand-consulting"
-        scroll: true
-      - title: "Education"
-        url: "#education"
-        scroll: true
-      - title: "Art"
-        url: "#art"
-        scroll: true
-- title: Contact
-  url: "?page=contact"
+- title: Pzaz®
+  url: "https://pzaz.com"
+  newtab: true
+- title: Writing
+  url: "https://www.foodandwine.com/author/jonah-reider"
+  newtab: true
+- title: Instagram
+  url: "https://instagram.com/jonahreider"
+  newtab: true  
+- title: Email
+  url: "mailto:inquiries@jonahreider.com"
+  newtab: true  
   
