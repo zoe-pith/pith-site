@@ -14,9 +14,11 @@ I started the Pith Supper Club while I was an economics student at Columbia Univ
 
 # Pzaz® Caffeine Mist
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)I wanted to apply my experience with flavor, brand, and product development to the worst thing I could find on the checkout counter of a convenience stores.  5 Hour Energy used to sell $1B of product a year, but . Pzaz Caffeine Mist is a tube . Visit [pzaz.com](Www.Pzaz.com) to learn more.
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)Energy drinks are dumb, but energy shots are dead. I decided to apply my experience with flavor, brand, and product development to the worst thing I could find on the checkout counter of convenience stores. 
 
-Pzaz is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be cheaper, faster-acting, more shareable, tastier, and more environmentally friendly than any energy drink or shot. I developed it with a team of experts and founders who share my obsession with redefining what it means to be energized. It’s better in every way compared to energy drinks. Pzaz is manufactured in New York and currently sold exclusively at bodegas.
+Pzaz is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
+
+I developed it with a team of experts and founders who share my obsession with redefining what it means to be energized. It’s better in every way compared to energy drinks. Pzaz is manufactured in the United States and currently sold exclusively at bodegas.
 
 # _Food & Wine_ Magazine
 
