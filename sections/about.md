@@ -10,12 +10,10 @@ Let's make the world a more delicious place.
 
 # Pith Supper Club and Home Goods
 ![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg)
-
 I started the Pith Supper Club while I was an economics student at Columbia University. I still sporadically host strangers at my home for seasonal and social meals, but mostly, I oversee the development of a small line of home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our monthly drops of goods for online ordering, and try your luck booking a seat at the supper club.
 
-## Pzaz® Caffeine Mist
-# Pzaz® Caffeine Mist
 
+# Pzaz® Caffeine Mist
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)I wanted to apply my experience with flavor, brand, and product development to the worst thing I could find on the checkout counter of a convenience stores.  5 Hour Energy used to sell $1B of product a year, but . Pzaz Caffeine Mist is a tube . Visit [pzaz.com](Www.Pzaz.com) to learn more.
 
 Pzaz is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be cheaper, faster-acting, more shareable, tastier, and more environmentally friendly than any energy drink or shot. I developed it with a team of experts and founders who share my obsession with redefining what it means to be energized. It’s better in every way compared to energy drinks. Pzaz is manufactured in New York and currently sold exclusively at bodegas. 
