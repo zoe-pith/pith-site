@@ -12,7 +12,7 @@ permalink: "/about"
 
 # Pzaz® Caffeine Mist
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)To build a massively impactful company, I decided to pick the worst food or beverage product I could find and reimagine it for today’s consumer. I visited hundreds of convenience stores and saw that 5 Hour Energy is ready to die.
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)To build a massively impactful company, I decided to pick the worst food or beverage product I could find and reimagine it for today’s consumer. I visited hundreds of convenience stores and saw that 5 Hour Energy was ready to die.
 
 [Pzaz](Www.pzaz.com) is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
 
