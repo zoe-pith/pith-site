@@ -16,7 +16,7 @@ permalink: "/about"
 
 [Pzaz](Www.pzaz.com) is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. I designed it to be more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
 
-I developed Pzaz with a team of experts who share my obsession with revitalizing a dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be backed by some of today’s most visionary founders, leaders, and investors.
+I developed Pzaz with a team of experts who share my obsession with revitalizing a dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by some of today’s most visionary founders, leaders, and investors.
 
 # Food & Wine Magazine
 
