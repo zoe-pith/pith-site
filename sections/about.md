@@ -12,7 +12,7 @@ permalink: "/about"
 # Pzaz® Caffeine Mist
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)I decided to pick the worst food or beverage product I could find and reimagine it for today’s consumer. I visited hundreds of convenience stores and saw that 5 Hour Energy was ready to die.
 
-[Pzaz](Www.pzaz.com) is a pocketable mist that delivers ultra-fast-acting bursts of positive energy. It is more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
+[Pzaz](Www.pzaz.com) is a pocketable mist that delivers instant positive energy. It is more effective, efficient, safe, shareable, delicious, and environmentally friendly than any energy drink or shot.
 
 I developed Pzaz with a team of experts who share my obsession with revitalizing a dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by some of today’s most visionary founders, leaders, and investors.
 <br/><br/>
