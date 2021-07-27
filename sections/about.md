@@ -19,7 +19,7 @@ I developed Pzaz with a team of experts who share my obsession with revitalizing
 # Food & Wine Magazine
 ![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions for the magazine.
 <br/><br/>
-# Personal Partnerships
+# Select Partnerships
 ![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg) _Jonah x Gucci for The Last Magazine_
 
 ![](/images/3952179a-e934-4517-82a7-6bca944002b8.jpeg)
