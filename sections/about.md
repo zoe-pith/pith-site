@@ -20,7 +20,7 @@ Pzaz is a pocketable mist that delivers ultra-fast-acting bursts of positive ene
 
 I developed it with a team of experts and founders who share my obsession with redefining what it means to be energized. It’s better in every way compared to energy drinks. Pzaz is manufactured in the United States and currently sold exclusively at bodegas.
 
-# _Food & Wine_ Magazine
+# *_Food & Wine_* Magazine
 
 ![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions for the magazine.
 
