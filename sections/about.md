@@ -5,7 +5,6 @@ permalink: "/about"
 
 ---
 ![Line drawn pattern of wine glasses, fish and other culinary objects.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg)
-
 Let's make the world a more delicious place.
 
 
