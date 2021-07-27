@@ -10,15 +10,19 @@ Let's make the world a more delicious place.
 
 ### Pith Supper Club and Home Goods
 
-![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg)I started the Pith Supper Club out of my dorm room while I was an economics student at Columbia University. I still sporadically host strangers for a. Mostly, though, Pith Visit the [Pith Store](www.pith.store) to shop for delicious goods, classes, and supper club dates. Make sure to sign up for email alerts to be the first to know about new drops, and consider a monthly membership that guarantees access to everything before they sell out.
+![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg)
+
+I started the Pith Supper Club out of my dorm room while I was an economics student at Columbia University. I still sporadically host strangers for a. Mostly, though, I Pith Visit the [Pith Store](www.pith.store) to shop for delicious goods, classes, and supper club dates. Make sure to sign up for email alerts to be the first to know about new drops, and consider a monthly membership that guarantees access to everything before they sell out.
 
 ### Pzaz® Caffeine Mist
 
-Have you ever seen 5 Hour Energy at the checkout container I decided to pick the worst product in any convenience store and build a better version. I love bodegas, corner stores, and convenience retail. I picked the worst product I could find  [Pith Store](www.pith.store) to shop for delicious goods, classes, and supper club dates. I love working on an entrepeneurial project that is peripheral to my passion for food and
+![](/images/bd1a6b03-2544-4dd4-8450-b4185834a581.jpeg)
+
+I decided to apply my interest in flavor, brand, and product development to the worst thing I could find in the corner stores everywhere around me. 5 Hour Energy used to sell $1B of product a year, but . Pzaz Caffeine Mist is a tube .
 
 ### Food & Wine Magazine
 
-My column Swhere I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. I like to constantly apply my interest in design, hospitality, and brand Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
+My bimonthly column Supper Club at Food & Wine Magazine is where I can I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. I like to constantly apply my interest in design, hospitality, and brand Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
 
 ### Upgrade Your Kitchen
 
@@ -28,7 +32,7 @@ From containers to knives, from a cutting board to the best vegetable peeler, I'
 
 ### Contact
 
-Email me if you have something cool to collaborate on.
+[Email me](Mailto:jonah@jonahreider.com) if you have something cool to collaborate on.
 
 {% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
 {% assign num_posts = important_posts | size %}
