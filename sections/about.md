@@ -14,19 +14,19 @@ Let's make the world a more delicious place.
 
 I started the Pith Supper Club out of my dorm room while I was an economics student at Columbia University. I still sporadically host strangers for a. Mostly, though, I Pith Visit the [Pith Store](www.pith.store) to shop for delicious goods, classes, and supper club dates. Make sure to sign up for email alerts to be the first to know about new drops, and consider a monthly membership that guarantees access to everything before they sell out.
 
-### Pzaz® Caffeine Mist
+### Pzaz Caffeine Mist
 
-![](/images/bd1a6b03-2544-4dd4-8450-b4185834a581.jpeg)
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)Pzaz is a mist, not a drink, and it’s cheaper, faster-acting, more shareable, tastier, and more environmentally friendly than any energy drink or shot. I developed it with a team of experts and founders who share my obsession with redefining what it means to be energized. It’s better in every way compared to energy drinks. Pzaz is manufactured in New York and currently . 
 
-I decided to apply my interest in flavor, brand, and product development to the worst thing I could find in the corner stores everywhere around me. 5 Hour Energy used to sell $1B of product a year, but . Pzaz Caffeine Mist is a tube .
+I wanted to apply my experience with flavor, brand, and product development to the worst thing I could find in the convenience stores everywhere around me. 5 Hour Energy used to sell $1B of product a year, but . Pzaz Caffeine Mist is a tube . Visit [pzaz.com](Www.Pzaz.com) to learn more.
 
-### Food & Wine Magazine
+### _Food & Wine_ Magazine
 
-My bimonthly column Supper Club at Food & Wine Magazine is where I can I run the Pith Supper Club out of my apartment and write a bi-monthly column at Food & Wine Magazine. I like to constantly apply my interest in design, hospitality, and brand Through cooking, writing, traveling, and entrepreneurship, I'm constantly excited by the magic of do-it-yourself hospitality.
+In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions for the magazine.
 
 ### Upgrade Your Kitchen
 
-More than anything, people ask me what stuff they should get for their kitchen. So: [here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting.
+More than anything, people ask me what stuff they should get for their kitchen. So: [here is my list](https://jonahreider.com/?page=diy&post=2019-08-17-cooking-essentials "What should I get for my kitchen? What are the best tools for a kitchen?") of the tools I use every day to optimize my kitchen for confident, improvisational cooking and hosting. It’s probably slightly out of date but still.
 
 From containers to knives, from a cutting board to the best vegetable peeler, I've selected affordable, functional, and beautiful upgrades to any home cooking workflow.
 
