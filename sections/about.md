@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jonah Reider
+title: About
 permalink: "/about"
 
 ---
