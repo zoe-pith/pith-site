@@ -4,17 +4,61 @@ title: Pith Supper Club
 permalink: "/pith"
 
 ---
+{comment
+
+{% assign important_posts = site.posts | where: "important", true | sort: "date" | reverse %}
+
+{% assign num_posts = important_posts | size %}
+
+{% if num_posts > 0 %}
+
+\### Recent Posts
+
+{% assign i = 0 %}
+
+<div id="featured-posts">
+
+{% for post in important_posts %}
+
+{% if i >= 3 %}
+
+{% break %}
+
+{% endif %}
+
+{% assign i = i | plus: 1 %}
+
+<div>
+
+<a href="" onclick="jumpToPost('{{ post.url | remove_first: '/'}}'); return false;">
+
+<img src="{{ post.icon }}" alt="">
+
+<span>{{ post.title }}</span>
+
+</a>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<a href="#diy" onclick="jumpToPost()">See more…</a>
+
+{% endif %}
+
 \### Select Press
 
-★★★ — \[Chicago Tribune\]([http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html "http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html"))  
+★★★ — \[Chicago Tribune\]([http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html](http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html "http://www.chicagotribune.com/dining/restaurants/ct-review-intro-jonah-reider-food-0928-20160924-column.html"))
 
-Delicious — \[The New Yorker\]([http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm](http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm "http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm"))  
+Delicious — \[The New Yorker\]([http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm](http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm "http://www.newyorker.com/magazine/2017/05/22/pith-graduates-from-the-dorm"))
 
-Yes, chef! — \[The New York Times\]([https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html "https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html"))  
+Yes, chef! — \[The New York Times\]([https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html](https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html "https://www.nytimes.com/2017/04/20/style/jonah-reider-pith-supper-club.html"))
 
-An Innovative Cook — \[AP\]([https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731](https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731 "https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731"))  
+An Innovative Cook — \[AP\]([https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731](https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731 "https://www.apnews.com/52519470af634cb6afc1c0a2e6c7d731"))
 
-A coveted reservation — \[WSJ\]([http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319 "http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319"))  
+A coveted reservation — \[WSJ\]([http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319](http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319 "http://www.wsj.com/articles/for-columbia-student-entrepreneur-dorm-restaurant-is-just-the-first-course-1454113319"))
 
 A Dining Experience — \[Forbes\]([https://www.forbes.com/video/5734702032001/#40eac57de450](https://www.forbes.com/video/5734702032001/#40eac57de450 "https://www.forbes.com/video/5734702032001/#40eac57de450"))
 
