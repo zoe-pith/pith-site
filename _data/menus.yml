@@ -1,6 +1,6 @@
 - title: About
-   url: "?page=about"
-   closemenu: true
+  url: "?page=about"
+  closemenu: true
 - title: Pith
   url: "https://pith.store"
   newtab: true
