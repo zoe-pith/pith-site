@@ -4,7 +4,7 @@ title: Jonah Reider
 permalink: "/about"
 
 ---
-![Line drawn pattern of wine glasses, fish and other culinary objects.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg) Let’s make the world a more delicious place.
+![Pith Supper Club by Jonah Reider started as a restaurant in his dorm room]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg) Let’s make the world a more delicious place.
 
 # Pith Supper Club and Home Goods
 
@@ -28,11 +28,9 @@ I developed it with a team of experts and founders who share my obsession with r
 ![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg) _Jonah x Gucci for The Last Magazine_
 
 ![](/images/3952179a-e934-4517-82a7-6bca944002b8.jpeg)
-
 _Pith Supper Club for Land Rover x The New Yorker_
 
 ![](/images/13890cd3-4be1-4312-97e7-605038a4386d.jpeg)
-
 _Jonah x Hermès for Popeye Magazine Japan_
 
 # Contact
