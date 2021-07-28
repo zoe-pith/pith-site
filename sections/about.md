@@ -27,16 +27,13 @@ I developed Pzaz with a team of experts who share my obsession with revitalizing
 
 # Select Partnerships
 
-![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg) _Jonah x Gucci for The Last Magazine_
+![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg)_Jonah x Gucci for The Last Magazine_
 
-![](/images/3952179a-e934-4517-82a7-6bca944002b8.jpeg)
-_Pith Supper Club for Land Rover x The New Yorker_
+![](/images/3952179a-e934-4517-82a7-6bca944002b8.jpeg)_Pith Supper Club for Land Rover x The New Yorker_
 
-![](/images/images/bobby_flay.jpg)
-_Jonah x Food Network_
+![](/images/images/bobby_flay.jpg)_Jonah x Food Network_
 
-![](/images/13890cd3-4be1-4312-97e7-605038a4386d.jpeg)
-_Jonah x Hermès for Popeye Magazine Japan_
+![](/images/13890cd3-4be1-4312-97e7-605038a4386d.jpeg)_Jonah x Hermès for Popeye Magazine Japan_
 <br/><br/>
 
 # Contact
