@@ -9,7 +9,7 @@ permalink: "/about"
 
 # Pith Supper Club and Home Goods
 
-![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while studying economics at Columbia University. I still enjoy occasionally hosting strangers at my home for seasonal and social meals, but Pith has grown into a line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our small monthly drops of goods for online ordering, and check if supper club seats are available.
+![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while studying economics at Columbia University. While I still enjoy occasionally hosting strangers at my home for seasonal and social meals, the project has grown into a line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our small monthly drops of goods for online ordering, and check if supper club seats are available.
 <br/><br/>
 
 # Pzaz® Caffeine Mist
