@@ -19,7 +19,7 @@ permalink: "/about"
 
 I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. I visited hundreds of convenience stores and saw how terrible and uncompetitive the energy shot landscape was.
 
-I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by incredibly inspiring founders and investors. <br/><br/>
+I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
 # Food & Wine Magazine
 
