@@ -17,7 +17,7 @@ permalink: "/about"
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)
 [Pzaz](Www.pzaz.com) is a pocketable mist that delivers instant positive energy. It is more effective, efficient, safe, fun, shareable, delicious, and environmentally friendly than any energy drink or shot.
 
-I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. After visiting hundreds of convenience stores and speaking to thousands of young energy consumers, I came to believe that 5 Hour Energy is ready to die.
+I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. After visiting hundreds of convenience stores and speaking to thousands of young energy consumers, I realized that the murky and macho world of energy shots was wide open for competition.
 
 I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
