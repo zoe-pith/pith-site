@@ -10,7 +10,7 @@
 	{% if node.url %}
 		{% capture _href %} href="{{ node.url }}" {% if node.scroll %}data-scroll aria-hidden="true"{% endif %}{% if node.closemenu %} close-menu{% endif %}{% if node.newtab %} target="_blank"{% endif %}{% endcapture %}
 	{% endif %}
-	<li class="{{ _classes }}">
+	<li class="{{ _classes }}"{% if node.hidden %} style="display: none"{% endif %}>
 		<a{{ _href }}>
 			{{ node.title | escape }}
 		</a>

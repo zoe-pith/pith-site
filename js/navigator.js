@@ -1,3 +1,6 @@
+/*
+ * Most of this code is no longer used as there aren't real menu items anymore.
+ */
 const MENU_ANIMATION_TIME = 300;
 const MENU_HEIGHT = "55px";
 const POST_PAGE = "diy";

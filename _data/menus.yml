@@ -16,3 +16,8 @@
 - title: Email
   url: "mailto:inquiries@jonahreider.com"
   newtab: true
+# Slightly hacky way to keep permalinks to posts working
+# without having to change the nav logic.
+- title: Writing
+  url: "?page=diy"
+  hidden: true
