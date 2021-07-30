@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reservations
-permalink: /reserve
-published: true
----
+permalink: "/reserve"
+published: false
 
+---
