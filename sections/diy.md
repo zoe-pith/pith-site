@@ -2,7 +2,6 @@
 layout: default
 title: Writing
 permalink: "/diy"
-published: false
 
 ---
 Tap into the pleasure of do-it-yourself hospitality: here is some of my writing on cooking, hosting, travel, and more.
