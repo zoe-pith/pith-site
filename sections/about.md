@@ -15,7 +15,7 @@ permalink: "/about"
 # Pzaz® Caffeine Mist
 
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)
-[Pzaz](Www.pzaz.com) is a pocketable mist that delivers instant positive energy. It is more effective, efficient, safe, fun, shareable, delicious, and environmentally friendly than any existing energy product.
+[Pzaz](http://www.pzaz.com) is a pocketable mist that delivers instant positive energy. It is more effective, efficient, safe, fun, shareable, delicious, and environmentally friendly than any existing energy product.
 
 I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. After visiting hundreds of convenience stores and speaking to thousands of their customers, I realized that the murky and macho world of energy shots was wide open for competition.
 
