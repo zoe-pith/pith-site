@@ -19,7 +19,7 @@ permalink: "/about"
 
 I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. After visiting hundreds of convenience stores and speaking to thousands of their customers, I realized that the murky and macho world of energy shots was wide open for competition.
 
-I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
+I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
 # Food & Wine Magazine
 
