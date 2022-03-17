@@ -23,13 +23,13 @@ I started the company because I wanted to create a consumable product that would
 
 I developed Pzaz with a team of experts who share my interest in revitalizing a dead retail category and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell  at hundreds of stores in the New York area. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
-# Writing
+## Writing
 
 ![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions to the magazine. 
 
 I’ve also contributed to GQ, VICE, and enjoy sharing travel recommendations here for [Paris](https://jonahreider.com/?page=diy&post=2020-01-26-paris "https://jonahreider.com/?page=diy&post=2020-01-26-paris") & [Tokyo](https://jonahreider.com/tokyo "Tokyo") <br/><br/>
 
-# Select Partnerships
+## Select Partnerships
 
 ![Jonah, wearing bright, patterned clothing, tasting cherries at a farmers' market. Shopper next to him inspects a cherry.]({{site.baseurl}}/images/fort_green_market.jpg)_Jonah x Gucci for The Last Magazine_
 
@@ -40,6 +40,6 @@ I’ve also contributed to GQ, VICE, and enjoy sharing travel recommendations he
 ![](/images/13890cd3-4be1-4312-97e7-605038a4386d.jpeg)_Jonah x Hermès for Popeye Magazine Japan_
 <br/><br/>
 
-# Contact
+## Contact
 
 Please [email me](Mailto:jonah@jonahreider.com) if you have something cool to collaborate on.
