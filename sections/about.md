@@ -6,16 +6,14 @@ permalink: "/about"
 ---
 ![Jonah Reider is a chef, entrepreneur, and food writer based in New York.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg) I’d like to make the world more delicious. <br/><br/>
 
-# Pith
-
-## **Supper Club and Home Goods**
+## **Pith Supper Club and Home Goods**
 
 ![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while studying economics at Columbia University. While I still enjoy occasionally hosting strangers at my home for seasonal and social meals, the project has grown into a line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our small monthly drops of goods for online ordering, and check if supper club seats are available.
 <br/><br/>
 
-# Pzaz®
+## Pzaz®
 
-#### **Instant energy in your pocket ✨**
+##### **Instant energy in your pocket ✨**
 
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg) 
 
