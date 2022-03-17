@@ -4,20 +4,23 @@ title: About
 permalink: "/about"
 
 ---
-![Jonah Reider is a chef, entrepreneur, and food writer based in New York.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg) Let’s make the world a more delicious place.
-<br/><br/>
+![Jonah Reider is a chef, entrepreneur, and food writer based in New York.]({{site.baseurl}}/images/9827b5de-d73f-41e3-959d-e674c1effbe5.jpeg) I’d like to make the world more delicious. <br/><br/>
 
 # Pith Supper Club and Home Goods
 
 ![](/images/43dd4362-f67a-45d7-ac5e-f859569c7298.jpeg) I started the Pith Supper Club while studying economics at Columbia University. While I still enjoy occasionally hosting strangers at my home for seasonal and social meals, the project has grown into a line of simple home goods that let anyone tap into the joy of do-it-yourself hospitality. Visit the [Pith Store](www.pith.store) to see what we make, where we’re stocked, access our small monthly drops of goods for online ordering, and check if supper club seats are available.
 <br/><br/>
 
-# Pzaz® Caffeine Mist
+# Pzaz®
+
+### Instant energy in your pocket ✨
 
 ![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)
-[Pzaz](http://www.pzaz.com) is a pocketable mist that delivers instant positive energy. It is more effective, efficient, safe, fun, shareable, delicious, and environmentally friendly than any existing energy product.
+[Pzaz](http://www.pzaz.com) is a pocketable zero-calorie mist packed with natural caffeine, electrolytes, and insanely delicious flavors. It’s more effective, fun, shareable, and environmentally friendly than any existing energy product.
 
-I started working on Pzaz because I wanted to reimagine the worst food or beverage product I could find. After visiting hundreds of convenience stores and speaking to thousands of their customers, I realized that the murky and macho world of energy shots was wide open for competition.
+I love the world of luxury food, but I wanted to launch a consumable product that could be sold at the stores where I actually shop: convenience stores, gas stations, vending machines, instant delivery platforms.
+
+Visiting hundreds of convenience stores and speaking to thousands of their customers, I became obsessed with the uncompetitive, gross, unsafe, and unappealing world of energy shots.
 
 I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
