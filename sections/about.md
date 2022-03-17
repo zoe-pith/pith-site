@@ -27,7 +27,7 @@ I developed Pzaz with a team of experts who share my interest in revitalizing a 
 
 # Writing
 
-## **Food & Wine Magazine, GQ, VICE,** 
+#### **Food & Wine Magazine & GQ**
 
 ![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions for the magazine.
 <br/><br/>
