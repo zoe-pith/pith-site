@@ -13,7 +13,7 @@ permalink: "/about"
 
 ## Pzaz® — **Instant Energy in your Pocket ✨**
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg) 
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)
 
 [Pzaz](http://www.pzaz.com) is a pocketable zero-calorie mist packed with natural caffeine, electrolytes, and all sorts of exquisite flavors. It’s more delicious, effective, shareable, and sustainable than any existing energy product.
 
@@ -23,9 +23,9 @@ I developed Pzaz with a team of experts who share my interest in revitalizing a 
 
 ## Writing
 
-![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions to the magazine. 
+![](/images/edaaa0f5-68df-48fa-a794-4cf5e72d797a.jpeg)In my bimonthly column _Supper Club_ at _Food & Wine Magazine_, I share dinner party menus along with tools & tricks that help anyone become a good cook and a great host. [Click here](https://www.foodandwine.com/author/jonah-reider) to read my contributions to the magazine.
 
-I’ve also contributed to GQ, VICE, and enjoy sharing travel recommendations for places like [Paris](https://jonahreider.com/?page=diy&post=2020-01-26-paris "https://jonahreider.com/?page=diy&post=2020-01-26-paris") & [Tokyo](https://jonahreider.com/tokyo "Tokyo") <br/><br/>
+I’ve also contributed to _GQ_, _VICE_, and enjoy sharing travel recommendations for places like [Paris](https://jonahreider.com/?page=diy&post=2020-01-26-paris "https://jonahreider.com/?page=diy&post=2020-01-26-paris") & [Tokyo](https://jonahreider.com/tokyo "Tokyo") <br/><br/>
 
 ## Select Partnerships
 
