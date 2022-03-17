@@ -13,11 +13,15 @@ permalink: "/about"
 
 # Pzaz®
 
-## Instant energy in your pocket ✨
+## **Instant energy in your pocket ✨**
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg) When I realized how rarely I purchased food or beverage products from a brand’s own website, I became obsessed with the products sold  This realization made me want to examine convenience stores, vending machines, and gas stations, in search of an opportunity to improve a category of consumables for tens of millions of people. I became obsessed with the uncompetitive, gross, unsafe, and unappealing world of energy shots.
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg) 
 
 [Pzaz](http://www.pzaz.com) is a pocketable zero-calorie mist packed with natural caffeine, electrolytes, and insanely delicious flavors. It’s more effective, fun, shareable, and environmentally friendly than any existing energy product.
+
+I started the company because I wanted to create a consumable product that could thrive at the places where I most frequentl.
+
+Visiting hundreds of convenience stores and speaking to thousands of their customers, I became obsessed with the uncompetitive, gross, unsafe, and unappealing world of energy shots.
 
 I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell  at hundreds of stores in the New York area. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
