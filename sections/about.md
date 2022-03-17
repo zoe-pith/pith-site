@@ -13,16 +13,13 @@ permalink: "/about"
 
 # Pzaz®
 
-### Instant energy in your pocket ✨
+## Instant energy in your pocket ✨
 
-![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg)
+![](/images/18e0207b-a0af-4091-a6d0-e4d0379fb843.jpeg) When I realized how rarely I purchased food or beverage products from a brand’s own website, I became obsessed with the products sold  This realization made me want to examine convenience stores, vending machines, and gas stations, in search of an opportunity to improve a category of consumables for tens of millions of people. I became obsessed with the uncompetitive, gross, unsafe, and unappealing world of energy shots.
+
 [Pzaz](http://www.pzaz.com) is a pocketable zero-calorie mist packed with natural caffeine, electrolytes, and insanely delicious flavors. It’s more effective, fun, shareable, and environmentally friendly than any existing energy product.
 
-I love the world of luxury food, but I wanted to launch a consumable product that could be sold at the stores where I actually shop: convenience stores, gas stations, vending machines, instant delivery platforms.
-
-Visiting hundreds of convenience stores and speaking to thousands of their customers, I became obsessed with the uncompetitive, gross, unsafe, and unappealing world of energy shots.
-
-I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell exclusively at bodegas. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
+I developed Pzaz with a team of experts who share my obsession with revitalizing a truly dead retail category  and redefining what it means to be energized. We manufacture in the United States (with an old regional manufacturer for 5 Hour Energy, in fact) and currently sell  at hundreds of stores in the New York area. We are lucky to be supported by an array of inspiring founders and investors. <br/><br/>
 
 # Food & Wine Magazine
 
